@@ -7,6 +7,3 @@
 - Crafting Oak Slabs in this version will give you Wooden Slabs which are similar to Petrified Oak Slabs in Java Edition
 - Placing a Door on Farmland will remove the bottom half of the Door leaving the Top Half of the Door standing
 - Tilling Dirt underwater will give you Underwater Farmland
-
-**0.5.0 alpha (Android)**
-- 
