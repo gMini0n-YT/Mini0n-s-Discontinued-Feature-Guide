@@ -47,7 +47,6 @@
 - The Old Stonecutter Item can be obtained with 4 cobblestone
 - Mining up Glowing OBsidian will drop it as an item.
 - Blowing up a chest with enchanted book inside it will drop enchanted books without any enchantments on it
-- 
 
 **0.15.2.1 alpha (Android)**
 - Doors have a durability of 66 in this version and keep their damage value upon updating. Stacking Normal Doors with Durability Doors will remove the durability of the door.
