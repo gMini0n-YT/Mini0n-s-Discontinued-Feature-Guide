@@ -43,9 +43,13 @@
 - Breaking Wall Signs, Standing Signs, Flower Pots, Skulls, Brewing Stands, and Beds with Silk Touch will make them drop their tile variant (e.g. tile.wall_sign.name, tile.sign.name, tile.flower_pot.name, tile.skull.name, tile.brewing_stand.name, tile.bed.name.
 - Renaming an item in this version adds anvil uses to the item which usually only happens to armor and tools increasing the XP cost of every time you rename it
 - Renaming items cuss words will not replace the word with * or #.
+- Obtaining pufferfish and raw salmon in this version will have a different data value then in newer versions and will not stack with newer pufferfish and raw salmon items
 
 **0.15.2.1 alpha (Android)**
 - Doors have a durability of 66 in this version and keep their damage value upon updating. Stacking Normal Doors with Durability Doors will remove the durability of the door.
+
+**0.15.0 - 0.12.1 alpha (Android) (Downgrading without File Editing)**
+- Downgrading from 0.15.0 to 0.12.1 alpha will transform these enchants which will transform back when updating: Fortune -> Power, Silk Touch -> Unbreaking, Infinity - Luck of the Sea. So putting Unbreaking on any item in **0.12.1** and then updating back to **0.15.0** will give you Silk Touch on any item. Putting Luck of the Sea on a Fishing Rod in 0.12.1 and updating to 0.15.0 will give you an Infinity Fishing Rod. Putting Power IV/V on a Book or Bow will give you a Fortune IV/V Book or Bow. Finally combining Power 1-5 and Unbreaking can give you a Silk Touch and Fortune enchantment on the same book. 
 
 **0.15.9 alpha (Android)**
 - Taming Cats in this version and leaving them until 1.8.0.8 will turn them into Tamed Ocelots
