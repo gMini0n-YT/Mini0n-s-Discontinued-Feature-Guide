@@ -15,7 +15,7 @@
 - Closing the Game while a Nether Reactor Core is active will leave the Glowing Obsidian around the Nether Reactor Core stationary
 
 **0.6.0 alpha (Android)**
-- Downgrading a Cake from 0.7.0 and then placing it in 0.6.0, upgrading back will turn the Cake into an info_update2 block
+- Downgrading a Cake from **0.7.0** and then placing it in **0.6.0**, upgrading back will turn the Cake into an info_update2 block
 - Placing slabs in the upper position of the block and mining them will give you Invalid Data Value Slabs or Top Slabs.
 - Placing a slab adjacent to the world border and attempting to place a block that needs support (e.g. torches, levers, ladders) on the side of the slab will place them on the world border. When updating the world to infinite this will give you floating torches, levers, or ladders
 
@@ -49,10 +49,10 @@
 - Doors have a durability of 66 in this version and keep their damage value upon updating. Stacking Normal Doors with Durability Doors will remove the durability of the door.
 
 **0.15.0 - 0.12.1 alpha (Android) (Downgrading without File Editing)**
-- Downgrading from 0.15.0 to 0.12.1 alpha will transform these enchants which will transform back when updating: Fortune -> Power, Silk Touch -> Unbreaking, Infinity - Luck of the Sea. So putting Unbreaking on any item in **0.12.1** and then updating back to **0.15.0** will give you Silk Touch on any item. Putting Luck of the Sea on a Fishing Rod in 0.12.1 and updating to 0.15.0 will give you an Infinity Fishing Rod. Putting Power IV/V on a Book or Bow will give you a Fortune IV/V Book or Bow. Finally combining Power 1-5 and Unbreaking can give you a Silk Touch and Fortune enchantment on the same book. 
+- Downgrading from **0.15.0** to **0.12.1** alpha will transform these enchants which will transform back when updating: Fortune -> Power, Silk Touch -> Unbreaking, Infinity - Luck of the Sea. So putting Unbreaking on any item in **0.12.1** and then updating back to **0.15.0** will give you Silk Touch on any item. Putting Luck of the Sea on a Fishing Rod in **0.12.1** and updating to **0.15.0** will give you an Infinity Fishing Rod. Putting Power IV/V on a Book or Bow will give you a Fortune IV/V Book or Bow. Finally combining Power 1-5 and Unbreaking can give you a Silk Touch and Fortune enchantment on the same book. 
 
 **0.15.9 alpha (Android)**
-- Taming Cats in this version and leaving them until 1.8.0.8 will turn them into Tamed Ocelots
+- Taming Cats in this version and leaving them until **1.8.0.8** will turn them into Tamed Ocelots
 
 **0.16.0.5 alpha (Android)**
 - Shearing Mooshrooms will drop mushrooms with a damage value of -1
