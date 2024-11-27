@@ -12,7 +12,7 @@
 - Nether Reactor Cores can be crafted with 3 diamonds and 6 iron
 - Activating Nether Reactor Cores at the Bottom of the World can break the Bedrock
 - Activating the Nether Reactor Core can give you Sugar Cane Tiles
-- Closing the Game while a Nether Reactor Core is active will leave the Glowing Obsidian around the Nether Reactor Core stationary
+- Closing the Game while a Nether Reactor Core is active will leave the Glowing Obsidian around the Nether Reactor Core stationary. The Glowing Obsidian cannot be mined until 0.12.0.1, otherwise it just drops Obsidian.
 
 **0.6.0 alpha (Android)**
 - Downgrading a Cake from **0.7.0** and then placing it in **0.6.0**, upgrading back will turn the Cake into an info_update2 block
@@ -44,6 +44,10 @@
 - Renaming an item in this version adds anvil uses to the item which usually only happens to armor and tools increasing the XP cost of every time you rename it
 - Renaming items cuss words will not replace the word with * or #.
 - Obtaining pufferfish and raw salmon in this version will have a different data value then in newer versions and will not stack with newer pufferfish and raw salmon items
+- The Old Stonecutter Item can be obtained with 4 cobblestone
+- Mining up Glowing OBsidian will drop it as an item.
+- Blowing up a chest with enchanted book inside it will drop enchanted books without any enchantments on it
+- 
 
 **0.15.2.1 alpha (Android)**
 - Doors have a durability of 66 in this version and keep their damage value upon updating. Stacking Normal Doors with Durability Doors will remove the durability of the door.
@@ -52,7 +56,7 @@
 - Downgrading from **0.15.0** to **0.12.1** alpha will transform these enchants which will transform back when updating: Fortune -> Power, Silk Touch -> Unbreaking, Infinity - Luck of the Sea. So putting Unbreaking on any item in **0.12.1** and then updating back to **0.15.0** will give you Silk Touch on any item. Putting Luck of the Sea on a Fishing Rod in **0.12.1** and updating to **0.15.0** will give you an Infinity Fishing Rod. Putting Power IV/V on a Book or Bow will give you a Fortune IV/V Book or Bow. Finally combining Power 1-5 and Unbreaking can give you a Silk Touch and Fortune enchantment on the same book. 
 
 **0.15.9 alpha (Android)**
-- Taming Cats in this version and leaving them until **1.8.0.8** will turn them into Tamed Ocelots
+- Taming Cats in this version and leaving them in unloaded chunks until **1.8.0.8** will turn them into Tamed Ocelots
 
 **0.16.0.5 alpha (Android)**
 - Shearing Mooshrooms will drop mushrooms with a damage value of -1
@@ -61,8 +65,13 @@
 > [!CAUTION]
 > PDV: Hitting a Mob or getting hit by a mob will crash the game.
 
-- Updating a world from 0.15.9 alpha to this version will overwrite biome data of chunks causing the biomes to change into a stripe pattern. This can cause Overworld mobs to spawn in the Nether.
+- Updating a world from **0.15.9** alpha to this version will overwrite biome data of chunks causing the biomes to change into a stripe pattern. This can cause Overworld mobs to spawn in the Nether.
 - Wet Sponge does not turn into Dry Sponge in the Nether
 - Mining Chorus Plants with silk touch will drop the item form of the Chorus Plant
 
 **1.0.0.16**
+- Mining a Furnace while it is smelting with Silk Touch will drop Lit Furnace tile.
+- Dropping anvil on torches will give you differing data value of anvils depending on which direction the anvil was placed. Depending on the direction and the type of anvil you can obtain 0-11 data value anvils.
+
+**1.1.5.0** 
+-  Breaking Blocks while they are being moved by a piston can drop a moving block tile, a silk touch pickaxe with at least efficiency IV is reccomended. Setup for contraption here at 23:40: https://www.youtube.com/watch?v=i1VK64sA5QM
