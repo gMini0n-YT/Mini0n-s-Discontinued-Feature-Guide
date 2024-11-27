@@ -45,7 +45,7 @@
 - Renaming items cuss words will not replace the word with * or #.
 - Obtaining pufferfish and raw salmon in this version will have a different data value then in newer versions and will not stack with newer pufferfish and raw salmon items
 - The Old Stonecutter Item can be obtained with 4 cobblestone
-- Mining up Glowing OBsidian will drop it as an item.
+- Mining up Glowing Obsidian will drop it as an item.
 - Blowing up a chest with enchanted book inside it will drop enchanted books without any enchantments on it
 
 **0.15.2.1 alpha (Android)**
