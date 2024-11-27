@@ -74,3 +74,31 @@
 
 **1.1.5.0** 
 -  Breaking Blocks while they are being moved by a piston can drop a moving block tile, a silk touch pickaxe with at least efficiency IV is reccomended. Setup for contraption here at 23:40: https://www.youtube.com/watch?v=i1VK64sA5QM
+
+**Beta 1.2.0.2**
+- Hoppers can be used to put shulker boxes in shulker boxes
+- Pumpkins can be placed on Armor Stands, Players, and Mobs these pumpkins will revert from carved pumpkins to normal pumpkins
+- Farmer Villagers now sell 5-7 apples instead of just 5
+
+**1.2.5.0**
+- Mob Spawners can be mined up and obtained as an item
+
+**1.2.6.55 (Android)**
+- Any item from the crafting recipe can be obtained from a duplication glitch. This bug can only be performed using the Mobile UI. To do this you must select one of the red crafting recipe from the recipe book. Then select the item that you would like to duplicate that has a red background to it (make sure you do not have a second item that you would like to duplicate in your inventory) and move it to another spot in the crafting recipe. You should then have access to the item that you moved and be able to use it in other crafting recipes. Using this glitch you can obtain Lingering Decay Potions from the Decay Arrow Recipe.
+- Using this craftin glitch you can obtain negative durability shovels from the boat recipe and negative durability bows from the dispenser recipe. After obtaining these you must combine the negative durability item with a normal low durability item so that when updating the negative durability item does not change to a normal item.
+
+**1.2.10**
+- Using the Nested Shulker Box trick from 1.2.0.2 you can get a whole lot more illegals from a glitch called CSC (Compressed Shulker Conversion). Filling a shulker box full of shulker boxes full of shulker boxes full of one random item and then mining it and picking it up (it will be invisible in your inventory so have your first slot of your hot bar empty so that when you pick it up it will go straight to your first slot on the hotbar). Once picked up move your item of choice to the first slot of your hotbar (or wherever you decided to pick up the shulker box to) and when you place the item on your shulker box your inventory will blow up with tile.piston_arm_collisions.name, tile.redstone_wire.name and other random items.
+- Mining a Standing Banner or a wall banner with Silk Touch will drop the tile version of those two blocks they will be titled Banner and tile.wall_banner.name
+
+**1.2.11**
+- Placing Daylight Sensor in the nether leaves them powered
+
+**Beta 1.2.13.54**
+- Placing Water in End Portals and End Gateways will drop them as an item. For End Gateways you may have to use a dispenser with a water bucket in it.
+
+**Beta 1.2.13.8**
+- Curse of Binding and Curse of Vanishing use the same ids as Loyalty and Channeling respectively, so in future versions all the Curse of Binding and Curse of Vanishing will turn into Loyalty and Channeling. This allows for Loyalty on every armor piece, and Channeling for every armor and tool that can have Curse of Vanishing on it.
+- Impaling and Riptide use the same id as Curse of Binding and Curse of Vanishing respectively, so in future versions all the Impaling and Riptide books will turn into Curse of Binding and Curse of Vanishing. This allows for Curse of Binding 2-5 and Curse of Vanishing 2-3 books and villager trades.
+- Helmets can be enchanted with any enchant in the game this allows for a Helmet with sword enchants or any other enchants in the game.
+
