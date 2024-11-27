@@ -57,7 +57,7 @@
 **0.16.0.5 alpha (Android)**
 - Shearing Mooshrooms will drop mushrooms with a damage value of -1
 
-**0.17.0.1 alpha (Android)
+**0.17.0.1 alpha (Android)**
 > [!CAUTION]
 > PDV: Hitting a Mob or getting hit by a mob will crash the game.
 
