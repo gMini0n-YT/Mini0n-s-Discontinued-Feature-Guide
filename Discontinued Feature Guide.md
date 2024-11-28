@@ -102,3 +102,25 @@
 - Impaling and Riptide use the same id as Curse of Binding and Curse of Vanishing respectively, so in future versions all the Impaling and Riptide books will turn into Curse of Binding and Curse of Vanishing. This allows for Curse of Binding 2-5 and Curse of Vanishing 2-3 books and villager trades.
 - Helmets can be enchanted with any enchant in the game this allows for a Helmet with sword enchants or any other enchants in the game.
 
+**1.2.13.8 - 1.2.6.60**
+> [!CAUTION]
+> Block Pallet Corruption (BPC)is possible using downgrading from this version range but this could make your world unplayable, if you don't have a strong device. If you are stuck in the loading screen just force close minecraft and try again. Make sure to make backups
+<br>
+- Loading a world in 1.2.13.8 and downgrading to 1.2.6.60 will convert all sub-chunks with block in them (air excluded) into chunks with random blocks in them. This can spawn a lot of entities and tile entities so it will be extremely laggy. These chunks have a random block pallet and can create a lot of illegal formations, like nether wart on top of brewing stand, or illegal blocks such as Education Edition Blocks, and Creative placed Blocks
+- Using BPC you can obtain Compound Creators, and Red, Green, Blue, and Purple Colored Torches, do not pick up torches until 1.21.30 otherwise you won't know which one you have and they may not saved.
+- Compound Creators can be waterlogged
+
+**1.2.14.2**
+- Riptide can be combined with loyalty and Channeling on a trident or book
+
+**1.4.0**
+- Putting a TNT on a string that is connected to tripwire hooks and blowing it up, it can create a tripwire hook ghost block. If you mine the ghost block at the same time a portal lights you have an oppurtunity to obtain a portal tile. https://www.youtube.com/watch?v=dYYz6a0VyDQ
+- Portal Blocks do not update if placed next to each other.
+
+**1.5.0**
+- Flowers, Saplings, and Dead Bushes can be waterlogged. Make sure to make the sapling a dark oak sapling so it doesn't update
+- Water, flowing water, lava, and flowing lava can be obtained through various ways of Mining Block Transfer.
+- Using the CSC knowledge you can rename 27 items 16000 of one letter and putting them in one shulker and mining them will give you any one item from CSC depending on the letter. 
+
+**1.6.0.1**
+- Phantoms in this version have 5 hearts instead of 10 hearts.
