@@ -125,3 +125,10 @@
 **1.6.0.1**
 - Phantoms in this version have 5 hearts instead of 10 hearts.
 - If you spawn the Enderdragon in the end, and then every player who is in the End dies and goes back to the Overworld, and then traveling back to the end. The dragon should not be there. Return to the Overworld, and the ender dragon will be there in the Overworld, allowing for the Enderdragon outside the End. Placing a Nether Portal at the world spawn exactly will send the Ender Dragon to the Nether once it is transferred out of the End
+
+**1.7.0**
+- You can put a Jack-o-lantern on an armor stand, player, and mobs via dispensers
+
+**1.8.0.8**
+- Mining up a Double Slab will give you a Double Slab item depending on the type of slab used
+- Using a Bamboo based Farm, you can obtain Bedrock by using Mining Block Transfer. Tutorial by PRGRMR: https://www.youtube.com/watch?v=gA4l__oYjQ0, Full Tutorial Here: https://www.youtube.com/watch?v=xJ-5SR88RVs
