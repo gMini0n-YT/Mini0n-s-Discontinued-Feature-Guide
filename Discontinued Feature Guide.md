@@ -129,6 +129,6 @@
 **1.7.0**
 - You can put a Jack-o-lantern on an armor stand, player, and mobs via dispensers
 
-**1.8.0.8**
+**Beta 1.8.0.8 (Android)**
 - Mining up a Double Slab will give you a Double Slab item depending on the type of slab used
 - Using a Bamboo based Farm, you can obtain Bedrock by using Mining Block Transfer. Tutorial by PRGRMR: https://www.youtube.com/watch?v=gA4l__oYjQ0, Full Tutorial Here: https://www.youtube.com/watch?v=xJ-5SR88RVs
