@@ -6,3 +6,4 @@
 - Horion Injector: https://horion.download/
 - VirisRJ YT (Tutorials): https://www.youtube.com/channel/UCE4jwpebQ-18klfM3VSCWog
 - JamFam Discord: https://discord.gg/uBw7uh7w
+- Unoffical Minecraft Bedrock Launcher: https://github.com/BedrockLauncher/BedrockLauncher
