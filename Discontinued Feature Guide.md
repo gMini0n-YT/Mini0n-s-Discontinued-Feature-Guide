@@ -124,3 +124,4 @@
 
 **1.6.0.1**
 - Phantoms in this version have 5 hearts instead of 10 hearts.
+- If you spawn the Enderdragon in the end, and then every player who is in the End dies and goes back to the Overworld, and then traveling back to the end. The dragon should not be there. Return to the Overworld, and the ender dragon will be there in the Overworld, allowing for the Enderdragon outside the End. Placing a Nether Portal at the world spawn exactly will send the Ender Dragon to the Nether once it is transferred out of the End
