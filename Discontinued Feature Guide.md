@@ -67,10 +67,14 @@
 - Updating a world from **0.15.9** alpha to this version will overwrite biome data of chunks causing the biomes to change into a stripe pattern. This can cause Overworld mobs to spawn in the Nether.
 - Wet Sponge does not turn into Dry Sponge in the Nether
 - Mining Chorus Plants with silk touch will drop the item form of the Chorus Plant
+- In **0.17.0.1** it was possible to get Tipped Arrows from Lingering Awkward, Thick, or Mundane Potions. The Thick Tipped Arrow will appear as "tipped_arrow.effect.mundane.extended", but all the other ones will be titled Tipped Arrow and will not stack with each other.
 
 **1.0.0.16**
 - Mining a Furnace while it is smelting with Silk Touch will drop Lit Furnace tile.
 - Dropping anvil on torches will give you differing data value of anvils depending on which direction the anvil was placed. Depending on the direction and the type of anvil you can obtain 0-11 data value anvils.
+
+**1.1 - 1.0**
+- Downgrading a Frosted Ice Block from 1.1 to 1.0, the Frosted Ice will turn into an info update block that is titled tile.207.name. Mining it up and updating back to 1.1 will convert the tile.207.name block in your inventory to Frosted Ice
 
 **1.1.5.0** 
 -  Breaking Blocks while they are being moved by a piston can drop a moving block tile, a silk touch pickaxe with at least efficiency IV is reccomended. Setup for contraption here at 23:40: https://www.youtube.com/watch?v=i1VK64sA5QM
@@ -101,6 +105,7 @@
 - Curse of Binding and Curse of Vanishing use the same ids as Loyalty and Channeling respectively, so in future versions all the Curse of Binding and Curse of Vanishing will turn into Loyalty and Channeling. This allows for Loyalty on every armor piece, and Channeling for every armor and tool that can have Curse of Vanishing on it.
 - Impaling and Riptide use the same id as Curse of Binding and Curse of Vanishing respectively, so in future versions all the Impaling and Riptide books will turn into Curse of Binding and Curse of Vanishing. This allows for Curse of Binding 2-5 and Curse of Vanishing 2-3 books and villager trades.
 - Helmets can be enchanted with any enchant in the game this allows for a Helmet with sword enchants or any other enchants in the game.
+- Invalid Data Value Trapdoors can be obtained by mining a trapdoor in survival mode. The direction it was placed will determine the different data value the trapdoor has when dropped.
 
 **1.2.13.8 - 1.2.6.60**
 > [!CAUTION]
@@ -121,6 +126,7 @@
 - Flowers, Saplings, and Dead Bushes can be waterlogged. Make sure to make the sapling a dark oak sapling so it doesn't update
 - Water, flowing water, lava, and flowing lava can be obtained through various ways of Mining Block Transfer.
 - Using the CSC knowledge you can rename 27 items 16000 of one letter and putting them in one shulker and mining them will give you any one item from CSC depending on the letter. You can obtain any item from the CSC glitch with the IDs of -33 to -63 and 33 to 63. A giving an id of -33 and B giving and id of 33. This is a list of Elements and illegals with the letter/symbol that you can obtain them with in this spreadsheet: https://docs.google.com/spreadsheets/u/0/d/1kHdwFMY0aLSELdt6vEQ3p2LySG4ivMbEJv6oP-MihZI/edit?gid=0&pli=1&authuser=0#gid=0
+- In 1.5, Zombie Villagers found in Zombie Villages will be extremely fast. Updating from 1.5 directly to 1.21.41 will revert them. To keep them you must update from 1.5 to 1.8 to 1.10 to 1.11 to 1.21 in that order.
 
 **1.6.0.1**
 - Phantoms in this version have 5 hearts instead of 10 hearts.
