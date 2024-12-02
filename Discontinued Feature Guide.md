@@ -126,6 +126,7 @@
 **1.6.0.1**
 - Phantoms in this version have 5 hearts instead of 10 hearts.
 - If you spawn the Enderdragon in the end, and then every player who is in the End dies and goes back to the Overworld, and then traveling back to the end. The dragon should not be there. Return to the Overworld, and the ender dragon will be there in the Overworld, allowing for the Enderdragon outside the End. Placing a Nether Portal at the world spawn exactly will send the Ender Dragon to the Nether once it is transferred out of the End
+- Mining up the Mushroom Blocks from Huge Mushrooms found in Swamps and Dark Oak Forests can give you different data values of Mushrooom blocks from 1-9 and mining up the Mushroom Stems from Huge Mushrooms will give you a Data Value 10 Mushroom Block
 
 **1.7.0**
 - You can put a Jack-o-lantern on an armor stand, player, and mobs via dispensers
@@ -133,3 +134,11 @@
 **Beta 1.8.0.8 (Android)**
 - Mining up a Double Slab will give you a Double Slab item depending on the type of slab used
 - Using a Bamboo based Farm, you can obtain Bedrock by using Mining Block Transfer. Tutorial by PRGRMR: https://www.youtube.com/watch?v=gA4l__oYjQ0, Full Tutorial Here: https://www.youtube.com/watch?v=xJ-5SR88RVs
+
+**1.9.0**
+- You can put Glass Bottles in a Brewing Stand via hopper
+- Brewing potions alongside glass bottles in the Brewing Stand adds a tag name "wasJustBrewed:1" to the glass bottle. These bottles will not stack with other bottles and will keep it's tag upon updating.
+- Mining up the Mushroom Blocks from Huge Mushrooms found in Swamps and Dark Oak Forests will give you a Mushroom Block with a data value of 0.
+
+**1.10.0 - beta 1.11.0.1**
+- Updating a slab from 1.10.0 to 1.11.0.1 will cause them to convert to Double Slab. All slabs will convert excluding all wood slabs, Petrified Oak Slabs can be converted into their double slab state. In versions after 1.11.0.1 they will appear as glitched slabs that cannot be placed or they will switch to different looking slabs, but they are still illegal. After 1.21.30 they will have the texture of double slabs.
