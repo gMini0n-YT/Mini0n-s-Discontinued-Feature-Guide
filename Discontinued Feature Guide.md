@@ -76,8 +76,9 @@
 **1.1 - 1.0**
 - Downgrading a Frosted Ice Block from 1.1 to 1.0, the Frosted Ice will turn into an info update block that is titled tile.207.name. Mining it up and updating back to 1.1 will convert the tile.207.name block in your inventory to Frosted Ice
 
-**1.1.5.0** 
+**1.1.0.3** 
 -  Breaking Blocks while they are being moved by a piston can drop a moving block tile, a silk touch pickaxe with at least efficiency IV is reccomended. Setup for contraption here at 23:40: https://www.youtube.com/watch?v=i1VK64sA5QM
+-  End Cities generated in this version will always generate with some tile.smooth_purpur.name tiles build in it. You can find these smooth purpur blocks on the outside behind the upside down stairs on the first spiral staircase from the bottom going up on the endcity. 
 
 **Beta 1.2.0.2**
 - Hoppers can be used to put shulker boxes in shulker boxes
