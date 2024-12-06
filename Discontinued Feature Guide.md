@@ -148,3 +148,26 @@
 
 **1.10.0 - beta 1.11.0.1**
 - Updating a slab from 1.10.0 to 1.11.0.1 will cause them to convert to Double Slab. All slabs will convert excluding all wood slabs, Petrified Oak Slabs can be converted into their double slab state. In versions after 1.11.0.1 they will appear as glitched slabs that cannot be placed or they will switch to different looking slabs, but they are still illegal. After 1.21.30 they will have the texture of double slabs.
+
+**`1.14.0**
+- Farmer Villagers buy 4 melon slices instead of 4 melon blocks at the Journeyman Trade Level
+- Farmer Villagers buy 16 eggs at the Expert Trade Level
+- Permanent Open Barrels can be made by pushing a Barrel via piston while opening it at the same time
+
+**Beta 1.16.0.51**
+- Piglins have more health in this version and they will keep their health when updating through versions
+- All Crimson and Warped Wood variants could be put into the fuel slot of Furnaces
+
+**Beta 1.16.0.57**
+- Treasure Bastions spawn with one Barrier Block in one of the lava pools
+
+**Beta 1.16.0.60**
+- Breaking Nether Sprouts will drop invisible tile nether sprouts
+
+**1.16.40**
+- Lit Respawn Anchors can be obtained by mining them with silk touch, this allows for 4 different types of Respawn Anchors
+- Pistons can extend below y-level 0
+- Support Blocks can be placed on Chains
+- Endermen can pick up warped and crimson fungus and place it down on any other block
+- Zombie Piglins who spawn on top of Striders will have a Golden Sword instead of Warped Fungus on a stick
+- Dropping a Falling Block into the top of an End Gateway and relogging will change the id of the falling block to a different block. So when going through the other side all of the falling blocks will convert to random items allowing for tons of illegals. Illegals include Command Blocks, Chained Command Blocks, Repeating Command Blocks, Structure Blocks, Jigsaw Blocks, Structure Void, Structure Air, Allow, Deny, Border Block, Barrier, all Light Blocks (0-15), Bedrock, Monster Spawner, End Portal Frame, Chorus Plant, Broken Anvil, Infested Stone, Infested Cobblestone, Infested Stone Brick, Infested Mossy Stone Brick, Infested Cracked Stone Brick, Infested Chiseled Stone Brick, Flowing Water, Static Water, Flowing Lava, Static Lava, Fire Tile, Soul Fire Tile, tile.bubble_column.name, all 4 Lit Respawn Anchors, Open Barrel, Chiseled Purpur, Smooth Purpur, Smooth Stone Brick (this will be removed as of 1.21.30), Hard Glass, Hard Glass Pane, Underwater Torch, Chemical Heat, Camera Block, Underwater TNT (this will show up as normal TNT but it will not stack with crafted TNT and has a different tag), explodebit:1 TNT (this will show up as normal TNT but it will not stack with Crafted TNT and has the tag explodeBit:1), Wooden Slab, Nether Reactor Core, Glowing Obsidian, Stonecutter(Old), Invisible Bedrock, tile.info_update.name, tile.info_update2.name, tile.reserved6.name, Age 1 Saplings (these will be converted to Spruce Saplings as of 1.21.30)
