@@ -27,6 +27,9 @@
 - Cacti can grow adjacent to blocks
 - Placing Torches on the side of a block and placing a painting on the same block will overlap the painting and the torches
 
+**0.8.0 build 1 (Android)**
+- Block of Coal in this version and updating will change the block of coal to Nether Bricks allowing for Nether Bricks in the Furnace Fuel Slot by putting Block of Coal in the Furnace Fuel Slot.
+
 **0.8.0_test1 (Android)**
 - In this version, Logs can now be placed sideways. Mining up the sideways Logs will give you Invalid Data Value Logs
 
@@ -153,6 +156,7 @@
 - Farmer Villagers buy 4 melon slices instead of 4 melon blocks at the Journeyman Trade Level
 - Farmer Villagers buy 16 eggs at the Expert Trade Level
 - Permanent Open Barrels can be made by pushing a Barrel via piston while opening it at the same time
+- Vindicators that spawn in Woodland Mansions are neutral in versions before 1.16. Hitting these Vindicators or renaming them will switch them back to hostile.
 
 **Beta 1.16.0.51**
 - Piglins have more health in this version and they will keep their health when updating through versions
@@ -171,3 +175,15 @@
 - Endermen can pick up warped and crimson fungus and place it down on any other block
 - Zombie Piglins who spawn on top of Striders will have a Golden Sword instead of Warped Fungus on a stick
 - Dropping a Falling Block into the top of an End Gateway and relogging will change the id of the falling block to a different block. So when going through the other side all of the falling blocks will convert to random items allowing for tons of illegals. Illegals include Command Blocks, Chained Command Blocks, Repeating Command Blocks, Structure Blocks, Jigsaw Blocks, Structure Void, Structure Air, Allow, Deny, Border Block, Barrier, all Light Blocks (0-15), Bedrock, Monster Spawner, End Portal Frame, Chorus Plant, Broken Anvil, Infested Stone, Infested Cobblestone, Infested Stone Brick, Infested Mossy Stone Brick, Infested Cracked Stone Brick, Infested Chiseled Stone Brick, Flowing Water, Static Water, Flowing Lava, Static Lava, Fire Tile, Soul Fire Tile, tile.bubble_column.name, all 4 Lit Respawn Anchors, Open Barrel, Chiseled Purpur, Smooth Purpur, Smooth Stone Brick (this will be removed as of 1.21.30), Hard Glass, Hard Glass Pane, Underwater Torch, Chemical Heat, Camera Block, Underwater TNT (this will show up as normal TNT but it will not stack with crafted TNT and has a different tag), explodebit:1 TNT (this will show up as normal TNT but it will not stack with Crafted TNT and has the tag explodeBit:1), Wooden Slab, Nether Reactor Core, Glowing Obsidian, Stonecutter(Old), Invisible Bedrock, tile.info_update.name, tile.info_update2.name, tile.reserved6.name, Age 1 Saplings (these will be converted to Spruce Saplings as of 1.21.30)
+
+**1.16.40 - 0.6.0**
+> [!Note]
+> If your phone is crashing upon creating a world in 0.6.0, you can unzip the "Cross Dimension Chunk Template" zip file and move the extracted folder to "games > com.mojang > minecraftWorlds" Note: this may be considered cheating because it does require you to move world files
+- You can get Cross Dimension Chunks (e.g. Overworld Chunks in the end/nether) by entering the end at these specific coordinates 115, 100, 149 in 1.16.40. Downgrade your client to 0.6.0 and create a world in 0.6.0 with the same seed as your 1.16.40 save. After loading the world, disconnect from the world and move the db folder of the 1.16.40 world to the 0.6.0 save. Once done upgrade back to 1.16.40 and change the world to infinite, it may crash but just reload minecraft and just try again.
+
+**1.16.100**
+- Placing an end gateway on the central pillar of the end fountain when the dragon perches, it will freeze the dragon. After relogging an end gateway will appear where the ender dragon was. This allows for over 20 end gateways in the main end island.
+- Zombies and Skeletons put shields in their wrong hand. So when updating to later versions and giving the mob an extra shield will put the second shield in the correct hand allowing for double wielding mobs with shields.
+
+**1.16.100.56**
+- Within Woodland Mansions, it is possible to obtain an Egg enchanted with Efficiency 1. These eggs can be located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, though the frame remains visible.
