@@ -186,4 +186,13 @@
 - Zombies and Skeletons put shields in their wrong hand. So when updating to later versions and giving the mob an extra shield will put the second shield in the correct hand allowing for double wielding mobs with shields.
 
 **1.16.100.56**
-- Within Woodland Mansions, it is possible to obtain an Egg enchanted with Efficiency 1. These eggs can be located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, though the frame remains visible.
+- Inside Woodland Mansions, it is possible to obtain an Egg enchanted with Efficiency 1. These eggs can be located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, though the frame remains visible.
+
+**1.16.201**
+- Pushing End Crystals with a flying machine while summoning the ender dragon, will keep the ender crystal from updating, because of this they will stay indestructible and permanently have the summoning beam
+- Punching an End Crystal while summoning the Ender Dragon, and standing in the exit portal will send you back to the overworld. As a result you will have 4 beaming crystals at your exit portal and they will be destructible. You sometimes may get 3 end crystals at your exit portal depending on the speed you go back to the Overworld.
+- Wandering Traders sell ink sacs with a Damage Value of 4
+- Inside Woodland Mansions, it is possible to get Efficiency I leather helmet, and black glow sticks. The Efficiency I Helmets are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still vislbe. The Black Glow Sticks are a lot rarer and a lot harder to find. To find the Glow Sticks you must find the "secret" end portal room within the Woodland Mansion. The room is a lot harder to find because it has no indicator to locate it. To make things easier for you, go ahead and download the "Mansion X-Ray.mcpack" from the "Texture Pack" folder. This pack will x-ray through the dark-oak planks in the woodland mansion.
+
+**1.16.210.57 - 1.16.210.55 (Experimental) (UBC)**
+- Downgrading all 7 Double Cut Copper Slabs (excluding the Double Waxed Oxidized Copper Slab) to 1.16.210.55 will convert them to unknown blocks. Mining up the Unknown blocks while making sure they do not stack and updating to 1.21.30 will give you 7 different Double Cut Copper Slabs
