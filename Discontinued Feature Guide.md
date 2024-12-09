@@ -181,12 +181,12 @@
 > If your phone is crashing upon creating a world in 0.6.0, you can unzip the "Cross Dimension Chunk Template" zip file and move the extracted folder to "games > com.mojang > minecraftWorlds" Note: this may be considered cheating because it does require you to move world files
 - You can get Cross Dimension Chunks (e.g. Overworld Chunks in the end/nether) by entering the end at these specific coordinates 115, 100, 149 in 1.16.40. Downgrade your client to 0.6.0 and create a world in 0.6.0 with the same seed as your 1.16.40 save. After loading the world, disconnect from the world and move the db folder of the 1.16.40 world to the 0.6.0 save. Once done upgrade back to 1.16.40 and change the world to infinite, it may crash but just reload minecraft and just try again.
 
+**Beta 1.16.100.56**
+- Inside Woodland Mansions, it is possible to obtain an Egg enchanted with Efficiency 1. These eggs can be located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, though the frame remains visible.
+
 **1.16.100**
 - Placing an end gateway on the central pillar of the end fountain when the dragon perches, it will freeze the dragon. After relogging an end gateway will appear where the ender dragon was. This allows for over 20 end gateways in the main end island.
 - Zombies and Skeletons put shields in their wrong hand. So when updating to later versions and giving the mob an extra shield will put the second shield in the correct hand allowing for double wielding mobs with shields.
-
-**1.16.100.56**
-- Inside Woodland Mansions, it is possible to obtain an Egg enchanted with Efficiency 1. These eggs can be located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, though the frame remains visible.
 
 **1.16.201**
 - Pushing End Crystals with a flying machine while summoning the ender dragon, will keep the ender crystal from updating, because of this they will stay indestructible and permanently have the summoning beam
@@ -194,5 +194,29 @@
 - Wandering Traders sell ink sacs with a Damage Value of 4
 - Inside Woodland Mansions, it is possible to get Efficiency I leather helmet, and black glow sticks. The Efficiency I Helmets are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still vislbe. The Black Glow Sticks are a lot rarer and a lot harder to find. To find the Glow Sticks you must find the "secret" end portal room within the Woodland Mansion. The room is a lot harder to find because it has no indicator to locate it. To make things easier for you, go ahead and download the "Mansion X-Ray.mcpack" from the "Texture Pack" folder. This pack will x-ray through the dark-oak planks in the woodland mansion.
 
-**1.16.210.57 - 1.16.210.55 (Experimental) (UBC)**
+**Beta 1.16.210.57 - Beta 1.16.210.55 (Experimental) (UBC)**
 - Downgrading all 7 Double Cut Copper Slabs (excluding the Double Waxed Oxidized Copper Slab) to 1.16.210.55 will convert them to unknown blocks. Mining up the Unknown blocks while making sure they do not stack and updating to 1.21.30 will give you 7 different Double Cut Copper Slabs
+
+  **Beta 1.16.220.52 - Beta 1.16.220.51 (Experimental) (UBC)**
+- Glow Vines, Glow Berry Vines, Glow Berry Vine Tips can be obtained by downgrading them from 1.16.220.52 as a block to 1.16.220.51. They will turn into unknown blocks, mining them (make sure they do not stack), and updating them to 1.21.30 will convert them to Glow Vine Tiles, Glow Berry Vine Tiles, and Glow Berry Vine Tips Tile.
+
+**1.16.220**
+- Foxes can put on armor by dropping it to them. It won't be visible unless you use the "Discontinued Feature Texture Pack"  in the "Texture Pack" folder.
+- Glowstone can be dispensed on hostile mobs that can wear armor, armor stands, and players. It won't be visible unless you use the "Discontinued Feature Texture Pack"  in the "Texture Pack" folder.
+- Pushing a detector rail with a minecart on it, and breaking the minecart will give you a Permanently Powered Detector Rail
+- Placing non-full blocks (e.g. Enchanting Tables, Slabs, Trapdoors) in snow-covered flowers, the flowers will won't break. This allows for flower-logged blocks.
+- End Portals do not trigger Block updates. So by flower-logging the end portal frames and activating them below gravity blocks and then breaking the grass block underneath the end portals, the end portal frames will break leaving floating gravity blocks.
+- When animals and villagers are bred, they use the current speed rather than the base speed. So by splashing two animals/villagers with splash potion of speed or slowness and then breeding them, the offspring will be faster/slower than their parents. This process can be repeated endlessly
+
+**Beta 1.16.230.54 - Beta 1.16.230.50 (Experimental) (UBC)**
+- Double Waxed Oxidised Cut Copper Slabs, Lit Deepslate Redstone Ore, Double Cobbled Deepslate Slabs, Double Deepslate Brick Slabs, Double Polished Deepslate Slabs, Double Deepslate Tile Slabs can be obtained by downgrading them from 1.16.230.54 as a block to 1.16.220.51. THey will turn into unknown blocks, mining them (make sure they do not stack), and then updating them 1.21.30 will give you Double Waxed Oxidised Cut Copper Slabs, Lit Deepslate Redstone Ore, Double Cobbled Deepslate Slabs, Double Deepslate Brick Slabs, Double Polished Deepslate Slabs, Double Deepslate Tile Slabs as a item.
+- In 1.16.230.50, the Powder Snow block can be obtained by placing it inside of a bubble column and pushing it with a piston. Video Tutorial: https://www.youtube.com/watch?v=qBvycwTPF6g
+
+**Beta 1.17.0.58 - Beta 1.16.210.54 (Experimental)**
+- Powder Snow Buckets can be obtained in 1.17.0.58 through Cauldrons. So downgrading these buckets to 1.16.210.54, you can Powder Snow-log non-full blocks by placing the Powder Snow Bucket on the block adjacent to the block you want to snowlog
+
+**Beta 1.17.0.54 - Beta 1.17.0.52 (UBC)**
+- Downgrading Infested Deepslate from 1.17.0.54 as a block to 1.17.0.52 will turn it into an unknown block. Mine up the unknwon blocks (make sure they don't stack) and then updating them to 1.21.30 will give you Infested Deepslate as an item
+
+**Beta 1.17.0.52 (Experimental)**
+- Chunks loaded with the Caves & Cliffs Experiment Toggle and updating it to the official version 1.17.0 will cause the chunks loaded to be elevated when updating. All tile entity data will be removed allowing for mobless mob spawners
