@@ -217,7 +217,68 @@
 - Powder Snow Buckets can be obtained in 1.17.0.58 through Cauldrons. So downgrading these buckets to 1.16.210.54, you can Powder Snow-log non-full blocks by placing the Powder Snow Bucket on the block adjacent to the block you want to snowlog
 
 **Beta 1.17.0.54 - Beta 1.17.0.52 (UBC)**
-- Downgrading Infested Deepslate from 1.17.0.54 as a block to 1.17.0.52 will turn it into an unknown block. Mine up the unknwon blocks (make sure they don't stack) and then updating them to 1.21.30 will give you Infested Deepslate as an item
+- Downgrading Infested Deepslate from 1.17.0.54 as a block to 1.17.0.52 will turn it into an unknown block. Mine up the unknown blocks (make sure they don't stack) and then updating them to 1.21.30 will give you Infested Deepslate as an item
 
 **Beta 1.17.0.52 (Experimental)**
 - Chunks loaded with the Caves & Cliffs Experiment Toggle and updating it to the official version 1.17.0 will cause the chunks loaded to be elevated when updating. All tile entity data will be removed allowing for mobless mob spawners
+
+**1.17.0**
+- By placing a block at the tip of an amethyst cluster, and subsequently removing the supporting block, the shard will remain floating. Once it is floating, you can remove the other block.
+- Dispensing Powder snow into portals (East or North facing portals) will split the portal, leaving behind portal blocks on the layer you placed the powder snow in.
+- Mining a lit observer will keep its lit state in the inventory. Stacking lit observers with normal observers will revert them
+- Paintings can overlap with Glow Item Frames, Signs, Banners, and Torches
+- Vindicators can spawn from Patrols when the world difficulty is set to Hard. Making it possible to obtain Vindicator Patrol followers and Patrol Captains. Vindicator Patrol Captains can be distinguished from normal Vindicators with the Discontinued Feature Tweaks texture pack
+- Various Support blocks (e.g. torches, buttons, levers) can be places on Lightning Rod
+- Big Dripleaf can be placed on any block
+- Glow lichen can be placed on farmland and dirt path
+- Hanging Roots can be waterlogged
+- Tying an axolotl to a fence/wall and scooping the axolotl up with a water bucket will not remove the leash knot on the fence/wall and the axolotls will remain unattached and unleashable
+- Using Dispensers to remove the water from bubble columns does not destroy the bubble column itself.
+- Leashing Axolotls before scooping them up won't unleash the axolotl
+- When a mob is left with only one heart and is simultaneously struck by an Instant Health Potion and an Instant Damage Potion, the mob becomes invincible. If the mob appears red and shaking, rejoining the game will restore its normal appearance
+
+**1.17.10.22 - 1.17.10.21 (UBC)**
+- Downgrading all 17 cakes with candles from 1.17.10.22 as a block to 1.17.10.21 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you all 17 cakes with candles as a tile item.
+
+**1.17.10**
+- Waterlogging stairs or slabs and subsequently breaking them won't update the water, making it possible to create floating water
+- Previously loaded chunks will get 64 bedrock layers if you turn on the "Caves and Cliff" experimental toggle
+- Support blocks can be placed on Candles
+- Picking up a fish or anything else that can go in a bucket as it dies, gives you a dead animal in a bucket
+- Placing an end crystal and placing two piston each on different sides and facing the end crystal and activating them at the same time will cause them both to extend, leaving two piston heads in one block
+- Putting something on fire and breaking the block underneath while the game setting "Fire Spreads" is off will make the fire float and it won't distinguish. To see floating fire, you can use the Discontinued Feature Tweaks pack from the "Texture Packs" folder
+
+**Beta 1.17.20.22**
+- Snow layers stay floating in mid-air if you break the block underneath it
+
+**1.17.32**
+- Support blocks can be places on Light Blocks
+
+**Beta 1.17.40.21**
+- Flowers in Meadows can replace blocks from structures like village houses, which can make Discontinued Block Formations
+
+**1.17.40**
+- Pushing a button and subsequently breaking it with Silk Touch will give you Pushed Buttons as an item
+
+**Beta 1.18.0.24**
+- Deep Warm Oceans can still naturally generate. To make deep warm oceans distinguishable, you can use the Discontinued Feature Tweaks texture pack in the "Texture Packs" folder
+
+**1.18.0**
+- Updating any world to this version will not generate anything below y=0 if there is no bedrock at y=0
+- Placing walls under floating candles will cause the walls to fully stretch
+- Pushing piglins through a nether portal while they are trying to barter with the player will force them to put the item that was given to them into their offhand, making them dual wielding mobs
+- Pushing a villager through a nether portal while it is holding something will make the villager permanently hold the item. Do not hold an item that the villager wants once it is permanently holding an item or else it will stop holding it
+- Scaffolding at y=1 will not update and fall if there is no block below it
+- Librarians only require one book&quill instead of two
+- Cartographers offer bedrock-specific banner patterns (Bordure Indented, Field Masoned) or the Flower Charge banner pattern on their master level trade
+- Butchers have cooked beef, cooked rabbit, and cooked mutton trades
+- Journeyman Armorer do not trade diamonds for emeralds
+- Novice Weaponsmiths do not trade Iron swords for emeralds
+- Apprentice Weaponsmiths trade enchanted iron swords
+- Journeyman Clerics sell 1 glowstone dust for 4 emeralds
+- Fishermen Boat trades do not change the wood type based on villager biome type, allowing you to obtain fishermen with mismatched wood type boats
+- Aquifers can generate with missing pieces of water
+- Spikes out of Dripstone Block can spawn on the surface
+- Structures like Ocean Ruins often spawn on land
+- Some igloos can generate with Redstone Torches facing the wrong way.
+- Mountain generation breaks at 2.812.332 blocks away from 0, 0 and replaces everything within a Frozen Peaks or Stony Peaks biome, except Aquifers, with huge lava ravines. These Aquifers can stretch all the way down to lava height and be on top of the lava without updating it and turning it into Obsidian. An example can be found on the Seed: -1485667881, at 2891297 -49 9439. On certain iOS devices, Monolith-like terrain generates instead of Lava Ravines. These "Monoliths" can go up to the old world height limit, y=256
