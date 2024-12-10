@@ -118,7 +118,7 @@
 - Loading a world in 1.2.13.8 and downgrading to 1.2.6.60 will convert all sub-chunks with block in them (air excluded) into chunks with random blocks in them. This can spawn a lot of entities and tile entities so it will be extremely laggy. These chunks have a random block pallet and can create a lot of illegal formations, like nether wart on top of brewing stand, or illegal blocks such as Education Edition Blocks, and Creative placed Blocks
 - Using BPC you can obtain Compound Creators, and Red, Green, Blue, and Purple Colored Torches, do not pick up torches until 1.21.30 otherwise you won't know which one you have and they may not saved.
 - Compound Creators can be waterlogged
-<br>
+
 **1.2.14.2**
 - Riptide can be combined with loyalty and Channeling on a trident or book
 
