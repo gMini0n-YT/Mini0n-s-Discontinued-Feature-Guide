@@ -119,6 +119,7 @@
 - Using BPC you can obtain Compound Creators, and Red, Green, Blue, and Purple Colored Torches, do not pick up torches until 1.21.30 otherwise you won't know which one you have and they may not saved.
 - Compound Creators can be waterlogged
 
+
 **1.2.14.2**
 - Riptide can be combined with loyalty and Channeling on a trident or book
 
