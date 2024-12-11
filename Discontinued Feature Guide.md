@@ -248,6 +248,7 @@
 - Picking up a fish or anything else that can go in a bucket as it dies, gives you a dead animal in a bucket
 - Placing an end crystal and placing two piston each on different sides and facing the end crystal and activating them at the same time will cause them both to extend, leaving two piston heads in one block
 - Putting something on fire and breaking the block underneath while the game setting "Fire Spreads" is off will make the fire float and it won't distinguish. To see floating fire, you can use the Discontinued Feature Tweaks pack from the "Texture Packs" folder
+- Using a powder snow bucket on a cauldron filled with powder snow creates a powder snow block directly above the cauldron.[4] This deletes any block that was previously occupying the space above it including bedrock.
 
 **Beta 1.17.20.22**
 - Snow layers stay floating in mid-air if you break the block underneath it
@@ -283,3 +284,25 @@
 - Structures like Ocean Ruins often spawn on land
 - Some igloos can generate with Redstone Torches facing the wrong way.
 - Mountain generation breaks at 2.812.332 blocks away from 0, 0 and replaces everything within a Frozen Peaks or Stony Peaks biome, except Aquifers, with huge lava ravines. These Aquifers can stretch all the way down to lava height and be on top of the lava without updating it and turning it into Obsidian. An example can be found on the Seed: -1485667881, at 2891297 -49 9439. On certain iOS devices, Monolith-like terrain generates instead of Lava Ravines. These "Monoliths" can go up to the old world height limit, y=256
+
+**Beta 1.18.10.24 (Experimental)**
+- Glow Lichen can be placed on Frog Eggs
+
+**1.18.10**
+- It is possible to obtain villagers with incorrect trades, such as a fletcher with stone mason trades. To achieve this, follow these steps: First, place 20 beds, with 19 of them corresponding to one type of workstation and 1 bed with a different type of workstation. Next, bring 20 villagers to the area where you have set up the beds and workstations. Then you have to zombify all the villagers (for a 100% zombification rate, ensure you are in hard mode). Once they are zombified, you can cure them. If done correctly, one of the villagers should have incorrect trades. This occurs because the villager retains their profession after being zombified, but during the curing process, there is a brief moment when they can change professions before returning to their original state. Please note that this method does not guarantee a 100% success rate
+
+**1.18.10.26 - 1.18.10.22**
+- Downgrading a cartographer with the globe pattern trade from 1.18.10.26 to 1.18.10.22 turns the trade into an empty trade
+- Making a Banner with the Globe Pattern and downgrading to 1.18.10.22 turns the globe banner pattern on the banner into "item.banner.base.x", where "x" represents the color. Globe banners will keep the globe banner tag, which means they will revert to normal banners when upgrading back. To avoid this, simply place the banners down and break them. This will remove the globe banner tag and preserve the "item.banner.base.x" tag
+
+**1.18.12**
+- Gravity Blocks will not fall if placed directly above top snow
+- Red & Brown Mushroom Blocks, Chorus Plants & Flowers, Iron & Gold Nuggets and Nether Bricks can be placed into the fuel slot in Furnaces
+
+**Beta 1.18.20.21 (Experimental)**
+- Placing Frogspawns before this version and downgrading to 1.18.20.21 will turn them into unknown blocks, mining up the unknown blocks (making sure they do not stack), upgrading back to 1.21.30 will turn them into Frogspawn as an item
+- Tadpoles only have 2 hearts. To prevent the tadpoles from growing you can scoop them up. To distinguish them from normal tadpoles, you can use the Discontinued Feature Tweaks pack
+
+**Beta 1.18.20.23**
+- All types of Torches, redstone dust and Glow Lichen can be placed or attached to Brewing Stands
+- Azalea and Lily Pads don't break if water is flowing next to them
