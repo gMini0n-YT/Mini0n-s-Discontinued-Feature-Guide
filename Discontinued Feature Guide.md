@@ -306,3 +306,18 @@
 **Beta 1.18.20.23**
 - All types of Torches, redstone dust and Glow Lichen can be placed or attached to Brewing Stands
 - Azalea and Lily Pads don't break if water is flowing next to them
+
+**Beta 1.18.30.28**
+- Older worlds that have areas unexplored since before 1.18 will have corrupted chunks below y=0
+
+**1.18.30.33 - 1.18.30.31 (Experimental) (UBC)**
+- Downgrading Reinforced Deepslate from 1.18.30.33 as a block to 1.18.30.31 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you Reinforced Deepslate as a tile item.
+
+**Beta 1.18.30.32**
+- If a charged Sculk Block is being pushed with a flying machine while it is generating Sculk Veins, it can generate Sculk Veins that are in mid-air
+- Aquifers can sometimes intersect with Ancient City structures and submerge/destroy big chunks of the structure
+- Reinforced Deepslate can be pushed by Pistons
+
+**1.18.30**
+- All types of Torches, redstone dust, Glow Lichen and Walls can be placed or attached to Bells
+- Placing blocks in the lowest subchunk of a dimension and then reloading the dimension to save it and mining up all the blocks placed in the subchunk and reloading the dimension will regenerate the blocks mined up. The side of the main end island does matter on what you'll get in the regeneration, on one side all it will do is regenerate the block without changing the data of the block at all (this is called VCR (Valid Chunk Regen)). On the other side of the main end island will regenerate the blocks but either make them invisible or unfunctionable (this is called ICR (Invalid Chunk Regen)). To tell which chunk is which type type of Regen (VCR or ICR) StormofLight and VirsRJ made a chart of chunks showing which chunks are ICR or VCR, it will be titled "ChunkRegenerationGraph.webp" in "Links". This glitch can be used to create unique blocks like half-beds, invisible shulker boxes, and headless pistons using ICR. This also allows for the creation of different types of wall skulls based on the placement and orientation of the skulls. Placing a skull on the ground gives a Wither Skeleton Wall Skull, while placing them against a wall in certain cardinal directions results in various skulls: West yields a Creeper Wall Skull, South a Steve Wall Skull, North a Zombie Wall Skull, and East a Dragon Wall Skull using ICR. You can also get tons of illegals from ICR by placing tile entities listed in this Minecraft Wiki page https://minecraft.wiki/w/Block_entity. You can also get tons of VCR listed in the "Valid Chunk Regeneration Illegals.txt" in the "Links" folder.
