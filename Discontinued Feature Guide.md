@@ -248,7 +248,7 @@
 - Picking up a fish or anything else that can go in a bucket as it dies, gives you a dead animal in a bucket
 - Placing an end crystal and placing two piston each on different sides and facing the end crystal and activating them at the same time will cause them both to extend, leaving two piston heads in one block
 - Putting something on fire and breaking the block underneath while the game setting "Fire Spreads" is off will make the fire float and it won't distinguish. To see floating fire, you can use the Discontinued Feature Tweaks pack from the "Texture Packs" folder
-- Using a powder snow bucket on a cauldron filled with powder snow creates a powder snow block directly above the cauldron.[4] This deletes any block that was previously occupying the space above it including bedrock.
+- Using a powder snow bucket on a cauldron filled with powder snow creates a powder snow block directly above the cauldron. This deletes any block that was previously occupying the space above it including bedrock.
 
 **Beta 1.17.20.22**
 - Snow layers stay floating in mid-air if you break the block underneath it
