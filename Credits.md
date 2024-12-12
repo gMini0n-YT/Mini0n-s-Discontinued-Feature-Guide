@@ -17,3 +17,4 @@
 <br>
 ***s0lar1te (Discontinued Feature Guide Help, anvillimitrenamerremoverfor1.2.mcpack):*** https://github.com/s0lar1te, https://www.youtube.com/@s0lar1te
 <br>
+***StormOfLight (ChunkRegenerationGraph.webp)***
