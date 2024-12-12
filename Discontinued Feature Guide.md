@@ -321,3 +321,14 @@
 **1.18.30**
 - All types of Torches, redstone dust, Glow Lichen and Walls can be placed or attached to Bells
 - Placing blocks in the lowest subchunk of a dimension and then reloading the dimension to save it and mining up all the blocks placed in the subchunk and reloading the dimension will regenerate the blocks mined up. The side of the main end island does matter on what you'll get in the regeneration, on one side all it will do is regenerate the block without changing the data of the block at all (this is called VCR (Valid Chunk Regen)). On the other side of the main end island will regenerate the blocks but either make them invisible or unfunctionable (this is called ICR (Invalid Chunk Regen)). To tell which chunk is which type type of Regen (VCR or ICR) StormofLight and VirsRJ made a chart of chunks showing which chunks are ICR or VCR, it will be titled "ChunkRegenerationGraph.webp" in "Links". This glitch can be used to create unique blocks like half-beds, invisible shulker boxes, and headless pistons using ICR. This also allows for the creation of different types of wall skulls based on the placement and orientation of the skulls. Placing a skull on the ground gives a Wither Skeleton Wall Skull, while placing them against a wall in certain cardinal directions results in various skulls: West yields a Creeper Wall Skull, South a Steve Wall Skull, North a Zombie Wall Skull, and East a Dragon Wall Skull using ICR. You can also get tons of illegals from ICR by placing tile entities listed in this Minecraft Wiki page https://minecraft.wiki/w/Block_entity. You can also get tons of VCR listed in the "Valid Chunk Regeneration Illegals.txt" in the "Links" folder. Tutorial: https://youtu.be/IPCpwxhccsg?si=HzK8bc5HLcrKgLDP
+
+**Beta 1.19.0.20**
+- All copper horn variants can be obtained in this version, putting the copper horns in an unplaced shulker box will save their data even when they're removed in 1.19.0.24/25
+
+**Beta 1.19.0.26**
+- Mangrove Roots can be used as fuel in Furnaces
+
+**1.19.0**
+- Breaking Mangrove leaves with shears can drop leaves that don't stack with each other
+- Placing a stonecutter in the east/west direction and mining it with silk touch will drop a stonecutter facing the wrong way in the inventory. They will stack with normal stonecutter.
+- Iron Bars/Glass Panes don't connect to mangrove roots
