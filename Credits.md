@@ -3,7 +3,7 @@
 
 ***gMini0n:*** https://www.youtube.com/channel/UCBVChlletbw_BV8bTlyT2vQ
 <br>
-***VirisRJ (Illegal Help)(Valid Chunk Regeneration Illegals.txt)(ChunkRegenerationGraph.webp):*** https://www.youtube.com/channel/UCE4jwpebQ-18klfM3VSCWog
+***VirisRJ (Illegal Help, Valid Chunk Regeneration Illegals.txt, ChunkRegenerationGraph.webp):*** https://www.youtube.com/channel/UCE4jwpebQ-18klfM3VSCWog
 <br>
 ***ToxicAbsense (Illegals, and Separated Guide Help):*** https://www.youtube.com/@ToxicAbsence
 <br>
