@@ -170,6 +170,9 @@
 **Beta 1.16.0.60**
 - Breaking Nether Sprouts will drop invisible tile nether sprouts
 
+**1.16.1.2**
+- You can exploit commands in this version by removing the space between the /give and the @ symbol. This can give you infinite amount of illegals including bedrock, spawn eggs, top slabs, command blocks, and weird blocks in the furnace fuel slot. List of Illegals are in the "1.16.1.2 Guide" file in the "Links Folder"
+
 **1.16.40**
 - Lit Respawn Anchors can be obtained by mining them with silk touch, this allows for 4 different types of Respawn Anchors
 - Pistons can extend below y-level 0
