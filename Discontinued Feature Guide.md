@@ -171,7 +171,9 @@
 - Breaking Nether Sprouts will drop invisible tile nether sprouts
 
 **1.16.1.2**
-- You can exploit commands in this version by removing the space between the /give and the @ symbol. This can give you infinite amount of illegals including bedrock, spawn eggs, top slabs, command blocks, and weird blocks in the furnace fuel slot. List of Illegals are in the "1.16.1.2 Guide" file in the "Links Folder"
+- You can exploit commands in this version by removing the space between the /give and the @ symbol. This will not turn off achievements allowing for commands in a vanilla world. This can give you infinite amount of illegals including bedrock, spawn eggs, top slabs, command blocks, and weird blocks in the furnace fuel slot. List of Illegals are in the "1.16.1.2 Guide" file in the "Links Folder". Using this glitch may be considered cheating but it relies on personal preference, some commands will be for sure considered cheating. 
+- Giving yourself an item with durability and adding the metadata of 9999 will give you negative durability items. So using the /give@s netherite_sword 1 9999 will give you a negative durability netherite sword. Combining 4 of these negative durability items in a crafting recipe will give you an unbreakable item with infinite durability.
+- Using the /execute command you can obtain a lot of other commands by using /execute@s ~ ~ ~ and then your command. Using this method with the /replaceitem command can give you many different items in the furnace output slot and many different items in mobs offhand.
 
 **1.16.40**
 - Lit Respawn Anchors can be obtained by mining them with silk touch, this allows for 4 different types of Respawn Anchors
