@@ -337,3 +337,35 @@
 - Breaking Mangrove leaves with shears can drop leaves that don't stack with each other
 - Placing a stonecutter in the east/west direction and mining it with silk touch will drop a stonecutter facing the wrong way in the inventory. They will stack with normal stonecutter.
 - Iron Bars/Glass Panes don't connect to mangrove roots
+- Pushing a lit TNT into a portal at the exact same time it explodes, it will summon an unstable tnt that appears all white and will stay that way forever
+
+**1.19.2**
+- Shulkers inflict Levitation 2 instead of Levitation 1. To keep this effect, you can let a shulker hit any scoopable mob and promptly scoop the mob with a bucket after it gets hit.
+
+**Preview 1.19.50.21**
+- When camels are bred, they use their current speed rather than their base speed. Therefore if camels are bred together after being splashed with swiftness  or slowness potions, their offspring will be faster/slower than their parents. This breeding process can be repeated endlessly.
+
+**1.19.70**
+- Inside Woodland Mansions, it is possible to get Efficiency I leather chestplate. The Efficiency I Chestplates are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+- Mobs bigger than the boats themselves can fit in it. The following mobs include: Ravagers, Horses, Skeleton Horses, Donkeys, Mules, Spiders, Iron Golems, Snow Golems, Guardians, Elder Guardians, Pandas, Polar Bears, Slimes, Magma Cubes, Ghasts, Zoglins, and Hoglins.
+> [!CAUTION]
+> If you get this illegal you won't be able to play 1.20.0, otherwise all mobs in a boat will be ejected. You must skip/wait for 1.20.10 to join without casualities
+- Requires Experiment: Suspicious Sand can be waterlogged
+
+**Preview 1.19.70.26**
+- Suspicious Sand can be obtained by letting it fall onto an item frame
+- Decorated Pots stack with each other
+
+**Preview 1.19.80.21**
+- Suspicious Gravel can be obtained by letting it fall onto an item frame
+
+**1.20.12**
+- Inside Woodland Mansions, it is possible to get Efficiency I leather leggings. The Efficiency I Leggings are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+- Shearing grass in the meadows biome will drop a short grass item that has the title "Fern", the "Fern" will have the texture of the short grass and the name will be from the Fern. This item will be removed as of 1.21.30
+- Quickly replacing the bottom of a pitcher plant/bamboo stalk/ or two tall dripleaf with a pitcher pod/bamboo/big dripleaf will make a double dripleaf, a bamboo shoot on top of a bamboo stalk/ and a glitched pitcher pod.
+- Breaking a Decorated Pot with empty sides using your hand, the pot will drop & retain its design, but the sides that were originally crafted with bricks now show as "item...name" in the inventory
+- Zombies, Husks, Drowneds, Zombified Piglins, Zombie Villagers, Skeletons, and Strays can wear illager banners when dispensed on them
+- Letting a creeper fall into a sliced portal just as it explodes will make the creeper peaceful and unable to explode.
+- Replacing the outer portal blocks of a portal (the portal blocks that are touching the obsidian) with powdersnow/water/or lava and at the same time going through a sliced portal will leave the portal blocks intact and it will create a powder snow/water/lava portal
+- Letting a chicken fall into a minecart or a boat will make the chicken an always flapping chicken
+- Placinga grass block in the center and then doing a checkerboard pattern of the block you want to catch fire on and grass blocks all the way to the reach of lava. Placing lava on the center block, and when the lava is done spreading, pick up the lava and spam clicking bonemeal on the center block can catch fire on the blocks causing a chance of an Always Burning Fire on the block of your choice.
