@@ -346,12 +346,18 @@
 **Preview 1.19.50.21**
 - When camels are bred, they use their current speed rather than their base speed. Therefore if camels are bred together after being splashed with swiftness  or slowness potions, their offspring will be faster/slower than their parents. This breeding process can be repeated endlessly.
 
+**Preview 1.19.50.21 - Preview 1.19.50.20 (UBC)**
+- Downgrading Double Bamboo Slabs and Double Mosaic Bamboo Slabs from 1.19.50.21 as a block to 1.19.50.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you Double Bamboo Slabs and Double Mosaic Bamboo Slabs as a tile item.
+
 **1.19.70**
 - Inside Woodland Mansions, it is possible to get Efficiency I leather chestplate. The Efficiency I Chestplates are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
 - Mobs bigger than the boats themselves can fit in it. The following mobs include: Ravagers, Horses, Skeleton Horses, Donkeys, Mules, Spiders, Iron Golems, Snow Golems, Guardians, Elder Guardians, Pandas, Polar Bears, Slimes, Magma Cubes, Ghasts, Zoglins, and Hoglins.
 > [!CAUTION]
 > If you get this illegal you won't be able to play 1.20.0, otherwise all mobs in a boat will be ejected. You must skip/wait for 1.20.10 to join without casualities
 - Requires Experiment: Suspicious Sand can be waterlogged
+
+**Preview 1.19.70.23 - Preview 1.19.70.22**
+-Downgrading the Torchflower crop from 1.19.70.23 as a block to 1.19.70.22 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Torchflower as a tile item.
 
 **Preview 1.19.70.26**
 - Suspicious Sand can be obtained by letting it fall onto an item frame
