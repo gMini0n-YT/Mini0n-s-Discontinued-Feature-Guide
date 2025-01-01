@@ -346,7 +346,7 @@
 **Preview 1.19.50.21**
 - When camels are bred, they use their current speed rather than their base speed. Therefore if camels are bred together after being splashed with swiftness  or slowness potions, their offspring will be faster/slower than their parents. This breeding process can be repeated endlessly.
 
-**Preview 1.19.50.21 - Preview 1.19.50.20 (UBC)**
+**Preview 1.19.50.21 - Preview 1.19.50.20 (UBC) (Experimental)**
 - Downgrading Double Bamboo Slabs and Double Mosaic Bamboo Slabs from 1.19.50.21 as a block to 1.19.50.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you Double Bamboo Slabs and Double Mosaic Bamboo Slabs as a tile item.
 
 **1.19.70**
@@ -356,7 +356,7 @@
 > If you get this illegal you won't be able to play 1.20.0, otherwise all mobs in a boat will be ejected. You must skip/wait for 1.20.10 to join without casualities
 - Requires Experiment: Suspicious Sand can be waterlogged
 
-**Preview 1.19.70.23 - Preview 1.19.70.22**
+**Preview 1.19.70.23 - Preview 1.19.70.22 (UBC) (Experimental)**
 -Downgrading the Torchflower crop from 1.19.70.23 as a block to 1.19.70.22 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Torchflower as a tile item.
 
 **Preview 1.19.70.26**
@@ -380,6 +380,9 @@
 **1.20.40**
 - Putting Baby Camels and Baby Sniffers in a boat won't eject them when they grow up
 
+**Preview 1.20.50.22 - Preview 1.20.50.21 (UBC) (Experimental)**
+- Downgrading a Double Tuff Slab, Double Tuff Brick Slab and Double Polished Tuff Slab (with 1.21 experiment) from 1.20.50.22 as a block to 1.20.50.21 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Tuff Slab, Double Tuff Brick Slab and Double Polished Tuff Slab as a tile item.
+
 **1.20.50**
 - Inside Woodland Mansions, it is possible to get Efficiency I leather boots. The Efficiency I Boots are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
 
@@ -392,6 +395,9 @@
 **1.20.62**
 - Naming a Campfire and then placing it will give the campfire a hovering name tag above it
 - Naming a boat/chestboat and then placing it will give th boat a hovering name tag above it
+
+**Preview 1.20.70.21 - Preview 1.20.70.20 (UBC) (Experimental)**
+- Downgrading the Vault Block from 1.20.70.21 as a block to 1.20.70.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Vault Block as a tile item.
 
 **1.20.71**
 - Placing a painting on standing signs and then placing (item frames, wall signs, banners) on the sign will create glitched out paintings
@@ -414,14 +420,24 @@
 **Preview 1.21.10.20**
 - Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Boots. The Efficiency I Boots are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
 
+**Preview 1.21.0.25 - Preview 1.21.0.23 (UBC) (Experimental)**
+> [!CAUTION]
+> Petrified Oak Slabs will be deleted in version 1.21.0.24 (but not double petrified oak slabs), storing petrified oak slab items in a mined shulker boxes or unloaded chunks to preserve them
+- Downgrading Double Petrified Oak Slabs from 1.21.0.25 as a block to 1.21.0.23 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Petrified Oak Slab as a tile item.
+
 **1.21.0**
 - Placing Powder Snow next to cactus won't break the cactus
 - Placing a 9+ high snowlayer on a pice of foliage and then breakinng the snow block will cause the extra snow layers to float above the foliage.
 - when Deepslate Redstone Ore is lit up , it never turns off
 
+**Preview 1.21.10.22 - Preview 1.21.10.21**
+- Downgrading these Double slabs: (red sandstone, purpur, prismarine, prismarine brick, dark prismarine, mossy cobblestone, smooth sandstone, red nether brick, endstone brick, smooth red sandstone, polished andesite, diorite, polished diorite, andesite, granite, polished granite,mossy stone brick, smooth quartz, stone, cut sandstone, cut red sandstone, oak) from 1.21.10.22 as a block to 1.21.10.21 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Slab version of those slabs as a tile item.
+
 **Preview 1.21.30.23 (Bundle Experiment)**
 > [!CAUTION]
 > !!!WARNING!!! Starting in 1.21.30.23, many tile illegals will be removed as of this update including the Sugarcane Tile, Door Tiles, Cauldron Tiles, Hopper Tiles, item.nether_sprouts.name, Skull Tiles, Camera Block (Item), Brewing Stand Tile, Bed Tiles, Flower Pot Tiles, Structure Air, Kelp Tile, Nether Wart Tile, Crop Tiles, Cake Tiles
+> Camera Blocks will be removed as an item, placing them down in block form will save them and preserve them, the Camera Block Entity Spawn Egg will not be removed
+- All UBC unknown blocks will turn into the respective item that you mined up
 - Inside Woodland Mansions, it is possible to get Efficiency I Iron Helmet. The Efficiency I Helmet are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
 - Because of ID Changes in this version Glitched Slabs from 1.11.0.1 will turn in into the respectible Double Slab state
 - Curse of Binding V & Curse of Vanishing III from 1.2.13.8 appear to be removed because of the name change but the illegal enchantment levels are still there.
