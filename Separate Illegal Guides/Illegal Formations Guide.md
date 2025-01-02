@@ -124,3 +124,7 @@ ________________________________________________________________________________
 
 **Beta 1.18.10.24 (Experimental)**
 - Glow Lichen can be placed on Frog Eggs
+
+**1.18.12**
+- Gravity Blocks will not fall if placed directly above top snow
+- Red & Brown Mushroom Blocks, Chorus Plants & Flowers, Iron & Gold Nuggets and Nether Bricks can be placed into the fuel slot in Furnaces
