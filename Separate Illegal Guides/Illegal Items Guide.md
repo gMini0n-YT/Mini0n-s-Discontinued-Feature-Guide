@@ -121,3 +121,6 @@ ________________________________________________________________________________
 
 **1.10.0 - beta 1.11.0.1**
 - Updating a slab from 1.10.0 to 1.11.0.1 will cause them to convert to Double Slab. All slabs will convert excluding all wood slabs, Petrified Oak Slabs can be converted into their double slab state. In versions after 1.11.0.1 they will appear as glitched slabs that cannot be placed or they will switch to different looking slabs, but they are still illegal. After 1.21.30 they will have the texture of double slabs.
+
+**1.14.0**
+- Permanent Open Barrels can be made by pushing a Barrel via piston while opening it at the same time
