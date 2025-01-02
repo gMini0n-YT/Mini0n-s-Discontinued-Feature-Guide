@@ -36,3 +36,6 @@ ________________________________________________________________________________
 
 **Preview 1.20.10.20 - 1.20.1**
 - Downgrading Dyed Shulker Boxes as blocks from 1.20.10.20 - 1.20.1 will convert them to unknown blocks. Using this method, mining up the unknown blocks and letting them stack can give you stacked shulker boxes and if you put them in an undyed shulker boxes they will be stacked shulker boxes in a shulker box so it will be considered a double illegal. Downgrading to 1.20.1 can not be done without file editing unless you use the 0.12.1 method. The 0.12.1 method is basically downgrading your client and if you rename your world in 0.12.1 without entering the world, the world will downgrade without getting any corruption. So updating to 1.20.1 will load the world and cause no corruption. 
+
+**Preview 1.20.50.22 - Preview 1.20.50.21 (UBC) (Experimental)**
+- Downgrading a Double Tuff Slab, Double Tuff Brick Slab and Double Polished Tuff Slab (with 1.21 experiment) from 1.20.50.22 as a block to 1.20.50.21 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Tuff Slab, Double Tuff Brick Slab and Double Polished Tuff Slab as a tile item.
