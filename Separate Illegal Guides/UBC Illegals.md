@@ -27,3 +27,6 @@ ________________________________________________________________________________
 
 **1.18.30.33 - 1.18.30.31 (Experimental) (UBC)**
 - Downgrading Reinforced Deepslate from 1.18.30.33 as a block to 1.18.30.31 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you Reinforced Deepslate as a tile item.
+
+**Preview 1.19.50.21 - Preview 1.19.50.20 (UBC) (Experimental)**
+- Downgrading Double Bamboo Slabs and Double Mosaic Bamboo Slabs from 1.19.50.21 as a block to 1.19.50.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you Double Bamboo Slabs and Double Mosaic Bamboo Slabs as a tile item.
