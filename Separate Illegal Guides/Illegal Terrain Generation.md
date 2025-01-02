@@ -26,3 +26,6 @@ ________________________________________________________________________________
 > [!Note]
 > If your phone is crashing upon creating a world in 0.6.0, you can unzip the "Cross Dimension Chunk Template" zip file and move the extracted folder to "games > com.mojang > minecraftWorlds" Note: this may be considered cheating because it does require you to move world files
 - You can get Cross Dimension Chunks (e.g. Overworld Chunks in the end/nether) by entering the end at these specific coordinates 115, 100, 149 in 1.16.40. Downgrade your client to 0.6.0 and create a world in 0.6.0 with the same seed as your 1.16.40 save. After loading the world, disconnect from the world and move the db folder of the 1.16.40 world to the 0.6.0 save. Once done upgrade back to 1.16.40 and change the world to infinite, it may crash but just reload minecraft and just try again.
+
+**1.16.100**
+- Placing an end gateway on the central pillar of the end fountain when the dragon perches, it will freeze the dragon. After relogging an end gateway will appear where the ender dragon was. This allows for over 20 end gateways in the main end island.
