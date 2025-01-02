@@ -34,3 +34,5 @@ ________________________________________________________________________________
 > [!NOTE] To update an old world to an infinite world in this version will require file editing. This can be done by changing the "generator:0" value in the level.dat file to "generator:1". This will change the world to infinite.
 - Furnaces that are generated in Villages in this version have a data value of 0 and have no visible face
 
+**0.12.1 alpha (Android)**
+- Placing a sponge underwater won't absorb the water
