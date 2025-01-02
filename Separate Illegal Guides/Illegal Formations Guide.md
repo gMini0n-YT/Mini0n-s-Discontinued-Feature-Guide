@@ -36,3 +36,9 @@ ________________________________________________________________________________
 
 **0.12.1 alpha (Android)**
 - Placing a sponge underwater won't absorb the water
+
+**0.17.0.1 alpha (Android)**
+> [!CAUTION]
+> PDV: Hitting a Mob or getting hit by a mob will crash the game.
+
+- Wet Sponge does not turn into Dry Sponge in the Nether
