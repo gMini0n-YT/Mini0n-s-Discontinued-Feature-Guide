@@ -156,3 +156,11 @@ ________________________________________________________________________________
 - Replacing the outer portal blocks of a portal (the portal blocks that are touching the obsidian) with powdersnow/water/or lava and at the same time going through a sliced portal will leave the portal blocks intact and it will create a powder snow/water/lava portal
 - Letting a chicken fall into a minecart or a boat will make the chicken an always flapping chicken
 - Placinga grass block in the center and then doing a checkerboard pattern of the block you want to catch fire on and grass blocks all the way to the reach of lava. Placing lava on the center block, and when the lava is done spreading, pick up the lava and spam clicking bonemeal on the center block can catch fire on the blocks causing a chance of an Always Burning Fire on the block of your choice.
+
+**1.20.62**
+- Naming a Campfire and then placing it will give the campfire a hovering name tag above it
+- Naming a boat/chest boat and then placing it will give the boat a hovering name tag above it
+
+**1.20.71**
+- Placing a painting on standing signs and then placing (item frames, wall signs, banners) on the sign will create glitched out paintings
+- Blowing up an end crystal at the same time a piston extends will make the piston head walk through which makes it possible to create crossing pistons
