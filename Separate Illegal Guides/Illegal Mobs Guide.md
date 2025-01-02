@@ -47,3 +47,7 @@ ________________________________________________________________________________
 
 **1.16.100**
 - Zombies and Skeletons put shields in their wrong hand. So when updating to later versions and giving the mob an extra shield will put the second shield in the correct hand allowing for double wielding mobs with shields.
+
+**1.16.201**
+- Pushing End Crystals with a flying machine while summoning the ender dragon, will keep the ender crystal from updating, because of this they will stay indestructible and permanently have the summoning beam
+- Punching an End Crystal while summoning the Ender Dragon, and standing in the exit portal will send you back to the overworld. As a result you will have 4 beaming crystals at your exit portal and they will be destructible. You sometimes may get 3 end crystals at your exit portal depending on the speed you go back to the Overworld.
