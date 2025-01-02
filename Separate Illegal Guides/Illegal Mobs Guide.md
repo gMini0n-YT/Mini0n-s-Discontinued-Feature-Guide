@@ -56,3 +56,12 @@ ________________________________________________________________________________
 - Foxes can put on armor by dropping it to them. It won't be visible unless you use the "Discontinued Feature Texture Pack"  in the "Texture Pack" folder.
 - Glowstone can be dispensed on hostile mobs that can wear armor, armor stands, and players. It won't be visible unless you use the "Discontinued Feature Texture Pack"  in the "Texture Pack" folder.
 - When animals and villagers are bred, they use the current speed rather than the base speed. So by splashing two animals/villagers with splash potion of speed or slowness and then breeding them, the offspring will be faster/slower than their parents. This process can be repeated endlessly
+
+**1.17.0**
+- Vindicators can spawn from Patrols when the world difficulty is set to Hard. Making it possible to obtain Vindicator Patrol followers and Patrol Captains. Vindicator Patrol Captains can be distinguished from normal Vindicators with the Discontinued Feature Tweaks texture pack
+- Tying an axolotl to a fence/wall and scooping the axolotl up with a water bucket will not remove the leash knot on the fence/wall and the axolotls will remain unattached and unleashable
+- Leashing Axolotls before scooping them up won't unleash the axolotl
+- When a mob is left with only one heart and is simultaneously struck by an Instant Health Potion and an Instant Damage Potion, the mob becomes invincible. If the mob appears red and shaking, rejoining the game will restore its normal appearance
+
+**1.17.10**
+- Picking up a fish or anything else that can go in a bucket as it dies, gives you a dead animal in a bucket
