@@ -12,3 +12,6 @@ ________________________________________________________________________________
 
 **0.12.0 alpha (Android)**
 - Iron golems in this version have no knockback resistance
+
+**0.15.9 alpha (Android)**
+- Taming Cats in this version and leaving them in unloaded chunks until **1.8.0.8** will turn them into Tamed Ocelots
