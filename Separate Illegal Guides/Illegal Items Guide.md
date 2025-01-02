@@ -213,3 +213,15 @@ ________________________________________________________________________________
 - Inside Woodland Mansions, it is possible to get Efficiency I leather leggings. The Efficiency I Leggings are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
 - Shearing grass in the meadows biome will drop a short grass item that has the title "Fern", the "Fern" will have the texture of the short grass and the name will be from the Fern. This item will be removed as of 1.21.30
 - Breaking a Decorated Pot with empty sides using your hand, the pot will drop & retain its design, but the sides that were originally crafted with bricks now show as "item...name" in the inventory
+
+**Preview 1.20.50.22 - Preview 1.20.50.21 (UBC) (Experimental)**
+- Downgrading a Double Tuff Slab, Double Tuff Brick Slab and Double Polished Tuff Slab (with 1.21 experiment) from 1.20.50.22 as a block to 1.20.50.21 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Tuff Slab, Double Tuff Brick Slab and Double Polished Tuff Slab as a tile item.
+
+**1.20.50**
+- Inside Woodland Mansions, it is possible to get Efficiency I leather boots. The Efficiency I Boots are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+
+**Preview 1.20.60.20**
+- Mining decorated pots with loot tables using a silk touch pickaxe won't remove the loot table tag
+
+**1.20.60 (Experimental)**
+-  Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Helmet. The Efficiency I Helmet are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
