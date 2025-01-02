@@ -18,3 +18,10 @@ ________________________________________________________________________________
 - Gravity Blocks like Sand or Gravel will not fall if a block is broken underneath them.
 - Placing a Door on Farmland will remove the bottom half of the Door leaving the Top Half of the Door standing
 - Tilling Dirt underwater will give you Underwater Farmland
+
+**0.6.0 alpha (Android)**
+- Placing a slab adjacent to the world border and attempting to place a block that needs support (e.g. torches, levers, ladders) on the side of the slab will place them on the world border. When updating the world to infinite this will give you floating torches, levers, or ladders
+
+**0.8.0 alpha (Android)**
+- Cacti can grow adjacent to blocks
+- Placing Torches on the side of a block and placing a painting on the same block will overlap the painting and the torches
