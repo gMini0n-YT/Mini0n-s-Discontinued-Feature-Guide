@@ -167,3 +167,6 @@ ________________________________________________________________________________
 
 **1.17.40**
 - Pushing a button and subsequently breaking it with Silk Touch will give you Pushed Buttons as an item
+
+**1.18.10.26 - 1.18.10.22**
+- Making a Banner with the Globe Pattern and downgrading to 1.18.10.22 turns the globe banner pattern on the banner into "item.banner.base.x", where "x" represents the color. Globe banners will keep the globe banner tag, which means they will revert to normal banners when upgrading back. To avoid this, simply place the banners down and break them. This will remove the globe banner tag and preserve the "item.banner.base.x" tag
