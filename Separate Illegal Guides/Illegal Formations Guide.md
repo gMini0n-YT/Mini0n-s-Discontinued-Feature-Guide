@@ -117,3 +117,10 @@ ________________________________________________________________________________
 
 **Beta 1.17.40.21**
 - Flowers in Meadows can replace blocks from structures like village houses, which can make Discontinued Block Formations
+
+**1.18.0**
+- Placing walls under floating candles will cause the walls to fully stretch
+- Scaffolding at y=1 will not update and fall if there is no block below it
+
+**Beta 1.18.10.24 (Experimental)**
+- Glow Lichen can be placed on Frog Eggs
