@@ -65,3 +65,18 @@ ________________________________________________________________________________
 
 **1.17.10**
 - Picking up a fish or anything else that can go in a bucket as it dies, gives you a dead animal in a bucket
+
+**1.18.0**
+- Pushing piglins through a nether portal while they are trying to barter with the player will force them to put the item that was given to them into their offhand, making them dual wielding mobs
+- Pushing a villager through a nether portal while it is holding something will make the villager permanently hold the item. Do not hold an item that the villager wants once it is permanently holding an item or else it will stop holding it
+- Librarians only require one book&quill instead of two
+- Cartographers offer bedrock-specific banner patterns (Bordure Indented, Field Masoned) or the Flower Charge banner pattern on their master level trade
+- Butchers have cooked beef, cooked rabbit, and cooked mutton trades
+- Journeyman Armorer do not trade diamonds for emeralds
+- Novice Weaponsmiths do not trade Iron swords for emeralds
+- Apprentice Weaponsmiths trade enchanted iron swords
+- Journeyman Clerics sell 1 glowstone dust for 4 emeralds
+- Fishermen Boat trades do not change the wood type based on villager biome type, allowing you to obtain fishermen with mismatched wood type boats
+
+**1.18.10**
+- It is possible to obtain villagers with incorrect trades, such as a fletcher with stone mason trades. To achieve this, follow these steps: First, place 20 beds, with 19 of them corresponding to one type of workstation and 1 bed with a different type of workstation. Next, bring 20 villagers to the area where you have set up the beds and workstations. Then you have to zombify all the villagers (for a 100% zombification rate, ensure you are in hard mode). Once they are zombified, you can cure them. If done correctly, one of the villagers should have incorrect trades. This occurs because the villager retains their profession after being zombified, but during the curing process, there is a brief moment when they can change professions before returning to their original state. Please note that this method does not guarantee a 100% success rate
