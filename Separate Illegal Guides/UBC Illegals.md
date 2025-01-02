@@ -30,3 +30,9 @@ ________________________________________________________________________________
 
 **Preview 1.19.50.21 - Preview 1.19.50.20 (UBC) (Experimental)**
 - Downgrading Double Bamboo Slabs and Double Mosaic Bamboo Slabs from 1.19.50.21 as a block to 1.19.50.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you Double Bamboo Slabs and Double Mosaic Bamboo Slabs as a tile item.
+
+**Preview 1.19.70.23 - Preview 1.19.70.22 (UBC) (Experimental)**
+-Downgrading the Torchflower crop from 1.19.70.23 as a block to 1.19.70.22 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Torchflower as a tile item.
+
+**Preview 1.20.10.20 - 1.20.1**
+- Downgrading Dyed Shulker Boxes as blocks from 1.20.10.20 - 1.20.1 will convert them to unknown blocks. Using this method, mining up the unknown blocks and letting them stack can give you stacked shulker boxes and if you put them in an undyed shulker boxes they will be stacked shulker boxes in a shulker box so it will be considered a double illegal. Downgrading to 1.20.1 can not be done without file editing unless you use the 0.12.1 method. The 0.12.1 method is basically downgrading your client and if you rename your world in 0.12.1 without entering the world, the world will downgrade without getting any corruption. So updating to 1.20.1 will load the world and cause no corruption. 
