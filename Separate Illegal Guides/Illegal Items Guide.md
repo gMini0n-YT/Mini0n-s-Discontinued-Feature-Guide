@@ -189,3 +189,9 @@ ________________________________________________________________________________
 **1.19.0**
 - Breaking Mangrove leaves with shears can drop leaves that don't stack with each other
 - Placing a stonecutter in the east/west direction and mining it with silk touch will drop a stonecutter facing the wrong way in the inventory. They will stack with normal stonecutter.
+
+**Preview 1.19.50.21 - Preview 1.19.50.20 (UBC) (Experimental)**
+- Downgrading Double Bamboo Slabs and Double Mosaic Bamboo Slabs from 1.19.50.21 as a block to 1.19.50.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you Double Bamboo Slabs and Double Mosaic Bamboo Slabs as a tile item.
+
+**1.19.70**
+- Inside Woodland Mansions, it is possible to get Efficiency I leather chestplate. The Efficiency I Chestplates are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
