@@ -92,3 +92,8 @@ ________________________________________________________________________________
 
 **Preview 1.19.50.21**
 - When camels are bred, they use their current speed rather than their base speed. Therefore if camels are bred together after being splashed with swiftness  or slowness potions, their offspring will be faster/slower than their parents. This breeding process can be repeated endlessly.
+
+**1.19.70**
+- Mobs bigger than the boats themselves can fit in it. The following mobs include: Ravagers, Horses, Skeleton Horses, Donkeys, Mules, Spiders, Iron Golems, Snow Golems, Guardians, Elder Guardians, Pandas, Polar Bears, Slimes, Magma Cubes, Ghasts, Zoglins, and Hoglins.
+> [!CAUTION]
+> If you get this illegal you won't be able to play 1.20.0, otherwise all mobs in a boat will be ejected. You must skip/wait for 1.20.10 to join without casualities
