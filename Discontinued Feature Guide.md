@@ -1,3 +1,14 @@
+______________________________________________________________________________________________________________________________________
+***KEY WORDS***
+
+**(Android)**: Android Exclusive Version
+<br>
+**(UBC)**: The process of downgrading a block to another version converting it to an Unknown Block, mining it up, and then upgrading to 1.21.30 to obtain the block
+<br>
+**(Experimental)**: Turning on the Experimental Toggle
+<br>
+**(X.XX.XX.X - Y.YY.YY.Y)**: Version Upgrading or Downgrading from and to 
+______________________________________________________________________________________________________________________________________
 **0.2.0 alpha (Android)**
 - Water, lava, fire, or snow could be replaced with Sugarcane, Cactus, and Ladders to create Cactus on grass, Sugarcane on Stone without water, or Floating Invisible Ladders. Due to the replacement of the block bypassing the initial update check, the blocks can be placed. 
 
@@ -54,7 +65,7 @@
 **0.15.2.1 alpha (Android)**
 - Doors have a durability of 66 in this version and keep their damage value upon updating. Stacking Normal Doors with Durability Doors will remove the durability of the door.
 
-**0.15.0 - 0.12.1 alpha (Android) (Downgrading without File Editing)**
+**0.15.0 - 0.12.1 alpha (Android)**
 - Downgrading from **0.15.0** to **0.12.1** alpha will transform these enchants which will transform back when updating: Fortune -> Power, Silk Touch -> Unbreaking, Infinity - Luck of the Sea. So putting Unbreaking on any item in **0.12.1** and then updating back to **0.15.0** will give you Silk Touch on any item. Putting Luck of the Sea on a Fishing Rod in **0.12.1** and updating to **0.15.0** will give you an Infinity Fishing Rod. Putting Power IV/V on a Book or Bow will give you a Fortune IV/V Book or Bow. Finally combining Power 1-5 and Unbreaking can give you a Silk Touch and Fortune enchantment on the same book. 
 
 **0.15.9 alpha (Android)**
