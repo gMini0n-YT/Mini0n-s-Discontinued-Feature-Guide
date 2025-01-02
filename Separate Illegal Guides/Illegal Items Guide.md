@@ -225,3 +225,49 @@ ________________________________________________________________________________
 
 **1.20.60 (Experimental)**
 -  Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Helmet. The Efficiency I Helmet are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+
+**Preview 1.20.70.21 - Preview 1.20.70.20 (UBC) (Experimental)**
+- Downgrading the Vault Block from 1.20.70.21 as a block to 1.20.70.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Vault Block as a tile item.
+
+**1.20.72 (Experimental)**
+- Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Chestplate. The Efficiency I Chestplate are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+
+**Preview 1.21.0.22**
+- Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Leggings. The Efficiency I Leggings are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+
+**Preview 1.21.0.23**
+> [!CAUTION]
+> Before updating to this version, make sure to put all your petrified oak slabs in an unplaced shulker box or they will turn into Stone Brick Slabs until 1.21.10.20
+- Enchant a mace with at least Density V, Breach IV, & Bane of Arthopods/Smite V, if you do so you will have almost every enchant on a mace. Density V, Breach IV, & Bane of Arthropods/Smite V are incompatible with each other in normal versions
+
+**Preview 1.21.0.23 - Preview 1.21.0.21**
+- Wearing down two maces to about 200ish durability, then downgrading to 1.21.0.21, their durability becomes negative. You can then combine them with an anvil to make their durability go down even more, and to ensure it stays negative when updating back.
+
+**Preview 1.21.10.20**
+- Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Boots. The Efficiency I Boots are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+
+**Preview 1.21.0.25 - Preview 1.21.0.23 (UBC) (Experimental)**
+> [!CAUTION]
+> Petrified Oak Slabs will be deleted in version 1.21.0.24 (but not double petrified oak slabs), storing petrified oak slab items in a mined shulker boxes or unloaded chunks to preserve them
+- Downgrading Double Petrified Oak Slabs from 1.21.0.25 as a block to 1.21.0.23 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Petrified Oak Slab as a tile item.
+
+**1.21.0**
+- Placing Powder Snow next to cactus won't break the cactus
+- Placing a 9+ high snowlayer on a pice of foliage and then breakinng the snow block will cause the extra snow layers to float above the foliage.
+- when Deepslate Redstone Ore is lit up , it never turns off
+
+**Preview 1.21.10.22 - Preview 1.21.10.21**
+- Downgrading these Double slabs: (red sandstone, purpur, prismarine, prismarine brick, dark prismarine, mossy cobblestone, smooth sandstone, red nether brick, endstone brick, smooth red sandstone, polished andesite, diorite, polished diorite, andesite, granite, polished granite,mossy stone brick, smooth quartz, stone, cut sandstone, cut red sandstone, oak) from 1.21.10.22 as a block to 1.21.10.21 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Slab version of those slabs as a tile item.
+
+**Preview 1.21.30.23 (Bundle Experiment)**
+> [!CAUTION]
+> !!!WARNING!!! Starting in 1.21.30.23, many tile illegals will be removed as of this update including the Sugarcane Tile, Door Tiles, Cauldron Tiles, Hopper Tiles, item.nether_sprouts.name, Skull Tiles, Camera Block (Item), Brewing Stand Tile, Bed Tiles, Flower Pot Tiles, Structure Air, Kelp Tile, Nether Wart Tile, Crop Tiles, Cake Tiles
+> Camera Blocks will be removed as an item, placing them down in block form will save them and preserve them, the Camera Block Entity Spawn Egg will not be removed
+- All UBC unknown blocks will turn into the respective item that you mined up
+- Inside Woodland Mansions, it is possible to get Efficiency I Iron Helmet. The Efficiency I Helmet are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+- Because of ID Changes in this version Glitched Slabs from 1.11.0.1 will turn in into the respectible Double Slab state
+- Curse of Binding V & Curse of Vanishing III from 1.2.13.8 appear to be removed because of the name change but the illegal enchantment levels are still there.
+- If you obtained the Bed tiles from 0.12.0, they will convert to normal beds, so stacking bed tiles will result in overstacked beds.
+
+**Preview 1.21.30.24**
+- Maces could stack to 64 allowing for overstacked maces
