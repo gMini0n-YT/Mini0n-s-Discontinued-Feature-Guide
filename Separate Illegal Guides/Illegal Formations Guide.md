@@ -88,3 +88,6 @@ ________________________________________________________________________________
 - Pushing a detector rail with a minecart on it, and breaking the minecart will give you a Permanently Powered Detector Rail
 - Placing non-full blocks (e.g. Enchanting Tables, Slabs, Trapdoors) in snow-covered flowers, the flowers will won't break. This allows for flower-logged blocks.
 - End Portals do not trigger Block updates. So by flower-logging the end portal frames and activating them below gravity blocks and then breaking the grass block underneath the end portals, the end portal frames will break leaving floating gravity blocks.
+
+**Beta 1.17.0.58 - Beta 1.16.210.54 (Experimental)**
+- Powder Snow Buckets can be obtained in 1.17.0.58 through Cauldrons. So downgrading these buckets to 1.16.210.54, you can Powder Snow-log non-full blocks by placing the Powder Snow Bucket on the block adjacent to the block you want to snowlog
