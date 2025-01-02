@@ -80,3 +80,6 @@ ________________________________________________________________________________
 
 **1.18.10**
 - It is possible to obtain villagers with incorrect trades, such as a fletcher with stone mason trades. To achieve this, follow these steps: First, place 20 beds, with 19 of them corresponding to one type of workstation and 1 bed with a different type of workstation. Next, bring 20 villagers to the area where you have set up the beds and workstations. Then you have to zombify all the villagers (for a 100% zombification rate, ensure you are in hard mode). Once they are zombified, you can cure them. If done correctly, one of the villagers should have incorrect trades. This occurs because the villager retains their profession after being zombified, but during the curing process, there is a brief moment when they can change professions before returning to their original state. Please note that this method does not guarantee a 100% success rate
+
+**1.18.10.26 - 1.18.10.22**
+- Downgrading a cartographer with the globe pattern trade from 1.18.10.26 to 1.18.10.22 turns the trade into an empty trade
