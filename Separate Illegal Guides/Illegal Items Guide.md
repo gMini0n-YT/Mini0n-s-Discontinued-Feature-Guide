@@ -173,3 +173,9 @@ ________________________________________________________________________________
 
 **Beta 1.18.20.21 (Experimental)**
 - Placing Frogspawns before this version and downgrading to 1.18.20.21 will turn them into unknown blocks, mining up the unknown blocks (making sure they do not stack), upgrading back to 1.21.30 will turn them into Frogspawn as an item
+
+**Beta 1.18.30.28 - Beta 1.18.30.22 (UBC)**
+- Downgrading Piston Head (Extended Piston), Sticky Piston Head (Extended Sticky Piston), Moving Block (you can use a constant push-pull system by using observer clocks and pistons to obtain the block before logging out), and Tripwire from 1.18.30.28 as a block to 1.18.30.22 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the tile.pistonarmcollision.name, tile.stickypistonarmcollision.name, tile.movingblock.name, and the Tripwire as a tile item.
+
+**1.18.30.33 - 1.18.30.31 (Experimental) (UBC)**
+- Downgrading Reinforced Deepslate from 1.18.30.33 as a block to 1.18.30.31 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you Reinforced Deepslate as a tile item.
