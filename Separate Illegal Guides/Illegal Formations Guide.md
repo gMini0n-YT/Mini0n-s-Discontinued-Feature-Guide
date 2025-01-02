@@ -80,3 +80,6 @@ ________________________________________________________________________________
 - Pistons can extend below y-level 0
 - Support Blocks can be placed on Chains
 - Endermen can pick up warped and crimson fungus and place it down on any other block
+
+**1.16.100**
+- Placing an end gateway on the central pillar of the end fountain when the dragon perches, it will freeze the dragon. After relogging an end gateway will appear where the ender dragon was. This allows for over 20 end gateways in the main end island.
