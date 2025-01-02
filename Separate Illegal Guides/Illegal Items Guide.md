@@ -185,3 +185,7 @@ ________________________________________________________________________________
 
 **Beta 1.19.0.20**
 - All copper horn variants can be obtained in this version, putting the copper horns in an unplaced shulker box will save their data even when they're removed in 1.19.0.24/25
+
+**1.19.0**
+- Breaking Mangrove leaves with shears can drop leaves that don't stack with each other
+- Placing a stonecutter in the east/west direction and mining it with silk touch will drop a stonecutter facing the wrong way in the inventory. They will stack with normal stonecutter.
