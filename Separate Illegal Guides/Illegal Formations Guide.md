@@ -132,3 +132,7 @@ ________________________________________________________________________________
 **Beta 1.18.20.23**
 - All types of Torches, redstone dust and Glow Lichen can be placed or attached to Brewing Stands
 - Azalea and Lily Pads don't break if water is flowing next to them
+
+**Beta 1.18.30.32**
+- If a charged Sculk Block is being pushed with a flying machine while it is generating Sculk Veins, it can generate Sculk Veins that are in mid-air
+- Reinforced Deepslate can be pushed by Pistons
