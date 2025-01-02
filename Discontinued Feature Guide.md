@@ -411,7 +411,7 @@ ________________________________________________________________________________
 
 **1.20.62**
 - Naming a Campfire and then placing it will give the campfire a hovering name tag above it
-- Naming a boat/chestboat and then placing it will give th boat a hovering name tag above it
+- Naming a boat/chest boat and then placing it will give the boat a hovering name tag above it
 
 **Preview 1.20.70.21 - Preview 1.20.70.20 (UBC) (Experimental)**
 - Downgrading the Vault Block from 1.20.70.21 as a block to 1.20.70.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Vault Block as a tile item.
@@ -469,4 +469,4 @@ ________________________________________________________________________________
 **1.21.51**
 - Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
 - Right clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
-- You are able to snow-log resin, skul veins, glow lichen, and dead bushes
+- You are able to snow-log resin, skull veins, glow lichen, and dead bushes
