@@ -161,3 +161,6 @@ ________________________________________________________________________________
 **1.17.0**
 - Mining a lit observer will keep its lit state in the inventory. Stacking lit observers with normal observers will revert them
 - Leashing Axolotls before scooping them up won't unleash the axolotl
+
+**1.17.10**
+- Picking up a fish or anything else that can go in a bucket as it dies, gives you a dead animal in a bucket
