@@ -30,3 +30,27 @@ ________________________________________________________________________________
 
 **0.8.0_test1 (Android)**
 - In this version, Logs can now be placed sideways. Mining up the sideways Logs will give you Invalid Data Value Logs
+
+**0.12.1 alpha (Android)**
+- Breaking Wall Signs, Standing Signs, Flower Pots, Skulls, Brewing Stands, and Beds with Silk Touch will make them drop their tile variant (e.g. tile.wall_sign.name, tile.sign.name, tile.flower_pot.name, tile.skull.name, tile.brewing_stand.name, tile.bed.name.
+- Renaming an item in this version adds anvil uses to the item which usually only happens to armor and tools increasing the XP cost of every time you rename it
+- Renaming items cuss words will not replace the word with * or #.
+- Obtaining pufferfish and raw salmon in this version will have a different data value then in newer versions and will not stack with newer pufferfish and raw salmon items
+- The Old Stonecutter Item can be obtained with 4 cobblestone
+- Mining up Glowing Obsidian will drop it as an item.
+- Blowing up a chest with enchanted book inside it will drop enchanted books without any enchantments on it
+
+**0.15.2.1 alpha (Android)**
+- Doors have a durability of 66 in this version and keep their damage value upon updating. Stacking Normal Doors with Durability Doors will remove the durability of the door.
+
+**0.15.0 - 0.12.1 alpha (Android)**
+- Downgrading from **0.15.0** to **0.12.1** alpha will transform these enchants which will transform back when updating: Fortune -> Power, Silk Touch -> Unbreaking, Infinity - Luck of the Sea. So putting Unbreaking on any item in **0.12.1** and then updating back to **0.15.0** will give you Silk Touch on any item. Putting Luck of the Sea on a Fishing Rod in **0.12.1** and updating to **0.15.0** will give you an Infinity Fishing Rod. Putting Power IV/V on a Book or Bow will give you a Fortune IV/V Book or Bow. Finally combining Power 1-5 and Unbreaking can give you a Silk Touch and Fortune enchantment on the same book.
+
+**0.16.0.5 alpha (Android)**
+- Shearing Mooshrooms will drop mushrooms with a damage value of -1
+
+**0.17.0.1 alpha (Android)**
+> [!CAUTION]
+> PDV: Hitting a Mob or getting hit by a mob will crash the game.
+- Mining Chorus Plants with silk touch will drop the item form of the Chorus Plant
+- In **0.17.0.1** it was possible to get Tipped Arrows from Lingering Awkward, Thick, or Mundane Potions. The Thick Tipped Arrow will appear as "tipped_arrow.effect.mundane.extended", but all the other ones will be titled Tipped Arrow and will not stack with each other.
