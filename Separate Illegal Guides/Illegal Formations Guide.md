@@ -150,3 +150,9 @@ ________________________________________________________________________________
 
 **1.19.70**
 - Requires Experiment: Suspicious Sand can be waterlogged
+
+**1.20.12**
+- Quickly replacing the bottom of a pitcher plant/bamboo stalk/ or two tall dripleaf with a pitcher pod/bamboo/big dripleaf will make a double dripleaf, a bamboo shoot on top of a bamboo stalk/ and a glitched pitcher pod.
+- Replacing the outer portal blocks of a portal (the portal blocks that are touching the obsidian) with powdersnow/water/or lava and at the same time going through a sliced portal will leave the portal blocks intact and it will create a powder snow/water/lava portal
+- Letting a chicken fall into a minecart or a boat will make the chicken an always flapping chicken
+- Placinga grass block in the center and then doing a checkerboard pattern of the block you want to catch fire on and grass blocks all the way to the reach of lava. Placing lava on the center block, and when the lava is done spreading, pick up the lava and spam clicking bonemeal on the center block can catch fire on the blocks causing a chance of an Always Burning Fire on the block of your choice.
