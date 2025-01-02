@@ -128,3 +128,7 @@ ________________________________________________________________________________
 **1.18.12**
 - Gravity Blocks will not fall if placed directly above top snow
 - Red & Brown Mushroom Blocks, Chorus Plants & Flowers, Iron & Gold Nuggets and Nether Bricks can be placed into the fuel slot in Furnaces
+
+**Beta 1.18.20.23**
+- All types of Torches, redstone dust and Glow Lichen can be placed or attached to Brewing Stands
+- Azalea and Lily Pads don't break if water is flowing next to them
