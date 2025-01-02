@@ -107,3 +107,17 @@ ________________________________________________________________________________
 - Water, flowing water, lava, and flowing lava can be obtained through various ways of Mining Block Transfer.
 - Using the CSC knowledge you can rename 27 items 16000 of one letter and putting them in one shulker and mining them will give you any one item from CSC depending on the letter. You can obtain any item from the CSC glitch with the IDs of -33 to -63 and 33 to 63. A giving an id of -33 and B giving and id of 33. This is a list of Elements and illegals with the letter/symbol that you can obtain them with in this spreadsheet: https://docs.google.com/spreadsheets/u/0/d/1kHdwFMY0aLSELdt6vEQ3p2LySG4ivMbEJv6oP-MihZI/edit?gid=0&pli=1&authuser=0#gid=0
 - Invalid oak buttons could be obtained in survival mode by mining an oak button with an enchanted Silk Touch tool. Note that the direction the player was facing determined the damage/metadata value the oak button had upon dropping as an item. Facing north would give a damage/metadata value of 3, facing east would give a value of 4, facing south would give a value of 2, facing down would give a value of 1, and facing up would give a value of 0. 
+
+**1.6.0.1**
+- Mining up the Mushroom Blocks from Huge Mushrooms found in Swamps and Dark Oak Forests can give you different data values of Mushrooom blocks from 1-9 and mining up the Mushroom Stems from Huge Mushrooms will give you a Data Value 10 Mushroom Block
+
+**Beta 1.8.0.8 (Android)**
+- Mining up a Double Slab will give you a Double Slab item depending on the type of slab used
+- Using a Bamboo based Farm, you can obtain Bedrock by using Mining Block Transfer. Tutorial by PRGRMR: https://www.youtube.com/watch?v=gA4l__oYjQ0, Full Tutorial Here: https://www.youtube.com/watch?v=xJ-5SR88RVs
+
+**1.9.0**
+- Brewing potions alongside glass bottles in the Brewing Stand adds a tag name "wasJustBrewed:1" to the glass bottle. These bottles will not stack with other bottles and will keep it's tag upon updating.
+- Mining up the Mushroom Blocks from Huge Mushrooms found in Swamps and Dark Oak Forests will give you a Mushroom Block with a data value of 0.
+
+**1.10.0 - beta 1.11.0.1**
+- Updating a slab from 1.10.0 to 1.11.0.1 will cause them to convert to Double Slab. All slabs will convert excluding all wood slabs, Petrified Oak Slabs can be converted into their double slab state. In versions after 1.11.0.1 they will appear as glitched slabs that cannot be placed or they will switch to different looking slabs, but they are still illegal. After 1.21.30 they will have the texture of double slabs.
