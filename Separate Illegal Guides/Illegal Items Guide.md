@@ -101,3 +101,9 @@ ________________________________________________________________________________
 
 **1.4.0**
 - Putting a TNT on a string that is connected to tripwire hooks and blowing it up, it can create a tripwire hook ghost block. If you mine the ghost block at the same time a portal lights you have an oppurtunity to obtain a portal tile. https://www.youtube.com/watch?v=dYYz6a0VyDQ
+
+**1.5.0**
+- Flowers, Saplings, and Dead Bushes can be waterlogged. Make sure to make the sapling a dark oak sapling so it doesn't update
+- Water, flowing water, lava, and flowing lava can be obtained through various ways of Mining Block Transfer.
+- Using the CSC knowledge you can rename 27 items 16000 of one letter and putting them in one shulker and mining them will give you any one item from CSC depending on the letter. You can obtain any item from the CSC glitch with the IDs of -33 to -63 and 33 to 63. A giving an id of -33 and B giving and id of 33. This is a list of Elements and illegals with the letter/symbol that you can obtain them with in this spreadsheet: https://docs.google.com/spreadsheets/u/0/d/1kHdwFMY0aLSELdt6vEQ3p2LySG4ivMbEJv6oP-MihZI/edit?gid=0&pli=1&authuser=0#gid=0
+- Invalid oak buttons could be obtained in survival mode by mining an oak button with an enchanted Silk Touch tool. Note that the direction the player was facing determined the damage/metadata value the oak button had upon dropping as an item. Facing north would give a damage/metadata value of 3, facing east would give a value of 4, facing south would give a value of 2, facing down would give a value of 1, and facing up would give a value of 0. 
