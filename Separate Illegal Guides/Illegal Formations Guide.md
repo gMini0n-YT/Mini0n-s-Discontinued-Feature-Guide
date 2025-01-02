@@ -147,3 +147,6 @@ ________________________________________________________________________________
 **1.19.0**
 - Iron Bars/Glass Panes don't connect to mangrove roots
 - Pushing a lit TNT into a portal at the exact same time it explodes, it will summon an unstable tnt that appears all white and will stay that way forever
+
+**1.19.70**
+- Requires Experiment: Suspicious Sand can be waterlogged
