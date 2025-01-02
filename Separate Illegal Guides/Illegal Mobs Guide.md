@@ -83,3 +83,6 @@ ________________________________________________________________________________
 
 **1.18.10.26 - 1.18.10.22**
 - Downgrading a cartographer with the globe pattern trade from 1.18.10.26 to 1.18.10.22 turns the trade into an empty trade
+
+**Beta 1.18.20.21 (Experimental)**
+- Tadpoles only have 2 hearts in 1.18.20.21. To prevent the tadpoles from growing you can scoop them up. To distinguish them from normal tadpoles, you can use the Discontinued Feature Tweaks pack
