@@ -86,3 +86,9 @@ ________________________________________________________________________________
 
 **Beta 1.18.20.21 (Experimental)**
 - Tadpoles only have 2 hearts in 1.18.20.21. To prevent the tadpoles from growing you can scoop them up. To distinguish them from normal tadpoles, you can use the Discontinued Feature Tweaks pack
+
+**1.19.2**
+- Shulkers inflict Levitation 2 instead of Levitation 1. To keep this effect, you can let a shulker hit any scoopable mob and promptly scoop the mob with a bucket after it gets hit.
+
+**Preview 1.19.50.21**
+- When camels are bred, they use their current speed rather than their base speed. Therefore if camels are bred together after being splashed with swiftness  or slowness potions, their offspring will be faster/slower than their parents. This breeding process can be repeated endlessly.
