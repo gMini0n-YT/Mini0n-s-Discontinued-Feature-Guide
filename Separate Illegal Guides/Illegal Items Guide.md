@@ -212,3 +212,4 @@ ________________________________________________________________________________
 **1.20.12**
 - Inside Woodland Mansions, it is possible to get Efficiency I leather leggings. The Efficiency I Leggings are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
 - Shearing grass in the meadows biome will drop a short grass item that has the title "Fern", the "Fern" will have the texture of the short grass and the name will be from the Fern. This item will be removed as of 1.21.30
+- Breaking a Decorated Pot with empty sides using your hand, the pot will drop & retain its design, but the sides that were originally crafted with bricks now show as "item...name" in the inventory
