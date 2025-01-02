@@ -54,3 +54,17 @@ ________________________________________________________________________________
 > PDV: Hitting a Mob or getting hit by a mob will crash the game.
 - Mining Chorus Plants with silk touch will drop the item form of the Chorus Plant
 - In **0.17.0.1** it was possible to get Tipped Arrows from Lingering Awkward, Thick, or Mundane Potions. The Thick Tipped Arrow will appear as "tipped_arrow.effect.mundane.extended", but all the other ones will be titled Tipped Arrow and will not stack with each other.
+
+**1.0.0.16**
+- Mining a Furnace while it is smelting with Silk Touch will drop Lit Furnace tile.
+- Dropping anvil on torches will give you differing data value of anvils depending on which direction the anvil was placed. Depending on the direction and the type of anvil you can obtain 0-11 data value anvils.
+
+**1.1 - 1.0**
+- Downgrading a Frosted Ice Block from 1.1 to 1.0, the Frosted Ice will turn into an info update block that is titled tile.207.name. Mining it up and updating back to 1.1 will convert the tile.207.name block in your inventory to Frosted Ice
+
+**1.1.0.3** 
+-  Breaking Blocks while they are being moved by a piston can drop a moving block tile, a silk touch pickaxe with at least efficiency IV is reccomended. Setup for contraption here at 23:40: https://www.youtube.com/watch?v=i1VK64sA5QM
+-  End Cities generated in this version will always generate with some tile.smooth_purpur.name tiles build in it. You can find these smooth purpur blocks on the outside behind the upside down stairs on the first spiral staircase from the bottom going up on the endcity. You can find the location marked by endstone in the picture from the LINKS folder titled "Smooth Purpur Locations".
+
+**Beta 1.2.0.2**
+- Hoppers can be used to put shulker boxes in shulker boxes
