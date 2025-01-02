@@ -49,3 +49,6 @@ ________________________________________________________________________________
 
 **Beta 1.18.30.28**
 - Older worlds that have areas unexplored since before 1.18 will have corrupted chunks below y=0
+
+**Beta 1.18.30.32**
+- Aquifers can sometimes intersect with Ancient City structures and submerge/destroy big chunks of the structure
