@@ -21,6 +21,7 @@ ________________________________________________________________________________
 > Block Pallet Corruption (BPC)is possible using downgrading from this version range but this could make your world unplayable, if you don't have a strong device. If you are stuck in the loading screen just force close minecraft and try again. Make sure to make backups
 <br>
 - Loading a world in 1.2.13.8 and downgrading to 1.2.6.60 will convert all sub-chunks with block in them (air excluded) into chunks with random blocks in them. This can spawn a lot of entities and tile entities so it will be extremely laggy. These chunks have a random block pallet and can create a lot of illegal formations, like nether wart on top of brewing stand, or illegal blocks such as Education Edition Blocks, and Creative placed Blocks
+<br>
 
 **1.16.40 - 0.6.0**
 > [!Note]
