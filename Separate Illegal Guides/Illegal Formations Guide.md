@@ -58,3 +58,9 @@ ________________________________________________________________________________
 
 **1.5.0**
 - Flowers, Saplings, and Dead Bushes can be waterlogged. Make sure to make the sapling a dark oak sapling so it doesn't update
+
+**1.9.0**
+- You can put Glass Bottles in a Brewing Stand via hopper
+
+**1.14.0**
+- Permanent Open Barrels can be made by pushing a Barrel via piston while opening it at the same time
