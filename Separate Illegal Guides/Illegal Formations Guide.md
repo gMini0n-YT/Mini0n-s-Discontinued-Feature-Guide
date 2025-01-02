@@ -102,3 +102,9 @@ ________________________________________________________________________________
 - Hanging Roots can be waterlogged
 - Tying an axolotl to a fence/wall and scooping the axolotl up with a water bucket will not remove the leash knot on the fence/wall and the axolotls will remain unattached and unleashable
 - Using Dispensers to remove the water from bubble columns does not destroy the bubble column itself.
+
+**1.17.10**
+- Waterlogging stairs or slabs and subsequently breaking them won't update the water, making it possible to create floating water
+- Support blocks can be placed on Candles
+- Placing an end crystal and placing two piston each on different sides and facing the end crystal and activating them at the same time will cause them both to extend, leaving two piston heads in one block
+- Putting something on fire and breaking the block underneath while the game setting "Fire Spreads" is off will make the fire float and it won't distinguish. To see floating fire, you can use the Discontinued Feature Tweaks pack from the "Texture Packs" folder
