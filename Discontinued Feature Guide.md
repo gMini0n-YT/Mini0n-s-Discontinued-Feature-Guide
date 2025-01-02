@@ -390,9 +390,9 @@ ________________________________________________________________________________
 - Breaking a Decorated Pot with empty sides using your hand, the pot will drop & retain its design, but the sides that were originally crafted with bricks now show as "item...name" in the inventory
 - Zombies, Husks, Drowneds, Zombified Piglins, Zombie Villagers, Skeletons, and Strays can wear illager banners when dispensed on them
 - Letting a creeper fall into a sliced portal just as it explodes will make the creeper peaceful and unable to explode.
-- Replacing the outer portal blocks of a portal (the portal blocks that are touching the obsidian) with powdersnow/water/or lava and at the same time going through a sliced portal will leave the portal blocks intact and it will create a powder snow/water/lava portal
+- Replacing the outer portal blocks of a portal (the portal blocks that are touching the obsidian) with powder snow/water/or lava and at the same time going through a sliced portal will leave the portal blocks intact and it will create a powder snow/water/lava portal
 - Letting a chicken fall into a minecart or a boat will make the chicken an always flapping chicken
-- Placinga grass block in the center and then doing a checkerboard pattern of the block you want to catch fire on and grass blocks all the way to the reach of lava. Placing lava on the center block, and when the lava is done spreading, pick up the lava and spam clicking bonemeal on the center block can catch fire on the blocks causing a chance of an Always Burning Fire on the block of your choice.
+- Placinga grass block in the center and then doing a checkerboard pattern of the block you want to catch fire on and grass blocks to the reach of lava. Placing lava on the center block, and when the lava is done spreading, pick up the lava and spam clicking bonemeal on the center block can catch fire on the blocks causing a chance of an Always Burning Fire on the block of your choice.
 
 **1.20.40**
 - Putting Baby Camels and Baby Sniffers in a boat won't eject them when they grow up
