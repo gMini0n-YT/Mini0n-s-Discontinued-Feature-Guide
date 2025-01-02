@@ -318,7 +318,7 @@ ________________________________________________________________________________
 
 **Beta 1.18.20.21 (Experimental)**
 - Placing Frogspawns before this version and downgrading to 1.18.20.21 will turn them into unknown blocks, mining up the unknown blocks (making sure they do not stack), upgrading back to 1.21.30 will turn them into Frogspawn as an item
-- Tadpoles only have 2 hearts. To prevent the tadpoles from growing you can scoop them up. To distinguish them from normal tadpoles, you can use the Discontinued Feature Tweaks pack
+- Tadpoles only have 2 hearts in 1.18.20.21. To prevent the tadpoles from growing you can scoop them up. To distinguish them from normal tadpoles, you can use the Discontinued Feature Tweaks pack
 
 **Beta 1.18.20.23**
 - All types of Torches, redstone dust and Glow Lichen can be placed or attached to Brewing Stands
