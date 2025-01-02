@@ -97,3 +97,10 @@ ________________________________________________________________________________
 - Mobs bigger than the boats themselves can fit in it. The following mobs include: Ravagers, Horses, Skeleton Horses, Donkeys, Mules, Spiders, Iron Golems, Snow Golems, Guardians, Elder Guardians, Pandas, Polar Bears, Slimes, Magma Cubes, Ghasts, Zoglins, and Hoglins.
 > [!CAUTION]
 > If you get this illegal you won't be able to play 1.20.0, otherwise all mobs in a boat will be ejected. You must skip/wait for 1.20.10 to join without casualities
+
+**1.20.12**
+- Zombies, Husks, Drowneds, Zombified Piglins, Zombie Villagers, Skeletons, and Strays can wear illager banners when dispensed on them
+- Letting a creeper fall into a sliced portal just as it explodes will make the creeper peaceful and unable to explode.
+
+**1.20.40**
+- Putting Baby Camels and Baby Sniffers in a boat won't eject them when they grow up
