@@ -91,3 +91,14 @@ ________________________________________________________________________________
 
 **Beta 1.17.0.58 - Beta 1.16.210.54 (Experimental)**
 - Powder Snow Buckets can be obtained in 1.17.0.58 through Cauldrons. So downgrading these buckets to 1.16.210.54, you can Powder Snow-log non-full blocks by placing the Powder Snow Bucket on the block adjacent to the block you want to snowlog
+
+**1.17.0**
+- By placing a block at the tip of an amethyst cluster, and subsequently removing the supporting block, the shard will remain floating. Once it is floating, you can remove the other block.
+- Dispensing Powder snow into portals (East or North facing portals) will split the portal, leaving behind portal blocks on the layer you placed the powder snow in.
+- Paintings can overlap with Glow Item Frames, Signs, Banners, and Torches
+- Various Support blocks (e.g. torches, buttons, levers) can be places on Lightning Rod
+- Big Dripleaf can be placed on any block
+- Glow lichen can be placed on farmland and dirt path
+- Hanging Roots can be waterlogged
+- Tying an axolotl to a fence/wall and scooping the axolotl up with a water bucket will not remove the leash knot on the fence/wall and the axolotls will remain unattached and unleashable
+- Using Dispensers to remove the water from bubble columns does not destroy the bubble column itself.
