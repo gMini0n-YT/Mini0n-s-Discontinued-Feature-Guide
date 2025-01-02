@@ -271,3 +271,6 @@ ________________________________________________________________________________
 
 **Preview 1.21.30.24**
 - Maces could stack to 64 allowing for overstacked maces
+
+**1.21.51**
+- Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
