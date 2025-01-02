@@ -35,3 +35,9 @@ ________________________________________________________________________________
 
 **1.17.10**
 - Previously loaded chunks will get 64 bedrock layers if you turn on the "Caves and Cliff" experimental toggle
+
+**Beta 1.18.0.24**
+- Deep Warm Oceans can still naturally generate. To make deep warm oceans distinguishable, you can use the Discontinued Feature Tweaks texture pack in the "Texture Packs" folder
+
+**1.18.0**
+- Updating any world to this version will not generate anything below y=0 if there is no bedrock at y=0
