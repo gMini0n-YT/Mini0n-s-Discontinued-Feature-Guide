@@ -164,3 +164,6 @@ ________________________________________________________________________________
 
 **1.17.10**
 - Picking up a fish or anything else that can go in a bucket as it dies, gives you a dead animal in a bucket
+
+**1.17.40**
+- Pushing a button and subsequently breaking it with Silk Touch will give you Pushed Buttons as an item
