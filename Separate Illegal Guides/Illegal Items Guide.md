@@ -150,3 +150,7 @@ ________________________________________________________________________________
 
 **Beta 1.16.220.52 - Beta 1.16.220.51 (Experimental) (UBC)**
 - Glow Vines, Glow Berry Vines, Glow Berry Vine Tips can be obtained by downgrading them from 1.16.220.52 as a block to 1.16.220.51. They will turn into unknown blocks, mining them (make sure they do not stack), and updating them to 1.21.30 will convert them to Glow Vine Tiles, Glow Berry Vine Tiles, and Glow Berry Vine Tips Tile.
+
+**Beta 1.16.230.54 - Beta 1.16.230.50 (Experimental) (UBC)**
+- Double Waxed Oxidised Cut Copper Slabs, Lit Deepslate Redstone Ore, Double Cobbled Deepslate Slabs, Double Deepslate Brick Slabs, Double Polished Deepslate Slabs, Double Deepslate Tile Slabs can be obtained by downgrading them from 1.16.230.54 as a block to 1.16.220.51. THey will turn into unknown blocks, mining them (make sure they do not stack), and then updating them 1.21.30 will give you Double Waxed Oxidised Cut Copper Slabs, Lit Deepslate Redstone Ore, Double Cobbled Deepslate Slabs, Double Deepslate Brick Slabs, Double Polished Deepslate Slabs, Double Deepslate Tile Slabs as a item.
+- In 1.16.230.50, the Powder Snow block can be obtained by placing it inside of a bubble column and pushing it with a piston. Video Tutorial: https://www.youtube.com/watch?v=qBvycwTPF6g
