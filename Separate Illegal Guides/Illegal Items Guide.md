@@ -68,3 +68,14 @@ ________________________________________________________________________________
 
 **Beta 1.2.0.2**
 - Hoppers can be used to put shulker boxes in shulker boxes
+
+**1.2.5.0**
+- Mob Spawners can be mined up and obtained as an item
+
+**1.2.6.55 (Android)**
+- Any item from the crafting recipe can be obtained from a duplication glitch. This bug can only be performed using the Mobile UI. To do this you must select one of the red crafting recipe from the recipe book. Then select the item that you would like to duplicate that has a red background to it (make sure you do not have a second item that you would like to duplicate in your inventory) and move it to another spot in the crafting recipe. You should then have access to the item that you moved and be able to use it in other crafting recipes. Using this glitch you can obtain Lingering Decay Potions from the Decay Arrow Recipe.
+- Using this craftin glitch you can obtain negative durability shovels from the boat recipe and negative durability bows from the dispenser recipe. After obtaining these you must combine the negative durability item with a normal low durability item so that when updating the negative durability item does not change to a normal item.
+
+**1.2.10**
+- Using the Nested Shulker Box trick from 1.2.0.2 you can get a whole lot more illegals from a glitch called CSC (Compressed Shulker Conversion). Filling a shulker box full of shulker boxes full of shulker boxes full of one random item and then mining it and picking it up (it will be invisible in your inventory so have your first slot of your hot bar empty so that when you pick it up it will go straight to your first slot on the hotbar). Once picked up move your item of choice to the first slot of your hotbar (or wherever you decided to pick up the shulker box to) and when you place the item on your shulker box your inventory will blow up with tile.piston_arm_collisions.name, tile.redstone_wire.name and other random items.
+- Mining a Standing Banner or a wall banner with Silk Touch will drop the tile version of those two blocks they will be titled Banner and tile.wall_banner.name
