@@ -140,3 +140,13 @@ ________________________________________________________________________________
 
 **Beta 1.16.100.56**
 - Inside Woodland Mansions, it is possible to obtain an Egg enchanted with Efficiency 1. These eggs can be located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, though the frame remains visible.
+
+**1.16.201**
+- Wandering Traders sell ink sacs with a Damage Value of 4
+- Inside Woodland Mansions, it is possible to get Efficiency I leather helmet, and black glow sticks. The Efficiency I Helmets are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still vislbe. The Black Glow Sticks are a lot rarer and a lot harder to find. To find the Glow Sticks you must find the "secret" end portal room within the Woodland Mansion. The room is a lot harder to find because it has no indicator to locate it. To make things easier for you, go ahead and download the "Mansion X-Ray.mcpack" from the "Texture Pack" folder. This pack will x-ray through the dark-oak planks in the woodland mansion.
+
+**Beta 1.16.210.57 - Beta 1.16.210.55 (Experimental) (UBC)**
+- Downgrading all 7 Double Cut Copper Slabs (excluding the Double Waxed Oxidized Copper Slab) to 1.16.210.55 will convert them to unknown blocks. Mining up the Unknown blocks while making sure they do not stack and updating to 1.21.30 will give you 7 different Double Cut Copper Slabs
+
+**Beta 1.16.220.52 - Beta 1.16.220.51 (Experimental) (UBC)**
+- Glow Vines, Glow Berry Vines, Glow Berry Vine Tips can be obtained by downgrading them from 1.16.220.52 as a block to 1.16.220.51. They will turn into unknown blocks, mining them (make sure they do not stack), and updating them to 1.21.30 will convert them to Glow Vine Tiles, Glow Berry Vine Tiles, and Glow Berry Vine Tips Tile.
