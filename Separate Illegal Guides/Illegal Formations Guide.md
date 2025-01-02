@@ -146,21 +146,28 @@ ________________________________________________________________________________
 
 **1.19.0**
 - Iron Bars/Glass Panes don't connect to mangrove roots
-- Pushing a lit TNT into a portal at the exact same time it explodes, it will summon an unstable tnt that appears all white and will stay that way forever
+- Pushing a lit TNT into a portal at the same time it explodes, will summon an unstable TNT that appears all white and will stay that way forever
 
 **1.19.70**
 - Requires Experiment: Suspicious Sand can be waterlogged
 
 **1.20.12**
 - Quickly replacing the bottom of a pitcher plant/bamboo stalk/ or two tall dripleaf with a pitcher pod/bamboo/big dripleaf will make a double dripleaf, a bamboo shoot on top of a bamboo stalk/ and a glitched pitcher pod.
-- Replacing the outer portal blocks of a portal (the portal blocks that are touching the obsidian) with powdersnow/water/or lava and at the same time going through a sliced portal will leave the portal blocks intact and it will create a powder snow/water/lava portal
+- Replacing the outer portal blocks of a portal (the portal blocks that are touching the obsidian) with powder snow/water/or lava and at the same time going through a sliced portal will leave the portal blocks intact and will create a powder snow/water/lava portal
 - Letting a chicken fall into a minecart or a boat will make the chicken an always flapping chicken
-- Placinga grass block in the center and then doing a checkerboard pattern of the block you want to catch fire on and grass blocks all the way to the reach of lava. Placing lava on the center block, and when the lava is done spreading, pick up the lava and spam clicking bonemeal on the center block can catch fire on the blocks causing a chance of an Always Burning Fire on the block of your choice.
+- Placing a grass block in the center and then doing a checkerboard pattern of the block you want to catch fire on and grass blocks to the reach of lava. Placing lava on the center block, and when the lava is done spreading, pick up the lava and spam clicking bonemeal on the center block can catch fire on the blocks causing a chance of an Always Burning Fire on the block of your choice.
 
 **1.20.62**
 - Naming a Campfire and then placing it will give the campfire a hovering name tag above it
 - Naming a boat/chest boat and then placing it will give the boat a hovering name tag above it
 
 **1.20.71**
-- Placing a painting on standing signs and then placing (item frames, wall signs, banners) on the sign will create glitched out paintings
-- Blowing up an end crystal at the same time a piston extends will make the piston head walk through which makes it possible to create crossing pistons
+- Placing a painting on standing signs and then placing (item frames, wall signs, and banners) on the sign will create glitched-out paintings
+- Blowing up an end crystal at the same time a piston extends will make the piston head walkthrough which makes it possible to create crossing pistons
+
+**Preview 1.21.50.20**
+- Creaking Hearts can be put in the fuel slot of the furnace
+
+**1.21.51**
+- Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
+- You can snow-log resin, skull veins, glow lichen, and dead bushes
