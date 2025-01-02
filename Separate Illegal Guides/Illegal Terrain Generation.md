@@ -32,3 +32,6 @@ ________________________________________________________________________________
 
 **Beta 1.17.0.52 (Experimental)**
 - Chunks loaded with the Caves & Cliffs Experiment Toggle and updating it to the official version 1.17.0 will cause the chunks loaded to be elevated when updating. All tile entity data will be removed allowing for mobless mob spawners
+
+**1.17.10**
+- Previously loaded chunks will get 64 bedrock layers if you turn on the "Caves and Cliff" experimental toggle
