@@ -29,3 +29,6 @@ ________________________________________________________________________________
 
 **1.16.100**
 - Placing an end gateway on the central pillar of the end fountain when the dragon perches, it will freeze the dragon. After relogging an end gateway will appear where the ender dragon was. This allows for over 20 end gateways in the main end island.
+
+**Beta 1.17.0.52 (Experimental)**
+- Chunks loaded with the Caves & Cliffs Experiment Toggle and updating it to the official version 1.17.0 will cause the chunks loaded to be elevated when updating. All tile entity data will be removed allowing for mobless mob spawners
