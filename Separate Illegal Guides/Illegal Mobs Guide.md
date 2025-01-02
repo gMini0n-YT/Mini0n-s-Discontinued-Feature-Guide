@@ -44,3 +44,6 @@ ________________________________________________________________________________
 
 **1.16.40**
 - Zombie Piglins who spawn on top of Striders will have a Golden Sword instead of Warped Fungus on a stick
+
+**1.16.100**
+- Zombies and Skeletons put shields in their wrong hand. So when updating to later versions and giving the mob an extra shield will put the second shield in the correct hand allowing for double wielding mobs with shields.
