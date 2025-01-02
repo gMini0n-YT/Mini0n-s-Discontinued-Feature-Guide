@@ -108,3 +108,12 @@ ________________________________________________________________________________
 - Support blocks can be placed on Candles
 - Placing an end crystal and placing two piston each on different sides and facing the end crystal and activating them at the same time will cause them both to extend, leaving two piston heads in one block
 - Putting something on fire and breaking the block underneath while the game setting "Fire Spreads" is off will make the fire float and it won't distinguish. To see floating fire, you can use the Discontinued Feature Tweaks pack from the "Texture Packs" folder
+
+**Beta 1.17.20.22**
+- Snow layers stay floating in mid-air if you break the block underneath it
+
+**1.17.32**
+- Support blocks can be places on Light Blocks
+
+**Beta 1.17.40.21**
+- Flowers in Meadows can replace blocks from structures like village houses, which can make Discontinued Block Formations
