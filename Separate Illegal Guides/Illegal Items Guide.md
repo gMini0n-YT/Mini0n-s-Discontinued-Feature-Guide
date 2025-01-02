@@ -157,3 +157,7 @@ ________________________________________________________________________________
 
 **Beta 1.17.0.54 - Beta 1.17.0.52 (UBC)**
 - Downgrading Infested Deepslate from 1.17.0.54 as a block to 1.17.0.52 will turn it into an unknown block. Mine up the unknown blocks (make sure they don't stack) and then updating them to 1.21.30 will give you Infested Deepslate as an item
+
+**1.17.0**
+- Mining a lit observer will keep its lit state in the inventory. Stacking lit observers with normal observers will revert them
+- Leashing Axolotls before scooping them up won't unleash the axolotl
