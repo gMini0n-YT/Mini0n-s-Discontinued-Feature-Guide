@@ -64,3 +64,9 @@ ________________________________________________________________________________
 
 **1.14.0**
 - Permanent Open Barrels can be made by pushing a Barrel via piston while opening it at the same time
+
+**Beta 1.16.0.51**
+- All Crimson and Warped Wood variants could be put into the fuel slot of Furnaces
+
+**Beta 1.16.0.57**
+- Treasure Bastions spawn with one Barrier Block in one of the lava pools
