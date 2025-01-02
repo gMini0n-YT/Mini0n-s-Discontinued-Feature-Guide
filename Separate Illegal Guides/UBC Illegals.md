@@ -42,3 +42,11 @@ ________________________________________________________________________________
 
 **Preview 1.20.70.21 - Preview 1.20.70.20 (UBC) (Experimental)**
 - Downgrading the Vault Block from 1.20.70.21 as a block to 1.20.70.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Vault Block as a tile item.
+
+**Preview 1.21.0.25 - Preview 1.21.0.23 (UBC) (Experimental)**
+> [!CAUTION]
+> Petrified Oak Slabs will be deleted in version 1.21.0.24 (but not double petrified oak slabs), storing petrified oak slab items in a mined shulker boxes or unloaded chunks to preserve them
+- Downgrading Double Petrified Oak Slabs from 1.21.0.25 as a block to 1.21.0.23 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Petrified Oak Slab as a tile item.
+
+**Preview 1.21.10.22 - Preview 1.21.10.21**
+- Downgrading these Double slabs: (red sandstone, purpur, prismarine, prismarine brick, dark prismarine, mossy cobblestone, smooth sandstone, red nether brick, endstone brick, smooth red sandstone, polished andesite, diorite, polished diorite, andesite, granite, polished granite,mossy stone brick, smooth quartz, stone, cut sandstone, cut red sandstone, oak) from 1.21.10.22 as a block to 1.21.10.21 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Slab version of those slabs as a tile item.
