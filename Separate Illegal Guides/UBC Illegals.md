@@ -18,3 +18,6 @@ ________________________________________________________________________________
 
 **Beta 1.16.230.54 - Beta 1.16.230.50 (Experimental) (UBC)**
 - Double Waxed Oxidised Cut Copper Slabs, Lit Deepslate Redstone Ore, Double Cobbled Deepslate Slabs, Double Deepslate Brick Slabs, Double Polished Deepslate Slabs, Double Deepslate Tile Slabs can be obtained by downgrading them from 1.16.230.54 as a block to 1.16.220.51. THey will turn into unknown blocks, mining them (make sure they do not stack), and then updating them 1.21.30 will give you Double Waxed Oxidised Cut Copper Slabs, Lit Deepslate Redstone Ore, Double Cobbled Deepslate Slabs, Double Deepslate Brick Slabs, Double Polished Deepslate Slabs, Double Deepslate Tile Slabs as a item.
+
+**Beta 1.17.0.54 - Beta 1.17.0.52 (UBC)**
+- Downgrading Infested Deepslate from 1.17.0.54 as a block to 1.17.0.52 will turn it into an unknown block. Mine up the unknown blocks (make sure they don't stack) and then updating them to 1.21.30 will give you Infested Deepslate as an item
