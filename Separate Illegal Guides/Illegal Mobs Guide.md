@@ -41,3 +41,6 @@ ________________________________________________________________________________
 
 **Beta 1.16.0.51**
 - Piglins have more health in this version and they will keep their health when updating through versions
+
+**1.16.40**
+- Zombie Piglins who spawn on top of Striders will have a Golden Sword instead of Warped Fungus on a stick
