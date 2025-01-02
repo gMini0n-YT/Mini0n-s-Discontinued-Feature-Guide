@@ -79,3 +79,25 @@ ________________________________________________________________________________
 **1.2.10**
 - Using the Nested Shulker Box trick from 1.2.0.2 you can get a whole lot more illegals from a glitch called CSC (Compressed Shulker Conversion). Filling a shulker box full of shulker boxes full of shulker boxes full of one random item and then mining it and picking it up (it will be invisible in your inventory so have your first slot of your hot bar empty so that when you pick it up it will go straight to your first slot on the hotbar). Once picked up move your item of choice to the first slot of your hotbar (or wherever you decided to pick up the shulker box to) and when you place the item on your shulker box your inventory will blow up with tile.piston_arm_collisions.name, tile.redstone_wire.name and other random items.
 - Mining a Standing Banner or a wall banner with Silk Touch will drop the tile version of those two blocks they will be titled Banner and tile.wall_banner.name
+
+**Beta 1.2.13.54**
+- Placing Water in End Portals and End Gateways will drop them as an item. For End Gateways you may have to use a dispenser with a water bucket in it.
+
+**Beta 1.2.13.8**
+- Curse of Binding and Curse of Vanishing use the same ids as Loyalty and Channeling respectively, so in future versions all the Curse of Binding and Curse of Vanishing will turn into Loyalty and Channeling. This allows for Loyalty on every armor piece, and Channeling for every armor and tool that can have Curse of Vanishing on it.
+- Impaling and Riptide use the same id as Curse of Binding and Curse of Vanishing respectively, so in future versions all the Impaling and Riptide books will turn into Curse of Binding and Curse of Vanishing. This allows for Curse of Binding 2-5 and Curse of Vanishing 2-3 books and villager trades.
+- Helmets can be enchanted with any enchant in the game this allows for a Helmet with sword enchants or any other enchants in the game.
+- Invalid Data Value Trapdoors can be obtained by mining a trapdoor in survival mode. The direction it was placed will determine the different data value the trapdoor has when dropped.
+
+**1.2.13.8 - 1.2.6.60**
+> [!CAUTION]
+> Block Pallet Corruption (BPC)is possible using downgrading from this version range but this could make your world unplayable, if you don't have a strong device. If you are stuck in the loading screen just force close minecraft and try again. Make sure to make backups
+<br>
+- Loading a world in 1.2.13.8 and downgrading to 1.2.6.60 will convert all sub-chunks with block in them (air excluded) into chunks with random blocks in them. This can spawn a lot of entities and tile entities so it will be extremely laggy. These chunks have a random block pallet and can create a lot of illegal formations, like nether wart on top of brewing stand, or illegal blocks such as Education Edition Blocks, and Creative placed Blocks
+- Using BPC you can obtain Compound Creators, and Red, Green, Blue, and Purple Colored Torches, do not pick up torches until 1.21.30 otherwise you won't know which one you have and they may not saved.
+
+**1.2.14.2**
+- Riptide can be combined with loyalty and Channeling on a trident or book
+
+**1.4.0**
+- Putting a TNT on a string that is connected to tripwire hooks and blowing it up, it can create a tripwire hook ghost block. If you mine the ghost block at the same time a portal lights you have an oppurtunity to obtain a portal tile. https://www.youtube.com/watch?v=dYYz6a0VyDQ
