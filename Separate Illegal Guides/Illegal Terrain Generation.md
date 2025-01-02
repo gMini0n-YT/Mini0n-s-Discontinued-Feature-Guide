@@ -41,3 +41,8 @@ ________________________________________________________________________________
 
 **1.18.0**
 - Updating any world to this version will not generate anything below y=0 if there is no bedrock at y=0
+- - Aquifers can generate with missing pieces of water
+- Spikes out of Dripstone Block can spawn on the surface
+- Structures like Ocean Ruins often spawn on land
+- Some igloos can generate with Redstone Torches facing the wrong way.
+- Mountain generation breaks at 2.812.332 blocks away from 0, 0 and replaces everything within a Frozen Peaks or Stony Peaks biome, except Aquifers, with huge lava ravines. These Aquifers can stretch all the way down to lava height and be on top of the lava without updating it and turning it into Obsidian. An example can be found on the Seed: -1485667881, at 2891297 -49 9439. On certain iOS devices, Monolith-like terrain generates instead of Lava Ravines. These "Monoliths" can go up to the old world height limit, y=256
