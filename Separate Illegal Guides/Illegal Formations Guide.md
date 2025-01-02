@@ -42,3 +42,9 @@ ________________________________________________________________________________
 > PDV: Hitting a Mob or getting hit by a mob will crash the game.
 
 - Wet Sponge does not turn into Dry Sponge in the Nether
+
+**1.2.11**
+- Placing Daylight Sensor in the nether leaves them powered
+
+**1.2.13.8 - 1.2.6.60**
+- Compound Creators can be waterlogged
