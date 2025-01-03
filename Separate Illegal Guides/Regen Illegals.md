@@ -76,6 +76,7 @@ Waterless Alive Coral Blocks^:
  - Horn Coral
 
 ****ICR****
+<br>
 **Placing any of these Block in an ICR Chunk (you can tell by looking at the "ChunkRegenerationGraph.webp" in the "Files" Folder) will remove their Block Entities and make them completely unusable, invisible, or stuck in their current state**
 - Unusable Beehives
 - Unusable Beenests
