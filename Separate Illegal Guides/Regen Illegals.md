@@ -14,11 +14,69 @@ ________________________________________________________________________________
 <br>
 **ICR**: Invalid Chunk Regeneration, the process of regenerating blocks and removing it's block states and entities, this only works on Block Entities (e.g. chests, enderchests), everything else that is not a block entity will be regenerated like in VCR
 <br>
+**USR**: 
 ______________________________________________________________________________________________________________________________________
+**To Help you Find the Lowest Subchunk and the Chunk Boundaries, download the "Bedrock-Chunk-Boarders-Pack" in the "Texture Pack" folder**
 
 ****VCR****
+<br>
+Note: Formations ending in ^ have their obtaining method listed at the bottom of the VCR section of the Document
+<br>
+**Floating Side Support Block (including Side Support Blocks on Invalid Blocks)**
+- Torches, Soul Torches, Redstone Torches
+- Signs (All Types)
+- Item Frames, Glow Item Frames
+- Bells
+- Levers
+- Buttons (All Types)
+- Tripwire
+- Banners
+- Glow Lichen
+- Amethyst Clusters
+- Amethyst Buds (Large, Medium, Small)
+- Skulk Veins
+- Ladders
+- Vines
+- Grindstones
+
+**Floating Top Support Block (Including Top Support Blocks on Invalid Blocks)**
+- Amethyst Cluster
+- Amethyst Buds (Small, Medium, Large)
+- Spore Blossom
+- Pointed Dripstone
+- Grindstones
+- Weeping Vines
+- Hanging Roots
+- Hanging Pale Roots
+- Lanterns/Soul Lanterns
+- Hanging Signs/Attached Hanging Signs (all wood types)
+- Bells
+- Glow Berries (all growth stages)
+- Item Frames/Glow Item Frames
+- Bells
+- Levers
+- Buttons (all types)
+- Glow Lichens
+- Sculk Veins
+
+Glitched Pistons/Sticky Pistons:
+- Unextendable Pistons/Sticky Pistons (having the head regenerated in the way)
+- Pistons/Stick Pistons Without Piston/Sticky Piston Heads
+- Piston/Sticky Piston Heads Without Pistons/Stick Pistons
+
+Flowing Liquids^:
+ - Flowing Water (all liquid depths)
+ - Flowing Lava (all liquid depths)
+
+Waterless Alive Coral Blocks^:
+ - Tube Coral
+ - Brain Coral
+ - Bubble Coral
+ - Fire Coral
+ - Horn Coral
 
 ****ICR****
+**Placing any of these Block in an ICR Chunk (you can tell by looking at the "ChunkRegenerationGraph.webp" in the "Files" Folder) will remove their Block Entities and make them completely unusable, invisible, or stuck in their current state**
 - Unusable Beehives
 - Unusable Beenests
 - Invisible Signs
