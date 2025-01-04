@@ -78,6 +78,7 @@ Waterless Alive Coral Blocks^:
 Invalid Liquid Placements:
  - Water & Lava Flowing Into Each Other
  - Lava Next To Waterlogged Block
+ - Water and Lava Next to Each other
 
 Invalid Portal Formations:
  - Half/Quarter Nether Portal
@@ -109,6 +110,21 @@ Invalid Placement Cactus (all tiles)
 Floating Scaffolding (all stabilities)
 
 Invalid Placement Chorus Plant
+
+Permanently Activated Rails
+- Permanently Activated Powered Rail
+- Permanently Activated Detector Rail
+- Permanently Activated Activator Rail
+
+Permanently Pressed Buttons
+
+Permanently Pressed Pressure Plates
+
+Permanent Suspicious Sand/Gravel (All Dusted Levels)
+
+Walls Connected to Nothing
+
+Beds inside Blocks (Placing only Half of the Bed in the VCR Chunk and breaking it and placing a block where the other half of the bed was, when regening it, it will show the bed inside the block)
 
 Waterless Alive Coral Blocks:
  + Set up a long water stream ending on the border of an empty chunk (DO NOT LET THE WATER FLOW INTO THE CHUNK),
@@ -147,7 +163,6 @@ Incomplete Block Transformations:
 - Permanently Unactivated Skulk Catalyst
 - Permanently Activated Skulk Catalyst
 - Permanently Unactivated Skulk Shrieker
-- Permanently Activated Skulk Shrieker
 - Invisible Banner
 - Invisible Chest
 - Invisible Trapped Chest
@@ -213,16 +228,41 @@ Incomplete Block Transformations:
 - Activated Tripwire
 - Activated Observer
 - Activated Dripleaf
+- Permanently Activated Observer
 
 ****USR****
+
+Things on Every Block
 - Cactus on Every Block
-- Every Plant-Based Foliage on Every Block
-- Lit Creaking Heart without Pale Oak Logs
-- Unlit Creaking Heart with Pale Oak Logs
+- Every Plant-Based Foliage on Every Block (including itself)
 - Soul Fire on non-soul Blocks
 - Fire on Soul Sand Blocks
-- Torches on Any Block
-- Sea Pickles on Glowstone and Sealanterns
+- Torches on Any Block (including itself)
+- Sea Pickles on Glowstone and Sealanterns, and itself
+- Azaleas on Every Block (including itself)
+- Ladders Connected to nothing or any block (including itself)
+- Buttons on Fence Gates and Walls
+- Redstone Repeaters on any Block (including itself)
+- Redstone Comparator on any Block (including itself)
+- Redstone Dust on any Block (including itself)
+- Bubble Column without Water
+- Bubble Columns without Soulsand/Magma Block
+- Chrous Plant on any Block
+- Chrous Flower on Any Block
+- Rails on Any Block (including itself)
+- Bells on Any Block (including itself)
+- Levers and Buttons on any Block (including itself)
+- Hanging Signs on Any Block
+- Dripstone on Any Block (including itself)
+- Flowerpots on any Block (including itself)
+- Amethyst Clusters/Buds on Any Block
+- Lit Creaking Heart without Pale Oak Logs
+- Unlit Creaking Heart with Pale Oak Logs
+
+Waterlogged Anything
 - Waterlesss Seagrass
 - Waterless Kelp
 - Waterless Tall Seagrass
+- Waterlogged Foliage
+- Waterlogged Redstone
+- Waterlogged Torches
