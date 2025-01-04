@@ -163,9 +163,11 @@ Incomplete Block Transformations:
 - Unusable Lit Furnace
 - Unusable Lit Smoker
 - Unusable Lit Blast Furnace
-- Invisible Brewing Stand
+- Unusable Brewing Stand
 - Unusable Campfire
 - Unusable Soul Campfire
+- Unusable Extinguished Campfire
+- Unusable Extinguished Soul Campfire
 - Unusable Hopper
 - Unusable Lectern
 - Unusable Crafter
