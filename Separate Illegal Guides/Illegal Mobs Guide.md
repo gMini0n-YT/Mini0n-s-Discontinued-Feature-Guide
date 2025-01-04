@@ -30,10 +30,6 @@ ________________________________________________________________________________
 **1.7.0**
 - You can put a Jack-o-lantern on an armor stand, player, and mobs via dispensers
 
-**1.16.1.2**
-- You can exploit commands in this version by removing the space between the /give and the @ symbol. This will not turn off achievements allowing for commands in a vanilla world. This can give you infinite amount of illegals including bedrock, spawn eggs, top slabs, command blocks, and weird blocks in the furnace fuel slot. List of Illegals are in the "1.16.1.2 Guide" file in the "Links Folder". Using this glitch may be considered cheating but it relies on personal preference, some commands will be for sure considered cheating. 
-- Giving yourself an item that has a durability bar and adding the metadata of 9999 will give you negative durability items. So using the /give@s netherite_sword 1 9999 will give you a negative durability netherite sword. Combining 4 of these negative durability items in a crafting recipe will give you an unbreakable item with almost infinite durability.
-- Using the /execute command you can obtain a lot of other commands by using /execute@s ~ ~ ~ and then your command. Using this method with the /replaceitem command can give you many different items in the furnace output slot and many different items in mobs offhand.
 **1.14.0**
 - Farmer Villagers buy 4 melon slices instead of 4 melon blocks at the Journeyman Trade Level
 - Farmer Villagers buy 16 eggs at the Expert Trade Level
@@ -41,6 +37,13 @@ ________________________________________________________________________________
 
 **Beta 1.16.0.51**
 - Piglins have more health in this version and they will keep their health when updating through versions
+- Ravagers, Zoglins, and Hoglins in this version have less knockback resistance
+
+**1.16.1.2**
+- You can exploit commands in this version by removing the space between the /give and the @ symbol. This will not turn off achievements allowing for commands in a vanilla world. This can give you infinite amount of illegals including bedrock, spawn eggs, top slabs, command blocks, and weird blocks in the furnace fuel slot. List of Illegals are in the "1.16.1.2 Guide" file in the "Links Folder". Using this glitch may be considered cheating but it relies on personal preference, some commands will be for sure considered cheating. 
+- Giving yourself an item that has a durability bar and adding the metadata of 9999 will give you negative durability items. So using the /give@s netherite_sword 1 9999 will give you a negative durability netherite sword. Combining 4 of these negative durability items in a crafting recipe will give you an unbreakable item with almost infinite durability.
+- Using the /execute command you can obtain a lot of other commands by using /execute@s ~ ~ ~ and then your command. Using this method with the /replaceitem command can give you many different items in the furnace output slot and many different items in mobs offhand.
+- Hoglins can go into the Overworld without transferring into Zoglins
 
 **1.16.40**
 - Zombie Piglins who spawn on top of Striders will have a Golden Sword instead of Warped Fungus on a stick
