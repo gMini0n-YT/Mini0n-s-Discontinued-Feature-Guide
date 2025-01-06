@@ -162,6 +162,9 @@ ________________________________________________________________________________
 - Brewing potions alongside glass bottles in the Brewing Stand adds a tag name "wasJustBrewed:1" to the glass bottle. These bottles will not stack with other bottles and will keep it's tag upon updating.
 - Mining up the Mushroom Blocks from Huge Mushrooms found in Swamps and Dark Oak Forests will give you a Mushroom Block with a data value of 0.
 
+**1.10.0 (Experimental)**
+- Villager V2s spawn in normal villages, but they have the old Villager v1 trades so if you trade with them in this update their trades will lock and they will not convert upon updating to newer versions
+
 **1.10.0 - beta 1.11.0.1**
 - Updating a slab from 1.10.0 to 1.11.0.1 will cause them to convert to Double Slab. All slabs will convert excluding all wood slabs, Petrified Oak Slabs can be converted into their double slab state. In versions after 1.11.0.1 they will appear as glitched slabs that cannot be placed or they will switch to different looking slabs, but they are still illegal. After 1.21.30 they will have the texture of double slabs.
 
@@ -355,6 +358,7 @@ ________________________________________________________________________________
 - Placing a stonecutter in the east/west direction and mining it with silk touch will drop a stonecutter facing the wrong way in the inventory. They will stack with normal stonecutter.
 - Iron Bars/Glass Panes don't connect to mangrove roots
 - Pushing a lit TNT into a portal at the exact same time it explodes, it will summon an unstable tnt that appears all white and will stay that way forever
+- Ravagers in this version have a lot slower base speed than Ravagers spawned in newer versions
 
 **1.19.2**
 - Shulkers inflict Levitation 2 instead of Levitation 1. To keep this effect, you can let a shulker hit any scoopable mob and promptly scoop the mob with a bucket after it gets hit.
@@ -448,6 +452,7 @@ ________________________________________________________________________________
 - Placing Powder Snow next to cactus won't break the cactus
 - Placing a 9+ high snowlayer on a pice of foliage and then breakinng the snow block will cause the extra snow layers to float above the foliage.
 - when Deepslate Redstone Ore is lit up , it never turns off
+- If a Pillager or Witch attacks a Vindicator, Evoker, or Witches would retaliate against the illager that attacked them
 
 **Preview 1.21.10.22 - Preview 1.21.10.21**
 - Downgrading these Double slabs: (red sandstone, purpur, prismarine, prismarine brick, dark prismarine, mossy cobblestone, smooth sandstone, red nether brick, endstone brick, smooth red sandstone, polished andesite, diorite, polished diorite, andesite, granite, polished granite,mossy stone brick, smooth quartz, stone, cut sandstone, cut red sandstone, oak) from 1.21.10.22 as a block to 1.21.10.21 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Slab version of those slabs as a tile item.
