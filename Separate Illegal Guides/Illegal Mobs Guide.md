@@ -30,6 +30,9 @@ ________________________________________________________________________________
 **1.7.0**
 - You can put a Jack-o-lantern on an armor stand, player, and mobs via dispensers
 
+**1.10.0 (Experimental)**
+- Villager V2s spawn in normal villages, but they have the old Villager v1 trades so if you trade with them in this update their trades will lock and they will not convert upon updating to newer versions
+
 **1.14.0**
 - Farmer Villagers buy 4 melon slices instead of 4 melon blocks at the Journeyman Trade Level
 - Farmer Villagers buy 16 eggs at the Expert Trade Level
