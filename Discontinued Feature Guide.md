@@ -358,10 +358,10 @@ ________________________________________________________________________________
 - Placing a stonecutter in the east/west direction and mining it with silk touch will drop a stonecutter facing the wrong way in the inventory. They will stack with normal stonecutter.
 - Iron Bars/Glass Panes don't connect to mangrove roots
 - Pushing a lit TNT into a portal at the exact same time it explodes, it will summon an unstable tnt that appears all white and will stay that way forever
-- Ravagers in this version have a lot slower base speed than Ravagers spawned in newer versions
 
 **1.19.2**
 - Shulkers inflict Levitation 2 instead of Levitation 1. To keep this effect, you can let a shulker hit any scoopable mob and promptly scoop the mob with a bucket after it gets hit.
+- Ravagers in this version have a lot slower base speed than Ravagers spawned in newer versions
 
 **Preview 1.19.50.21**
 - When camels are bred, they use their current speed rather than their base speed. Therefore if camels are bred together after being splashed with swiftness  or slowness potions, their offspring will be faster/slower than their parents. This breeding process can be repeated endlessly.
