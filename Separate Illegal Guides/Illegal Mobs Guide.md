@@ -111,3 +111,6 @@ ________________________________________________________________________________
 
 **1.20.40**
 - Putting Baby Camels and Baby Sniffers in a boat won't eject them when they grow up
+
+**1.21.0**
+- If a Pillager or Witch attacks a Vindicator, Evoker, or Witches would retaliate against the illager that attacked them
