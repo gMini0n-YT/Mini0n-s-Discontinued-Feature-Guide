@@ -143,7 +143,8 @@ ________________________________________________________________________________
 - Water, flowing water, lava, and flowing lava can be obtained through various ways of Mining Block Transfer.
 - Using the CSC knowledge you can rename 27 items 16000 of one letter and putting them in one shulker and mining them will give you any one item from CSC depending on the letter. You can obtain any item from the CSC glitch with the IDs of -33 to -63 and 33 to 63. A giving an id of -33 and B giving and id of 33. This is a list of Elements and illegals with the letter/symbol that you can obtain them with in this spreadsheet: https://docs.google.com/spreadsheets/u/0/d/1kHdwFMY0aLSELdt6vEQ3p2LySG4ivMbEJv6oP-MihZI/edit?gid=0&pli=1&authuser=0#gid=0
 - In 1.5, Zombie Villagers found in Zombie Villages will be extremely fast. Updating from 1.5 directly to 1.21.41 will revert them. To keep them you must update from 1.5 to 1.8 to 1.10 to 1.11 to 1.21 in that order.
-- Invalid oak buttons could be obtained in survival mode by mining an oak button with an enchanted Silk Touch tool. Note that the direction the player was facing determined the damage/metadata value the oak button had upon dropping as an item. Facing north would give a damage/metadata value of 3, facing east would give a value of 4, facing south would give a value of 2, facing down would give a value of 1, and facing up would give a value of 0. 
+- Invalid oak buttons could be obtained in survival mode by mining an oak button with an enchanted Silk Touch tool. Note that the direction the player was facing determined the damage/metadata value the oak button had upon dropping as an item. Facing north would give a damage/metadata value of 3, facing east would give a value of 4, facing south would give a value of 2, facing down would give a value of 1, and facing up would give a value of 0.
+- Husks that were converted to regular zombies via drowning them would have superspeed on land
 
 **1.6.0.1**
 - Phantoms in this version have 5 hearts instead of 10 hearts.
@@ -178,6 +179,7 @@ ________________________________________________________________________________
 - Piglins have more health in this version and they will keep their health when updating through versions
 - All Crimson and Warped Wood variants could be put into the fuel slot of Furnaces
 - Hoglins can go into the Overworld without transferring into Zoglins
+- Zoglins and Hoglins spawned before beta 1.16.0.63 had no knockback resistance
 
 **Beta 1.16.0.57**
 - Treasure Bastions spawn with one Barrier Block in one of the lava pools
@@ -476,5 +478,6 @@ ________________________________________________________________________________
 
 **1.21.51**
 - Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
-- Right clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
-- You are able to snow-log resin, skull veins, glow lichen, and dead bushes
+- Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
+- You can snow-log resin, skull veins, glow lichen, and dead bushes
+- You can place Big Dripleafs on Pale Moss Blocks
