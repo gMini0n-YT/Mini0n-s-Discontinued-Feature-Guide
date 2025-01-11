@@ -480,6 +480,7 @@ ________________________________________________________________________________
 **1.21.51**
 - Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
 - Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
+- You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
 - You can snow-log resin, skull veins, glow lichen, and dead bushes
 - You can place Big Dripleafs on Pale Moss Blocks
 - Fences, Ironbars, Glass Panes, and Walls can connect to Structure Voids
