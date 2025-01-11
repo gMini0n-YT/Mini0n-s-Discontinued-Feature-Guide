@@ -172,3 +172,4 @@ ________________________________________________________________________________
 - Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
 - You can snow-log resin, skull veins, glow lichen, and dead bushes
 - Fences, Ironbars, Glass Panes, and Walls can connect to Structure Voids
+- You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
