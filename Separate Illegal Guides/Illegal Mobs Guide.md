@@ -115,3 +115,6 @@ ________________________________________________________________________________
 
 **1.21.0**
 - If a Pillager or Witch attacks a Vindicator, Evoker, or Witches would retaliate against the illager that attacked them
+
+**1.21.51**
+- You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
