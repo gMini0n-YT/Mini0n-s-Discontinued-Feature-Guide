@@ -171,3 +171,4 @@ ________________________________________________________________________________
 **1.21.51**
 - Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
 - You can snow-log resin, skull veins, glow lichen, and dead bushes
+- Fences, Ironbars, Glass Panes, and Walls can connect to Structure Voids
