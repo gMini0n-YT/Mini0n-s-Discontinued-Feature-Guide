@@ -71,6 +71,7 @@ ________________________________________________________________________________
 
 **1.17.10**
 - Picking up a fish or anything else that can go in a bucket as it dies, gives you a dead animal in a bucket
+- Zombies, Husks, Drowneds, and Zombie Villagers can hold Glow Ink Sacs in their hand.
 
 **1.18.0**
 - Pushing piglins through a nether portal while they are trying to barter with the player will force them to put the item that was given to them into their offhand, making them dual wielding mobs
