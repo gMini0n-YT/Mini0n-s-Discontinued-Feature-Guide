@@ -484,3 +484,4 @@ ________________________________________________________________________________
 - You can snow-log resin, skull veins, glow lichen, and dead bushes
 - You can place Big Dripleafs on Pale Moss Blocks
 - Fences, Ironbars, Glass Panes, and Walls can connect to Structure Voids
+- Pillagers, Vindicators, and Evokers, for some strange reason, have the ability to pick up a White Banner, and will even trade their weapons for it. 
