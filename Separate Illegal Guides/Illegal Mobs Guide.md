@@ -118,3 +118,4 @@ ________________________________________________________________________________
 
 **1.21.51**
 - You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
+- Pillagers, Vindicators, and Evokers, for some strange reason, have the ability to pick up a White Banner, and will even trade their weapons for it. 
