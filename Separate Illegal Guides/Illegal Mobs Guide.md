@@ -118,4 +118,5 @@ ________________________________________________________________________________
 
 **1.21.51**
 - You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
-- Pillagers, Vindicators, and Evokers, for some strange reason, have the ability to pick up a White Banner, and will even trade their weapons for it. 
+- Pillagers, Vindicators, and Evokers, for some strange reason, have the ability to pick up a White Banner, and will even trade their weapons for it.
+- Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to english will make it possible to name Mobs "Name Tag" which is illegal
