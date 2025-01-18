@@ -173,3 +173,4 @@ ________________________________________________________________________________
 - You can snow-log resin, skull veins, glow lichen, and dead bushes
 - Fences, Ironbars, Glass Panes, and Walls can connect to Structure Voids
 - You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
+- You can place Twisting Vines on Leaves and Chrous Flowers/Plants
