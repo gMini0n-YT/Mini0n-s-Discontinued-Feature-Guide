@@ -10,6 +10,10 @@ ________________________________________________________________________________
 **(X.XX.XX.X - Y.YY.YY.Y)**: Version Upgrading or Downgrading from and to 
 ______________________________________________________________________________________________________________________________________
 
+**0.3.2 alpha (Android)**
+- World names can be up to 1023 characters long. The first 255 characters can be any letter/symbol on the normal keyboard. The final characters can only be characters that are not allowed on android such as /, , :, *, ?, ", <, >, and |.
+- Line breaks are allowed in world names
+
 **0.17.0.1 alpha (Android)**
 > [!CAUTION]
 > PDV: Hitting a Mob or getting hit by a mob will crash the game.
