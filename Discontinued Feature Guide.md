@@ -240,6 +240,7 @@ ________________________________________________________________________________
 - Placing non-full blocks (e.g. Enchanting Tables, Slabs, Trapdoors) in snow-covered flowers, the flowers will won't break. This allows for flower-logged blocks.
 - End Portals do not trigger Block updates. So by flower-logging the end portal frames and activating them below gravity blocks and then breaking the grass block underneath the end portals, the end portal frames will break leaving floating gravity blocks.
 - When animals and villagers are bred, they use the current speed rather than the base speed. So by splashing two animals/villagers with splash potion of speed or slowness and then breeding them, the offspring will be faster/slower than their parents. This process can be repeated endlessly
+- Breeding two foxes with netherite armor will cause their offspring to inherit the knockback resistance from their parents.
 
 **Beta 1.16.230.54 - Beta 1.16.230.50 (Experimental) (UBC)**
 - Double Waxed Oxidised Cut Copper Slabs, Lit Deepslate Redstone Ore, Double Cobbled Deepslate Slabs, Double Deepslate Brick Slabs, Double Polished Deepslate Slabs, Double Deepslate Tile Slabs can be obtained by downgrading them from 1.16.230.54 as a block to 1.16.220.51. THey will turn into unknown blocks, mining them (make sure they do not stack), and then updating them 1.21.30 will give you Double Waxed Oxidised Cut Copper Slabs, Lit Deepslate Redstone Ore, Double Cobbled Deepslate Slabs, Double Deepslate Brick Slabs, Double Polished Deepslate Slabs, Double Deepslate Tile Slabs as a item.
@@ -368,6 +369,7 @@ ________________________________________________________________________________
 - Placing a stonecutter in the east/west direction and mining it with silk touch will drop a stonecutter facing the wrong way in the inventory. They will stack with normal stonecutter.
 - Iron Bars/Glass Panes don't connect to mangrove roots
 - Pushing a lit TNT into a portal at the exact same time it explodes, it will summon an unstable tnt that appears all white and will stay that way forever
+- Cod, Pufferfish, Salmon, and Tropical Fish have 3 hearts instead 1.5
 
 **1.19.2**
 - Shulkers inflict Levitation 2 instead of Levitation 1. To keep this effect, you can let a shulker hit any scoopable mob and promptly scoop the mob with a bucket after it gets hit.
@@ -375,6 +377,8 @@ ________________________________________________________________________________
 
 **Preview 1.19.50.21**
 - When camels are bred, they use their current speed rather than their base speed. Therefore if camels are bred together after being splashed with swiftness  or slowness potions, their offspring will be faster/slower than their parents. This breeding process can be repeated endlessly.
+- Hanging Signs can be attached to bamboo saplings
+- Hanging Signs have a max of 15 characters per line instead of 8
 
 **Preview 1.19.50.21 - Preview 1.19.50.20 (UBC) (Experimental)**
 - Downgrading Double Bamboo Slabs and Double Mosaic Bamboo Slabs from 1.19.50.21 as a block to 1.19.50.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you Double Bamboo Slabs and Double Mosaic Bamboo Slabs as a tile item.
@@ -408,7 +412,7 @@ ________________________________________________________________________________
 - Letting a creeper fall into a sliced portal just as it explodes will make the creeper peaceful and unable to explode.
 - Replacing the outer portal blocks of a portal (the portal blocks that are touching the obsidian) with powder snow/water/or lava and at the same time going through a sliced portal will leave the portal blocks intact and it will create a powder snow/water/lava portal
 - Letting a chicken fall into a minecart or a boat will make the chicken an always flapping chicken
-- Placinga grass block in the center and then doing a checkerboard pattern of the block you want to catch fire on and grass blocks to the reach of lava. Placing lava on the center block, and when the lava is done spreading, pick up the lava and spam clicking bonemeal on the center block can catch fire on the blocks causing a chance of an Always Burning Fire on the block of your choice.
+- Placing a grass block in the center and then doing a checkerboard pattern of the block you want to catch fire on and grass blocks to the reach of lava. Placing lava on the center block, and when the lava is done spreading, pick up the lava and spam clicking bonemeal on the center block can catch fire on the blocks causing a chance of an Always Burning Fire on the block of your choice.
 
 **1.20.40**
 - Putting Baby Camels and Baby Sniffers in a boat won't eject them when they grow up
@@ -497,4 +501,5 @@ ________________________________________________________________________________
 - Pillagers, Vindicators, and Evokers, for some strange reason, have the ability to pick up a White Banner, and will even trade their weapons for it.
 - Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to english will make it possible to name Mobs "Name Tag" which is illegal
 - You can place Twisting Vines on Leaves and Chrous Flowers/Plants
-- Pushing Shulkers into the exit portal in the end will have them sent all the way to 32K on the y level, giving you floating shulkers, after relogging the shulker will be put at y level: 511. 
+- Pushing Shulkers into the exit portal in the end will have them sent all the way to 32K on the y level, giving you floating shulkers, after relogging the shulker will be put at y level: 511.
+- Quicky Replacing blocks with cactus inside of water can cause the cactus to be waterlogged
