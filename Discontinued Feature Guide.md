@@ -12,6 +12,11 @@ ________________________________________________________________________________
 **0.2.0 alpha (Android)**
 - Water, lava, fire, or snow could be replaced with Sugarcane, Cactus, and Ladders to create Cactus on grass, Sugarcane on Stone without water, or Floating Invisible Ladders. Due to the replacement of the block bypassing the initial update check, the blocks can be placed. 
 
+**0.3.2 alpha (Android)**
+- World names can be up to 1023 characters long. The first 255 characters can be any letter/symbol on the normal keyboard. The final characters can only be characters that are not allowed on android such as /, , :, *, ?, ", <, >, and |.
+- Line breaks are allowed in world names
+- Data value 4, 5, and 6 saplings drop from oak, spruce, and birch leaves respectively
+
 **0.4.0 alpha (Android)**
 - Smelting Red Mushrooms in a Furnace will give you Red Dye in the Output Slot of a Furnace
 - Gravity Blocks like Sand or Gravel will not fall if a block is broken underneath them.
@@ -213,6 +218,7 @@ ________________________________________________________________________________
 **1.16.100**
 - Placing an end gateway on the central pillar of the end fountain when the dragon perches, it will freeze the dragon. After relogging an end gateway will appear where the ender dragon was. This allows for over 20 end gateways in the main end island.
 - Zombies and Skeletons put shields in their wrong hand. So when updating to later versions and giving the mob an extra shield will put the second shield in the correct hand allowing for double wielding mobs with shields.
+- Placing a sign against a block would replace that block with the sign, making it possible to delete blocks. For example, having a slab on the lower half and placing a sign on it will delete the block directly above the slab. This can also be used to make signs that are supported solely by other signs
 
 **1.16.201**
 - Pushing End Crystals with a flying machine while summoning the ender dragon, will keep the ender crystal from updating, because of this they will stay indestructible and permanently have the summoning beam
