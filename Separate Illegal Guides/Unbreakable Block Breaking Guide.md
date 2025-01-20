@@ -33,6 +33,9 @@ ________________________________________________________________________________
 - Giving yourself an item that has a durability bar and adding the metadata of 9999 will give you negative durability items. So using the /give@s netherite_sword 1 9999 will give you a negative durability netherite sword. Combining 4 of these negative durability items in a crafting recipe will give you an unbreakable item with almost infinite durability.
 - Using the /execute command you can obtain a lot of other commands by using /execute@s ~ ~ ~ and then your command. Using this method with the /replaceitem command can give you many different items in the furnace output slot and many different items in mobs offhand.
 
+**1.16.100**
+- Placing a sign against a block would replace that block with the sign, making it possible to delete blocks. For example, having a slab on the lower half and placing a sign on it will delete the block directly above the slab. This can also be used to make signs that are supported solely by other signs
+
 **1.17.10**
 - Using a powder snow bucket on a cauldron filled with powder snow creates a powder snow block directly above the cauldron. This deletes any block that was previously occupying the space above it including bedrock.
 
