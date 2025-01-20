@@ -10,6 +10,9 @@ ________________________________________________________________________________
 **(X.XX.XX.X - Y.YY.YY.Y)**: Version Upgrading or Downgrading from and to 
 ______________________________________________________________________________________________________________________________________
 
+**0.3.2 alpha (Android)**
+- Data value 4, 5, and 6 saplings drop from oak, spruce, and birch leaves respectively
+
 **0.4.0 alpha (Android)**
 - Crafting Oak Slabs in this version will give you Wooden Slabs that are similar to Petrified Oak Slabs in Java Edition
 
