@@ -428,6 +428,7 @@ ________________________________________________________________________________
 
 **1.20.60 (Experimental)**
 -  Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Helmet. The Efficiency I Helmet are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+-  Getting a breeze to attack the following mobs: zombie, husk, skeleton, stray, slime, spiders, and cave spiders will cause the mob to be permanently angered at the breeze
 
 **1.20.62**
 - Naming a Campfire and then placing it will give the campfire a hovering name tag above it
