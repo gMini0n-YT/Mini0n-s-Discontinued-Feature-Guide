@@ -113,6 +113,9 @@ ________________________________________________________________________________
 **1.20.40**
 - Putting Baby Camels and Baby Sniffers in a boat won't eject them when they grow up
 
+**1.20.60 (Experiment)**
+- Getting a breeze to attack the following mobs: zombie, husk, skeleton, stray, slime, spiders, and cave spiders will cause the mob to be permanently angered at the breeze
+
 **1.21.0**
 - If a Pillager or Witch attacks a Vindicator, Evoker, or Witches would retaliate against the illager that attacked them
 
