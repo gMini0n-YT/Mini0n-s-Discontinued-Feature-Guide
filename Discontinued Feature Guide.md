@@ -505,3 +505,4 @@ ________________________________________________________________________________
 - You can place Twisting Vines on Leaves and Chrous Flowers/Plants
 - Pushing Shulkers into the exit portal in the end will have them sent all the way to 32K on the y level, giving you floating shulkers, after relogging the shulker will be put at y level: 511.
 - Quicky Replacing blocks with cactus inside of water can cause the cactus to be waterlogged
+- In this version you are able to obtain Permenently Frozen Ghast Fireballs, the way to do this is by getting a Ghast to shoot at you and then quickly leaving into a nether portal before it hits you, after you enter another dimension the fireball should be in stasis and will not move, then what you have to do is go through a different portal that will take you at least 300 block away from the fireball and then walk/fly over there and the fireball should be in stasis
