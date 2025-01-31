@@ -119,6 +119,9 @@ ________________________________________________________________________________
 **1.21.0**
 - If a Pillager or Witch attacks a Vindicator, Evoker, or Witches would retaliate against the illager that attacked them
 
+**1.21.30.24**
+- Updating Witches from Previous Versions will give them a different droprate than newer witches because of the change of 25% chance of dropping redstone to 100%.
+
 **1.21.51**
 - You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
 - Pillagers, Vindicators, and Evokers, for some strange reason, have the ability to pick up a White Banner, and will even trade their weapons for it.
