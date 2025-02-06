@@ -395,6 +395,9 @@ ________________________________________________________________________________
 > If you get this illegal you won't be able to play 1.20.0, otherwise all mobs in a boat will be ejected. You must skip/wait for 1.20.10 to join without casualities
 - Requires Experiment: Suspicious Sand can be waterlogged
 
+**1.19.70 (Experimental) (Next Major Update Experiment)**
+- Support Blocks could be placed on Decorated Pots
+
 **Preview 1.19.70.23 - Preview 1.19.70.22 (UBC) (Experimental)**
 -Downgrading the Torchflower crop from 1.19.70.23 as a block to 1.19.70.22 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Torchflower as a tile item.
 
