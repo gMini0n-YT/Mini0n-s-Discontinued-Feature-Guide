@@ -496,6 +496,9 @@ ________________________________________________________________________________
 **Preview 1.21.50.20**
 - Creaking Hearts can be put in the fuel slot of the furnace
 
+**1.21.50.26 - 1.21.50.24 (Requires Downgrading)**
+- Downgrading an allay that is holding a resin clump from 1.21.50.26 to 1.21.50.24 will cause the resin to disappear and make the allay permanently unkillable even without an item
+
 **1.21.51**
 - Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
 - Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
