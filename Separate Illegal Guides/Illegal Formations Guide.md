@@ -84,6 +84,9 @@ ________________________________________________________________________________
 **1.16.100**
 - Placing an end gateway on the central pillar of the end fountain when the dragon perches, it will freeze the dragon. After relogging an end gateway will appear where the ender dragon was. This allows for over 20 end gateways in the main end island.
 
+**Beta 1.16.220.52**
+- Moss Blocks could be waterlogged
+
 **1.16.220**
 - Pushing a detector rail with a minecart on it, and breaking the minecart will give you a Permanently Powered Detector Rail
 - Placing non-full blocks (e.g. Enchanting Tables, Slabs, Trapdoors) in snow-covered flowers, the flowers will won't break. This allows for flower-logged blocks.
