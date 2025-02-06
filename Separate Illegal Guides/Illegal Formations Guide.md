@@ -154,6 +154,9 @@ ________________________________________________________________________________
 **1.19.70**
 - Requires Experiment: Suspicious Sand can be waterlogged
 
+**1.19.70 (Experimental) (Next Major Update Experiment)**
+- Support Blocks could be placed on Decorated Pots
+
 **1.20.12**
 - Quickly replacing the bottom of a pitcher plant/bamboo stalk/ or two tall dripleaf with a pitcher pod/bamboo/big dripleaf will make a double dripleaf, a bamboo shoot on top of a bamboo stalk/ and a glitched pitcher pod.
 - Replacing the outer portal blocks of a portal (the portal blocks that are touching the obsidian) with powder snow/water/or lava and at the same time going through a sliced portal will leave the portal blocks intact and will create a powder snow/water/lava portal
