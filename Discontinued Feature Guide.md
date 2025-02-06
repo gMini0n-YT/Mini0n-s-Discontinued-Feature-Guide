@@ -231,6 +231,9 @@ ________________________________________________________________________________
 **Beta 1.16.210.57 - Beta 1.16.210.55 (Experimental) (UBC)**
 - Downgrading all 7 Double Cut Copper Slabs (excluding the Double Waxed Oxidized Copper Slab) to 1.16.210.55 will convert them to unknown blocks. Mining up the Unknown blocks while making sure they do not stack and updating to 1.21.30 will give you 7 different Double Cut Copper Slabs
 
+**Beta 1.16.220.52**
+- Moss Blocks could be waterlogged
+
 **Beta 1.16.220.52 - Beta 1.16.220.51 (Experimental) (UBC)**
 - Glow Vines, Glow Berry Vines, Glow Berry Vine Tips can be obtained by downgrading them from 1.16.220.52 as a block to 1.16.220.51. They will turn into unknown blocks, mining them (make sure they do not stack), and updating them to 1.21.30 will convert them to Glow Vine Tiles, Glow Berry Vine Tiles, and Glow Berry Vine Tips Tile.
 
