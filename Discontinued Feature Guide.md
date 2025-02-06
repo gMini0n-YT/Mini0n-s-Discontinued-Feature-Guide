@@ -186,6 +186,7 @@ ________________________________________________________________________________
 - All Crimson and Warped Wood variants could be put into the fuel slot of Furnaces
 - Hoglins can go into the Overworld without transferring into Zoglins
 - Zoglins and Hoglins spawned before beta 1.16.0.63 had no knockback resistance
+- Wither Skeletons would prefer Golden Swords over Stone Swords which means that Wither Skeletons would pick up gold swords and keep hold of them
 
 **Beta 1.16.0.57**
 - Treasure Bastions spawn with one Barrier Block in one of the lava pools
