@@ -41,6 +41,7 @@ ________________________________________________________________________________
 **Beta 1.16.0.51**
 - Piglins have more health in this version and they will keep their health when updating through versions
 - Ravagers, Zoglins, and Hoglins in this version have less knockback resistance
+- Wither Skeletons would prefer Golden Swords over Stone Swords which means that Wither Skeletons would pick up gold swords and keep hold of them
 
 **1.16.1.2**
 - You can exploit commands in this version by removing the space between the /give and the @ symbol. This will not turn off achievements allowing for commands in a vanilla world. This can give you infinite amount of illegals including bedrock, spawn eggs, top slabs, command blocks, and weird blocks in the furnace fuel slot. List of Illegals are in the "1.16.1.2 Guide" file in the "Links Folder". Using this glitch may be considered cheating but it relies on personal preference, some commands will be for sure considered cheating. 
