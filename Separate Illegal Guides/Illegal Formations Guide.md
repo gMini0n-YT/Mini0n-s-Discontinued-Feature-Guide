@@ -124,6 +124,7 @@ ________________________________________________________________________________
 **1.18.0**
 - Placing walls under floating candles will cause the walls to fully stretch
 - Scaffolding at y=1 will not update and fall if there is no block below it
+- (Requires Vanilla Experiments) You can place support blocks on the Skulk Shriekers and Skulk Sensors
 
 **Beta 1.18.10.24 (Experimental)**
 - Glow Lichen can be placed on Frog Eggs
