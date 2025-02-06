@@ -225,7 +225,7 @@ ________________________________________________________________________________
 - Pushing End Crystals with a flying machine while summoning the ender dragon, will keep the ender crystal from updating, because of this they will stay indestructible and permanently have the summoning beam
 - Punching an End Crystal while summoning the Ender Dragon, and standing in the exit portal will send you back to the overworld. As a result you will have 4 beaming crystals at your exit portal and they will be destructible. You sometimes may get 3 end crystals at your exit portal depending on the speed you go back to the Overworld.
 - Wandering Traders sell ink sacs with a Damage Value of 4
-- Inside Woodland Mansions, it is possible to get Efficiency I leather helmet, and black glow sticks. The Efficiency I Helmets are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still vislbe. The Black Glow Sticks are a lot rarer and a lot harder to find. To find the Glow Sticks you must find the "secret" end portal room within the Woodland Mansion. The room is a lot harder to find because it has no indicator to locate it. To make things easier for you, go ahead and download the "Mansion X-Ray.mcpack" from the "Texture Pack" folder. This pack will x-ray through the dark-oak planks in the woodland mansion.
+- Inside Woodland Mansions, it is possible to get Efficiency I leather helmet. The Efficiency I Helmets are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still vislbe.
 - Before 1.16.220, zombies and skeletons would put shields on the wrong arm. 
 
 **Beta 1.16.210.57 - Beta 1.16.210.55 (Experimental) (UBC)**
@@ -273,6 +273,7 @@ ________________________________________________________________________________
 - Using Dispensers to remove the water from bubble columns does not destroy the bubble column itself.
 - Leashing Axolotls before scooping them up won't unleash the axolotl
 - When a mob is left with only one heart and is simultaneously struck by an Instant Health Potion and an Instant Damage Potion, the mob becomes invincible. If the mob appears red and shaking, rejoining the game will restore its normal appearance
+- Inside Woodland Mansions, it is possible to black glow sticks. The Black Glow Sticks are a lot rarer and a lot harder to find. To find the Glow Sticks you must find the "secret" end portal room within the Woodland Mansion. The room is a lot harder to find because it has no indicator to locate it. To make things easier for you, go ahead and download the "Mansion X-Ray.mcpack" from the "Texture Pack" folder. This pack will x-ray through the dark-oak planks in the woodland mansion.
 
 **1.17.10.22 - 1.17.10.21 (UBC)**
 - Downgrading all 17 cakes with candles from 1.17.10.22 as a block to 1.17.10.21 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you all 17 cakes with candles as a tile item.
