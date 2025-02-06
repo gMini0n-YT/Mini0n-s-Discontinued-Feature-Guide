@@ -198,6 +198,7 @@ ________________________________________________________________________________
 
 **1.19.70**
 - Inside Woodland Mansions, it is possible to get Efficiency I leather chestplate. The Efficiency I Chestplates are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+- You can name items and mobs "skibidi" without it being blocked
 
 **Preview 1.19.70.23 - Preview 1.19.70.22 (UBC) (Experimental)**
 -Downgrading the Torchflower crop from 1.19.70.23 as a block to 1.19.70.22 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Torchflower as a tile item.
