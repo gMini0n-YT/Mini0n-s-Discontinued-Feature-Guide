@@ -76,9 +76,6 @@ ________________________________________________________________________________
 **0.15.9 alpha (Android)**
 - Taming Cats in this version and leaving them in unloaded chunks until **1.8.0.8** will turn them into Tamed Ocelots
 
-**0.16.0.5 alpha (Android)**
-- Shearing Mooshrooms will drop mushrooms with a damage value of -1
-
 **0.17.0.1 alpha (Android)**
 > [!CAUTION]
 > PDV: Hitting a Mob or getting hit by a mob will crash the game.
