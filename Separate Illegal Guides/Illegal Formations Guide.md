@@ -192,3 +192,4 @@ ________________________________________________________________________________
 - Fences, Ironbars, Glass Panes, and Walls can connect to Structure Voids
 - You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
 - You can place Twisting Vines on Leaves and Chrous Flowers/Plants
+- Using Nether Portals you can create a solid block of water that will not flow. Placing Nether Portals on the side of some sort of enlosed aquarium and breaking the obsidian on the portal will not update the water leaving it floating on it's side
