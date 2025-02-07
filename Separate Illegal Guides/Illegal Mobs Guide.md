@@ -101,6 +101,9 @@ ________________________________________________________________________________
 **1.18.30**
 - Giving Wall Skulll to armor stands and mobs will cause them to hold it in their hand, which when updating to 1.21.30 will cause the wall skulls to change to skeleton skull which allows for mobs holding skeleton skulls in their hand
 
+**Beta 1.19.0.21**
+- Allays in this version have 8 hearts/16 health points instead of 10 hearts/20 health points
+
 **1.19.2**
 - Shulkers inflict Levitation 2 instead of Levitation 1. To keep this effect, you can let a shulker hit any scoopable mob and promptly scoop the mob with a bucket after it gets hit.
 - Ravagers in this version have a lot slower base speed than Ravagers spawned in newer versions
