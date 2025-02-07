@@ -127,7 +127,7 @@ ________________________________________________________________________________
 - Putting Baby Camels and Baby Sniffers in a boat won't eject them when they grow up
 
 **Preview 1.20.60.20 (Experiment Update 1.21)**
-- Skeletons, Strays, Zombies, Husks, Spiders, Cave Spiders, and Slimes would retaliate against Breezes when hit by them, any of these mobs being angry at a Breeze, which normally isnt possible.
+- Skeletons would retaliate against Breezes when hit by them, skeletons will be angry at a Breeze, which normally isnt possible.
 
 **1.20.60 (Experiment)**
 - Getting a breeze to attack the following mobs: zombie, husk, skeleton, stray, slime, spiders, and cave spiders will cause the mob to be permanently angered at the breeze
