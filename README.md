@@ -14,7 +14,7 @@
 - Added CoordinatesUnlocker Pack
 - Added Cross Dimension Chunk Template
 - Added Damage Indicator Pack
-- Added Discontinued Feature Tweaks Guide by p3sw
+- Added Discontinued Feature Tweaks by p3sw
 - Added Mansion X-Ray Pack
 - Added MobHeadVi by Sir Kellogs Pack
 - Added the Trading helper Pack
