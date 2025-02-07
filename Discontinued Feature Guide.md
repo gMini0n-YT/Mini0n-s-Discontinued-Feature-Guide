@@ -502,7 +502,8 @@ ________________________________________________________________________________
 - Because of ID Changes in this version Glitched Slabs from 1.11.0.1 will turn in into the respectible Double Slab state
 - Curse of Binding V & Curse of Vanishing III from 1.2.13.8 appear to be removed because of the name change but the illegal enchantment levels are still there.
 - If you obtained the Bed tiles from 0.12.0, they will convert to normal beds, so stacking bed tiles will result in overstacked beds.
-- Using the Bundle Experiment with Pocket UI, swapping a singular item in a bundle with a stack of the same item can overfill the bundle allowing for 64 stacks of different items in the bundle 
+- Using the Bundle Experiment with Pocket UI, swapping a singular item in a bundle with a stack of the same item can overfill the bundle allowing for 64 stacks of different items in the bundle
+- Foxes in this version have 10 hearts/20 health points instead of 5 hearts/10 health points
 
 **Preview 1.21.30.24**
 - Maces could stack to 64 allowing for overstacked maces
