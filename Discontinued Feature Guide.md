@@ -372,6 +372,9 @@ ________________________________________________________________________________
 **Beta 1.19.0.20**
 - All copper horn variants can be obtained in this version, putting the copper horns in an unplaced shulker box will save their data even when they're removed in 1.19.0.24/25
 
+**Beta 1.19.0.21**
+- Allays in this version have 8 hearts/16 health points instead of 10 hearts/20 health points
+
 **Beta 1.19.0.26**
 - Mangrove Roots can be used as fuel in Furnaces
 
