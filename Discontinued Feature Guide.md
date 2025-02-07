@@ -8,6 +8,8 @@ ________________________________________________________________________________
 **(Experimental)**: Turning on the Experimental Toggle
 <br>
 **(X.XX.XX.X - Y.YY.YY.Y)**: Version Upgrading or Downgrading from and to 
+<br>
+**(0.12.1 Downgrade**): Downgrading client to 0.12.1 and renaming world you would like to downgrade will cause the world to downgrade to 0.12 without any corruption. This allows to easily downgrade to any version above 0.12.1. 
 ______________________________________________________________________________________________________________________________________
 **0.2.0 alpha (Android)**
 - Water, lava, fire, or snow could be replaced with Sugarcane, Cactus, and Ladders to create Cactus on grass, Sugarcane on Stone without water, or Floating Invisible Ladders. Due to the replacement of the block bypassing the initial update check, the blocks can be placed. 
