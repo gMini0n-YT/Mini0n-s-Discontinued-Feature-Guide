@@ -446,7 +446,7 @@ ________________________________________________________________________________
 
 **Preview 1.20.60.20 (Experiment Update 1.21)**
 - Mining decorated pots with loot tables using a silk touch pickaxe won't remove the loot table tag
-- Skeletons, Strays, Zombies, Husks, Spiders, Cave Spiders, and Slimes would retaliate against Breezes when hit by them, any of these mobs being angry at a Breeze, which normally isnt possible.
+- Skeletons would retaliate against Breezes when hit by them, this mob will be angry at a Breeze, which normally isnt possible.
 
 **1.20.60 (Experimental)**
 -  Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Helmet. The Efficiency I Helmet are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
