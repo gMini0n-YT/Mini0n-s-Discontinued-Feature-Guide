@@ -231,6 +231,9 @@ ________________________________________________________________________________
 **Beta 1.16.210.57 - Beta 1.16.210.55 (Experimental) (UBC)**
 - Downgrading all 7 Double Cut Copper Slabs (excluding the Double Waxed Oxidized Copper Slab) to 1.16.210.55 will convert them to unknown blocks. Mining up the Unknown blocks while making sure they do not stack and updating to 1.21.30 will give you 7 different Double Cut Copper Slabs
 
+**Beta 1.16.230.54 - Beta 1.16.210.61 (0.12.1 Downgrading)**
+- Downgrading Dripstone found in small caves from 1.16.230.54 to 1.16.210.61 will cause the dripstone to stay in that version. You can then take the dripstone and place it next to cactus which creates an illegal formation with cactus
+
 **Beta 1.16.220.52**
 - Moss Blocks could be waterlogged
 
