@@ -132,6 +132,9 @@ ________________________________________________________________________________
 **1.21.0**
 - If a Pillager or Witch attacks a Vindicator, Evoker, or Witches would retaliate against the illager that attacked them
 
+**Preview 1.21.30.23 (Bundle Experiment)**
+- Foxes in this version have 10 hearts/20 health points instead of 5 hearts/10 health points
+
 **1.21.30.24**
 - Updating Witches from Previous Versions will give them a different droprate than newer witches because of the change of 25% chance of dropping redstone to 100%.
 
