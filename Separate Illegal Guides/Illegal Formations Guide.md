@@ -94,6 +94,9 @@ ________________________________________________________________________________
 - Placing non-full blocks (e.g. Enchanting Tables, Slabs, Trapdoors) in snow-covered flowers, the flowers will won't break. This allows for flower-logged blocks.
 - End Portals do not trigger Block updates. So by flower-logging the end portal frames and activating them below gravity blocks and then breaking the grass block underneath the end portals, the end portal frames will break leaving floating gravity blocks.
 
+**Beta 1.16.230.54 - Beta 1.16.230.50 (Downgrading)**
+- Obtaining Dripstone in 1.16.230.54 in small caves and downgrading to 1.16.230.50 will give you dripstone in 1.16.230.50. Placing the Dripstone as tall as you want and pushing the bottom of the dripstone with a piston will not update the dripstone causing for really odd looking dripstone base
+
 **Beta 1.17.0.58 - Beta 1.16.210.54 (Experimental)**
 - Powder Snow Buckets can be obtained in 1.17.0.58 through Cauldrons. So downgrading these buckets to 1.16.210.54, you can Powder Snow-log non-full blocks by placing the Powder Snow Bucket on the block adjacent to the block you want to snowlog
 
