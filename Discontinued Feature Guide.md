@@ -249,6 +249,7 @@ ________________________________________________________________________________
 **Beta 1.16.230.54 - Beta 1.16.230.50 (Experimental) (UBC)**
 - Double Waxed Oxidised Cut Copper Slabs, Lit Deepslate Redstone Ore, Double Cobbled Deepslate Slabs, Double Deepslate Brick Slabs, Double Polished Deepslate Slabs, Double Deepslate Tile Slabs can be obtained by downgrading them from 1.16.230.54 as a block to 1.16.220.51. THey will turn into unknown blocks, mining them (make sure they do not stack), and then updating them 1.21.30 will give you Double Waxed Oxidised Cut Copper Slabs, Lit Deepslate Redstone Ore, Double Cobbled Deepslate Slabs, Double Deepslate Brick Slabs, Double Polished Deepslate Slabs, Double Deepslate Tile Slabs as a item.
 - In 1.16.230.50, the Powder Snow block can be obtained by placing it inside of a bubble column and pushing it with a piston. Video Tutorial: https://www.youtube.com/watch?v=qBvycwTPF6g
+- Obtaining Dripstone in 1.16.230.54 in small caves and downgrading to 1.16.230.50 will give you dripstone in 1.16.230.50. Placing the Dripstone as tall as you want and pushing the bottom of the dripstone with a piston will not update the dripstone causing for really odd looking dripstone base
 
 **Beta 1.17.0.58 - Beta 1.16.210.54 (Experimental)**
 - Powder Snow Buckets can be obtained in 1.17.0.58 through Cauldrons. So downgrading these buckets to 1.16.210.54, you can Powder Snow-log non-full blocks by placing the Powder Snow Bucket on the block adjacent to the block you want to snowlog
