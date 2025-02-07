@@ -132,6 +132,9 @@ ________________________________________________________________________________
 **1.21.0**
 - If a Pillager or Witch attacks a Vindicator, Evoker, or Witches would retaliate against the illager that attacked them
 
+**1.21.30**
+- Vindicators and Evokers would retaliate to Pillagers who shot them
+
 **Preview 1.21.30.23 (Bundle Experiment)**
 - Foxes in this version have 10 hearts/20 health points instead of 5 hearts/10 health points
 
