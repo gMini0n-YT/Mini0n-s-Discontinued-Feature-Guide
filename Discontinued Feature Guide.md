@@ -507,6 +507,7 @@ ________________________________________________________________________________
 - If you obtained the Bed tiles from 0.12.0, they will convert to normal beds, so stacking bed tiles will result in overstacked beds.
 - Using the Bundle Experiment with Pocket UI, swapping a singular item in a bundle with a stack of the same item can overfill the bundle allowing for 64 stacks of different items in the bundle
 - Foxes in this version have 10 hearts/20 health points instead of 5 hearts/10 health points
+- Upgrading tile skulls inside unplaced shulker boxes to this version will cause them to disappear and the shulker box will say in the tool tip nothing and then will say +"number" of extra slots that had skulls in them 
 
 **Preview 1.21.30.24**
 - Maces could stack to 64 allowing for overstacked maces
