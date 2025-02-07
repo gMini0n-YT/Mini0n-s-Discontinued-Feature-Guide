@@ -49,9 +49,6 @@ ________________________________________________________________________________
 **0.15.0 - 0.12.1 alpha (Android)**
 - Downgrading from **0.15.0** to **0.12.1** alpha will transform these enchants which will transform back when updating: Fortune -> Power, Silk Touch -> Unbreaking, Infinity - Luck of the Sea. So putting Unbreaking on any item in **0.12.1** and then updating back to **0.15.0** will give you Silk Touch on any item. Putting Luck of the Sea on a Fishing Rod in **0.12.1** and updating to **0.15.0** will give you an Infinity Fishing Rod. Putting Power IV/V on a Book or Bow will give you a Fortune IV/V Book or Bow. Finally combining Power 1-5 and Unbreaking can give you a Silk Touch and Fortune enchantment on the same book.
 
-**0.16.0.5 alpha (Android)**
-- Shearing Mooshrooms will drop mushrooms with a damage value of -1
-
 **0.17.0.1 alpha (Android)**
 > [!CAUTION]
 > PDV: Hitting a Mob or getting hit by a mob will crash the game.
