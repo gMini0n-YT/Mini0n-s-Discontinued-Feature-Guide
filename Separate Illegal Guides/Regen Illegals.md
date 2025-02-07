@@ -9,9 +9,10 @@ ________________________________________________________________________________
 <br>
 **(X.XX.XX.X - Y.YY.YY.Y)**: Version Upgrading or Downgrading from and to 
 <br>
-
+**(0.12.1 Downgrade**): Downgrading client to 0.12.1 and renaming world you would like to downgrade will cause the world to downgrade to 0.12 without any corruption. This allows to easily downgrade to any version above 0.12.1. 
 **VCR**: Valid Chunk Regeneration, the process of regenerating blocks without removing it's block states and entities: (e.g. floating support items, duplication)
 <br>
+
 **ICR**: Invalid Chunk Regeneration, the process of regenerating blocks and removing it's block states and entities, this only works on Block Entities (e.g. chests, enderchests), everything else that is not a block entity will be regenerated like in VCR
 <br>
 **USR**: Update Suppression Regen, using an Update Suppressor https://www.youtube.com/watch?v=FswCxCU3lzc to create an illegal formation and then saving & quitting and breaking the formation and save & quitting again to regen the blocks after all the pending ticks have disappeared. Full Tutorial in "UpdateSuppressedRegenGuide" in the "Links" Folder
