@@ -97,6 +97,9 @@ ________________________________________________________________________________
 **Beta 1.16.230.54 - Beta 1.16.230.50 (Downgrading)**
 - Obtaining Dripstone in 1.16.230.54 in small caves and downgrading to 1.16.230.50 will give you dripstone in 1.16.230.50. Placing the Dripstone as tall as you want and pushing the bottom of the dripstone with a piston will not update the dripstone causing for really odd looking dripstone base
 
+**Beta 1.16.230.54 - Beta 1.16.210.61 (0.12.1 Downgrading)**
+- Downgrading Dripstone found in small caves from 1.16.230.54 to 1.16.210.61 will cause the dripstone to stay in that version. You can then take the dripstone and place it next to cactus which creates an illegal formation with cactus
+
 **Beta 1.17.0.58 - Beta 1.16.210.54 (Experimental)**
 - Powder Snow Buckets can be obtained in 1.17.0.58 through Cauldrons. So downgrading these buckets to 1.16.210.54, you can Powder Snow-log non-full blocks by placing the Powder Snow Bucket on the block adjacent to the block you want to snowlog
 
