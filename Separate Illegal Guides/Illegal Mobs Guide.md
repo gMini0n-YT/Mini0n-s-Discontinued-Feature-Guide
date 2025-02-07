@@ -122,6 +122,7 @@ ________________________________________________________________________________
 **1.20.12**
 - Zombies, Husks, Drowneds, Zombified Piglins, Zombie Villagers, Skeletons, and Strays can wear illager banners when dispensed on them
 - Letting a creeper fall into a sliced portal just as it explodes will make the creeper peaceful and unable to explode.
+- You can dispense armor on Villagers and Evokers and they will wear it
 
 **1.20.40**
 - Putting Baby Camels and Baby Sniffers in a boat won't eject them when they grow up
