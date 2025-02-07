@@ -108,6 +108,9 @@ ________________________________________________________________________________
 - Shulkers inflict Levitation 2 instead of Levitation 1. To keep this effect, you can let a shulker hit any scoopable mob and promptly scoop the mob with a bucket after it gets hit.
 - Ravagers in this version have a lot slower base speed than Ravagers spawned in newer versions
 
+**Preview 1.19.10.23**
+- Cod, Salmon, Tropical Fish, and Pufferfish have 3 hearts/6 health points instead of 1.5 hearts/3 health points
+
 **Preview 1.19.50.21**
 - When camels are bred, they use their current speed rather than their base speed. Therefore if camels are bred together after being splashed with swiftness  or slowness potions, their offspring will be faster/slower than their parents. This breeding process can be repeated endlessly.
 
