@@ -64,6 +64,9 @@ ________________________________________________________________________________
 **1.9.0**
 - You can put Glass Bottles in a Brewing Stand via hopper
 
+**1.11.0**
+- In 1.11, you can place 16 buckets in a furnace fuel slot instead of just one
+
 **1.14.0**
 - Permanent Open Barrels can be made by pushing a Barrel via piston while opening it at the same time
 
