@@ -45,10 +45,8 @@ ________________________________________________________________________________
 - Cacti can grow adjacent to blocks
 - Placing Torches on the side of a block and placing a painting on the same block will overlap the painting and the torches
 
-**0.8.0 build 1 (Android)**
-- Block of Coal in this version and updating will change the block of coal to Nether Bricks allowing for Nether Bricks in the Furnace Fuel Slot by putting Block of Coal in the Furnace Fuel Slot.
-
 **0.8.0_test1 (Android)**
+- Block of Coal in this version and updating will change the block of coal to Nether Bricks allowing for Nether Bricks in the Furnace Fuel Slot by putting Block of Coal in the Furnace Fuel Slot.
 - In this version, Logs can now be placed sideways. Mining up the sideways Logs will give you Invalid Data Value Logs
 
 **0.9.0 alpha (Android)**
