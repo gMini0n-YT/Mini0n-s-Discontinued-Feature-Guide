@@ -539,3 +539,6 @@ ________________________________________________________________________________
 
 **Preview 1.21.60.24**
 - Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
+
+**Preview 1.21.70.24**
+- The Invincible Mobs from 1.17.0 have been removed entirely but if you obtain an Invincible Axolotl in a bucket they will turn into a Disappearing Axolotl in a Bucket. Warning don't place it down because it will immediately disappear
