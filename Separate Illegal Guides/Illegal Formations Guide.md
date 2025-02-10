@@ -196,3 +196,7 @@ ________________________________________________________________________________
 
 **Preview 1.21.60.24**
 - Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
+
+**Preview 1.21.70.24**
+- You can place Leaf Litter and the Cactus Flower on Hoppers
+- You can also place Dry Grass on Farmland
