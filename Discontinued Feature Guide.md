@@ -542,3 +542,5 @@ ________________________________________________________________________________
 
 **Preview 1.21.70.24**
 - The Invincible Mobs from 1.17.0 have been removed entirely but if you obtain an Invincible Axolotl in a bucket they will turn into a Disappearing Axolotl in a Bucket. Warning don't place it down because it will immediately disappear
+- You can place Leaf Litter and the Cactus Flower on Hoppers
+- You can also place Dry Grass on Farmland
