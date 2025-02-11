@@ -537,10 +537,10 @@ ________________________________________________________________________________
 - Baby Drowneds spawn with the same speed as the adult drowneds
 - Using Nether Portals you can create a solid block of water that will not flow. Placing Nether Portals on the side of some sort of enlosed aquarium and breaking the obsidian on the portal will not update the water leaving it floating on it's side
 
-**Preview 1.21.60.24**
-- Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
-
 **Preview 1.21.70.24**
 - The Invincible Mobs from 1.17.0 have been removed entirely but if you obtain an Invincible Axolotl in a bucket they will turn into a Disappearing Axolotl in a Bucket. Warning don't place it down because it will immediately disappear
 - You can place Leaf Litter and the Cactus Flower on Hoppers
 - You can also place Dry Grass on Farmland
+
+**1.21.60**
+- Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
