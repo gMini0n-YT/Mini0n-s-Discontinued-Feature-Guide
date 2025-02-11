@@ -445,10 +445,10 @@ ________________________________________________________________________________
 
 **Preview 1.20.60.20 (Experiment Update 1.21)**
 - Mining decorated pots with loot tables using a silk touch pickaxe won't remove the loot table tag
-- Skeletons would retaliate against Breezes when hit by them, this mob will be angry at a Breeze, which normally isnt possible.
+- Skeletons would retaliate against Breezes when hit by them, this mob will be angry at a Breeze, which normally isn't possible.
 
 **1.20.60 (Experimental)**
--  Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Helmet. The Efficiency I Helmet are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+-  Inside Woodland Mansions, it is possible to get an Efficiency I Chainmail Helmet. The Efficiency I Helmet is located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
 -  Getting a breeze to attack the following mobs: zombie, husk, skeleton, stray, slime, spiders, and cave spiders will cause the mob to be permanently angered at the breeze
 
 **1.20.62**
@@ -456,63 +456,63 @@ ________________________________________________________________________________
 - Naming a boat/chest boat and then placing it will give the boat a hovering name tag above it
 
 **Preview 1.20.70.21 - Preview 1.20.70.20 (UBC) (Experimental)**
-- Downgrading the Vault Block from 1.20.70.21 as a block to 1.20.70.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Vault Block as a tile item.
+- Downgrading the Vault Block from 1.20.70.21 as a block to 1.20.70.20 will turn them into unknown blocks. Mine up the unknown-block (making sure that they do not stack) and then updating to 1.21.30 will give you the Vault Block as a tile item.
 
 **1.20.71**
-- Placing a painting on standing signs and then placing (item frames, wall signs, banners) on the sign will create glitched out paintings
-- Blowing up an end crystal at the same time a piston extends will make the piston head walk through which makes it possible to create crossing pistons
+- Placing a painting on standing signs and then placing (item frames, wall signs, and banners) on the sign will create glitched-out paintings
+- Blowing up an end crystal at the same time a piston extends will make the piston head walkthrough which makes it possible to create crossing pistons
 
 **1.20.72 (Experimental)**
-- Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Chestplate. The Efficiency I Chestplate are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+- Inside Woodland Mansions, it is possible to get an Efficiency I Chainmail Chestplate. The Efficiency I Chestplate is located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
 
 **Preview 1.21.0.22**
-- Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Leggings. The Efficiency I Leggings are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+- Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Leggings. The Efficiency I Leggings are located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
 
 **Preview 1.21.0.23**
 > [!CAUTION]
 > Before updating to this version, make sure to put all your petrified oak slabs in an unplaced shulker box or they will turn into Stone Brick Slabs until 1.21.10.20
-- Enchant a mace with at least Density V, Breach IV, & Bane of Arthopods/Smite V, if you do so you will have almost every enchant on a mace. Density V, Breach IV, & Bane of Arthropods/Smite V are incompatible with each other in normal versions
+- Enchant a mace with at least Density V, Breach IV, & Bane of Arthropods/Smite V, if you do so you will have almost every enchant on a mace. Density V, Breach IV, & Bane of Arthropods/Smite V are incompatible with each other in normal versions
 - Trial Chambers that spawn with Decorated Pots have loot tables, if you break these pots the loot table will not be removed from the item
 
 **Preview 1.21.0.23 - Preview 1.21.0.21**
 - Wearing down two maces to about 200ish durability, then downgrading to 1.21.0.21, their durability becomes negative. You can then combine them with an anvil to make their durability go down even more, and to ensure it stays negative when updating back.
 
 **Preview 1.21.10.20**
-- Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Boots. The Efficiency I Boots are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+- Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Boots. The Efficiency I Boots are located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
 
 **Preview 1.21.0.25 - Preview 1.21.0.23 (UBC) (Experimental)**
 > [!CAUTION]
-> Petrified Oak Slabs will be deleted in version 1.21.0.24 (but not double petrified oak slabs), storing petrified oak slab items in a mined shulker boxes or unloaded chunks to preserve them
+> Petrified Oak Slabs will be deleted in version 1.21.0.24 (but not double petrified oak slabs), storing petrified oak slab items in mined shulker boxes or unloaded chunks to preserve them
 - Downgrading Double Petrified Oak Slabs from 1.21.0.25 as a block to 1.21.0.23 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Petrified Oak Slab as a tile item.
 
 **1.21.0**
 - Placing Powder Snow next to cactus won't break the cactus
-- Placing a 9+ high snowlayer on a pice of foliage and then breakinng the snow block will cause the extra snow layers to float above the foliage.
-- when Deepslate Redstone Ore is lit up , it never turns off
+- Placing a 9+ high snow layer on a piece of foliage and then breaking the snow block will cause the extra snow layers to float above the foliage.
+- when Deepslate Redstone Ore is lit up, it never turns off
 - If a Pillager or Witch attacks a Vindicator, Evoker, or Witches would retaliate against the illager that attacked them
 
 **Preview 1.21.10.22 - Preview 1.21.10.21**
-- Downgrading these Double slabs: (red sandstone, purpur, prismarine, prismarine brick, dark prismarine, mossy cobblestone, smooth sandstone, red nether brick, endstone brick, smooth red sandstone, polished andesite, diorite, polished diorite, andesite, granite, polished granite,mossy stone brick, smooth quartz, stone, cut sandstone, cut red sandstone, oak) from 1.21.10.22 as a block to 1.21.10.21 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Slab version of those slabs as a tile item.
+- Downgrading these Double slabs: (red sandstone, purpur, prismarine, prismarine brick, dark prismarine, mossy cobblestone, smooth sandstone, red nether brick, endstone brick, smooth red sandstone, polished andesite, diorite, polished diorite, andesite, granite, polished granite, mossy stone brick, smooth quartz, stone, cut sandstone, cut red sandstone, oak) from 1.21.10.22 as a block to 1.21.10.21 will turn them into unknown blocks. Mine up the unknown-block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Slab version of those slabs as a tile item.
 
 **Preview 1.21.30.23 (Bundle Experiment)**
 > [!CAUTION]
 > !!!WARNING!!! Starting in 1.21.30.23, many tile illegals will be removed as of this update including the Sugarcane Tile, Door Tiles, Cauldron Tiles, Hopper Tiles, item.nether_sprouts.name, Skull Tiles, Camera Block (Item), Brewing Stand Tile, Bed Tiles, Flower Pot Tiles, Structure Air, Kelp Tile, Nether Wart Tile, Crop Tiles, Cake Tiles
 > Camera Blocks will be removed as an item, placing them down in block form will save them and preserve them, the Camera Block Entity Spawn Egg will not be removed
 - All UBC unknown blocks will turn into the respective item that you mined up
-- Inside Woodland Mansions, it is possible to get Efficiency I Iron Helmet. The Efficiency I Helmet are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
-- Because of ID Changes in this version Glitched Slabs from 1.11.0.1 will turn in into the respectible Double Slab state
+- Inside Woodland Mansions, it is possible to get an Efficiency I Iron Helmet. The Efficiency I Helmet is located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
+- Because of ID Changes in this version Glitched Slabs from 1.11.0.1 will turn into the respectable Double Slab state
 - Curse of Binding V & Curse of Vanishing III from 1.2.13.8 appear to be removed because of the name change but the illegal enchantment levels are still there.
 - If you obtained the Bed tiles from 0.12.0, they will convert to normal beds, so stacking bed tiles will result in overstacked beds.
 - Using the Bundle Experiment with Pocket UI, swapping a singular item in a bundle with a stack of the same item can overfill the bundle allowing for 64 stacks of different items in the bundle
 - Foxes in this version have 10 hearts/20 health points instead of 5 hearts/10 health points
-- Upgrading tile skulls inside unplaced shulker boxes to this version will cause them to disappear and the shulker box will say in the tool tip nothing and then will say +"number" of extra slots that had skulls in them 
+- Upgrading tile skulls inside unplaced shulker boxes to this version will cause them to disappear and the shulker box will say in the tooltip nothing and then will say +"number" of extra slots that had skulls in them 
 
 **Preview 1.21.30.24**
 - Maces could stack to 64 allowing for overstacked maces
-- Updating Witches from Previous Versions will give them a different droprate than newer witches because of the change of 25% chance of dropping redstone to 100%.
+- Updating Witches from Previous Versions will give them a different drop-rate than newer witches because of the change of 25% chance of dropping redstone to 100%.
 
 **1.21.30 (Bundle Experiment)**
-- You are able to overfill bundles up to 4096 items. (You can only do this on touchscreen devices). If you fill a bundle with less than one stack of an item and then by clicking on it and then swapping the items with a full stack of the exact same items will swap the items and you will now have a stack of the items in the bundle. Using this method having extra items in the bundle before doing this will create overstacked bundles with up to 4096 items.
+- You can overfill bundles up to 4096 items. (You can only do this on touchscreen devices). If you fill a bundle with less than one stack of an item and then by clicking on it and then swapping the items with a full stack of the same items will swap the items and you will now have a stack of the items in the bundle. Using this method having extra items in the bundle before doing this will create overstacked bundles with up to 4096 items.
 - Vindicators and Evokers would retaliate to Pillagers who shot them
 
 **Preview 1.21.50.20**
@@ -522,20 +522,12 @@ ________________________________________________________________________________
 - Downgrading an allay that is holding a resin clump from 1.21.50.26 to 1.21.50.24 will cause the resin to disappear and make the allay permanently unkillable even without an item
 
 **1.21.51**
-- Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
-- Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
-- You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
-- You can snow-log resin, skull veins, glow lichen, and dead bushes
+- Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
 - You can place Big Dripleafs on Pale Moss Blocks
-- Fences, Ironbars, Glass Panes, and Walls can connect to Structure Voids
-- Pillagers, Vindicators, and Evokers, for some strange reason, have the ability to pick up a White Banner, and will even trade their weapons for it.
-- Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to english will make it possible to name Mobs "Name Tag" which is illegal
-- You can place Twisting Vines on Leaves and Chrous Flowers/Plants
-- Pushing Shulkers into the exit portal in the end will have them sent all the way to 32K on the y level, giving you floating shulkers, after relogging the shulker will be put at y level: 511.
-- Quicky Replacing blocks with cactus inside of water can cause the cactus to be waterlogged
-- In this version you are able to obtain Permenently Frozen Ghast Fireballs, the way to do this is by getting a Ghast to shoot at you and then quickly leaving into a nether portal before it hits you, after you enter another dimension the fireball should be in stasis and will not move, then what you have to do is go through a different portal that will take you at least 300 block away from the fireball and then walk/fly over there and the fireball should be in stasis
+- Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
+- Pushing Shulkers into the exit portal in the end will have them sent to 32K on the y level, giving you floating shulkers, after relogging the shulker will be put at y level: 511.
+- In this version, you can obtain Permanently Frozen Ghast Fireballs, the way to do this is by getting a Ghast to shoot at you and then quickly leaving into a nether portal before it hits you, after you enter another dimension the fireball should be in stasis and will not move, then what you have to do is go through a different portal that will take you at least 300 blocks away from the fireball and then walk/fly over there and the fireball should be in stasis
 - Baby Drowneds spawn with the same speed as the adult drowneds
-- Using Nether Portals you can create a solid block of water that will not flow. Placing Nether Portals on the side of some sort of enlosed aquarium and breaking the obsidian on the portal will not update the water leaving it floating on it's side
 
 **Preview 1.21.70.24**
 - The Invincible Mobs from 1.17.0 have been removed entirely but if you obtain an Invincible Axolotl in a bucket they will turn into a Disappearing Axolotl in a Bucket. Warning don't place it down because it will immediately disappear
@@ -544,3 +536,12 @@ ________________________________________________________________________________
 
 **1.21.60**
 - Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
+- Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
+- You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
+- You can snow-log resin, skull veins, glow lichen, and dead bushes
+- Fences, Iron bars, Glass Panes, and Walls can connect to Structure Voids
+- Pillagers, Vindicators, and Evokers, for some strange reason, can pick up a White Banner, and will even trade their weapons for it.
+- You can place Twisting Vines on Leaves and Chrous Flowers/Plants
+- Quicky Replacing blocks with cactus inside of water can cause the cactus to be waterlogged
+- Using Nether Portals you can create a solid block of water that will not flow. Placing Nether Portals on the side of some sort of enclosed aquarium and breaking the obsidian on the portal will not update the water leaving it floating on its side
+- Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
