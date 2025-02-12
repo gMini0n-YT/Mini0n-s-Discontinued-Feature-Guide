@@ -186,17 +186,15 @@ ________________________________________________________________________________
 **Preview 1.21.50.20**
 - Creaking Hearts can be put in the fuel slot of the furnace
 
-**1.21.51**
-- Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
-- You can snow-log resin, skull veins, glow lichen, and dead bushes
-- Fences, Ironbars, Glass Panes, and Walls can connect to Structure Voids
-- You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
-- You can place Twisting Vines on Leaves and Chrous Flowers/Plants
-- Using Nether Portals you can create a solid block of water that will not flow. Placing Nether Portals on the side of some sort of enlosed aquarium and breaking the obsidian on the portal will not update the water leaving it floating on it's side
-
 **Preview 1.21.70.24**
 - You can place Leaf Litter and the Cactus Flower on Hoppers
 - You can also place Dry Grass on Farmland
 
 **1.21.60**
 - Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
+- Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
+- You can snow-log resin, skull veins, glow lichen, and dead bushes
+- Fences, Ironbars, Glass Panes, and Walls can connect to Structure Voids
+- You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
+- You can place Twisting Vines on Leaves and Chrous Flowers/Plants
+- Using Nether Portals you can create a solid block of water that will not flow. Placing Nether Portals on the side of some sort of enlosed aquarium and breaking the obsidian on the portal will not update the water leaving it floating on it's side
