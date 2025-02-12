@@ -149,12 +149,13 @@ ________________________________________________________________________________
 - Downgrading an allay that is holding a resin clump from 1.21.50.26 to 1.21.50.24 will cause the resin to disappear and make the allay permanently unkillable even without an item
 
 **1.21.51**
-- You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
-- Pillagers, Vindicators, and Evokers, for some strange reason, have the ability to pick up a White Banner, and will even trade their weapons for it.
-- Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to english will make it possible to name Mobs "Name Tag" which is illegal
-- Pushing Shulkers into the exit portal in the end will have them sent all the way to 32K on the y level, giving you floating shulkers, after relogging the shulker will be put at y level: 511. 
- In this version you are able to obtain Permenently Frozen Ghast Fireballs, the way to do this is by getting a Ghast to shoot at you and then quickly leaving into a nether portal before it hits you, after you enter another dimension the fireball should be in stasis and will not move, then what you have to do is go through a different portal that will take you at least 300 block away from the fireball and then walk/fly over there and the fireball should be in stasis
+ In this version you can obtain Permanently Frozen Ghast Fireballs, the way to do this is by getting a Ghast to shoot at you and then quickly leaving into a nether portal before it hits you, after you enter another dimension the fireball should be in stasis and will not move, then what you have to do is go through a different portal that will take you at least 300 block away from the fireball and then walk/fly over there and the fireball should be in stasis
 - Baby Drowneds spawn with the same speed as the adult drowneds
 
 **Preview 1.21.70.24**
 - The Invincible Mobs from 1.17.0 have been removed entirely but if you obtain an Invincible Axolotl in a bucket they will turn into a Disappearing Axolotl in a Bucket. Warning don't place it down because it will immediately disappear
+
+**1.21.60**
+- You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
+- Pillagers, Vindicators, and Evokers, for some strange reason, can pick up a White Banner, and will even trade their weapons for it.
+- Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
