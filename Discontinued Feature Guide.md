@@ -522,7 +522,6 @@ ________________________________________________________________________________
 - Downgrading an allay that is holding a resin clump from 1.21.50.26 to 1.21.50.24 will cause the resin to disappear and make the allay permanently unkillable even without an item
 
 **1.21.51**
-- Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
 - You can place Big Dripleafs on Pale Moss Blocks
 - Pushing Shulkers into the exit portal in the end will have them sent to 32K on the y level, giving you floating shulkers, after relogging the shulker will be put at y level: 511.
 - In this version, you can obtain Permanently Frozen Ghast Fireballs, the way to do this is by getting a Ghast to shoot at you and then quickly leaving into a nether portal before it hits you, after you enter another dimension the fireball should be in stasis and will not move, then what you have to do is go through a different portal that will take you at least 300 blocks away from the fireball and then walk/fly over there and the fireball should be in stasis
@@ -544,3 +543,4 @@ ________________________________________________________________________________
 - Quicky Replacing blocks with cactus inside of water can cause the cactus to be waterlogged
 - Using Nether Portals you can create a solid block of water that will not flow. Placing Nether Portals on the side of some sort of enclosed aquarium and breaking the obsidian on the portal will not update the water leaving it floating on its side
 - Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
+- Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
