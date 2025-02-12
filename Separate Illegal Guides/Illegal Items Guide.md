@@ -279,9 +279,9 @@ ________________________________________________________________________________
 **1.21.30 (Bundle Experiment)**
 - You are able to overfill bundles up to 4096 items. (You can only do this on touchscreen devices). If you fill a bundle with less than one stack of an item and then by clicking on it and then swapping the items with a full stack of the exact same items will swap the items and you will now have a stack of the items in the bundle. Using this method having extra items in the bundle before doing this will create overstacked bundles with up to 4096 items. 
 
-**1.21.51**
-- Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
-- Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to english will make it possible to name Mobs "Name Tag" which is illegal
-
 **Preview 1.21.70.24**
 - The Invincible Mobs from 1.17.0 have been removed entirely but if you obtain an Invincible Axolotl in a bucket they will turn into a Disappearing Axolotl in a Bucket. Warning don't place it down because it will immediately disappear
+
+**1.21.60**
+- Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+- Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
