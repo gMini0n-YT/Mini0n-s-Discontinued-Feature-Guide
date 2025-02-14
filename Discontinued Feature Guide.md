@@ -527,11 +527,6 @@ ________________________________________________________________________________
 - In this version, you can obtain Permanently Frozen Ghast Fireballs, the way to do this is by getting a Ghast to shoot at you and then quickly leaving into a nether portal before it hits you, after you enter another dimension the fireball should be in stasis and will not move, then what you have to do is go through a different portal that will take you at least 300 blocks away from the fireball and then walk/fly over there and the fireball should be in stasis
 - Baby Drowneds spawn with the same speed as the adult drowneds
 
-**Preview 1.21.70.24**
-- The Invincible Mobs from 1.17.0 have been removed entirely but if you obtain an Invincible Axolotl in a bucket they will turn into a Disappearing Axolotl in a Bucket. Warning don't place it down because it will immediately disappear
-- You can place Leaf Litter and the Cactus Flower on Hoppers
-- You can also place Dry Grass on Farmland
-
 **1.21.60**
 - Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
 - Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
@@ -544,3 +539,8 @@ ________________________________________________________________________________
 - Using Nether Portals you can create a solid block of water that will not flow. Placing Nether Portals on the side of some sort of enclosed aquarium and breaking the obsidian on the portal will not update the water leaving it floating on its side
 - Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
 - Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
+
+**Preview 1.21.70.22**
+- The Invincible Mobs from 1.17.0 have been removed entirely but if you obtain an Invincible Axolotl in a bucket they will turn into a Disappearing Axolotl in a Bucket. Warning don't place it down because it will immediately disappear
+- You can place Leaf Litter on Non full blocks (e.g. fence, walls, and glass panes)
+- You can also place Dry Grass on Farmland
