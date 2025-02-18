@@ -6,3 +6,7 @@
 
 **Classic 0.0.23a_01**
 - By placing gravity blocks (sand or gravel) above a water source, the gravity block and the water will swap places, allowing for non-updated water sources.
+
+**Indev 20100124-3**
+- The Indev House will spawn upon loading the world, within the Indev House chests full of 99 count items will spawn which is unobtainable in future versions. Among these items are bedrock, grass, and infinite lava items. The Infinite Water Items, 16 Cloth Colors, Sponges, Coal Ore, Obsidian and leaves can also be obtained and will convert to an unobtainable in future versions.
+- Exploding A Chest while keeping it open will cause the items inside the chest to convert to 0 stack items. These items are useful for duplication, overstacked items, and understacked items. A 0 Stack item is a the most well known duplication method and java illegal, once you have it you can right click in your inventory and it will give you and infinite amount of diamonds
