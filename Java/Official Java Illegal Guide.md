@@ -29,3 +29,47 @@
 > Opening Chests in this version would crash the game
 - The Farlands would generate except they are extremely far out, they are a flat wall and they are unreachable by normal means
 - The Player would spawn with 999 stacks of axes, shovels, pickaxes, torches, flint and steel, oak planks, glass blocks, and arrows every time you load the world. These are technically -25 stacks which is obtainable, but because of the Chest crash they can not be moved to chests in this version. 
+- Brick Pyramids would spawn throughout the world, making it the only method of obtaining bricks
+
+**Infdev 20100607**
+- Top Half Doors can be created by placing two signs and placing a door on top
+
+**Infdev 20100611**
+- Monoliths would generate in flat terrain and they would spawn without bedrock underneath allowing for illegal terrain generation
+
+**Infdev 20100615**
+- Water and Lava can flow next to each other without forming stone
+- Lava will flow 8 blocks in the overworld which will later update to 3 blocks making it an illegal block formations
+- Water and Lava do not update correctly, allowing for water and lava in different flow states without a source block
+
+**Infdev 20100616-1**
+- Holes in the Bedrock can generate when lava pools generate at the bottom of the world
+
+**Infdev 20100617-2**
+- The bottom most layer of the world is made of stone and bedrock allowing for holes within the bedrock
+
+**Infdev 20100625-2**
+- Added Spawners which can be mined up by hand and will drop as an item, also Infinite Water Source items would convert to a Spawnere as well
+- Spawners currently have the same block id as signs. If a sign is loaded near a spawner, the spawner will receive sign metadata. Reloading a sign-spawner will crash and potentially soft lock the world in this version. This is fixed in the next version, but the spawner maintains the sign data.
+
+**Alpha 1.0.1_01 - Infdev 20100630-2**
+- Downgrading Redstone that is placed on against a block will convert it to a gear in Infdev 20100630-2. Breaking the block below the gear and updating back to Alpha 1.0.1_01 will create floating redstone
+
+**Alpha 1.0.1_01**
+- Activating a lever and then breaking it's support block will keep the lever floating
+
+**Alpha 1.0.4**
+- Snow Layers were added but can only be obtained in the Winter Type Map. Snow Layers would generate on top of all blocks during snowfall which allows for illegal block formations like snow layers on non-full blocks (e.g. stairs and slabs)
+
+**Alpha 1.0.5-2**
+- Added Block Replacement Bypass, this is involves placing a support blocks directly into water, lava, fire, or snow. This allows for many illegal block formations such as floating flowers, floating ladders, quintuple chests
+- Snowballs in this version would stack to 64 allowing for overstacked snowballs
+
+**Alpha 1.0.6**
+- Cactus can be placed on and next to any block allowing for many illegal block formations
+
+**Alpha 1.0.11**
+- Placing a door next to a cactus would create a half door
+
+**Alpha 1.1.1**
+- Fishing Rods would stack to 64 in this version
