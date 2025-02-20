@@ -80,3 +80,12 @@
 
 **Alpha 1.2.2**
 - In this version it is possible to get to the Farlands in under an hour. The way to do this is to summon a nether portal and place a boat in it, get into the boat, and once you go through the nether the game will become glitched and you will become stuck in the nether portal animation. Save and Quit the game, and when you load back in you will be at the same coordinates in the nether as you were in the overworld. When you generate another portal and go through your coordinates in the overworld will be multiplied 8 times. Doing this over again will cause your coords to multiply 8 types each time until you are all the way at the farlands
+- Nether Portals can be summoned by pressing F4 which can be used to get to the Farlands and to create illegal block formations
+
+**Alpha 1.2.6**
+- Lava Lakes are able to cut through bedrock if spawned at the bottom of the world
+
+**Beta 1.3.2 - Infdev 20100624**
+> [!Note]
+> In order to access this version, the world save folder will have to be named as World[1-5]. During this downgrade, the level.dat and level.dat_old should be removed temporarily. A world without a level.dat can be accessed by selecting the respective slot when going to the singleplayer screen. The level.dat and level.dat_old will have to be restored when updating back to b1.3-2 in order to preserve the Alpha File Format folders of the next version. No chunks, entities, or placed blocks will be affected during this downgrade.	
+- This version has a file format that is not used in any other version. A folder named "data" is used, and contains "entities.dat" and "zones.dat" This folder will become completely unused upon updating out of this version and nothing will be converted to a different file format. This creates several file discontinued features. 
