@@ -93,3 +93,9 @@
 **Beta 1.2_02-launcher**
 - This is the last version that uses the Alpha file format. Since the Alpha File Format from the original world has already been converted, updating to this version will regenerate an entirely new world with the Alpha File Format. This allows for numerous folders in both the world save folder and the DIM-1 folder, that are titled with numbers and letters, which contain subfolders titled with numbers and letters, that contain .dat files, since this is how the Alpha File Format worked. There are hundreds of discontinued folders possible. 	
 
+**Beta 1.3.2**
+- Petrified Oak Slabs were added in this version, they can be simply crafted using the normal oak slab recipe and later they will become Petrified Oak Slabs
+- World names can contain the section symbol § and will format the name which will become unobtainable in later versions.
+- After respawning or initial spawning into a world you will be given a stack of torches, a pickaxe, an axe, a shovel, 1 bed, and then a stack of 63 beds, this will create unobtainable overstacked beds which will be unobtainble in later versions.
+
+**Beta 1.4-1** 
