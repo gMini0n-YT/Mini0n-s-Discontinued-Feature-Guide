@@ -73,3 +73,6 @@
 
 **Alpha 1.1.1**
 - Fishing Rods would stack to 64 in this version
+
+**Alpha 1.2.0**
+- Zombie Pigmen and skeletons appear to hold their weapons but it is all visual, updating these two mobs past 1.3 will turn them into weaponless weaponless mobs
