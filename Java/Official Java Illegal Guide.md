@@ -131,3 +131,110 @@
 > This version uses a mod to assign a block id to a cauldron in order to access the original brewing system. The beta 1.9 pre2 cauldron mod can be downloaded from resources. The zip file can then be extracted, and the folder titled "enable" can be zipped. This enabled zip can then be added to a b1.9-pre2 instance in multimc by going to edit instance and add to minecraft.jar. You can find this mod in the "Mods & Extra Files" folder
 - The cauldron currently uses the id of an enchantment table and the block data of a brewing stand. This means that updating out of this version will convert the cauldron to an enchantment table with the block data of a brewing stand
 - Potions can be brewed by adding an assortment of ingredients to a cauldron. A total of 5,339 potion variations are possible using this method, most of which provide discontinued status effects and create invalid data value potions. A potion calculator is included on the resource sheet to explain the brewing process in more detail. 
+
+**Beta 1.9 Prerelease 3-1**
+> [!Note]
+> Certain multiplayer exclusive chunks can be obtained, however it requires file manipulation. Regions from a newly generated multiplayer world can be copied into the pre-existing world. This would work by taking a region file, changing the numbers to not conflict with previously existing region files, and adding them to the preexisting world.
+- The player would spawn with debug items including a stack of bookshelves, enchanting tables, end portals, and end portal frames. Hovering your cursor over the end portals will crash your game due to a missing tooltip
+- Blowing up end portal frames that generate in the stronghold have a 30% chance of dropping themselves
+- Enchanting Items in this version will give it the Enchantment "ENCHANTED!", updating these items to newer versions would cause the enchants on the gear to be converted to Feather Falling I allowing for Feather Falling I on all tools and gear.
+- Currently "Sky Dimension" chunks generate in a new multiplayer world. These are large floating islands that generate in the overworld, with large sections of void and no bedrock. There is no way to obtain these chunks in a pre-existing world, however the region files can be moved from a newly generated multiplayer world to the preexisting world by renumbering the newly generated region files
+
+**Beta 1.9 Prerelease 4-1**
+- Enchanting in this version works normally and all previous enchants would convert to Feather Falling I, however Silk Touch and Fortune are not mutually exclusive allowing for Silk Touch and Fortune on the same tool
+- Silk Touch works on Spawners, Infested Stone, Lit Furnaces, Double Slabs, Lit Redstone Ore, and Ice which all become unobtainable in newer versions
+
+**Beta 1.9 Prerelease 6**
+- The exit portal would generate when the ender dragon is killed but the exit portal would generate where the dragon died and not at 0,0 allowing for the exit end portal in discontinued locations
+- Nether Portal can be placed in the end, allowing for nether portals in the end
+
+**1.0.0 Release Candidate 1**
+- In this version, all swords have 5 durability points. Updating any swords with 1 durability point remaining, and combining them in this version causes these swords to gain negative durability once updated. This allows for negative durability wooden, stone, iron, gold, diamond, and eventually netherite swords
+
+**11w49a**
+- Pressing B changes the clientside gamemode to creative. This allows for Bedrock, Sponge, Chainmail Armor, Ice, and Creeper, Skeleton, Spider, Zombie, Slime, Ghast, Pig Zombie, Enderman, Cave Spider, Silverfish, Blaze, Magma Cube, Pig, Sheep, Cow, Chicken, Squid, Wolf, Mooshroom, and Villager Spawn Eggs. This also allows for easy bedrock removal.
+
+**1.1**
+- The unicode delete character [] can be typed into a world name by pressing ctrl + backspace. This is the only version where a world can be named with both the delete character [] and the section symbol [§], making this the ideal version to name your world.
+
+**12w07a**
+- The file format is now Anvil instead of MCRegion. This converts all .mcr files to .mca, however the .mcr files are maintained within the world save folder for all three dimensions. Additionally, a level.dat backup is taken named level.dat_mcr. These are all discontinued files.
+
+**12w08a**
+- Iron Golems current have no knockback resistance which will not revert when updating to newer versions allowing for discontinued variants of the iron golem
+- Spawning an Iron Golem would remove the block above it meaning you can uses this as bedrock removal
+
+**0.982 Classroom (EDU)**
+- Added Information Block, Information Sign, Spawn Block, Build Allow Block, Build Disallow Block, Border Block, Foundation Block, Teleport Block. These are all obtainable through creative mode or the /give command and they all have the ids of 137-144. Some of these items will convert to unobtainable blocks, the Build Disallow Block would convert to a command block, the information sign converted to a flower pot item, the border block would convert to the carrot tile item, the spawn block would convert to the potato tile item, the teleport item would convert to a mob head item, and the build allow block will convert to a beacon.
+- There is a teacher menu that allows for the teacher to enter creative mode and also gives numerous discontinued items.
+- Currently any command can be run by joining the game as a teacher all while being in survival mode.
+- A feature called the fill tool is toggleable. This allows for two locations to be selected and then filled with blocks. This allows for various discontinued block configurations, including multiple chests and floating buttons.
+- A file called EduWorldSettings.ini is generated within the world save. A folder called MCEdu is created within the world save, which includes a file named signLocations_en.ini and a file named tips_en.txt. Within the MCEdu folder a file called infoLocations_en.ini is created when an information block is placed and the game is saved. The teleportLocations_en.ini, teleportLocations.ini, and allowedteleports.ini files are created when a station block is placed and the game is saved. These files and folders are exclusive to Edu versions, and will be discontinued in future versions. 
+- Player data is saved in the players folder under username.dat. Additionally, server.log and server.log.lck are created within the world folder. The server log contains the entire chat output. These files are multiplayer exclusive, and will become discontinued in future versions.
+
+**12w15a**
+- Shift click works with brewing stands. This allows for overstacked glass bottles in brewing stand.
+
+**12w17a-2**
+- Chunk resetting is possible by overloading a chunk with written books. It requires over a chest of books filled with random unicode characters. This allows for an assortment of block discontinued features and item duplication. This will be further utilized in later versions.
+- The title for written books is currently 16 characters which later will be updated to 15
+- Pressing enter inside a book and quill creates a newline character, but it does not advance the line. This allows for a total of up to 256 newline characters, which is far more than will be allowed in future versions.
+
+**12w21a**
+- Villagers now have trades. Every single villager trade will become unobtainable in future versions, whether through invalid prices or invalid items. Villager trades are not based on tiers and trade amounts can vary. Eyes of enders and rotten flesh can currently be bought, which will no longer be possible in the next two versions. Bottles of enchanting are obtainable through trading now.
+
+**12w22a-2**
+- Added the gravel to flint trade and the sell arrow trade, which will become discontinued in certain amounts in future versions. The cleric villager can now enchant armor, which will all become discontinued trades. Eyes of ender are now sold instead of bought, which will become unobtainable in a future version.
+- Block Transmutation is possible by using tripwires allowing for various unobtainable blocks
+
+**12w24a**
+- Shift Clicking a stacked item into an enchantment table will remove the nbt data of the item allowing for various discontinued features
+
+**0.984 Classroom (EDU)**
+- A file called EduWorldSettings.ini is generated within the world save. A folder called MCEdu is created within the world save, which includes several files that are gnenerated when the server is launched. These files and folders are exclusive to Edu versions, and will be discontinued in future versions.
+
+**12w32a-2**
+- Equipment droped from mobs ranges in durability. The durability can be 0 which allows for various 0 durabilit equipment pieces
+- Zombie Pigmen that spawn in this version appear to be holding the correct items, but in reality they are holding zombie gear (iron shovels, iron swords, or nothing)
+- Pigs that are struck by lightning will spawn Zombie Pigmen that are holding nothing
+- Villagers now trade different arrow and paper amounts which will become unobtainable in future versions.
+- Within the data folder, the villages.dat file now generates. This file tracks player made villages, and will become discontinued in future versions
+
+**12w34a**
+- Multiple Item frames can be placed on the same block which will become unobtainable in future versions
+
+**12w34b**
+- Added the canpickuploot tag for mobs. Mobs such as skeletons and zombie pigmen with this tag can pick up item stacks larger than 127 items, which causes them to lose their held item. Skeletons and zombie pigmen holding nothing will become unobtainable in future versions
+
+**12w37a**
+- Wither can explode end portal frames when spawned which results in end portal frame removal.
+
+**12w41a**
+- Anvils can rename an item to have no characters and all spaces which will become unobtainable in future versions
+
+**12w42a**
+- Number Keys can be used to place items anywhere, this allows for invalid items in furnace slots, brewing stands, and armor slots
+
+**1.4.4**
+- Baby mobs can be spawned by using spawn eggs on the parents. So using a wolf spawn egg on an ownerless wolf creates an ownerless baby wolf which will become unobtainable in future versions
+
+**12w49a**
+- Any item can be enchanted using an anvil. This will provide a variety of unobtainable enchanted items
+- Enchanted Books can be overstacked, after they are overstacked they can be shift-clicked into an enchantment table allowing for no nbt enchanted books
+- Shears can be enchanted with Silk Touch
+
+**12w49a - 12w41a**
+- All items with invalid enchantments can be combined in an anvil. Downgrading these items from the previous version allows for multiple enchantments on individual items.
+
+**12w50a**
+- Enchanted Books can have invalid tier levels when updating
+- There is a small chance that level 5 enchanted book trades can cost more than 64 emeralds, which will become a discontinued trade.
+
+**13w01a**
+- Hoppers are currently capable of placing items in any inventory slots, allowing for invalid items in brewing stands and invalid items in furnace slots. By placing items not normall craftable in a furnace output slot, these items can register as crafted by statistics in future versions.
+- Daylight sensors can be placed in the nether and will permanently powered on
+- Redstone Torches can float if the block beneath them is removed
+
+**13w06a-1**
+- All minecarts will be converted to spawner minecarts which will become unobtainable later
+- Spawner minecarts can be used for future chunk regeneration. By moving a spawner minecart into a chunk from this version through 1.10.2, and leaving it unloaded until 1.13-pre2 or later, the chunk containing the minecart will regenerate.
