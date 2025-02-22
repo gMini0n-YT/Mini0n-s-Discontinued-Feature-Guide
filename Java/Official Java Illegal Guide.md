@@ -59,6 +59,8 @@
 - Activating a lever and then breaking it's support block will keep the lever floating
 
 **Alpha 1.0.4**
+> [!Note]
+> In order to access the winter mode type and obtain snow and ice, the level.dat will have to be regenerated. This will reset the player position and remove all items within the inventory, as well as changing the world seed. This can be done by deleting level.dat and level.dat_old, then going to the "singleplayer" screen, and selecting the world slot that has the same name as the world save folder. This will likely have to be done several times before the winter type is set to 1
 - Snow Layers were added but can only be obtained in the Winter Type Map. Snow Layers would generate on top of all blocks during snowfall which allows for illegal block formations like snow layers on non-full blocks (e.g. stairs and slabs)
 
 **Alpha 1.0.5-2**
@@ -109,3 +111,22 @@
 - Entering a Nether Portal while in the crafting grid will cause all items in the crafting grid to get thrown out and become 0 stacked items, 0 stack items can be subtracted to become negative stack items by Q-ing them and can be overflowed to become overstacked items
 - Update Suppresion now works by using budding redstone updates, you can find the world download in the "Mods & Extra Files" Folder for the Update Suppresor Model for this version
 - Maps would not snap to a grid, meaning unobtainable map variants can be obtained
+
+**Beta 1.7**
+- Block Transmutation can work by building a piston and water based contraption
+
+**Beta 1.7.2**
+- Block Transmutation can work by updating a budded piston at the same time another piston pushes a block merging the blocks
+
+**Beta 1.8 Prerelease 1-1**
+- Endermen can pick up any block in the game allowing for discontinued endermen variants
+- Enderpearls can stack up to 64 in this version allowing for overstacked enderpearls
+- Updating a furnace into a lit furnace which will update a piston and then pushing the furnace will displace it's block entity. This allows for furnace block entity in any block in the game that normally has a block entity
+
+**Beta 1.9 Prerelease 1**
+- Jumping will give you XP, this is not an unobtainable but it is a debug feature that can be used to get insane amount of Xp levels really quickly
+
+**Beta 1.9 Prerelease 2 (MOD)**
+> [!Note]
+> This version uses a mod to assign a block id to a cauldron in order to access the original brewing system. The beta 1.9 pre2 cauldron mod can be downloaded from resources. The zip file can then be extracted, and the folder titled "enable" can be zipped. This enabled zip can then be added to a b1.9-pre2 instance in multimc by going to edit instance and add to minecraft.jar. You can find this mod in the "Mods & Extra Files" folder
+- The cauldron currently uses the id of an enchantment table and the block data of a brewing stand. This means that updating out of this version will convert the cauldron to an enchantment table with the block data of a brewing stand
