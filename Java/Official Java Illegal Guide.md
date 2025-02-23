@@ -231,10 +231,26 @@
 - There is a small chance that level 5 enchanted book trades can cost more than 64 emeralds, which will become a discontinued trade.
 
 **13w01a**
-- Hoppers are currently capable of placing items in any inventory slots, allowing for invalid items in brewing stands and invalid items in furnace slots. By placing items not normall craftable in a furnace output slot, these items can register as crafted by statistics in future versions.
+- Hoppers are currently capable of placing items in any inventory slots, allowing for invalid items in brewing stands and invalid items in furnace slots. By placing items not normal craftable in a furnace output slot, these items can register as crafted by statistics in future versions.
 - Daylight sensors can be placed in the nether and will permanently powered on
 - Redstone Torches can float if the block beneath them is removed
 
 **13w06a-1**
 - All minecarts will be converted to spawner minecarts which will become unobtainable later
 - Spawner minecarts can be used for future chunk regeneration. By moving a spawner minecart into a chunk from this version through 1.10.2, and leaving it unloaded until 1.13-pre2 or later, the chunk containing the minecart will regenerate.
+
+**13w11a**
+- Silk Touch and Looting can be combined on one enchanted book, this is unobtainable in future versions
+
+**Minecraft 2.0-Red (April Fools)**
+- In Super Hostile Mode, lightning will strike every 2-5 minutes spawning Wool Headed Zombies, Wool Headed Skeletons, and Wool Haded Zombie Pigmen and Pigmen with Battle Signs among many others, pushing these mobs into a portal will cause them to not despawn when the lightning strike resets, you can then update to 13w16b to obtain name tags and name all the wool headed mobs and save them for future updates
+- Zombie Pigmen will spawn naturally in the nether holding Battle Signs, these Battle signs would hold certain enchantments including Sharpness/Smite/Bane of Arthropods, Looting, Fire Aspect, and Knockback. Killing the pigmen will give a chance of dropping the Battle Sign
+
+**13w16a-2**
+- Horse armor is craftable, and stacks to 64, allowing for overstacked horse armor in future versions.
+- Horse saddles will convert to armor stands in future versions, allowing for a variety of discontinued features associted to armor stands, including armor stands in the furnace fuel slot and overstacked armor stands.
+- Added Horses, Donkeys, and Mules. These mobs can have much faster speed values than future versions, as well as jump values that will become discontinued in the future.
+
+**13w21a**
+- Updating Mobs from this version into future version will allow for unobtainable variants of mobs due to speed change
+- Wild Horses can be saddled in this version
