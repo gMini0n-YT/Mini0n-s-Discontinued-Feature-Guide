@@ -17,6 +17,7 @@ ________________________________________________________________________________
 
 **0.15.9 alpha (Android)**
 - Taming Cats in this version and leaving them in unloaded chunks until **1.8.0.8** will turn them into Tamed Ocelots
+- Skeleton Horses in this Version have more health and speed values than normal horses which will be changed in the future
 
 **Beta 1.2.0.2**
 - Pumpkins can be placed on Armor Stands, Players, and Mobs these pumpkins will revert from carved pumpkins to normal pumpkins
