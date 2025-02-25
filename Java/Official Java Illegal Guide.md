@@ -284,3 +284,10 @@
 **13w49a**
 - Added Chicken Jockeys. Chickens in chicken jockeys currently lay eggs, as the "IsJockey" tag does not exist yet. Chickens also maintain agression against the player after the zombie is dead, despite not being able to deal damage.
 
+**1.7.10 Build 1 Classroom-1 (EDU)**
+- Player data is saved in the playerdata folder under username.dat. This will become unobtainable in future versions as it is stored as a UUID instead of a username. Additionally, since you are logging in in offline mode, the UUID for the statistics is different, allowing for multiple statistic files in a singleplayer world.
+
+**1.7.10 Build 20 Classroom-1 (EDU)**
+- Command computers can be used to run any command in the game. This is different to the teachers menu in that this can be acheived by a non op player by using the command computer datapack linked in "Mods & Extra Files". It can also be obtained in survival without using the teacher menu or commands by downgrading prismarine.
+- The disk drive, wireless modem, monitor, printer, and advanced monitor all have the numeric id of 166, and data values of 0,1,2,3, and 4, respectively. The numeric id of 166 later converts to barriers, which are unobtainable in survival by normal means. Updating these items allows for both normal barriers and invalid data value barriers to be obtained.
+- The computer process allows for the writing of external files, meaning essentially any file can be created within the world save, all of which would be discontinued. Upon world save the computer folder is generated, which is a discontinued folder.
