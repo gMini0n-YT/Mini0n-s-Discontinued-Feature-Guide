@@ -291,3 +291,59 @@
 - Command computers can be used to run any command in the game. This is different to the teachers menu in that this can be acheived by a non op player by using the command computer datapack linked in "Mods & Extra Files". It can also be obtained in survival without using the teacher menu or commands by downgrading prismarine.
 - The disk drive, wireless modem, monitor, printer, and advanced monitor all have the numeric id of 166, and data values of 0,1,2,3, and 4, respectively. The numeric id of 166 later converts to barriers, which are unobtainable in survival by normal means. Updating these items allows for both normal barriers and invalid data value barriers to be obtained.
 - The computer process allows for the writing of external files, meaning essentially any file can be created within the world save, all of which would be discontinued. Upon world save the computer folder is generated, which is a discontinued folder.
+
+**14w02a**
+- Completely reworked villager trades. Almost all trades will be discontinued in future versions, either by trade, amount, or tier it is within. Some specific trades that will be discontinued are: Shepherds Selling All 16 Wool Colors, Librarians Buying 2 Written Books, and Leatherworkers Selling Enchanted Leather Tunic. Trades are now generated based on tier and are more specifically ordered. All trades from previous versions are considered tier 0 trades, meaning all trades from this version can be stacked on top of trades from previous versions.
+- Clerics currently buy enderpearls, which will become unobtainable in future versions.
+- Currently the files village_nether.dat and villages_end.dat generate in the data folder. These are discontinued files.
+- Data is again stored by username instead of UUID. This allows for a statistic file with the players username that will not convert to a UUID. This also means that statistics will not be accurately tracked during this version. This occurs because the change to UUID was based on real world time instead of version ordering. 
+
+**14w02a - 1.7.10**
+- Downgrading villagers from 14w02a causes all trades to become tier 0 trades. This would allow you to update back to 14w02a, and get the same trades stacked on top. This downgrade and update cycle can be repeated for well over 100 trades in the first tier. This also allows for villagers of different careers to have trades on the same villager (for example shepherd trades and fletcher trades can both be on the same villager using this bug)
+
+**14w04a**
+- The id for cooked fish is now "cooked_fish" instead of "cooked_fished" This change partially breaks old villagers trading fish, but no discontinued trades are created. These broken villagers will allow for chunk regeneration in future versions, and by extension discontinued block configurations.
+- Placing Snow on grass would not convert the grass to snowy grass
+
+**14w21a**
+- By update suppressing a container and then placing items within that container, a technique known as item shadowing can be performed, which allows for duplicate item references. Along with item duplication, this allows for the same item to be placed inside an enchantment table at the same time, allowing for duplicate enchantments on any item that can be placed in an enchanting table.
+
+**14w25a**
+- A Wet sponge can be placed in the nether and will not update to Dry Sponge
+- Removed the item forms of flowing and stationary water and lava blocks (8, 9, 10 & 11), double stone and wooden slabs (43 & 125), fire blocks (51), Nether portal and End portal blocks (90 & 119), cocoa pods (127), and potato and carrot crops (141 & 142)
+
+**14w25b**
+- Torches can be placed in an assortment of invalid locations, including floating, on other torches, and on transparent blocks, all of which are discontinued block configurations. This occurs by placing them on a block that is against a solid block, instead of changing the position to a wall torch, the position is maintained as a standing torch.
+
+**14w26c**
+- Furnaces can now only have fuel items, and empty and water buckets in the fuel slot. Mushroom blocks are still considered fuel and can be placed in the fuel slot, which will be discontinued in future versions.
+
+**14w27a**
+- There is a 1 in 1000 chance of a killer bunny spawning in place of a rabbit. This is an unobtainable mob.
+- Rabbits currently spawn with 10 health, which will be reduced in future versions, making these rabbits discontinued
+- The killer bunny is capable of killing the player, allowing for the "Killed By Rabbit" statistic, which is discontinued by association with the killer bunny
+- Placing buttons puts them into a perpetual pressed state. Placing comparators puts them into a powered state regardless of redstone input. These are both unobtainable block states.
+- Placing an iron trapdoor places it in an open state, but with powered as false. This is a discontinued combination of block states.
+
+**14w27b-2**
+- Planting Pumpkin and Melon seeds will cause them to be planted full grown and always facing east
+
+**14w28b**
+- Spawners can now be right clicked with a spawn egg, and they will spawn that mob. This allows for an assortment of discontinued mob spawners.
+
+**14w30b**
+- Breaking a placed banner adds a block entity tag to the item
+
+**14w32a**
+- Minecarts can pick up armor stands
+- Horse saddles from 13w16a can be updated and will convert to armor stands, allowing for armor stands in the furnace fuel slot.
+- Currently overstacked armor can be dispensed onto an armor stand, which will be discontinued in future versions.
+- Currently placed armor stands have minor poses. In future versions armor stands will have no poses, making these discontinued armor stand variants.
+
+**15w14a**
+> [!Note]
+> In order to update to this version, the world folder must be renamed to "existence.af15"
+- Attempting to trade with a villager does not give the proper item, but instead gives a paper renamed "Thanks for your donation". This paper is a discontinued item since it is renamed without a repair cost.
+
+**1.8.9**
+- Currently there is a bug that allows for commands to be run in survival. This is known as Cross Word Commands, and it functions by first creating a creative world. From the creative world a redstone setup can be made to generate a large amount of lag at the same time it runs command blocks. The player then quickly logs out of the creative world and into the survival world, which has a chance to transfer the commands and have them run in survival. A list of commands and a creative world download will be added to resources 
