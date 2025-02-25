@@ -29,13 +29,13 @@
 > Opening Chests in this version would crash the game
 - The Farlands would generate except they are extremely far out, they are a flat wall and they are unreachable by normal means
 - The Player would spawn with 999 stacks of axes, shovels, pickaxes, torches, flint and steel, oak planks, glass blocks, and arrows every time you load the world. These are technically -25 stacks which is obtainable, but because of the Chest crash they can not be moved to chests in this version. 
-- Brick Pyramids would spawn throughout the world, making it the only method of obtaining bricks
+- Brick Pyramids would spawn throughout the world, making it the only method of obtaining bricks, download the file in the "Mods & Extra Files" folder to help you find brick pyramids
 
 **Infdev 20100607**
 - Top Half Doors can be created by placing two signs and placing a door on top
 
 **Infdev 20100611**
-- Monoliths would generate in flat terrain and they would spawn without bedrock underneath allowing for illegal terrain generation
+- Monoliths would generate in flat terrain and they would spawn without bedrock underneath allowing for illegal terrain generation. You can use the Monolith Finder in the "Links" folder
 
 **Infdev 20100615**
 - Water and Lava can flow next to each other without forming stone
