@@ -160,3 +160,4 @@ ________________________________________________________________________________
 - You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
 - Pillagers, Vindicators, and Evokers, for some strange reason, can pick up a White Banner, and will even trade their weapons for it.
 - Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
+- Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE
