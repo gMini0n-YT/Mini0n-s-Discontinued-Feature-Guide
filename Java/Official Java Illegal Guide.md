@@ -254,3 +254,33 @@
 **13w21a**
 - Updating Mobs from this version into future version will allow for unobtainable variants of mobs due to speed change
 - Wild Horses can be saddled in this version
+
+**1.6.3-1**
+- Bounding boxes now save with the world. In order for current structures (witch huts, nether fortresses, etc.) to be saved to the world file, the player must load the appropriate chunks within the game manually. After this is completed, structures will be compatible in all snapshots starting with snapshot. All these bounding boxes will not be obtainable in their current locations in future versions.
+- These bounding boxes are stored in structure files, which are generated when the respective structure is loaded. These files are Village.dat, Fortress.dat, Temple.dat, Mineshaft.dat, and Stronghold.dat. All of these files will be discontinued in a future version.
+
+**1.6.4 Build 1 Classroom-1 (EDU)**
+- A file called forcedchunks.dat generates within the world save folder, which will become unobtainable in non edu versions
+
+**13w36a-1**
+- A method of block transmutation is now possible. This method works by firing an arrow, then pushing the arrow with a piston so it is floating, and then breaking the block it was previously on and replacing it with a golden pressure plate. This allows for several invalid data value blocks, and an easy form of update suppression by creating 6 sided pistons
+- Crafting a Carrot on a Stick with a Fishing Rod that is enchanted with Lure and Luck of the Sea allowing for a Carrot on A Stick with Lure and Luck of the Sea enchantments
+- Silk Touch and Luck of the Sea can be applied on the same enchanted book
+- Currently reloading a villager removes the second buy slot item. This allows for free enchantment trades on clerics and it only costs a book for an enchanted book, as well as gravel to flint conversion for free. These will all be unobtainable trades in future versions.
+- Statistics do not track data values. This means that when crafting any color dye, it increases the statistic for ink sacs. The ink sac crafted statistic will be unobtainable in future verions.
+- Items and blocks that are normally unobtainable can have various statistics associated with them, allowing for discontinued statistics by extension. Examples include bedrock placed. There is also the special case of command blocks placed. In future versions command blocks will no longer be able to be placed in survival, meaning that the statistic is both discontinued by block type and by statistic value.
+- Enchantments are not applied properly either through anvils of enchanting tables, resulting in items with an empty enchantment tag. These items all have a discontinued nbt tag by having no enchantments yet still having the enchantments tag.
+- The empty enchantments also apply to villager trades, allowing for cleric villagers to sell enchanted armor without enchantments. This trade will become unobtainable in future versions.
+
+**13w37a**
+- Enchanted Books in loot table chests do not have enchantments
+- Chunk regeneration can occur by mining a powered redstone lamp with silk touch. This allows for an assortment of unobtainable block configurations.
+- Removed several technical blocks, these are: bed (26), piston head and extension (34 & 36), redstone wire (55), wheat crops (59), standing and wall sign (63 & 68), wooden and iron door (64 & 71), lit redstone ore (74), unlit redstone torch (75), sugar cane (83), cake (92), unpowered and powered repeater (93 & 94), locked chest (95), pumpkin and melon stem (104 & 105), nether wart (115), brewing stand (117), cauldron (118), lit redstone lamp (124), tripwire (132), flower pot (140), skull (144), and unpowered and powered comparator (149 & 150). The locked chest will convert to stained glass in the future if it is kept unloaded until the addition of stained glass.
+
+**13w37b**
+- Bounding boxes now save with the world. In order for current structures (witch huts, nether fortresses, etc.) to be saved to the world file, the player must load the appropriate chunks within the game manually. After this is completed, structures will be compatible in all snapshots starting with snapshot. All these bounding boxes will not be obtainable in their current locations in future versions.
+- These bounding boxes are stored in structure files, which are generated when the respective structure is loaded. These files are Village.dat, Fortress.dat, Temple.dat, Mineshaft.dat, and Stronghold.dat. All of these files will be discontinued in a future version.
+
+**13w49a**
+- Added Chicken Jockeys. Chickens in chicken jockeys currently lay eggs, as the "IsJockey" tag does not exist yet. Chickens also maintain agression against the player after the zombie is dead, despite not being able to deal damage.
+
