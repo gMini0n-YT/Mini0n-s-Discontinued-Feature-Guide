@@ -347,3 +347,24 @@
 
 **1.8.9**
 - Currently there is a bug that allows for commands to be run in survival. This is known as Cross Word Commands, and it functions by first creating a creative world. From the creative world a redstone setup can be made to generate a large amount of lag at the same time it runs command blocks. The player then quickly logs out of the creative world and into the survival world, which has a chance to transfer the commands and have them run in survival. A creative world download will be added to "Mods & Extra Files"
+- During this version armored mobs can be stored in unloaded chunks until 18w19a or later. Keeping these mobs unloaded during this version range will create dual wielding mobs, or mobs holding boots and leggings in each hand. This allows for unobtainable mob variants. During this version, mobs can also be stored in unloaded chunks until 15w32a or later for mobs with 0 drop chance on their left hand.
+
+**1.8.9 Build 3 Classroom (EDU)**
+- Player data is saved in the playerdata folder under username.dat. This will become unobtainable in future versions as it is stored as a UUID instead of a username. Additionally, since you are logging in in offline mode, the UUID for the statistics is different, allowing for multiple statistic files in a singleplayer world.
+- Files called EduWorldSettings.ini, EduMapSettings.ini, and forcedchunks.dat generate within the world save. A folder called MCEdu is created within the world save, which includes several files that are gnenerated when the server is launched. Another folder called region_eduf1_backup is created upon world save, and contains a copy of the region files. These files and folders are exclusive to Edu versions, and will be discontinued in future versions.
+- The computer process allows for the writing of external files, meaning essentially any file can be created within the world save, all of which would be discontinued. Upon world save the computer folder is generated, which is a discontinued folder.
+
+**15w31a**
+- Endermen now drop the block they are holding, allowing for an assortment of items that are normally unobtainable if the endermen from b1.8-pre1 are killed.
+- Enchanting a book in an enchantment table does not properly apply the enchantment, resulting in a blank enchanted book. This will become unobtainable in future versions.
+- Enchanted books that generate in structures have no enchantments, which allows for blank enchanted books. This will become unobtainable in future versions.
+- A potion tag can be added to any item within a brewing stand. Updating brewing stands that contain any item in the output slots into this version, and then brewing a potion, will add the potion tag to any item, allowing for discontinued nbt tags. This same method also converts all items within the brewing stand to a data value of 0, allowing for simple item transmutation.
+- When the dragon is resummoned, it generates a new end portal at 0 0, which can exist alongside the previous portal from earlier versions, thus allowing multiple end portals in the world.
+- Books have extra characters added when they are signed, which allows for written books with extra characters
+- Building a creeper face out of clay resummons the dragon. This allows for more than one dragon at a time, which is a discontinued amount of ender dragons.
+- By removing nbt data from a spawn egg, either through brewing stand item transmutation or by shift clicking a spawn egg into an enchantment table, a no nbt spawn egg can be created. By using a spawn egg with no nbt on a spawner, a spawner missing nbt data can be created
+- When building a creeper face, a 6x6 block of clay is removed. This however removes all blocks in this 6x6 area, including bedrock. This is a form of bedrock removal.
+- Currently resummoning dragons will regenerate the dragon egg, which allows for a normally unobtainable amount of dragon eggs.
+
+**15w32a**
+- Loading the mobs stored in 1.8.9 will create 0 drop chance left hand mobs
