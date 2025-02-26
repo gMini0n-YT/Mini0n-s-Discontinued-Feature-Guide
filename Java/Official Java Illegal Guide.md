@@ -143,6 +143,7 @@
 **Beta 1.9 Prerelease 4-1**
 - Enchanting in this version works normally and all previous enchants would convert to Feather Falling I, however Silk Touch and Fortune are not mutually exclusive allowing for Silk Touch and Fortune on the same tool
 - Silk Touch works on Spawners, Infested Stone, Lit Furnaces, Double Slabs, Lit Redstone Ore, and Ice which all become unobtainable in newer versions
+- Placing a support block on a glass block will misplace the support block somewhere where it can be placed, using this method you can place support blocks on chests which can give you unobtainable block formations
 
 **Beta 1.9 Prerelease 6**
 - The exit portal would generate when the ender dragon is killed but the exit portal would generate where the dragon died and not at 0,0 allowing for the exit end portal in discontinued locations
@@ -159,6 +160,7 @@
 
 **12w07a**
 - The file format is now Anvil instead of MCRegion. This converts all .mcr files to .mca, however the .mcr files are maintained within the world save folder for all three dimensions. Additionally, a level.dat backup is taken named level.dat_mcr. These are all discontinued files.
+- The End in this version does not generate with any main end island it is just you and the void. Additionally when you kill the ender dragon the exit portal will spawn where the dragon died instead of at 0.0
 
 **12w08a**
 - Iron Golems current have no knockback resistance which will not revert when updating to newer versions allowing for discontinued variants of the iron golem
