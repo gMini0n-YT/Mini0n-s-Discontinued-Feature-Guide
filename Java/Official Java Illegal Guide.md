@@ -368,3 +368,36 @@
 
 **15w32a**
 - Loading the mobs stored in 1.8.9 will create 0 drop chance left hand mobs
+
+**15w33a**
+- Added items picked up and items dropped statistics. These can go negative by simply dropping or picking up negative stacks of items.
+
+**15w33c**
+- Inside End City Ships instead of an Elytra a book signed by Searge generates. This is unobtainable in singleplayer.
+- Fireballs shot out of a dispenser are dragon fireballs. This allows for dragon fireballs in the overworld and nether, which can become frozen projectiles. These projectiles are normally unobtainable in these dimensions.
+- Resummoning the ender dragon also regenerates the end pillars. The ender crystals can be moved during this regeneration process, allowing for indestructable ender crystals which will be unobtainable in future versions.
+
+**15w35a**
+- Zombies and Zombie Pigmen spawn in this version with noAI. This allows for various NoAI mobs including Villagers and Drowneds
+
+**15w35d**
+- By placing 256 block states in a single chunk, the chunk can corrupt and potentially replace random blocks, potentially allowing for various discontinued blocks
+
+**15w37a**
+- Pistons can no longer push pistons, but can instead push obsidian. Pushing obsidian into the world border allows for block 36 with obsidian, which is unobtainable in future versions
+
+**15w38a**
+- Armor from skeleton horsemen have a chance of having duplicate enchantments or conflicting enchantments. In future versions duplicate enchantments will be removed. This allows for Helmets and bows with conflicting enchantments.
+- Sending a skeleton trapped horse to the nether allows for wither skeleton horsemen, which are unobtainable in future versions
+- Skeleton horses currently spawn with higher health than is obtainable in future versions. The main skeleton horse spawns with 53 hp, and the other skeleton horses range from 15-30 hp
+
+**15w39a**
+- Using a Bucket on a block destroys the block possible for bedrock removal
+
+**15w41a**
+- Currently any mobs can enter into a boat, this includes large mobs such as ghasts, and squids. This allows for an assortment of discontinued mobs in boats.
+- An ender dragon can enter a boat, which will be discontinued in future versions
+- Clerics now sell ender pearls instead of eye of enders, which is another discontinued trade
+
+**15w42a - 15w41b**
+- Downgrading a frost walker enchanted book to this version allows you to add a depth strider book to it via an anvil. These enchantments are usually mutually exclusive, thus allowing for a discontinued enchanted book combination.
