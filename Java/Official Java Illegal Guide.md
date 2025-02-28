@@ -403,3 +403,54 @@
 
 **15w42a - 15w41b**
 - Downgrading a frost walker enchanted book to this version allows you to add a depth strider book to it via an anvil. These enchantments are usually mutually exclusive, thus allowing for a discontinued enchanted book combination.
+
+**15w42a**
+- Mending and Infinity can be added to a bow and an enchanted book
+- Adding Blaze powder to a Brewing Stand will set the fuel higher than in newer versions
+- Mending and Frost Walker Librarian Trades in this version are cheaper than in newer versions
+- Currently renaming any item adds the repair cost 0 tag, which will not be added to renamed items in future versions
+
+**15w43a**
+- Added loot tables to all chests that generate in structures. Currently blacksmith chests in villages generate with the loot table of minecraft:chests/village_blacksmith, which will be discontinued in future versions.
+
+**15w44a**
+- By placing an end crystal in the center of the exit end portal when attempting to resummon the ender dragon, there is a small chance bedrock will drop as an item, allowing it to be obtained.
+
+**1.9 Prerelease 1 - 16w07b**
+- By downgrading a shield from the previous version, negative durability shields can be created. This works by taking at least two shields in the previous version, and getting the durability lower than roughly 140 at least. The lower the durability, the easier to combine. Once these low durability shields are obtained, they can be downgraded to this version and combined in a crafting table. This will make the shields receive a lower durability, and can consistently be combined to as low as roughly -32400 durability. Anything lower than roughly -160 durability will remain negative when updated.
+
+**1.9 Prerelease 1**
+- Written books can be stored in unloaded chunks in this version until 1.13-pre3. This will allow for a different variant of a no nbt data written book with an empty tag. This empty tag will be removed in future versions making this a temporary discontinued variant that will convert to a no nbt written book.
+
+**1.RV- Prerelease 1**
+- USB Charger Blocks function as redstone blocks, and emit a signal. In block form they will later convert to glazed black terracotta, allowing for glazed black terracotta to emit a redstone signal.
+
+**16w20a**
+- Endermen can spawn in the nether and can pick up netherack. In the future Endermen aren't able to pick up netherack
+
+**16w21a**
+- Dispensers can equip shields onto entities, including armor stands.
+
+**1.10.2**
+- Spawner minecarts can be moved into various chunks and kept unloaded until 1.13-pre2 or later, and then will be capable of regenerating chunks when loaded
+
+**16w32b**
+- When a villager is generated, the tier one trades can be from an invalid profession and career. The career can also be set too high, causing only tier one trades to be added. Also, this allows for villagers to receive no trades, which is unobtainable until they are forced to get trades in future versions. This allows for a large variety of discontinued villagers
+- Since villagers can receive invalid tier one trades, this also allows nitwits to receive tier one trades. Nitwits can normally not receive any trades, allowing for unobtainable nitwits.
+
+**16w38a**
+- The uncraftable potion is now the base potion when there are no nbt tags on a potion. By shift clicking overstacked potions into an enchantment table, an uncraftable potion can be obtained
+- The uncraftable tipped arrow is now the base tipped arrow when there are no nbt tags on the tipped arrow. By shift clicking stacked tipped arrows into an enchantment table, an uncraftable tipped arrow can be obtained, which will be discontinued in future versions.
+
+**16w39a**
+- Currently the curse of vanishing can be added to any item, allowing for a large variety of items with discontinued enchantments
+- Curse of Binding can be applied to Jack O' Lantern
+- Added cartographer villagers, which have trades that will be discontinued in future versions. They can also be combined with the invalid career villagers from 16w32b.
+- Vindicators currently only visually appear to hold an axe, they do not actually hold an axe. This means updating them to future versions allows for weaponless vindicators
+- Currently crafting a shulker box with dye adds a color tag, which will be unobtainable in future versions
+- Shulker boxes receive an Item[] tag, even if empty when mined, which will be unobtainable in future versions
+- Explorer maps can currently be zoomed out and copied, both of which allow for discontinued map variants
+- The file Mansion.dat now generates in the data folder, which will be unobtainable in future versions
+
+**16w39b**
+- Shulker boxes with a custom name in the block entity tag but without a regular custom name can be created. This works by naming a shulker box, then placing it and breaking it. From there, remove the name in the anvil so the name is reverted back to "Shulker Box". This removes the custom name, but keeps the custom name in the block entity tag.
