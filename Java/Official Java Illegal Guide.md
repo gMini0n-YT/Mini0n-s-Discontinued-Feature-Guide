@@ -454,3 +454,27 @@
 
 **16w39b**
 - Shulker boxes with a custom name in the block entity tag but without a regular custom name can be created. This works by naming a shulker box, then placing it and breaking it. From there, remove the name in the anvil so the name is reverted back to "Shulker Box". This removes the custom name, but keeps the custom name in the block entity tag.
+
+**1.11.2 (MOD)**
+> [!Note]
+> This version uses Forge 1.13.20.2235 for version 1.11.2. This version can be downloaded from the forge link in "Links", and added to the official minecraft launcher, or it can be added directly from multimc. Adding to multimc requires creating a 1.11.2 instance, then going to edit instance, then install forge, then scrolling down to the correct version of forge and selecting it.
+- Shulkers can be put into other shulkers by using a hopper. This only works due to the forge version that is being used. Nested shulkers are normally unobtainable.
+- The capabilites.dat file generates in the data folder, and the forcedchunks.dat file generates in the world save folder and the two DIM folders. These are all discontinued files exclusive to the mod used.
+
+**17w13a-1**
+- Added Advancements to replace Acheivements. Support for custom advancements was added, meaning an empty folder called Advancements is generated in the data folder. This folder is unobtainable in future versions.
+
+**17w15a**
+- Added 15 New Beds, all of which are obtainable through crafting. Updating red beds convert to white beds. This will not occur in future versions, and this updating allows for enchanted white beds, white beds in invalid locations, and other assorted discontinued items.
+
+**17w16a**
+- Shulkers that spawn naturally currently are a bright purple. These purple shulkers are unobtainable normally.
+
+**17w17a**
+- All items can be overstacked. This method works by picking up items while spam clicking a crafting recipe. This allows for a large variety of overstacked items.
+
+**17w18a**
+- Placing and attempting to use a button or lever above a shulker box suppresses any updates. This allows for multiple discontinued block configurations through update suppression.
+
+**1.12 Prerelease 1**
+- Added a function system. This causes an empty folder named functions to generate in the data folder, which is unobtainable in future versions.
