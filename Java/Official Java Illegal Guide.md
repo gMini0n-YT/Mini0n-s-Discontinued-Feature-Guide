@@ -478,3 +478,35 @@
 
 **1.12 Prerelease 1**
 - Added a function system. This causes an empty folder named functions to generate in the data folder, which is unobtainable in future versions.
+
+**1.12.2**
+- There is a complex method known as pallette corruption, which can allow for any block to replace random blocks in the world. This is done with async observer lines, and can allow for various blocks including command blocks and structure blocks. This is not the first version this works in, but the last major version where this can occur.  https://mcdf.wiki.gg/wiki/Java_Edition:Parallel_Asynchronous_Threads
+- RNG Manipulation can be done through a complicated process, which allows for instant tile ticks and various discontinued block configurations. This is not the first version this works in, but the last major version where this can occur.
+- There is a complex method known as Any Falling Block. This method allows for certain blocks to convert to an item by switching it with a falling block. This allows for end portal frames as items, among other things. This is not the first version this works in, but the last major version where this can occur.
+- There is a complex method to obtain bedrock, possible by using silk touch at the exact moment an end gateway generates. This is not the first version this works in, but the last major version where this can occur.
+- There is a complex method to obtain a barrier block in block form, possible by update suppressing an igloo at the exact moment a barrier block is used within generation. This is not the first version this works in, but the last major version where this can occur.
+
+**17w43a**
+- Currently non-breaking space characters can be put into the title of written books by typing the alt code "Alt + 0160". This character will not be allowed in book titles in future versions, making this a discontinued book variant.
+
+**17w45a**
+- The /xp command can be used in survival. By adding a negative amount of experience, the player's score can become negative, which is normally unobtainable.
+- The /team command can be used in survival. This allows the player to be added to a team, and thus generate a scoreboard.dat file, which is normally unobtainable. The player's name can also be colored.
+
+**17w47a**
+- Updating a villager with a pumpkin trade will convert that pumpkin to a carved pumpkin, allowing for a carved pumpkin trade. This is unobtainable in future versions.
+- Fishermen now have a salmon trade, which is unobtainable in certain amounts in future versions
+- Banners only stack to one. This means by combining previous banner stacks, the stack can surpass 16 and thus allow for overstacked banners.
+- Using shears on a tripwire string disarms it instead of breaking the string, creating a tripwire with the disarmed state. In future versions this will not be possible, making tripwires with the disarmed state future discontinued.
+- Updating filled maps from earlier versions does not properly apply nbt data, creating no nbt filled maps, which will be discontinued in future versions
+- Placing a noteblock on a bone block sets the instrument to bass drum, which is unobtainable in the future. Additionally, placing noteblocks on iron blocks, pumpkins, blocks of emerald and hay bales all have the instrument set to harp, soul sand has the instrument set to snare drum, and glowstone has the instrument set to clicks and sticks, all of which are unobtainable in future versions.
+
+**17w47b**
+- Uncraftable potions can be obtained through fishing
+- Uncraftable tipped arrows are dropped by strays
+
+**18w06a**
+- Readded /enchant, which is currently possible to use in survival. Enchantment level 0 can be applied on any item that can normally be enchanted using this command, which is normally unobtainable.
+- /Enchant can be used to add enchantments to items that cannot normally have a specific combination of enchantments, for example adding mending to a multiple protection helmet from horsemen
+- Unconnected chorus plants generate in the end islands, which will be discontinued in future versions
+
