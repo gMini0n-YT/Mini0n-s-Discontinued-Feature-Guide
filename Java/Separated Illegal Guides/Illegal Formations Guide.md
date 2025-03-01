@@ -69,3 +69,6 @@ ________________________________________________________________________________
 
 **Alpha 1.2.0**
 - Lava only flows 4 blocks in the nether
+
+**Alpha 1.2.2**
+- Nether Portals can be summoned by pressing F4 which can be used to get to the Farlands and to create illegal block formations
