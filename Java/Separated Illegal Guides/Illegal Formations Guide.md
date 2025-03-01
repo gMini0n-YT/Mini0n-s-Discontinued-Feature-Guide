@@ -100,3 +100,6 @@ ________________________________________________________________________________
 **Beta 1.9 Prerelease 6**
 - The exit portal would generate when the ender dragon is killed but the exit portal would generate where the dragon died and not at 0,0 allowing for the exit end portal in discontinued locations
 - Nether Portal can be placed in the end, allowing for nether portals in the end
+
+**12w07a**
+- The End in this version does not generate with any main end island it is just you and the void. Additionally when you kill the ender dragon the exit portal will spawn where the dragon died instead of at 0.0
