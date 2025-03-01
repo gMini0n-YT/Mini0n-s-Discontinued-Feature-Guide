@@ -14,3 +14,10 @@ ________________________________________________________________________________
 **Mod:** Requires a Mod from "Mods & Extra Files" that can let you either play the version or obtain certain unobtainables
 <br>
 _____________________________________________________________________________________________________________________________________
+
+**Infdev 20100316**
+> [!Caution]
+> This version requires the Infdev 20100316 saving mod to save and quit the game you can find it in the Links folder
+> Opening Chests in this version would crash the game
+- The Farlands would generate except they are extremely far out, they are a flat wall and they are unreachable by normal means
+- Brick Pyramids would spawn throughout the world, making it the only method of obtaining bricks, download the file in the "Mods & Extra Files" folder to help you find brick pyramids
