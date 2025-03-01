@@ -443,9 +443,6 @@ ________________________________________________________________________________
 **1.9 Prerelease 1 - 16w07b (Downgrading)**
 - By downgrading a shield from the previous version, negative durability shields can be created. This works by taking at least two shields in the previous version, and getting the durability lower than roughly 140 at least. The lower the durability, the easier to combine. Once these low durability shields are obtained, they can be downgraded to this version and combined in a crafting table. This will make the shields receive a lower durability, and can consistently be combined to as low as roughly -32400 durability. Anything lower than roughly -160 durability will remain negative when updated.
 
-**1.9 Prerelease 1**
-- Written books can be stored in unloaded chunks in this version until 1.13-pre3. This will allow for a different variant of a no nbt data written book with an empty tag. This empty tag will be removed in future versions making this a temporary discontinued variant that will convert to a no nbt written book.
-
 **1.RV- Prerelease 1**
 - USB Charger Blocks function as redstone blocks, and emit a signal. In block form they will later convert to glazed black terracotta, allowing for glazed black terracotta to emit a redstone signal.
 
@@ -683,7 +680,6 @@ ________________________________________________________________________________
 - If a villager sleeping in a bed is struck by lightning and converts to a witch, the bed maintains the occupied state, despite having no entities within it. This will not be obtainable in future versions.
 
 **1.14**
-- Ender Dragons can be teleported to the overworld. This is accomplished by placing end stone blocks at certain nodes in the end, freezing the dragon, and then pushing it through an end portal. The ender dragon in the overworld will not be obtainable in future versions.
 - Ender Dragons can be teleported to the overworld. This is accomplished by placing end stone blocks at certain nodes in the end, freezing the dragon, and then pushing it through an end portal. The ender dragon in the overworld will not be obtainable in future versions.
 - By placing a sign and pasting in text over 65,536 characters, the chunk fails to save and regenerates entirely. This allows for many discontinued block configurations. The text can be pasted on if the font size is small, possible by using the small font datapack in resources.
 - Expert level farmer villager will sell Speed Suspicious Stew that would last 8 seconds which is not normally obtainable trade or item
