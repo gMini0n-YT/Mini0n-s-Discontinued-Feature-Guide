@@ -21,3 +21,6 @@ ________________________________________________________________________________
 
 **Indev 20100128-2**
 - Indev Chests would spawn with 100 count items allowing for overstacked items
+
+**Indev 20100206-2**
+- Golden Hoes have a higher durability which is later lowered allowing for negative durability hoes if you lower the durability of the hoe in this current version
