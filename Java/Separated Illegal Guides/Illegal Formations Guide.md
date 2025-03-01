@@ -424,25 +424,15 @@ ________________________________________________________________________________
 
 **24w19a**
 - Falling blocks can now go through portals. Waterlogged falling blocks can also go through nether portals allowing for water in the nether.
-______________________________________________________________________________________
+
 **24w40a**
 > [!Note]
 > In order to play your world in this version with the Winter Drop experimental features enabled, world save insertion must be used. This requires first removing the world save from the world saves folder. From here, select create world and create a world with the same folder name as the world save. Then select the Datapacks or Experimental option and enable the Minecart Improvements, Redstone Experiments, Villager Trade Rebalance, and the Winter Drop datapack. Then, while still in the create world screen, drag the world save into the saves folder, and select create world. This forces the world to load without removing the level.dat or level.dat_old files.
-- Added the /rotate command which can rotate entities in any direction. This command is currently available in survival, which allows for many entities such as armor stands and boats to be oriented in invalid positions. This command will not be available in survival in future versions.
 - Unloading smokers, blast furnaces, and furnaces in this version will delete all contents of them, however it will maintain their lit state. This allows for lit furnaces, blast furnaces, and smokers, which are normally unobtainable.
 - Washing out a pale moss carpet with water does not remove the moss carpet that has grown on a wall, allowing for disconnected pale moss carpets on the sides of blocks
 
-**24w45a - 24w46a (Upgrading)**
-- By going to snapshot 24w45a and throwing a bow to a Wither Skeleton with PickUpLoot true it will pick it up. Then by updating to 24w46a renaming a Totem of Undying to anything with an anvil and throwing that to the skeleton it will switch to holding that. From there its possible to damage the wither skeleton enough to pop the totem thus creating a Wither Skeleton holding no items
-
-**1.21.2-Prerelease 3**
-- Zombie villagers can be converted to regular villagers while riding a chicken. They will then not dismount the chicken, allowing for a villager riding a chicken, which is not normally obtainable. The villager can be rezombified, also allowing for adult zombie villagers riding chickens. The villager can also now be struck by lightning, allowing for witches riding chickens.
-
 **1.21.4**
 - Dripleafs can be placed on Pale Moss Block
-
-**25w03a**
-- Axolotls picked up in water buckets do not save their variant in the resulting bucket of axolotl. These buckets of axolotl update into later versions where you can only obtain buckets of axolotl with a variant saved. This bucket will always spawn a lucy (pink) axolotl. It is observable because it only has 11 components instead of the normal 12 on a bucket of axolotl.
 
 **25w07a**
 - Leaf Litter can be placed on blocks without a solid top surface (e.g. fences, walls, iron bars, glass panes)
