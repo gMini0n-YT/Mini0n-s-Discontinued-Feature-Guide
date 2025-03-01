@@ -17,3 +17,6 @@ ________________________________________________________________________________
 
 **Alpha 1.2.0**
 - Zombie Pigmen and skeletons appear to hold their weapons but it is all visual, updating these two mobs past 1.3 will turn them into weaponless weaponless mobs
+
+**Beta 1.8 Prerelease 1-1**
+- Endermen can pick up any block in the game allowing for discontinued endermen variants
