@@ -46,3 +46,17 @@ ________________________________________________________________________________
 
 **Infdev 20100617-2**
 - The bottom most layer of the world is made of stone and bedrock allowing for holes within the bedrock
+
+**Infdev 20100625-2**
+- Spawners currently have the same block id as signs. If a sign is loaded near a spawner, the spawner will receive sign metadata. Reloading a sign-spawner will crash and potentially soft lock the world in this version. This is fixed in the next version, but the spawner maintains the sign data.
+
+**Alpha 1.0.1_01 - Infdev 20100630-2**
+- Downgrading Redstone that is placed on against a block will convert it to a gear in Infdev 20100630-2. Breaking the block below the gear and updating back to Alpha 1.0.1_01 will create floating redstone
+
+**Alpha 1.0.1_01**
+- Activating a lever and then breaking it's support block will keep the lever floating
+
+**Alpha 1.0.4**
+> [!Note]
+> In order to access the winter mode type and obtain snow and ice, the level.dat will have to be regenerated. This will reset the player position and remove all items within the inventory, as well as changing the world seed. This can be done by deleting level.dat and level.dat_old, then going to the "singleplayer" screen, and selecting the world slot that has the same name as the world save folder. This will likely have to be done several times before the winter type is set to 1
+- Snow Layers were added but can only be obtained in the Winter Type Map. Snow Layers would generate on top of all blocks during snowfall which allows for illegal block formations like snow layers on non-full blocks (e.g. stairs and slabs)
