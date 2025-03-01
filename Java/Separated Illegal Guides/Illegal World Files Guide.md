@@ -25,3 +25,10 @@ ________________________________________________________________________________
 
 **Beta 1.3.2**
 - World names can contain the section symbol § and will format the name which will become unobtainable in later versions.
+
+
+**1.1**
+- The unicode delete character [] can be typed into a world name by pressing ctrl + backspace. This is the only version where a world can be named with both the delete character [] and the section symbol [§], making this the ideal version to name your world.
+
+**12w07a**
+- The file format is now Anvil instead of MCRegion. This converts all .mcr files to .mca, however the .mcr files are maintained within the world save folder for all three dimensions. Additionally, a level.dat backup is taken named level.dat_mcr. These are all discontinued files.
