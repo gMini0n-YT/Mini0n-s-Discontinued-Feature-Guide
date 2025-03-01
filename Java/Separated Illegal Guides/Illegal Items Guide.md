@@ -72,3 +72,10 @@ ________________________________________________________________________________
 - The player would spawn with debug items including a stack of bookshelves, enchanting tables, end portals, and end portal frames. Hovering your cursor over the end portals will crash your game due to a missing tooltip
 - Blowing up end portal frames that generate in the stronghold have a 30% chance of dropping themselves
 - Enchanting Items in this version will give it the Enchantment "ENCHANTED!", updating these items to newer versions would cause the enchants on the gear to be converted to Feather Falling I allowing for Feather Falling I on all tools and gear.
+
+**Beta 1.9 Prerelease 4-1**
+- Enchanting in this version works normally and all previous enchants would convert to Feather Falling I, however Silk Touch and Fortune are not mutually exclusive allowing for Silk Touch and Fortune on the same tool
+- Silk Touch works on Spawners, Infested Stone, Lit Furnaces, Double Slabs, Lit Redstone Ore, and Ice which all become unobtainable in newer versions
+
+**1.0.0 Release Candidate 1**
+- In this version, all swords have 5 durability points. Updating any swords with 1 durability point remaining, and combining them in this version causes these swords to gain negative durability once updated. This allows for negative durability wooden, stone, iron, gold, diamond, and eventually netherite swords
