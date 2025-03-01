@@ -19,6 +19,7 @@
 
 **Indev 20100206-2**
 - Golden Hoes have a higher durability which is later lowered allowing for negative durability hoes if you lower the durability of the hoe in this current version
+- Tilling Dirt underneath a block and then placing seeds on the farmland will remove the block above making it possible for bedrock removal
 
 **Indev 20100209**
 -  Any item can be placed in the furnace fuel and output slot
@@ -51,6 +52,7 @@
 **Infdev 20100625-2**
 - Added Spawners which can be mined up by hand and will drop as an item, also Infinite Water Source items would convert to a Spawnere as well
 - Spawners currently have the same block id as signs. If a sign is loaded near a spawner, the spawner will receive sign metadata. Reloading a sign-spawner will crash and potentially soft lock the world in this version. This is fixed in the next version, but the spawner maintains the sign data.
+- Placing Doors one block under a block will cause the upper half to break the block up above it making it possible for bedrock removal
 
 **Alpha 1.0.1_01 - Infdev 20100630-2**
 - Downgrading Redstone that is placed on against a block will convert it to a gear in Infdev 20100630-2. Breaking the block below the gear and updating back to Alpha 1.0.1_01 will create floating redstone
@@ -124,6 +126,7 @@
 - Endermen can pick up any block in the game allowing for discontinued endermen variants
 - Enderpearls can stack up to 64 in this version allowing for overstacked enderpearls
 - Updating a furnace into a lit furnace which will update a piston and then pushing the furnace will displace it's block entity. This allows for furnace block entity in any block in the game that normally has a block entity
+- Placing a mushroom on any block and then bonemealing them would grow a big mushroom and replace the block underneath it with dirt making it possible for unbreakable bock removal
 
 **Beta 1.9 Prerelease 1**
 - Jumping will give you XP, this is not an unobtainable but it is a debug feature that can be used to get insane amount of Xp levels really quickly
@@ -552,6 +555,7 @@
 **18w15a**
 - Currently dolphins can be equipped with armor, which is unobtainable in future versions.
 - Dolphins can ride in boats currently, which is unobtainable in future versions.
+- Bonemealing a Small Grass underneath a block will grow into a double tall grass and will break the block above it
 
 **18w20a**
 - Placing a conduit defaults it to a waterlogged state, allowing for water in the nether.
