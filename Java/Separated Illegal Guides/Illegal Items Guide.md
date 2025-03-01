@@ -57,3 +57,6 @@ ________________________________________________________________________________
 - Upon level.dat creation, debug chests would generate at the world spawn and contain every item in the game at the time including illegal items. These items include Half Bed, Flowing Water, Water, Flowing Lava, Lava, Double Stone Slab, Fire, Redstone Wire, Crops, Farmland, Lit Furnace, Standing Sign, Wall Sign, Half Wooden Door, Half Iron Door, Lit Redstone Ore, Unlit Redstone Torch, Reeds, Portal, Cake Block, Unpowered Redstone Repeater, Powered Redstone Repeater, Locked Chest, Shrub, and Bedrock
 - Entering a Nether Portal while in the crafting grid will cause all items in the crafting grid to get thrown out and become 0 stacked items, 0 stack items can be subtracted to become negative stack items by Q-ing them and can be overflowed to become overstacked items
 - Maps would not snap to a grid, meaning unobtainable map variants can be obtained
+
+**Beta 1.8 Prerelease 1-1**
+- Enderpearls can stack up to 64 in this version allowing for overstacked enderpearls
