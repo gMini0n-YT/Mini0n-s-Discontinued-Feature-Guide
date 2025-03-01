@@ -35,3 +35,14 @@ ________________________________________________________________________________
 
 **Infdev 20100607**
 - Top Half Doors can be created by placing two signs and placing a door on top
+
+**Infdev 20100615**
+- Water and Lava can flow next to each other without forming stone
+- Lava will flow 8 blocks in the overworld which will later update to 3 blocks making it an illegal block formations
+- Water and Lava do not update correctly, allowing for water and lava in different flow states without a source block
+
+**Infdev 20100616-1**
+- Holes in the Bedrock can generate when lava pools generate at the bottom of the world
+
+**Infdev 20100617-2**
+- The bottom most layer of the world is made of stone and bedrock allowing for holes within the bedrock
