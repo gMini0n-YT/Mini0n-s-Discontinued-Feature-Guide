@@ -24,3 +24,9 @@ ________________________________________________________________________________
 
 **Indev 20100206-2**
 - Golden Hoes have a higher durability which is later lowered allowing for negative durability hoes if you lower the durability of the hoe in this current version
+
+**Infdev 20100316**
+> [!Caution]
+> This version requires the Infdev 20100316 saving mod to save and quit the game you can find it in the Links folder
+> Opening Chests in this version would crash the game
+- The Player would spawn with 999 stacks of axes, shovels, pickaxes, torches, flint and steel, oak planks, glass blocks, and arrows every time you load the world. These are technically -25 stacks which is obtainable, but because of the Chest crash they can not be moved to chests in this version.
