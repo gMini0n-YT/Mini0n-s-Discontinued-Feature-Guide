@@ -65,3 +65,10 @@ ________________________________________________________________________________
 > [!Note]
 > This version uses a mod to assign a block id to a cauldron in order to access the original brewing system. The beta 1.9 pre2 cauldron mod can be downloaded from resources. The zip file can then be extracted, and the folder titled "enable" can be zipped. This enabled zip can then be added to a b1.9-pre2 instance in multimc by going to edit instance and add to minecraft.jar. You can find this mod in the "Mods & Extra Files" folder
 - Potions can be brewed by adding an assortment of ingredients to a cauldron. A total of 5,339 potion variations are possible using this method, most of which provide discontinued status effects and create invalid data value potions. A potion calculator is included on the resource sheet to explain the brewing process in more detail. 
+
+**Beta 1.9 Prerelease 3-1**
+> [!Note]
+> Certain multiplayer exclusive chunks can be obtained, however it requires file manipulation. Regions from a newly generated multiplayer world can be copied into the pre-existing world. This would work by taking a region file, changing the numbers to not conflict with previously existing region files, and adding them to the preexisting world.
+- The player would spawn with debug items including a stack of bookshelves, enchanting tables, end portals, and end portal frames. Hovering your cursor over the end portals will crash your game due to a missing tooltip
+- Blowing up end portal frames that generate in the stronghold have a 30% chance of dropping themselves
+- Enchanting Items in this version will give it the Enchantment "ENCHANTED!", updating these items to newer versions would cause the enchants on the gear to be converted to Feather Falling I allowing for Feather Falling I on all tools and gear.
