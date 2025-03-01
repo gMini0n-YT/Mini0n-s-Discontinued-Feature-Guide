@@ -231,7 +231,7 @@
 - Enchanted Books can be overstacked, after they are overstacked they can be shift-clicked into an enchantment table allowing for no nbt enchanted books
 - Shears can be enchanted with Silk Touch
 
-**12w49a - 12w41a**
+**12w49a - 12w41a (Downgrade)**
 - All items with invalid enchantments can be combined in an anvil. Downgrading these items from the previous version allows for multiple enchantments on individual items.
 
 **12w50a**
@@ -306,7 +306,7 @@
 - Currently the files village_nether.dat and villages_end.dat generate in the data folder. These are discontinued files.
 - Data is again stored by username instead of UUID. This allows for a statistic file with the players username that will not convert to a UUID. This also means that statistics will not be accurately tracked during this version. This occurs because the change to UUID was based on real world time instead of version ordering. 
 
-**14w02a - 1.7.10**
+**14w02a - 1.7.10 (Downgrading)**
 - Downgrading villagers from 14w02a causes all trades to become tier 0 trades. This would allow you to update back to 14w02a, and get the same trades stacked on top. This downgrade and update cycle can be repeated for well over 100 trades in the first tier. This also allows for villagers of different careers to have trades on the same villager (for example shepherd trades and fletcher trades can both be on the same villager using this bug)
 
 **14w04a**
@@ -423,7 +423,7 @@
 **15w44a**
 - By placing an end crystal in the center of the exit end portal when attempting to resummon the ender dragon, there is a small chance bedrock will drop as an item, allowing it to be obtained.
 
-**1.9 Prerelease 1 - 16w07b**
+**1.9 Prerelease 1 - 16w07b (Downgrading)**
 - By downgrading a shield from the previous version, negative durability shields can be created. This works by taking at least two shields in the previous version, and getting the durability lower than roughly 140 at least. The lower the durability, the easier to combine. Once these low durability shields are obtained, they can be downgraded to this version and combined in a crafting table. This will make the shields receive a lower durability, and can consistently be combined to as low as roughly -32400 durability. Anything lower than roughly -160 durability will remain negative when updated.
 
 **1.9 Prerelease 1**
@@ -636,7 +636,7 @@
 - Toolsmith villagers can sell enchanted diamond hoes as their journeyman tier trade. This will later be changed to unenchanted diamond hoes, making this trade discontinued.
 - Librarian villagers can sell 3 bookshelves for 6 emeralds, which will later become an unobtainable amount trade
 
-**19w11a - 18w48b**
+**19w11a - 18w48b (Downgrading)**
 - Downgrading villagers to this point removes their profession, career, and career level, converting all of their trades to tier 0, and converting the profession to a farmer. This allows for any trade existing on any villager in 19w11a (including old trades updated to 19w11a) is obtainable on a farmer profession villager. This farmer profession can be any one of the four farmer careers; farmer, fisherman, shepherd, or fletcher. By repeating downgrade, theoretically infinite trades can be obtained on this one villager by constantly converting the tier to 0.
 - Downgrading a blast furnace or a smoker that contains a recipe that can be smelted within a furnace causes the recipe to smelt within the blast furnace/smoker. This occurs for any furnace recipe, not just those that work within a blast furnace/smoker, allowing for a variety of invalid items in the output slots of these two blocks.
 - Downgrading a blast furnace or a smoker and using a hopper to input items for valid furnace recipes will add the furnace recipes under recipes used. Every single furnace recipe tag is discontinued on a smoker and blast furnace, allowing for a large assortment of discontinued blocks.This stored recipe is completely unobservable, and will be removed if an item is ever taken out of the  output slot manually, however hoppers can be used to remove items from the output slot and stack multiple recipes.
@@ -752,7 +752,7 @@
 - Currently, a level.dat and level.dat_old file generate, however they have the name special_level.dat and special_level.dat_old. These are both normally unobtainable files.
 - Added the /debugdim command. This command can be used in survival, and creates debug files for whichever dimension you are in. This allows for a large assortment of discontinued files within the world save.
 
-**20w14a - 20w13b**
+**20w14a - 20w13b (Downgrading)**
 - By downgrading a warped fungus on a stick from the previous version, negative durability warped fungus on a stick can be created. This works by taking at least two warped fungi on a stick in the previous version, and getting the durability lower than roughly 70 at least. The lower the durability, the easier to combine. Once these low durability warped fungi on a stick are obtained, they can be downgraded to this version and combined in a crafting table. This will make the warped fungus on a stick receive a lower durability, and can consistently be combined to as low as roughly -2 billion durability. Anything lower than roughly -125 durability will remain negative when updated.
 
 **20w15a**
@@ -811,19 +811,19 @@
 - By overstacking items inside the bundle, items can be left clicked onto the bundle, and it creates item slots with air and a negative count, however it does also copy the nbt creating bundles full of nbt. Using these nbt bundles with large amounts of nbt data, for example chunk savestating books, can be used to overfill a chunk and perform both chunk savestating and chunk regeneration, which will be further utilized in later versions.
 - Obtaining a large bundle and attempting to save, and crashing the game at a precise time during this save can create a level#############.dat file, which is a file discontinued feature will not be obtainable in future versions. Similarly, by performing this crash while attempting to save a chunk containing more data than allocated ram, a tmp###################.tmp can be created in the region folder, which is another file discontinued feature that will not be obtainable in future versions.
 
-**1.17.1 - 21w05a**
+**1.17.1 - 21w05a (Downgrading)**
 - Downgrading bundles containing Deepslate, Chiseled Deepslate, Polished Deepslate, Deepslate Tiles, Cracked Deepslate Tiles, Deepslate Bricks, Cracked Deepslate Bricks, Cobbled Deepslate, Deepslate Lapis Lazuli Ore, Deepslate Redstone Ore, Deepslate Diamond Ore, Deepslate Emerald Ore, Deepslate Gold Ore, Deepslate Iron Ore, Deepslate Copper Ore, Deepslate Coal Ore, Infested Deepslate, Smooth Basalt, Waxed Variants for Oxidized Copper Variants, Raw Iron, Raw Copper, Raw Gold, Raw Iron Blocks, Raw Copper Blocks, Raw Gold Blocks, and any Deepslate Variants of Walls, Stairs, or Slabs will cause the bundles to maintain the item tags, however the items will visually disappear, and cause the count to not include these items. This allows for additional items to be placed within the bundle, increasing the amount to 128 total items.
 
-**21w05a - 21w03a**
+**21w05a - 21w03a (Downgrading)**
 - Downgrading bundles containing  Azaleas, Azalea Leaves, Flowering Azalea Leaves, Cave Vines, Glowberries, Big Dripleaf, Small Dripleaf, Hanging Roots, Moss Blocks, Moss Carpets, and Rooted Dirt will cause the bundles to maintain the item tags, however the items will visually disappear, and cause the count to not include these items. This allows for additional items to be placed within the bundle, increasing the amount to 128 total items (192 if stacked with the previous bundle).
 
-**21w03a - 20w51a**
+**21w03a - 20w51a (Downgrading)**
 - Downgrading bundles containing Glow Lichen, Glow Ink Sacs, and Glow Item Frames will cause the bundles to maintain the item tags, however the items will visually disappear, and cause the count to not include these items. This allows for additional items to be placed within the bundle, increasing the amount to 128 total items (256 if stacked with the previous bundle).
 
-**20w51a - 20w48a**
+**20w51a - 20w48a (Downgrading)**
 - Downgrading bundles containing Bucket of Axolotl will cause the bundles to maintain the item tags, however the item will visually disappear, and cause the count to not include this item. This allows for additional items to be placed within the bundle, increasing the amount to 128 total items (320 if stacked with the previous bundle).
 
-**20w48a - 20w46a**
+**20w48a - 20w46a (Downgrading)**
 - Downgrading bundles containing Dripstone Blocks and Pointed Dripstone will cause the bundles to maintain the item tags, however the items will visually disappear, and cause the count to not include these items. This allows for additional items to be placed within the bundle, increasing the amount to 128 total items (384 if stacked with the previous bundle).
 
 **20w45a (Datapack)**
@@ -854,7 +854,7 @@
 **1.18-Exp 7**
 - Elytra no longer take damage when gliding. Elytra take exactly three damage each time a firework rocket is used. Elytra can now break when reaching 0 durability. This allows for the elytra broken statistic to increase. This statistic can not normally increase, due to elytra never breaking.
 
-**21w39a - 21w37a**
+**21w39a - 21w37a (Downgrading)**
 - Currently washing a banner in a cauldron cause it to retain the id tag while losing all of the patterns, creating a blank banner with an unnecessary nbt tag. By placing and breaking this banner it will change the tag to be an empty pattern tag. These are two variants of banners that will be discontinued in future versions.
 
 **1.19-Exp 1**
@@ -1047,7 +1047,7 @@
 - If the villager trade rebalance datapack is toggled off, all librarian villagers regardless of biome can sell enchanted books with the new enchantment. These enchantments will not be sold by villagers in future versions, making these discontinued trades.
 - Arrows spawned by the ominous spawners can be normal arrows with potion contents of either poison or slowness IV, both of which are discontinued arrow variants that cannot normally be obtained
 
-**24w13a - 24w11a**
+**24w13a - 24w11a (Downgrading)**
 - Downgrading an enchanted mace and placing it into the bottom slot of a grindstone will transfer any enchantments to a mace placed in the top of the grindstone. This allows for all normal mace enchantments that exist in this version to be applied on a mace without repair cost, as well as conflicting enchantments of smite and bane of arthropods on a mace.
 - Downgrading enchanted books with the Breach, Density, or Wind Burst enchantments will remove these enchantments creating blank enchanted books. This also applies for villagers selling these books, allowing for discontinued trades.
 - Downgrading tipped arrows of Wind Charging, Oozing, Infestation, or Weaving will remove the potion effect, creating uncraftable tipped arrows. This also applies for villagers selling these tipped arrows, allowing for discontinued trades.
@@ -1093,7 +1093,7 @@
 - Unloading smokers, blast furnaces, and furnaces in this version will delete all contents of them, however it will maintain their lit state. This allows for lit furnaces, blast furnaces, and smokers, which are normally unobtainable.
 - Washing out a pale moss carpet with water does not remove the moss carpet that has grown on a wall, allowing for disconnected pale moss carpets on the sides of blocks
 
-**24w45a - 24w46a**
+**24w45a - 24w46a (Upgrading)**
 - By going to snapshot 24w45a and throwing a bow to a Wither Skeleton with PickUpLoot true it will pick it up. Then by updating to 24w46a renaming a Totem of Undying to anything with an anvil and throwing that to the skeleton it will switch to holding that. From there its possible to damage the wither skeleton enough to pop the totem thus creating a Wither Skeleton holding no items
 
 **1.21.2-Prerelease 3**
