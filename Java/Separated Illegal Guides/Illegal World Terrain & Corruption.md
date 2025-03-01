@@ -38,3 +38,6 @@ ________________________________________________________________________________
 > [!Note]
 > Certain multiplayer exclusive chunks can be obtained, however it requires file manipulation. Regions from a newly generated multiplayer world can be copied into the pre-existing world. This would work by taking a region file, changing the numbers to not conflict with previously existing region files, and adding them to the preexisting world.
 - Currently "Sky Dimension" chunks generate in a new multiplayer world. These are large floating islands that generate in the overworld, with large sections of void and no bedrock. There is no way to obtain these chunks in a pre-existing world, however the region files can be moved from a newly generated multiplayer world to the preexisting world by renumbering the newly generated region files
+
+**Beta 1.9 Prerelease 6**
+- The exit portal would generate when the ender dragon is killed but the exit portal would generate where the dragon died and not at 0,0 allowing for the exit end portal in discontinued locations
