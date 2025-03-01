@@ -93,3 +93,10 @@ ________________________________________________________________________________
 > [!Note]
 > This version uses a mod to assign a block id to a cauldron in order to access the original brewing system. The beta 1.9 pre2 cauldron mod can be downloaded from resources. The zip file can then be extracted, and the folder titled "enable" can be zipped. This enabled zip can then be added to a b1.9-pre2 instance in multimc by going to edit instance and add to minecraft.jar. You can find this mod in the "Mods & Extra Files" folder
 - The cauldron currently uses the id of an enchantment table and the block data of a brewing stand. This means that updating out of this version will convert the cauldron to an enchantment table with the block data of a brewing stand
+
+**Beta 1.9 Prerelease 4-1**
+- Placing a support block on a glass block will misplace the support block somewhere where it can be placed, using this method you can place support blocks on chests which can give you unobtainable block formations
+
+**Beta 1.9 Prerelease 6**
+- The exit portal would generate when the ender dragon is killed but the exit portal would generate where the dragon died and not at 0,0 allowing for the exit end portal in discontinued locations
+- Nether Portal can be placed in the end, allowing for nether portals in the end
