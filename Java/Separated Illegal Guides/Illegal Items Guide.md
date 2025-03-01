@@ -33,3 +33,13 @@ ________________________________________________________________________________
 
 **Infdev 20100625-2**
 - Added Spawners which can be mined up by hand and will drop as an item, also Infinite Water Source items would convert to a Spawner as well
+
+**Alpha 1.0.5-2**
+- Snowballs in this version would stack to 64 allowing for overstacked snowballs
+
+**Alpha 1.0.11**
+- Buckets of Milk can be stackable to 64
+
+**Alpha 1.1.1**
+- Fishing Rods would stack to 64 in this version
+- Eggs can stack to 64 in this version
