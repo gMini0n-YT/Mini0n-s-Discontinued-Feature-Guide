@@ -20,3 +20,6 @@ ________________________________________________________________________________
 
 **Infdev 20100625-2**
 - Placing Doors one block under a block will cause the upper half to break the block up above it making it possible for bedrock removal
+
+**Alpha 1.2.6**
+- Lava Lakes are able to cut through bedrock if spawned at the bottom of the world
