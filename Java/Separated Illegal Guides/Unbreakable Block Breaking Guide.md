@@ -23,3 +23,6 @@ ________________________________________________________________________________
 
 **Alpha 1.2.6**
 - Lava Lakes are able to cut through bedrock if spawned at the bottom of the world
+
+**Beta 1.8 Prerelease 1-1**
+- Placing a mushroom on any block and then bonemealing them would grow a big mushroom and replace the block underneath it with dirt making it possible for unbreakable bock removal
