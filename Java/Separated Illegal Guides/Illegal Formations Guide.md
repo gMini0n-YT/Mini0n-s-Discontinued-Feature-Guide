@@ -23,3 +23,6 @@ ________________________________________________________________________________
 
 **Classic 0.0.23a_01**
 - By placing gravity blocks (sand or gravel) above a water source, the gravity block and the water will swap places, allowing for non-updated water sources.
+
+**Indev 20100201-2**
+- Sponges would soak up infinite lava and infinite water allowing for discontinued configurations of the water and lava
