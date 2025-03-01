@@ -57,3 +57,12 @@ ________________________________________________________________________________
 > [!Note]
 > In order to access the winter mode type and obtain snow and ice, the level.dat will have to be regenerated. This will reset the player position and remove all items within the inventory, as well as changing the world seed. This can be done by deleting level.dat and level.dat_old, then going to the "singleplayer" screen, and selecting the world slot that has the same name as the world save folder. This will likely have to be done several times before the winter type is set to 1
 - Snow Layers were added but can only be obtained in the Winter Type Map. Snow Layers would generate on top of all blocks during snowfall which allows for illegal block formations like snow layers on non-full blocks (e.g. stairs and slabs)
+
+**Alpha 1.0.5-2**
+- Added Block Replacement Bypass, this is involves placing a support blocks directly into water, lava, fire, or snow. This allows for many illegal block formations such as floating flowers, floating ladders, quintuple chests
+
+**Alpha 1.0.6**
+- Cactus can be placed on and next to any block allowing for many illegal block formations
+
+**Alpha 1.0.11**
+- Placing a door next to a cactus would create a half door
