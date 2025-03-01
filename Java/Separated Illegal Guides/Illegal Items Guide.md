@@ -427,65 +427,23 @@ ________________________________________________________________________________
 > In order to get librarians trading the new enchanted books, the Villager Trade Rebalance datapack has to be disabled, and to load this world out of the april fools version, both of which can be performed through world save insertion. This requires first removing the world save from the world saves folder. From here, select create world and create a world with the same folder name as the world save. Then select the Datapacks or Experimental option and enable the Update 1.21 and the Bundle datapack, and then toggle the Villager Trade Rebalance datapack to off. Then, while still in the create world screen, drag the world save into the saves folder, and select create world. This forces the world to load without removing the level.dat or level.dat_old files. This same process can be repeated to reenable the Villager Trade Rebalance datapack.
 - Density and breach are not mutually exclusive with each other or with smite or bane of arthropods. In future versions all these enchantments will be mutually exclusive, making enchanted books and maces with these enchantment combinations discontinued enchantment combos.
 - Arrows spawned by the ominous spawners can be normal arrows with potion contents of either poison or slowness IV, both of which are discontinued arrow variants that cannot normally be obtained
-_________________________________________________________________________________________________
+
 **24w13a - 24w11a (Downgrading)**
 - Downgrading an enchanted mace and placing it into the bottom slot of a grindstone will transfer any enchantments to a mace placed in the top of the grindstone. This allows for all normal mace enchantments that exist in this version to be applied on a mace without repair cost, as well as conflicting enchantments of smite and bane of arthropods on a mace.
 - Downgrading enchanted books with the Breach, Density, or Wind Burst enchantments will remove these enchantments creating blank enchanted books. This also applies for villagers selling these books, allowing for discontinued trades.
 - Downgrading tipped arrows of Wind Charging, Oozing, Infestation, or Weaving will remove the potion effect, creating uncraftable tipped arrows. This also applies for villagers selling these tipped arrows, allowing for discontinued trades.
 - Downgrading ominous banners and explorer maps will remove translatable components, creating discontinued variants of these items that lack custom names. This also applies for villagers selling explorer maps, allowing for discontinued trades, and pillager captains holding ominous banners, allowing for entities holding invalid items.
 - Downgrading potions of Wind Charging, Oozing, Infestation, or Weaving will remove the potion effect, creating uncraftable potions
-- Downgrading trial spawners causes all tags except for the spawn potentials tag to be removed, resulting in these spawners lacking several tags. These are discontinued trial spawner variants.
-
-**1.20.5-Prerelease 1**
-- Mobs that wear equipment that spawn from ominous trial spawners can now wear enchanted armor and hold enchanted weapons. The protection types on this armor are not properly mutually exclusive, allowing for mobs wearing invalid protection armor.
 
 **24w18a**
 - Maces can currently have sharpness applied in an anvil, which will not be obtainable in future versions
 - Using any item with both durability and enchanted with fire aspect or soul speed will decrease the durability, but not break the item. This allows for swords, axes, maces, boots, leggings, and any item from 12w49a all with 0 durability.
-- Copper doors and trapdoors can currently be placed in the fuel slot of furnaces, blast furnaces, and smokers. This applies for all variants of waxed and unwaxed copper doors and trapdoors.
-- Fire aspect can currently change the lit state of all blocks, allowing for furnaces, smokers, and blast furnaces all permanately lit, which are normally unobtainable and using this can wear down the durability of a netherite sword down to 0 which is unobtainable
-- Fire aspect can light campfires and candles underwater, allowing for waterlogged lit candles and campfires which are normally unobtainable
-
-**24w19a**
-- Falling blocks can now go through portals. Waterlogged falling blocks can also go through nether portals allowing for water in the nether.
-- Dispensing wolf armor onto villagers allows them to wear the wolf armor, and by having a canpickuploot:1b mob pick up either horse armor or wolf armor, they can also equip it
 
 **24w20a**
 - Depleting a warped fungus on a stick and breaking it causes it to convert to a fishing rod, however it maintains the durability of the warped fungus on a stick. This creates negative durability fishing rods with exactly -36 durability.
-- Wolf armor can be dispensed onto villagers, who will hold the wolf armor. By removing them from the line of sight of a player they will hold this wolf armor, creating a villager holding an invalid item.
-
-**24w33a**
-- Tridents and arrows now get stuck in the world border. These projectiles in the world border will be discontinued in future versions.
-- Bonemealing grass breaks all blocks above it, allowing for bedrock and end portal frame removal
 
 **24w36a**
 - Golden armor has the same durability as iron armor. By damaging this armor past the normal amount for gold, negative durability armor can be obtained. This cannot be combined in future versions to go lower.
-- Mob loot tables are improperly preserved when mobs are converted. This allow several mobs to have invalid loot tables.
-- Mob attributes are improperly preserved when mobs are converted. This allow for villagers, witches, and zombified piglins to have invalid speeds.
-- Curing zombie villagers that have canpickuploot:0b preserves this tag on villagers, allowing for villagers to have canpickuploot:0b. These villagers are observable as they cannot pickup food and thus cannot replant.
-- Villagers wearing armor that get struck by lightning convert to witches that have extra armor protection, but lose their armor, leading to mismatched attributes
-- Horse armor can be combined with other horse armor in a crafting table to repair it, which is normally not possible. This allows for a crafting statistic for diamond, gold, and iron horse armor by repairing them in a crafting table, which is normally not an obtainable statistic.
-- Taking damage while wearing an elytra decreases the durability of the elytra, eventually breaking it and increasing the broken elytra statistic
-
-**24w40a**
-> [!Note]
-> In order to play your world in this version with the Winter Drop experimental features enabled, world save insertion must be used. This requires first removing the world save from the world saves folder. From here, select create world and create a world with the same folder name as the world save. Then select the Datapacks or Experimental option and enable the Minecart Improvements, Redstone Experiments, Villager Trade Rebalance, and the Winter Drop datapack. Then, while still in the create world screen, drag the world save into the saves folder, and select create world. This forces the world to load without removing the level.dat or level.dat_old files.
-- Added the /rotate command which can rotate entities in any direction. This command is currently available in survival, which allows for many entities such as armor stands and boats to be oriented in invalid positions. This command will not be available in survival in future versions.
-- Unloading smokers, blast furnaces, and furnaces in this version will delete all contents of them, however it will maintain their lit state. This allows for lit furnaces, blast furnaces, and smokers, which are normally unobtainable.
-- Washing out a pale moss carpet with water does not remove the moss carpet that has grown on a wall, allowing for disconnected pale moss carpets on the sides of blocks
-
-**24w45a - 24w46a (Upgrading)**
-- By going to snapshot 24w45a and throwing a bow to a Wither Skeleton with PickUpLoot true it will pick it up. Then by updating to 24w46a renaming a Totem of Undying to anything with an anvil and throwing that to the skeleton it will switch to holding that. From there its possible to damage the wither skeleton enough to pop the totem thus creating a Wither Skeleton holding no items
-
-**1.21.2-Prerelease 3**
-- Zombie villagers can be converted to regular villagers while riding a chicken. They will then not dismount the chicken, allowing for a villager riding a chicken, which is not normally obtainable. The villager can be rezombified, also allowing for adult zombie villagers riding chickens. The villager can also now be struck by lightning, allowing for witches riding chickens.
-
-**1.21.4**
-- Dripleafs can be placed on Pale Moss Block
 
 **25w03a**
 - Axolotls picked up in water buckets do not save their variant in the resulting bucket of axolotl. These buckets of axolotl update into later versions where you can only obtain buckets of axolotl with a variant saved. This bucket will always spawn a lucy (pink) axolotl. It is observable because it only has 11 components instead of the normal 12 on a bucket of axolotl.
-
-**25w07a**
-- Leaf Litter can be placed on blocks without a solid top surface (e.g. fences, walls, iron bars, glass panes)
-- Placing Cactus Flower on walls do not create pillars in this version
