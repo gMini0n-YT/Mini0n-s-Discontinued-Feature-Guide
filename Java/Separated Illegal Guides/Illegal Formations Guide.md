@@ -72,3 +72,6 @@ ________________________________________________________________________________
 
 **Alpha 1.2.2**
 - Nether Portals can be summoned by pressing F4 which can be used to get to the Farlands and to create illegal block formations
+
+**Beta 1.4-1** 
+- Locked Chests can generate throughout the world if your computer time is set to April 1st, 2011. You can obtain them from explosions, they will convert to stained glass in the future allowing for several illegal block formations
