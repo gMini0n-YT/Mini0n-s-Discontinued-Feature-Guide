@@ -50,7 +50,7 @@
 - The bottom most layer of the world is made of stone and bedrock allowing for holes within the bedrock
 
 **Infdev 20100625-2**
-- Added Spawners which can be mined up by hand and will drop as an item, also Infinite Water Source items would convert to a Spawnere as well
+- Added Spawners which can be mined up by hand and will drop as an item, also Infinite Water Source items would convert to a Spawner as well
 - Spawners currently have the same block id as signs. If a sign is loaded near a spawner, the spawner will receive sign metadata. Reloading a sign-spawner will crash and potentially soft lock the world in this version. This is fixed in the next version, but the spawner maintains the sign data.
 - Placing Doors one block under a block will cause the upper half to break the block up above it making it possible for bedrock removal
 
