@@ -224,6 +224,7 @@
 
 **1.4.4**
 - Baby mobs can be spawned by using spawn eggs on the parents. So using a wolf spawn egg on an ownerless wolf creates an ownerless baby wolf which will become unobtainable in future versions
+- Support Blocks could be placed on End Portal Frames because they were considered full blocks
 
 **12w49a**
 - Any item can be enchanted using an anvil. This will provide a variety of unobtainable enchanted items
@@ -512,7 +513,6 @@
 - Uncraftable tipped arrows are dropped by strays
 
 **18w06a**
-- Readded /enchant, which is currently possible to use in survival. Enchantment level 0 can be applied on any item that can normally be enchanted using this command, which is normally unobtainable.
 - /Enchant can be used to add enchantments to items that cannot normally have a specific combination of enchantments, for example adding mending to a multiple protection helmet from horsemen
 - Unconnected chorus plants generate in the end islands, which will be discontinued in future versions
 
@@ -669,6 +669,7 @@
 - Ender Dragons can be teleported to the overworld. This is accomplished by placing end stone blocks at certain nodes in the end, freezing the dragon, and then pushing it through an end portal. The ender dragon in the overworld will not be obtainable in future versions.
 - Ender Dragons can be teleported to the overworld. This is accomplished by placing end stone blocks at certain nodes in the end, freezing the dragon, and then pushing it through an end portal. The ender dragon in the overworld will not be obtainable in future versions.
 - By placing a sign and pasting in text over 65,536 characters, the chunk fails to save and regenerates entirely. This allows for many discontinued block configurations. The text can be pasted on if the font size is small, possible by using the small font datapack in resources.
+- Expert level farmer villager will sell Speed Suspicious Stew that would last 8 seconds which is not normally obtainable trade or item
 
 **1.14.1-Prerelease 1**
 - Removing an enchantment from an enchanted book inside of a grindstone removes the enchantment, but maintains a custom name of "enchanted book", however it still loses the repair cost tag. This is an unobtainable variant of named book due to the missing repair cost tag.
@@ -934,7 +935,7 @@
 - The votes to replace any inventory item and replace any crafting output preserves the nbt of the item and transfers it to the new item. Pairing this with the nbt crafting allows for any nbt on any item, technically also allowing for any item through the use of container inventory. This works by getting a replace item to replace a compound tag with a container of some sort, which is incredibly rare when multiplying these odds together. This by extension also allows for no nbt on items that normally would have nbt, such as suspicious stews.
 - Added votes that replace any inventory item, any crafting output, or any loot drop with a random item. These votes, along with the vote that replaces villager emeralds, allow for any item, including normally discontinued items. This includes Budding Amethyst, Infested Deepslate Variants, Command Block Variants, Structure Blocks and Voids, Jigsaws, Spawners, Chorus Flowers, Light Blocks, Bedrock, Player Heads, Farmland, Path Blocks, Petrified Oak Slabs, End Portal Frames, Frogspawn, Reinforced Deepslate, Suspicious Sand & Gravel, Spawn Eggs, Command Block Minecarts, Knowledge Books, and Debug Sticks.
 - Added votes that will give a player a random item and allow a chicken to lay a random item instead of an egg. This allows for any item in the game, including Budding Amethyst, Infested Deepslate Variants, Command Block Variants, Structure Blocks and Voids, Jigsaws, Spawners, Chorus Flowers, Light Blocks, Bedrock, Player Heads, Farmland, Path Blocks, Petrified Oak Slabs, End Portal Frames, Frogspawn, Reinforced Deepslate, Suspicious Sand & Gravel, Spawn Eggs, Command Block Minecarts, Knowledge Books, and Debug Sticks.
-- Added a vote that allows for fishing anything. This includes being able to fish discontinued items, such as Budding Amethyst, Infested Deepslate Variants, Spawners, Chorus Flowers, Bedrock, Player Heads, Farmland, Path Blocks, End Portal Frames, Frogspawn, Reinforced Deepslate, Suspicious Sand & Gravel, Spawn Eggs, Luck Potions and Arrows, and Paintings with Type NBT.
+- Added a vote that allows for fishing anything. This includes being able to fish discontinued items, such as Budding Amethyst, Infested Deepslate Variants, Spawners, Chorus Flowers, Bedrock, Player Heads, Farmland, Path Blocks, End Portal Frames, Frogspawn, Reinforced Deepslate, Suspicious Sand & Gravel, Spawn Eggs, Luck Potions and Arrows, Paintings with Type NBT, and Bucket of Fish without any NBT values
 - Added vote rules to change the generated block from water touching lava or lava touching blue ice to a random block. This allows for normally unobtainable blocks to generate, including Command Block Variants, Structure Blocks and Voids, Jigsaws, Light Blocks, Player Heads, and Petrified Oak Slabs, as well as normally obtainable blocks in unobtainable positions.
 - Added a vote to double or halve the stack size of a random item. This allows for every item to be overstacked to 127, and stacks of 127 of every item in every container
 - Dupe hack items can be crafted with any other item in the crafting table to duplicate the item. This allows for a stack of 2 of any item crafted with the dupe hack, which can then be combined further into larger stacks. This allows for every item to be overstacked to 64.
