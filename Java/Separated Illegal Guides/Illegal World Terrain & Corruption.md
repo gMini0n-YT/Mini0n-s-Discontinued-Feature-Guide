@@ -30,3 +30,6 @@ ________________________________________________________________________________
 
 **Infdev 20100617-2**
 - The bottom most layer of the world is made of stone and bedrock allowing for holes within the bedrock
+
+**Alpha 1.2.6**
+- Lava Lakes are able to cut through bedrock if spawned at the bottom of the world
