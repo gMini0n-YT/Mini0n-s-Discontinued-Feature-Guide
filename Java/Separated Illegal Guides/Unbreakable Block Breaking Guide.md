@@ -14,3 +14,6 @@ ________________________________________________________________________________
 **Mod:** Requires a Mod from "Mods & Extra Files" that can let you either play the version or obtain certain unobtainables
 <br>
 _____________________________________________________________________________________________________________________________________
+
+**Infdev 20100625-2**
+- Placing Doors one block under a block will cause the upper half to break the block up above it making it possible for bedrock removal
