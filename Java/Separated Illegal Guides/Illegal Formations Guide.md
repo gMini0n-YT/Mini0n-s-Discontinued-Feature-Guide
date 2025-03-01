@@ -66,3 +66,6 @@ ________________________________________________________________________________
 
 **Alpha 1.0.11**
 - Placing a door next to a cactus would create a half door
+
+**Alpha 1.2.0**
+- Lava only flows 4 blocks in the nether
