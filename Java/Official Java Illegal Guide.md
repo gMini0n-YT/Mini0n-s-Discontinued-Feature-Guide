@@ -72,9 +72,11 @@
 
 **Alpha 1.0.11**
 - Placing a door next to a cactus would create a half door
+- Buckets of Milk can be stackable to 64
 
 **Alpha 1.1.1**
 - Fishing Rods would stack to 64 in this version
+- Eggs can stack to 64 in this version
 
 **Alpha 1.2.0**
 - Zombie Pigmen and skeletons appear to hold their weapons but it is all visual, updating these two mobs past 1.3 will turn them into weaponless weaponless mobs
@@ -1053,7 +1055,7 @@
 - Maces can currently have sharpness applied in an anvil, which will not be obtainable in future versions
 - Using any item with both durability and enchanted with fire aspect or soul speed will decrease the durability, but not break the item. This allows for swords, axes, maces, boots, leggings, and any item from 12w49a all with 0 durability.
 - Copper doors and trapdoors can currently be placed in the fuel slot of furnaces, blast furnaces, and smokers. This applies for all variants of waxed and unwaxed copper doors and trapdoors.
-- Fire aspect can currently change the lit state of all blocks, allowing for furnaces, smokers, and blast furnaces all permanately lit, which are normally unobtainable
+- Fire aspect can currently change the lit state of all blocks, allowing for furnaces, smokers, and blast furnaces all permanately lit, which are normally unobtainable and using this can wear down the durability of a netherite sword down to 0 which is unobtainable
 - Fire aspect can light campfires and candles underwater, allowing for waterlogged lit candles and campfires which are normally unobtainable
 
 **24w19a**
@@ -1084,5 +1086,18 @@
 - Unloading smokers, blast furnaces, and furnaces in this version will delete all contents of them, however it will maintain their lit state. This allows for lit furnaces, blast furnaces, and smokers, which are normally unobtainable.
 - Washing out a pale moss carpet with water does not remove the moss carpet that has grown on a wall, allowing for disconnected pale moss carpets on the sides of blocks
 
+**24w45a - 24w46a**
+- By going to snapshot 24w45a and throwing a bow to a Wither Skeleton with PickUpLoot true it will pick it up. Then by updating to 24w46a renaming a Totem of Undying to anything with an anvil and throwing that to the skeleton it will switch to holding that. From there its possible to damage the wither skeleton enough to pop the totem thus creating a Wither Skeleton holding no items
+
 **1.21.2-Prerelease 3**
 - Zombie villagers can be converted to regular villagers while riding a chicken. They will then not dismount the chicken, allowing for a villager riding a chicken, which is not normally obtainable. The villager can be rezombified, also allowing for adult zombie villagers riding chickens. The villager can also now be struck by lightning, allowing for witches riding chickens.
+
+**1.21.4**
+- Dripleafs can be placed on Pale Moss Block
+
+**25w03a**
+- Axolotls picked up in water buckets do not save their variant in the resulting bucket of axolotl. These buckets of axolotl update into later versions where you can only obtain buckets of axolotl with a variant saved. This bucket will always spawn a lucy (pink) axolotl. It is observable because it only has 11 components instead of the normal 12 on a bucket of axolotl.
+
+**25w07a**
+- Leaf Litter can be placed on blocks without a solid top surface (e.g. fences, walls, iron bars, glass panes)
+- Placing Cactus Flower on walls do not create pillars in this version
