@@ -32,3 +32,6 @@ ________________________________________________________________________________
 
 **Indev 20100209**
 -  Any item can be placed in the furnace fuel and output slot
+
+**Infdev 20100607**
+- Top Half Doors can be created by placing two signs and placing a door on top
