@@ -21,3 +21,6 @@ ________________________________________________________________________________
 **Beta 1.6-tb3**
 - Entering a Nether Portal while in the crafting grid will cause all items in the crafting grid to get thrown out and become 0 stacked items, 0 stack items can be subtracted to become negative stack items by Q-ing them and can be overflowed to become overstacked items
 - Update Suppresion now works by using budding redstone updates, you can find the world download in the "Mods & Extra Files" Folder for the Update Suppresor Model for this version
+
+**11w49a**
+- Pressing B changes the clientside gamemode to creative. This allows for Bedrock, Sponge, Chainmail Armor, Ice, and Creeper, Skeleton, Spider, Zombie, Slime, Ghast, Pig Zombie, Enderman, Cave Spider, Silverfish, Blaze, Magma Cube, Pig, Sheep, Cow, Chicken, Squid, Wolf, Mooshroom, and Villager Spawn Eggs. This also allows for easy bedrock removal.
