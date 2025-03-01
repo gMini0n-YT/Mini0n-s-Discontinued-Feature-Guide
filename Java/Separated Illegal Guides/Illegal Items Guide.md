@@ -60,3 +60,8 @@ ________________________________________________________________________________
 
 **Beta 1.8 Prerelease 1-1**
 - Enderpearls can stack up to 64 in this version allowing for overstacked enderpearls
+
+**Beta 1.9 Prerelease 2 (MOD)**
+> [!Note]
+> This version uses a mod to assign a block id to a cauldron in order to access the original brewing system. The beta 1.9 pre2 cauldron mod can be downloaded from resources. The zip file can then be extracted, and the folder titled "enable" can be zipped. This enabled zip can then be added to a b1.9-pre2 instance in multimc by going to edit instance and add to minecraft.jar. You can find this mod in the "Mods & Extra Files" folder
+- Potions can be brewed by adding an assortment of ingredients to a cauldron. A total of 5,339 potion variations are possible using this method, most of which provide discontinued status effects and create invalid data value potions. A potion calculator is included on the resource sheet to explain the brewing process in more detail. 
