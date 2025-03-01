@@ -707,6 +707,7 @@
 **20w10a**
 - Added Crimson and Warped Stripped and Regular Hyphae Blocks, which are obtainable through crafting. These blocks can be used as furnace fuel, which will not be obtainable in future versions.
 - If a creeper is duplicated, and then one duplicate is stored and another is exploded adjacent to a fireball, the owner of the fireball will change to be that of the creeper. The fireball can be made stationary by pushing it with a piston into a cobweb in order to preserve it.
+- Walls do not connect to Soul Sand in this version
 
 **20w11a**
 - Enchanting boots with soul speed and running on soul soil will cause durability to decrease on the boots. There is no check, allowing for negative durability boots, which are normally not obtainable.
