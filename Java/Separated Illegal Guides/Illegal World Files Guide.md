@@ -22,3 +22,6 @@ ________________________________________________________________________________
 
 **Beta 1.2_02-launcher**
 - This is the last version that uses the Alpha file format. Since the Alpha File Format from the original world has already been converted, updating to this version will regenerate an entirely new world with the Alpha File Format. This allows for numerous folders in both the world save folder and the DIM-1 folder, that are titled with numbers and letters, which contain subfolders titled with numbers and letters, that contain .dat files, since this is how the Alpha File Format worked. There are hundreds of discontinued folders possible. 	
+
+**Beta 1.3.2**
+- World names can contain the section symbol § and will format the name which will become unobtainable in later versions.
