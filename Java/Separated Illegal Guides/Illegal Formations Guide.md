@@ -26,3 +26,9 @@ ________________________________________________________________________________
 
 **Indev 20100201-2**
 - Sponges would soak up infinite lava and infinite water allowing for discontinued configurations of the water and lava
+
+**Indev 20100206-2**
+- Tilling Dirt underneath a block and then placing seeds on the farmland will remove the block above making it possible for bedrock removal
+
+**Indev 20100209**
+-  Any item can be placed in the furnace fuel and output slot
