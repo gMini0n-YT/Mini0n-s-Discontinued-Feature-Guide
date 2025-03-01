@@ -75,3 +75,13 @@ ________________________________________________________________________________
 
 **Beta 1.4-1** 
 - Locked Chests can generate throughout the world if your computer time is set to April 1st, 2011. You can obtain them from explosions, they will convert to stained glass in the future allowing for several illegal block formations
+
+**Beta 1.6-tb3**
+- Melting Ice in the nether won't dissolve the water making it possible to have water in the nether
+- Update Suppresion now works by using budding redstone updates, you can find the world download in the "Mods & Extra Files" Folder for the Update Suppresor Model for this version
+
+**Beta 1.7**
+- Block Transmutation can work by building a piston and water based contraption
+
+**Beta 1.7.2**
+- Block Transmutation can work by updating a budded piston at the same time another piston pushes a block merging the blocks
