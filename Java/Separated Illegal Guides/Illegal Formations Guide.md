@@ -85,3 +85,6 @@ ________________________________________________________________________________
 
 **Beta 1.7.2**
 - Block Transmutation can work by updating a budded piston at the same time another piston pushes a block merging the blocks
+
+**Beta 1.8 Prerelease 1-1**
+- Updating a furnace into a lit furnace which will update a piston and then pushing the furnace will displace it's block entity. This allows for furnace block entity in any block in the game that normally has a block entity
