@@ -26,3 +26,6 @@ ________________________________________________________________________________
 
 **Beta 1.8 Prerelease 1-1**
 - Placing a mushroom on any block and then bonemealing them would grow a big mushroom and replace the block underneath it with dirt making it possible for unbreakable bock removal
+
+**11w49a**
+- Pressing B changes the clientside gamemode to creative. This allows for Bedrock, Sponge, Chainmail Armor, Ice, and Creeper, Skeleton, Spider, Zombie, Slime, Ghast, Pig Zombie, Enderman, Cave Spider, Silverfish, Blaze, Magma Cube, Pig, Sheep, Cow, Chicken, Squid, Wolf, Mooshroom, and Villager Spawn Eggs. This also allows for easy bedrock removal.
