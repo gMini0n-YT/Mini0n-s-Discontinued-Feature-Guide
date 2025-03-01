@@ -14,3 +14,6 @@ ________________________________________________________________________________
 **Mod:** Requires a Mod from "Mods & Extra Files" that can let you either play the version or obtain certain unobtainables
 <br>
 _____________________________________________________________________________________________________________________________________
+
+**Alpha 1.2.0**
+- Zombie Pigmen and skeletons appear to hold their weapons but it is all visual, updating these two mobs past 1.3 will turn them into weaponless weaponless mobs
