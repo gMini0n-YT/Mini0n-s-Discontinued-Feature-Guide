@@ -30,3 +30,6 @@ ________________________________________________________________________________
 > This version requires the Infdev 20100316 saving mod to save and quit the game you can find it in the Links folder
 > Opening Chests in this version would crash the game
 - The Player would spawn with 999 stacks of axes, shovels, pickaxes, torches, flint and steel, oak planks, glass blocks, and arrows every time you load the world. These are technically -25 stacks which is obtainable, but because of the Chest crash they can not be moved to chests in this version.
+
+**Infdev 20100625-2**
+- Added Spawners which can be mined up by hand and will drop as an item, also Infinite Water Source items would convert to a Spawner as well
