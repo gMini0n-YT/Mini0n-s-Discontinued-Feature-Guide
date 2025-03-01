@@ -15,5 +15,8 @@ ________________________________________________________________________________
 <br>
 _____________________________________________________________________________________________________________________________________
 
+**Indev 20100206-2**
+- Tilling Dirt underneath a block and then placing seeds on the farmland will remove the block above making it possible for bedrock removal
+
 **Infdev 20100625-2**
 - Placing Doors one block under a block will cause the upper half to break the block up above it making it possible for bedrock removal
