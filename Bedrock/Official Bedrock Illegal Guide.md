@@ -545,6 +545,9 @@ ________________________________________________________________________________
 - Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
 - Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE
 - Leashes can be connected to the Middle Block of three walls
+- Placing Torchflower seeds and bonemealing them once on farmland and then quickly break and replace the farmland with any block and then bonemealing the torchflower to its final stage will remove its pending ticks causing it to be placed on any block
+- Floating Wind Charges can be created using this setup https://www.youtube.com/shorts/gcm_0NAtwtE
+- Spawning a Creaking via its heart and name tagging it so it won't despawn, and then taking it about 400 blocks away from its heart will cause it to be out of range of the heart. Now to keep it from dying you must go back to the Creaking Heart during the day and wait till nighttime and relog, a creaking should spawn from the heart and you can then break the heart without the creaking disappearing
 
 **Preview 1.21.70.22**
 - The Invincible Mobs from 1.17.0 have been removed entirely but if you obtain an Invincible Axolotl in a bucket they will turn into a Disappearing Axolotl in a Bucket. Warning don't place it down because it will immediately disappear
