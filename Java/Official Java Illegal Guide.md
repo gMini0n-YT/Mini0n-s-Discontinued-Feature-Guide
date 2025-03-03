@@ -405,6 +405,7 @@ ________________________________________________________________________________
 
 **15w35a**
 - Zombies and Zombie Pigmen spawn in this version with noAI. This allows for various NoAI mobs including Villagers and Drowneds
+- From 15w34a (1.9 snapshot) to 1.12.1[1], and 1.13 to 1.13.2[2], being inside of a nether portal and throwing an ender pearl will multiply the player's coordinates by ⅛ if performed in the Overworld, or 8 if performed in the Nether. This can be done to easily reach the world border. This is safest to perform on the nether roof, because the player can be spawned inside of a wall if performed below the roof, or take a dip into a lava lake. The same may happen in the overworld, but performing the warp at a Y level higher than most terrain (y=100 typically is sufficient) will cause the pearl to simply fall to the surface, allowing for safe teleportation
 
 **15w35d**
 - By placing 256 block states in a single chunk, the chunk can corrupt and potentially replace random blocks, potentially allowing for various discontinued blocks
