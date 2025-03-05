@@ -126,6 +126,11 @@ ________________________________________________________________________________
 - Currently, a level.dat and level.dat_old file generate, however they have the name special_level.dat and special_level.dat_old. These are both normally unobtainable files.
 - Added the /debugdim command. This command can be used in survival, and creates debug files for whichever dimension you are in. This allows for a large assortment of discontinued files within the world save.
 
+**21w05b (Datapack)**
+> [!Note]
+> This version requires the same Caves & Cliffs Datapack from the previous version, meaning no file editing is required if updating from the previous version
+- The world height is now increased to 320, and extends below to -64. Any new chunks generated in this version with the datapack will have solid stone generate underneath all chunks extending down from Y0 to Y-64, with no bedrock.
+
 **21w19a**
 sed to overfill a chunk and perform both chunk savestating and chunk regeneration, which will be further utilized in later versions.
 - Obtaining a large bundle and attempting to save, and crashing the game at a precise time during this save can create a level#############.dat file, which is a file discontinued feature will not be obtainable in future versions. Similarly, by performing this crash while attempting to save a chunk containing more data than allocated ram, a tmp###################.tmp can be created in the region folder, which is another file discontinued feature that will not be obtainable in future versions.
