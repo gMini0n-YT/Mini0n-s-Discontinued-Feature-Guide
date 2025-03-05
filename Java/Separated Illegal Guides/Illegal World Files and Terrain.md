@@ -113,6 +113,9 @@ ________________________________________________________________________________
 **1.12 Prerelease 1**
 - Added a function system. This causes an empty folder named functions to generate in the data folder, which is unobtainable in future versions.
 
+**18w08a**
+- The deep warm ocean biome will be temporarily discontinued in future versions. Ocean monuments can currently generate in a deep warm ocean biome, which in future versions will convert to a warm ocean biome. An ocean monument in a warm ocean biome is normally unobtainable, making this a discontinued feature.
+
 **19w36a**
 - This version introduced new gamerules. These included drowningDamage, fallDamage, fireDamage, and doInsomnia. These rules are normally defaulted to true, however updating your world to this version causes them to be set to false, which allows for 4 discontinued gamestates. These cause the player to take no drowning, fire, or fall damage. This also prevents phantoms from spawning, causing phantoms to become a discontinued feature. Phantom membranes are still obtainable through cats.
 
