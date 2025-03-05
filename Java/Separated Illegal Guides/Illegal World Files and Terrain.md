@@ -15,6 +15,26 @@ ________________________________________________________________________________
 <br>
 _____________________________________________________________________________________________________________________________________
 
+
+**Infdev 20100316**
+> [!Caution]
+> This version requires the Infdev 20100316 saving mod to save and quit the game you can find it in the Links folder
+> Opening Chests in this version would crash the game
+- The Farlands would generate except they are extremely far out, they are a flat wall and they are unreachable by normal means
+- Brick Pyramids would spawn throughout the world, making it the only method of obtaining bricks, download the file in the "Mods & Extra Files" folder to help you find brick pyramids
+
+**Infdev 20100611**
+- Monoliths would generate in flat terrain and they would spawn without bedrock underneath allowing for illegal terrain generation. You can use the Monolith Finder in the "Links" folder
+
+**Infdev 20100616-1**
+- Holes in the Bedrock can generate when lava pools generate at the bottom of the world
+
+**Infdev 20100617-2**
+- The bottom most layer of the world is made of stone and bedrock allowing for holes within the bedrock
+
+**Alpha 1.2.6**
+- Lava Lakes are able to cut through bedrock if spawned at the bottom of the world
+
 **Beta 1.3.2 - Infdev 20100624**
 > [!Note]
 > In order to access this version, the world save folder will have to be named as World[1-5]. During this downgrade, the level.dat and level.dat_old should be removed temporarily. A world without a level.dat can be accessed by selecting the respective slot when going to the singleplayer screen. The level.dat and level.dat_old will have to be restored when updating back to b1.3-2 in order to preserve the Alpha File Format folders of the next version. No chunks, entities, or placed blocks will be affected during this downgrade.	
@@ -26,12 +46,21 @@ ________________________________________________________________________________
 **Beta 1.3.2**
 - World names can contain the section symbol § and will format the name which will become unobtainable in later versions.
 
+**Beta 1.9 Prerelease 3-1**
+> [!Note]
+> Certain multiplayer exclusive chunks can be obtained, however it requires file manipulation. Regions from a newly generated multiplayer world can be copied into the pre-existing world. This would work by taking a region file, changing the numbers to not conflict with previously existing region files, and adding them to the preexisting world.
+- Currently "Sky Dimension" chunks generate in a new multiplayer world. These are large floating islands that generate in the overworld, with large sections of void and no bedrock. There is no way to obtain these chunks in a pre-existing world, however the region files can be moved from a newly generated multiplayer world to the preexisting world by renumbering the newly generated region files
+
+**Beta 1.9 Prerelease 6**
+- The exit portal would generate when the ender dragon is killed but the exit portal would generate where the dragon died and not at 0,0 allowing for the exit end portal in discontinued locations
 
 **1.1**
 - The unicode delete character [] can be typed into a world name by pressing ctrl + backspace. This is the only version where a world can be named with both the delete character [] and the section symbol [§], making this the ideal version to name your world.
 
 **12w07a**
-- The file format is now Anvil instead of MCRegion. This converts all .mcr files to .mca, however the .mcr files are maintained within the world save folder for all three dimensions. Additionally, a level.dat backup is taken named level.dat_mcr. These are all discontinued files.
+- The file format is now Anvil instead of MCRegion. This converts all .mcr files to .mca, however the .mcr files are maintained within the world save folder for all three dimensions. Additionally, a level.dat backup is taken named level.dat_mcr. These are all discontinued files
+- The End in this version does not generate with any main end island it is just you and the void. Additionally when you kill the ender dragon the exit portal will spawn where the dragon died instead of at 0.0
+
 
 **0.982 Classroom (EDU)**
 - A file called EduWorldSettings.ini is generated within the world save. A folder called MCEdu is created within the world save, which includes a file named signLocations_en.ini and a file named tips_en.txt. Within the MCEdu folder a file called infoLocations_en.ini is created when an information block is placed and the game is saved. The teleportLocations_en.ini, teleportLocations.ini, and allowedteleports.ini files are created when a station block is placed and the game is saved. These files and folders are exclusive to Edu versions, and will be discontinued in future versions. 
