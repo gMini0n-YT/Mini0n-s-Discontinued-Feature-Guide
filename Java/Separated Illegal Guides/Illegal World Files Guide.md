@@ -32,3 +32,80 @@ ________________________________________________________________________________
 
 **12w07a**
 - The file format is now Anvil instead of MCRegion. This converts all .mcr files to .mca, however the .mcr files are maintained within the world save folder for all three dimensions. Additionally, a level.dat backup is taken named level.dat_mcr. These are all discontinued files.
+
+**0.982 Classroom (EDU)**
+- A file called EduWorldSettings.ini is generated within the world save. A folder called MCEdu is created within the world save, which includes a file named signLocations_en.ini and a file named tips_en.txt. Within the MCEdu folder a file called infoLocations_en.ini is created when an information block is placed and the game is saved. The teleportLocations_en.ini, teleportLocations.ini, and allowedteleports.ini files are created when a station block is placed and the game is saved. These files and folders are exclusive to Edu versions, and will be discontinued in future versions. 
+- Player data is saved in the players folder under username.dat. Additionally, server.log and server.log.lck are created within the world folder. The server log contains the entire chat output. These files are multiplayer exclusive, and will become discontinued in future versions.
+
+**0.984 Classroom (EDU)**
+- A file called EduWorldSettings.ini is generated within the world save. A folder called MCEdu is created within the world save, which includes several files that are gnenerated when the server is launched. These files and folders are exclusive to Edu versions, and will be discontinued in future versions.
+
+**12w32a-2**
+- Within the data folder, the villages.dat file now generates. This file tracks player made villages, and will become discontinued in future versions
+
+**1.6.3-1**
+- Bounding boxes now save with the world. In order for current structures (witch huts, nether fortresses, etc.) to be saved to the world file, the player must load the appropriate chunks within the game manually. After this is completed, structures will be compatible in all snapshots starting with snapshot. All these bounding boxes will not be obtainable in their current locations in future versions.
+- These bounding boxes are stored in structure files, which are generated when the respective structure is loaded. These files are Village.dat, Fortress.dat, Temple.dat, Mineshaft.dat, and Stronghold.dat. All of these files will be discontinued in a future version.
+
+**1.6.4 Build 1 Classroom-1 (EDU)**
+- A file called forcedchunks.dat generates within the world save folder, which will become unobtainable in non edu versions
+
+**13w37b**
+- Bounding boxes now save with the world. In order for current structures (witch huts, nether fortresses, etc.) to be saved to the world file, the player must load the appropriate chunks within the game manually. After this is completed, structures will be compatible in all snapshots starting with snapshot. All these bounding boxes will not be obtainable in their current locations in future versions.
+- These bounding boxes are stored in structure files, which are generated when the respective structure is loaded. These files are Village.dat, Fortress.dat, Temple.dat, Mineshaft.dat, and Stronghold.dat. All of these files will be discontinued in a future version.
+
+**1.7.10 Build 1 Classroom-1 (EDU)**
+- Player data is saved in the playerdata folder under username.dat. This will become unobtainable in future versions as it is stored as a UUID instead of a username. Additionally, since you are logging in in offline mode, the UUID for the statistics is different, allowing for multiple statistic files in a singleplayer world.
+
+**1.7.10 Build 20 Classroom-1 (EDU)**
+- The computer process allows for the writing of external files, meaning essentially any file can be created within the world save, all of which would be discontinued. Upon world save the computer folder is generated, which is a discontinued folder.
+
+**14w02a**
+- Currently the files village_nether.dat and villages_end.dat generate in the data folder. These are discontinued files.
+- Data is again stored by username instead of UUID. This allows for a statistic file with the players username that will not convert to a UUID. This also means that statistics will not be accurately tracked during this version. This occurs because the change to UUID was based on real world time instead of version ordering. 
+
+**1.8.9 Build 3 Classroom (EDU)**
+- Player data is saved in the playerdata folder under username.dat. This will become unobtainable in future versions as it is stored as a UUID instead of a username. Additionally, since you are logging in in offline mode, the UUID for the statistics is different, allowing for multiple statistic files in a singleplayer world.
+- Files called EduWorldSettings.ini, EduMapSettings.ini, and forcedchunks.dat generate within the world save. A folder called MCEdu is created within the world save, which includes several files that are gnenerated when the server is launched. Another folder called region_eduf1_backup is created upon world save, and contains a copy of the region files. These files and folders are exclusive to Edu versions, and will be discontinued in future versions.
+- The computer process allows for the writing of external files, meaning essentially any file can be created within the world save, all of which would be discontinued. Upon world save the computer folder is generated, which is a discontinued folder.
+
+**16w39a**
+- The file Mansion.dat now generates in the data folder, which will be unobtainable in future versions
+
+**1.11.2 (MOD)**
+> [!Note]
+> This version uses Forge 1.13.20.2235 for version 1.11.2. This version can be downloaded from the forge link in "Links", and added to the official minecraft launcher, or it can be added directly from multimc. Adding to multimc requires creating a 1.11.2 instance, then going to edit instance, then install forge, then scrolling down to the correct version of forge and selecting it.
+- Shulkers can be put into other shulkers by using a hopper. This only works due to the forge version that is being used. Nested shulkers are normally unobtainable.
+- The capabilites.dat file generates in the data folder, and the forcedchunks.dat file generates in the world save folder and the two DIM folders. These are all discontinued files exclusive to the mod used.
+
+**17w13a-1**
+- Added Advancements to replace Acheivements. Support for custom advancements was added, meaning an empty folder called Advancements is generated in the data folder. This folder is unobtainable in future versions.
+
+**1.12 Prerelease 1**
+- Added a function system. This causes an empty folder named functions to generate in the data folder, which is unobtainable in future versions.
+
+**19w36a**
+- This version introduced new gamerules. These included drowningDamage, fallDamage, fireDamage, and doInsomnia. These rules are normally defaulted to true, however updating your world to this version causes them to be set to false, which allows for 4 discontinued gamestates. These cause the player to take no drowning, fire, or fall damage. This also prevents phantoms from spawning, causing phantoms to become a discontinued feature. Phantom membranes are still obtainable through cats.
+
+**20w14∞**
+> [!Note]
+> In order to play your world in this version, world save insertion must be used. This requires first removing the world save from the world saves folder. From here, select create world and create a world with the same folder name as the world save. Then, while still in the create world screen, drag the world save into the saves folder, and select create world. This forces the world to load without removing the level.dat or level.dat_old files.
+- Each dimension has it's own DIM folder, all of which are normally unobtainable. This allows for theoretically over 2 billion discontinued folders.
+- Currently, a level.dat and level.dat_old file generate, however they have the name special_level.dat and special_level.dat_old. These are both normally unobtainable files.
+- Added the /debugdim command. This command can be used in survival, and creates debug files for whichever dimension you are in. This allows for a large assortment of discontinued files within the world save.
+
+**21w19a**
+sed to overfill a chunk and perform both chunk savestating and chunk regeneration, which will be further utilized in later versions.
+- Obtaining a large bundle and attempting to save, and crashing the game at a precise time during this save can create a level#############.dat file, which is a file discontinued feature will not be obtainable in future versions. Similarly, by performing this crash while attempting to save a chunk containing more data than allocated ram, a tmp###################.tmp can be created in the region folder, which is another file discontinued feature that will not be obtainable in future versions.
+
+**22w17a**
+- The player receives a new uuid in this version, allowing for pets to have an invalid owner id, and for multiple statistic and advancement files
+
+**23w13a_or_b**
+- Votes are stored in the world file in a vote.json file, as well as generating a backup file of vote.json_old. Both of these are discontinued world files.
+- The moon dimension generates in a dimensions folder. The dimensions folder does not normally generate in the world folder, allowing for several discontinued folders and files.
+
+**24w14potato-1**
+> [!Note]
+> In order to play your world in this version world save insertion must be used. This requires first removing the world save from the world saves folder. From here, select create world and create a world with the same folder name as the world save. Then select the Datapacks or Experimental option and enable the Update 1.21, Villager Trade Rebalance, and the Bundle datapack. Then, while still in the create world screen, drag the world save into the saves folder, and select create world. This forces the world to load without removing the level.dat or level.dat_old files.
+- The potato dimension generates in a dimensions folder. The dimensions folder does not normally generate in the world folder, allowing for several discontinued folders and files.
