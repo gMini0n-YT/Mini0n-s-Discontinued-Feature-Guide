@@ -162,5 +162,5 @@ ________________________________________________________________________________
 - Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
 - Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE
 
-**1.21.70.25**
+**Preview 1.21.70.25**
 - Shulker Bullets in this version conflict Levitation that lasts 200 seconds instead of 10, using this idea you can let the shulker bullet hit a fish and scoop it up allowing for a fish with 200 seconds of levitation that will be saved. 
