@@ -4,4 +4,5 @@
 - Block 36 Merge Transmutation: https://www.youtube.com/watch?v=7Lb0MgAZZIc
 - Tripwire Block Transmutation: https://www.youtube.com/watch?v=claRxyHoylc
 - Cross World Commands Tutorial: https://www.youtube.com/watch?v=Qe3cFqpA-78&list=PLO8ujWDupWbSW22fNvc4Jblma6m4xSBgw&index=1
-- Boat Teleportation Fast Travel Method: https://www.youtube.com/watch?v=1ZbaoEjiZtM&list=PLO8ujWDupWbSW22fNvc4Jblma6m4xSBgw&index=7 
+- Boat Teleportation Fast Travel Method: https://www.youtube.com/watch?v=1ZbaoEjiZtM&list=PLO8ujWDupWbSW22fNvc4Jblma6m4xSBgw&index=7
+- Parallel Asynchronus Threads (Any Falling Block): https://www.youtube.com/playlist?list=PL8r-bvM9ltXOCEQMW_WTvQWUfmwVl528h
