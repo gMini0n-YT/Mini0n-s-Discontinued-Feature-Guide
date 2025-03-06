@@ -1090,6 +1090,7 @@ ________________________________________________________________________________
 **24w33a**
 - Tridents and arrows now get stuck in the world border. These projectiles in the world border will be discontinued in future versions.
 - Bonemealing grass breaks all blocks above it, allowing for bedrock and end portal frame removal
+- Scooping up a Bucket of Salmon will not store it's size nbt tag
 
 **24w36a**
 - Golden armor has the same durability as iron armor. By damaging this armor past the normal amount for gold, negative durability armor can be obtained. This cannot be combined in future versions to go lower.
