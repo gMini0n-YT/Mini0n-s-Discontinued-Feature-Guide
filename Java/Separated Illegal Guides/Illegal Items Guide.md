@@ -442,6 +442,9 @@ ________________________________________________________________________________
 **24w20a**
 - Depleting a warped fungus on a stick and breaking it causes it to convert to a fishing rod, however it maintains the durability of the warped fungus on a stick. This creates negative durability fishing rods with exactly -36 durability.
 
+**24w33a**
+- Scooping up a Bucket of Salmon will not store it's size nbt tag
+
 **24w36a**
 - Golden armor has the same durability as iron armor. By damaging this armor past the normal amount for gold, negative durability armor can be obtained. This cannot be combined in future versions to go lower.
 
