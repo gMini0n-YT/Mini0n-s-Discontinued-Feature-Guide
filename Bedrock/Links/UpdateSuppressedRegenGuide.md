@@ -8,8 +8,6 @@ Working Pale Garden Preview Versions: 1.21.50.20 - 1.21.50.24
 1. Empty out a subchunk at the bottom of the world (requires the breaking of bedrock),
 2. Leave placeholder block in the subchunk to prevent it from reverting to the previous save,
 3. Build an update suppressor in the the same chunk but not the same subchunk (ideally above the empty chunk for regen),
-   - Method for update suppression could vary but the most reliable design can be found in this video:
-     > [URL]
 4. Prebuild any illegal block formation you want,
    - For example: Place sea pickles onto a valid block such as dirt.
    NOTE: Do not use any blocks that could trigger a random update after the regen!
