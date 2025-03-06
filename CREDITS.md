@@ -1,7 +1,7 @@
 # Credits
 <br>
 
-# All Round
+# All Versions
 ***gMini0n:*** https://www.youtube.com/channel/UCBVChlletbw_BV8bTlyT2vQ
 <br>
 
