@@ -1096,6 +1096,7 @@ ________________________________________________________________________________
 - Mob loot tables are improperly preserved when mobs are converted. This allow several mobs to have invalid loot tables.
 - Mob attributes are improperly preserved when mobs are converted. This allow for villagers, witches, and zombified piglins to have invalid speeds.
 - Curing zombie villagers that have canpickuploot:0b preserves this tag on villagers, allowing for villagers to have canpickuploot:0b. These villagers are observable as they cannot pickup food and thus cannot replant.
+- Leashing a pig and letting it get struck by lightning will convert to a Zombie Pigman with a leash on it.
 - Villagers wearing armor that get struck by lightning convert to witches that have extra armor protection, but lose their armor, leading to mismatched attributes
 - Horse armor can be combined with other horse armor in a crafting table to repair it, which is normally not possible. This allows for a crafting statistic for diamond, gold, and iron horse armor by repairing them in a crafting table, which is normally not an obtainable statistic.
 - Taking damage while wearing an elytra decreases the durability of the elytra, eventually breaking it and increasing the broken elytra statistic
