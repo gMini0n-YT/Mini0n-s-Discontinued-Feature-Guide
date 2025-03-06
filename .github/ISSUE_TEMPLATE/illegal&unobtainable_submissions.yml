@@ -7,12 +7,12 @@ body:
   - type: textarea
     attributes:
       label: Media
-        description: Submit a Picture of the illegal/unobtainable in the version
+      description: Submit a Picture of the illegal/unobtainable in the version
 
   - type: textarea
     attributes:
       label: What is the Unobtainable
-        description: Give an explanation of what this illegal is
+      description: Give an explanation of what this illegal is
   
   - type: textarea
     attributes:
