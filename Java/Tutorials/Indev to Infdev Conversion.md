@@ -1,4 +1,4 @@
-**Indev to Infdev Conversion Tutorial**
+# Indev to Infdev Conversion Tutorial
 
 1. Put all of your inventory contents into a container before doing this process
 2. Download MCEdit Testing 288 from the "Mods & Extra Files" folder.
