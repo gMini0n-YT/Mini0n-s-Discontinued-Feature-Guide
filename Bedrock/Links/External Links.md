@@ -1,4 +1,4 @@
-**EXTERNAL LINKS**
+# EXTERNAL LINKS
 
 - CSC Research: https://docs.google.com/spreadsheets/d/1kHdwFMY0aLSELdt6vEQ3p2LySG4ivMbEJv6oP-MihZI/edit?gid=0#gid=0
 - gMini0n YT (Tutorials): https://www.youtube.com/channel/UCBVChlletbw_BV8bTlyT2vQ
