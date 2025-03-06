@@ -13,6 +13,8 @@ body:
     attributes:
       label: What is the Unobtainable
       description: Give an explanation of what this illegal is
+    validations:
+      required: true
   
   - type: textarea
     attributes:
