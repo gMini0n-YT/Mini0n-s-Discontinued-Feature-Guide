@@ -2,7 +2,7 @@
 <br>
 
 # All Round
-***gMini0n:*** https://www.youtube.com/channel/UCBVChlletbw_BV8bTlyT2vQ
+**gMini0n:** https://www.youtube.com/channel/UCBVChlletbw_BV8bTlyT2vQ
 <br>
 
 ***sl1mJ1m (Sl1m's Optimal Every Platform Timeline (Of Doom), Big Java Help, Structure Basis  & Encouragement to creating the Java Side of the Illegal Guide):*** https://docs.google.com/spreadsheets/d/1CSOCSplHsTL3UNSQjHlDOFAafSYnekjqi7Djg5PFSME/edit?gid=787492864#gid=787492864
