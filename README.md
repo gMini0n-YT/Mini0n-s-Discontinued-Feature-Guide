@@ -1,6 +1,35 @@
 # Mini0n-s-Discontinued-Feature-Guide
 
-**Official Release**
+## Second Release
+
+# All Editions
+- Added More Illegals and improved the Separated Illegal Guides
+- Added more Mods, Linkks, and Data Packs
+
+## Bedrock
+-  Added more Illegals
+
+## Java
+- Added a Java Illegal Guide
+- Added the Mods Folder
+- Added a lot of Mods and Datapacks
+- Added World Folders
+- Added 3 different World Downloads
+- Added A Java External links file
+- Added 8 different Separated Illegal Guides
+- Added two tutorials for Classic to Indev Conversion and Indev to Infdev Conversion
+- Linked Youtube Tutorials
+- Added the Official Java Illegal Guide
+
+## .github
+- Added an Issue and a Pull Request Template
+- Added a Code of Conduct
+- Added a Contributing Tutorial
+- Added Security Tutorial
+- Added Apache 2.0 License
+
+
+# Official Release
 - Created Mini0n's Discontinued Feature Guide
 - Added Links Folder
 - Added 1.16.1.2 Illegal Command Glitch
