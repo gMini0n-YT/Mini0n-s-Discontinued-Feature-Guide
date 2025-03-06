@@ -1,4 +1,4 @@
-***Youtube Illegal Tutorials***
+# Youtube Illegal Tutorials
 - Item Shadowing: https://www.youtube.com/watch?v=omDZt5fJDAQ
 - Cracking Enchanting RNG before 1.8: https://www.youtube.com/watch?v=TvSVEXHQ4FA
 - Block 36 Merge Transmutation: https://www.youtube.com/watch?v=7Lb0MgAZZIc
