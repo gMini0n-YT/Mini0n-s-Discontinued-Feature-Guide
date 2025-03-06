@@ -173,6 +173,9 @@ ________________________________________________________________________________
 - Updating a slab from 1.10.0 to 1.11.0.1 will cause them to convert to Double Slab. All slabs will convert excluding all wood slabs, Petrified Oak Slabs can be converted into their double slab state. In versions after 1.11.0.1 they will appear as glitched slabs that cannot be placed or they will switch to different looking slabs, but they are still illegal. After 1.21.30 they will have the texture of double slabs.
 - In 1.11, you can place 16 buckets in a furnace fuel slot instead of just one
 
+**Beta 1.11.0.1 - 1.10.1**
+- Downgrading an Ominous Banner will convert it to a white banner allowing you to change the patterns of the ominous banner because it will convert back to a Ominous banner when updating back
+
 **1.14.0**
 - Farmer Villagers buy 4 melon slices instead of 4 melon blocks at the Journeyman Trade Level
 - Farmer Villagers buy 16 eggs at the Expert Trade Level
