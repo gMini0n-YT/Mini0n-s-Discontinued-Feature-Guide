@@ -1,0 +1,44 @@
+name: Illegal/Unobtainable Submission Form
+description: File a Illegal/Unobtainable within Bedrock/Java/LCE
+title: "[Illegal/Unobtainable]: "
+labels: ["unobtainables"]
+
+body:
+  - type: textarea
+    attributes:
+      label: Media
+        description: Submit a Picture of the illegal/unobtainable in the version
+
+  - type: textarea
+    attributes:
+      label: What is the Unobtainable
+        description: Give an explanation of what this illegal is
+  
+  - type: textarea
+    attributes:
+      label: How to obtain this illegal
+      description: What is the illegal and what are the steps needed to take to recreate this illegal/unobtainable
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: Minecraft Game Edition
+      description: What Minecraft Edition can this illegal be obtained in
+      options:
+        - Bedrock
+        - Java
+        - Legacy Console Edition (XBOX 360)
+        - China Edition
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Minecraft Version Range
+      description: What is the Version or Version Range you can obtain this illegal in
+    validations:
+      required: true
+
+
+  
