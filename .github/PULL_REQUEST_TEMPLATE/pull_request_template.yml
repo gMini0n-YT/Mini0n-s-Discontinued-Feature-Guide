@@ -1,0 +1,22 @@
+name: Mini0n Unobtainable Guide Pull Request
+description: Change something within the guide wheather it is grammar or an illegal submission
+title: "[Pull Request]: "
+labels: ["unobtainables"]
+
+body:
+  - type: textarea
+    attributes:
+      label: What Changes Have You Made
+      description: Tell us what you have changed (e.g. grammar, new illegal submission)
+    validations:
+      required: true 
+      
+  - type: textarea
+    attributes:
+      label: Illegal Submissions
+      description: What Illegal Submissions did you add if you added any, include the version range, what edition of the game,  and the type of submissions you added
+    validations:
+      required: false
+
+
+  
