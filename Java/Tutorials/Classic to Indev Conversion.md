@@ -1,4 +1,5 @@
-**Classic to Indev Conversion Process**
+# Classic to Indev Conversion Process
+
 1. First you need to download MCedit and NBTExplorer which will be linked at the bottom of the page
 2. Save your Classic World using BetaCraft or outside Mods
 3. Create a world in Indev 20100124 and save the world
