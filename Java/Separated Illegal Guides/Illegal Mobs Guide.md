@@ -351,6 +351,7 @@ ________________________________________________________________________________
 - Mob attributes are improperly preserved when mobs are converted. This allow for villagers, witches, and zombified piglins to have invalid speeds.
 - Curing zombie villagers that have canpickuploot:0b preserves this tag on villagers, allowing for villagers to have canpickuploot:0b. These villagers are observable as they cannot pickup food and thus cannot replant.
 - Villagers wearing armor that get struck by lightning convert to witches that have extra armor protection, but lose their armor, leading to mismatched attributes
+- Leashing a pig and letting it get struck by lightning will convert to a Zombie Pigman with a leash on it.
 
 **24w45a - 24w46a (Upgrading)**
 - By going to snapshot 24w45a and throwing a bow to a Wither Skeleton with PickUpLoot true it will pick it up. Then by updating to 24w46a renaming a Totem of Undying to anything with an anvil and throwing that to the skeleton it will switch to holding that. From there its possible to damage the wither skeleton enough to pop the totem thus creating a Wither Skeleton holding no items
