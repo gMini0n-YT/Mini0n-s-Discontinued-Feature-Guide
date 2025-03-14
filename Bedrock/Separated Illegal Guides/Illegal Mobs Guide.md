@@ -40,6 +40,7 @@ ________________________________________________________________________________
 - Farmer Villagers buy 4 melon slices instead of 4 melon blocks at the Journeyman Trade Level
 - Farmer Villagers buy 16 eggs at the Expert Trade Level
 - Vindicators that spawn in Woodland Mansions are neutral in versions before 1.16. Hitting these Vindicators or renaming them will switch them back to hostile.
+- Pillager Captains that spawn in this version would be peaceful and not attack
 
 **Beta 1.16.0.51**
 - Piglins have more health in this version and they will keep their health when updating through versions
