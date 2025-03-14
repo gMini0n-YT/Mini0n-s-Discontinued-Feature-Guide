@@ -182,6 +182,7 @@ ________________________________________________________________________________
 - Permanent Open Barrels can be made by pushing a Barrel via piston while opening it at the same time
 - Vindicators that spawn in Woodland Mansions are neutral in versions before 1.16. Hitting these Vindicators or renaming them will switch them back to hostile.
 - Endermen can pick up netherack in their hands (WARNING: In bedrock edition, endermen can teleport out of boats so there is no way to store him without putting him in a 1x1 block in the middle of the ocean so he can't teleport or place down the block, after 1.21.60.27, endermen will stay in boats, just make sure to not give any room for the endermen to place down the block otherwise the illegal will be removed.
+- Pillager Captains that spawn in this version would be peaceful and not attack
 
 **Beta 1.16.0.51**
 - Piglins have more health in this version and they will keep their health when updating through versions
