@@ -317,6 +317,9 @@ ________________________________________________________________________________
 - The disk drive, wireless modem, monitor, printer, and advanced monitor all have the numeric id of 166, and data values of 0,1,2,3, and 4, respectively. The numeric id of 166 later converts to barriers, which are unobtainable in survival by normal means. Updating these items allows for both normal barriers and invalid data value barriers to be obtained.
 - The computer process allows for the writing of external files, meaning essentially any file can be created within the world save, all of which would be discontinued. Upon world save the computer folder is generated, which is a discontinued folder.
 
+**1.7.10**
+- Placing Skulls against non full blocks and can replace the block in front of it with a skull and will not cause block updates making it possible for Skull Suppresion
+
 **14w02a**
 - Completely reworked villager trades. Almost all trades will be discontinued in future versions, either by trade, amount, or tier it is within. Some specific trades that will be discontinued are: Shepherds Selling All 16 Wool Colors, Librarians Buying 2 Written Books, and Leatherworkers Selling Enchanted Leather Tunic. Trades are now generated based on tier and are more specifically ordered. All trades from previous versions are considered tier 0 trades, meaning all trades from this version can be stacked on top of trades from previous versions.
 - Clerics currently buy enderpearls, which will become unobtainable in future versions.
