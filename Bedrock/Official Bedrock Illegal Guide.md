@@ -427,6 +427,9 @@ ________________________________________________________________________________
 **Preview 1.19.80.21**
 - Suspicious Gravel can be obtained by letting it fall onto an item frame
 
+**Preview 1.19.80.22 (Requires "Next Major Update" World Toggle)**
+- Pink Petals are able to replace the bottom half of tallgrass blocks during world gen, keeping the top half. To prevent them from breaking randomly, quickly unload the chunks and keep them unloaded until 1.21.60
+
 **Preview 1.20.10.20 - 1.20.1 (0.12.1 Downgrading)**
 - Downgrading Dyed Shulker Boxes as blocks from 1.20.10.20 - 1.20.1 will convert them to unknown blocks. Using this method, mining up the unknown blocks and letting them stack can give you stacked shulker boxes and if you put them in an undyed shulker boxes they will be stacked shulker boxes in a shulker box so it will be considered a double illegal
 
