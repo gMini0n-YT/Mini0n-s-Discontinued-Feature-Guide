@@ -538,7 +538,7 @@ ________________________________________________________________________________
 - In this version, you can obtain Permanently Frozen Ghast Fireballs, the way to do this is by getting a Ghast to shoot at you and then quickly leaving into a nether portal before it hits you, after you enter another dimension the fireball should be in stasis and will not move, then what you have to do is go through a different portal that will take you at least 300 blocks away from the fireball and then walk/fly over there and the fireball should be in stasis
 - Baby Drowneds spawn with the same speed as the adult drowneds
 
-**1.21.60**
+**1.21.62**
 - Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
 - Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
 - You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
