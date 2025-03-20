@@ -163,6 +163,7 @@ ________________________________________________________________________________
 - Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
 - Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE
 - Pushing a Witch into an end portal while it is drinking a potion will keep it in it's drinking animation
+- Removing the mob that a Fox is attacking will cause the Fox to stay in its attacking animation. To keep it from resetting, you can relog and it will be permanent.
 
 
 **Preview 1.21.70.25**
