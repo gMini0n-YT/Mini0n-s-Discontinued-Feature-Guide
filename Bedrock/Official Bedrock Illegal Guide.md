@@ -441,7 +441,6 @@ ________________________________________________________________________________
 - Zombies, Husks, Drowneds, Zombified Piglins, Zombie Villagers, Skeletons, and Strays can wear illager banners when dispensed on them
 - Letting a creeper fall into a sliced portal just as it explodes will make the creeper peaceful and unable to explode.
 - Replacing the outer portal blocks of a portal (the portal blocks that are touching the obsidian) with powder snow/water/or lava and at the same time going through a sliced portal will leave the portal blocks intact and it will create a powder snow/water/lava portal
-- Letting a chicken fall into a minecart or a boat will make the chicken an always flapping chicken
 - Placing a grass block in the center and then doing a checkerboard pattern of the block you want to catch fire on and grass blocks to the reach of lava. Placing lava on the center block, and when the lava is done spreading, pick up the lava and spam clicking bonemeal on the center block can catch fire on the blocks causing a chance of an Always Burning Fire on the block of your choice.
 - You can dispense armor on Villagers and Evokers and they will wear it
 
