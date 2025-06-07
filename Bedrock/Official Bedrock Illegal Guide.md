@@ -481,6 +481,7 @@ ________________________________________________________________________________
 
 **1.20.60 (Experimental)**
 -  Inside Woodland Mansions, it is possible to get an Efficiency I Chainmail Helmet. The Efficiency I Helmet is located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
+-  Getting an armadillo to roll up and then logging out will cause the armadillo to appear to be back to its normal state but it is still rolled up and will not move. To keep this make sure you do not sprint or ride a mob toward the armadillo, and keep mobs away from it
 
 **1.20.62**
 - Naming a Campfire and then placing it will give the campfire a hovering name tag above it
