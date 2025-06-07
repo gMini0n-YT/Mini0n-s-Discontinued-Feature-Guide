@@ -48,3 +48,6 @@ ________________________________________________________________________________
 - Large jungle trees can also replace blocks in the south and east directions with their branches.
 - A nether portal has been able to remove four blocks at its base when it generates. All valid locations for a nether portal to appear in the opposite dimension besides the location of the four indestructible blocks must be blocked to force the portal's generation to replace them.
 - When a huge red mushroom is grown, some non-full blocks that collide with the mushroom's growth, such as end portal frames, end portals, and end gateways, are deleted and replaced with mushroom blocks.
+
+**1.21.71**
+- Placing Sea Pickles against a non full block will break the block the sea pickles are placed against meaning you can use this for bedrock removal
