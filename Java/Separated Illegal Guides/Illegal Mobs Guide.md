@@ -279,6 +279,7 @@ ________________________________________________________________________________
 - Zombie and skeleton horses can be tamed. This involves being in multiplayer, one player then picks up the other player and throws them onto a zombie horse. This can be repeated multiple times until the zombie horse is tamed.
 - Any block can be converted to a falling entity by using a dropper, or by throwing a block. These can be stored by dropping them onto block 36.  There are variations for every existing block and blockstate in the game.
 - End crystal entities can be placed above and below the build limits by picking up end crystal entities and dropping them in the air at these points
+- In 22w13oneBlockAtATime villagers have new trades including trading for blocks and entities, loading these trades outside of this snapshot turns them into air trades. This can be circumvented by updating a zombie villager with the trades instead of a villager. Curing or updating to 24w09a or later deletes the trades.
 
 **22w14a**
 - Allays can have armor dispensed onto them after being given an item, allowing for armored allays, which will likely be discontinued in future versions. This also allows for the killed by allay statistic by having another player equip them with thorns armor, which will likely be future discontinued.
