@@ -63,3 +63,6 @@ ________________________________________________________________________________
 
 **Preview 1.21.10.22 - Preview 1.21.10.21**
 - Downgrading these Double slabs: (red sandstone, purpur, prismarine, prismarine brick, dark prismarine, mossy cobblestone, smooth sandstone, red nether brick, endstone brick, smooth red sandstone, polished andesite, diorite, polished diorite, andesite, granite, polished granite,mossy stone brick, smooth quartz, stone, cut sandstone, cut red sandstone, oak) from 1.21.10.22 as a block to 1.21.10.21 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Slab version of those slabs as a tile item.
+
+**Preview 1.21.50.20 - 1.20.62 (UBC) (0.12 Downgrading)**
+- Downgrading all Pale Oak doors in block form from 1.21.50.20 to 1.20.62 will cause them to convert to Unknown Blocks and when updating them back in item form they will become unplacable
