@@ -438,3 +438,6 @@ ________________________________________________________________________________
 
 **25w07a**
 - Leaf Litter can be placed on blocks without a solid top surface (e.g. fences, walls, iron bars, glass panes)
+
+**25w14craftmine**
+- The memory lane extends all the way past the world border. Downgrading from the April Fools' snapshot results in a hallway of stone and gray stained glass being past the world border around -30000000, 0, 8. Other chunks past the world border will be full of air.
