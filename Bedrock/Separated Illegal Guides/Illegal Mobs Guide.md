@@ -23,6 +23,9 @@ ________________________________________________________________________________
 - Pumpkins can be placed on Armor Stands, Players, and Mobs these pumpkins will revert from carved pumpkins to normal pumpkins
 - Farmer Villagers now sell 5-7 apples instead of just 5
 
+**Beta 1.2.13.8**
+- Updating Mobs with a name tag to this version will remove their nametag, meaning that if you update a vindicator that is named Johnny, it will remove the nametag but the vindicator will still attack whatever it sees.
+
 **1.5.0**
 - In 1.5, Zombie Villagers found in Zombie Villages will be extremely fast. Updating from 1.5 directly to the latest version will revert them. To keep them you must update from 1.5 to 1.8 to 1.10 to 1.11 to 1.21 in that order.
 
