@@ -413,6 +413,7 @@ ________________________________________________________________________________
 
 **Preview 1.19.50.21 - Preview 1.19.50.20 (UBC) (Experimental)**
 - Downgrading Double Bamboo Slabs and Double Mosaic Bamboo Slabs from 1.19.50.21 as a block to 1.19.50.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you Double Bamboo Slabs and Double Mosaic Bamboo Slabs as a tile item.
+- Downgrading a Bamboo door in block form from 1.19.50.21 to 1.19.50.20 will cause it to convert to Unknown Blocks and when updating them back in item form they will become unplacable
 
 **1.19.70**
 - Inside Woodland Mansions, it is possible to get Efficiency I leather chestplate. The Efficiency I Chestplates are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
