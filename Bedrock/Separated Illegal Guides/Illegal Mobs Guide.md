@@ -143,6 +143,11 @@ ________________________________________________________________________________
 **1.20.80.21 - 1.20.80.20 (Downgrade) (Experimental)**
 - Shearing a Bogged and downgrading to 1.20.80.20 and then reupgrading back to 1.20.80.21 will make the mushrooms on the head of the bogged disappear but you can still shear it, this is due to the shearing mechanic on Boggs being added in 1.20.80.21
 
+**Preview 1.21.0.23**
+> [!CAUTION]
+> Before updating to this version, make sure to put all your petrified oak slabs in an unplaced shulker box or they will turn into Stone Brick Slabs until 1.21.10.20
+- Villagers in this version will sell Wind Burst III enchantments and these enchanted books will have a lower enchantment cost than the books from an Ominous Vault meaning this is two illegals for the price of one
+
 **1.21.0**
 - If a Pillager or Witch attacks a Vindicator, Evoker, or Witches would retaliate against the illager that attacked them
 
