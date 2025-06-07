@@ -39,6 +39,9 @@ ________________________________________________________________________________
 **0.12.1 alpha (Android)**
 - Placing a sponge underwater won't absorb the water
 
+**0.14.0 (Android)**
+- Colors in this version have a different color value than colors in the newer version, the following colors are: white, brown, lime, green, cyan, light blue, blue, purple, magenta and pink, meaning that there can be thousand of illegal color variants by combining them in a cauldron. This also gives us two extra illegals: Cauldrons with illegal color value and Leather Armor with illegal color value
+
 **0.17.0.1 alpha (Android)**
 > [!CAUTION]
 > PDV: Hitting a Mob or getting hit by a mob will crash the game.
