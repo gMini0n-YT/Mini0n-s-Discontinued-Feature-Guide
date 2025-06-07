@@ -604,3 +604,5 @@ ________________________________________________________________________________
 - Spawning a Creaking via its heart and name tagging it so it won't despawn, and then taking it about 400 blocks away from its heart will cause it to be out of range of the heart. Now to keep it from dying you must go back to the Creaking Heart during the day and wait till nighttime and relog, a creaking should spawn from the heart and you can then break the heart without the creaking disappearing
 - Striking a Villager in a minecart with a lightning bolt will cause it to convert to a witch that will not attack you, make sure it stays in the minecart and keep it on the rails otherwise it will become hostile and attack you
 - Pushing a Witch into an end portal while it is drinking a potion will keep it in it's drinking animation
+- You can obtain Floating Llama Spit, Blaze Fireballs using this setup https://www.youtube.com/shorts/xfLQj22kDB0
+- You can obtain Floating Dragon Breath Fireballs using a setup made by SilentShadow which will be linked in the "Links" folder, it does take a long time to obtain though, it can take an average of 3 hours of waiting using ths setup
