@@ -44,6 +44,8 @@ ________________________________________________________________________________
 - Farmer Villagers buy 16 eggs at the Expert Trade Level
 - Vindicators that spawn in Woodland Mansions are neutral in versions before 1.16. Hitting these Vindicators or renaming them will switch them back to hostile.
 - Pillager Captains that spawn in this version would be peaceful and not attack
+- Mobs that spawn naturally will not despawn even if they don't have a nametag, this includes all mobs except: Bats, Squids, Cave Spiders, Dolphins, Endermen, Polar Bears, Spiders, Blazes, Creepers, Ghasts, Guardians, Magma Cubes, Phantom, Slimes, Vexes
+
 
 **Beta 1.16.0.51**
 - Piglins have more health in this version and they will keep their health when updating through versions
