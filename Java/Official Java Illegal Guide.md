@@ -903,6 +903,7 @@ ________________________________________________________________________________
 - Currently throwing or placing any block increases the use statistic. This allows for the use statistic to increase for several items that normally cannot be placed in survival. This includes structure blocks, jigsaws, command blocks, repeating command blocks, and chain command blocks.
 - Currently throwing or placing any item increases the use statistic. This allows for the use statistic to increase for several items that normally cannot be used in survival. This includes items such as diamonds and heart of the sea.
 - When updating into this version while wearing an elytra, it will break when attempting to fly, allowing for the broken elytra statistic to increase
+- In 22w13oneBlockAtATime villagers have new trades including trading for blocks and entities, loading these trades outside of this snapshot turns them into air trades. This can be circumvented by updating a zombie villager with the trades instead of a villager. Curing or updating to 24w09a or later deletes the trades.
 
 **22w14a**
 - Allays can have armor dispensed onto them after being given an item, allowing for armored allays, which will likely be discontinued in future versions. This also allows for the killed by allay statistic by having another player equip them with thorns armor, which will likely be future discontinued.
