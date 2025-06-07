@@ -138,6 +138,9 @@ ________________________________________________________________________________
 **1.20.60 (Experiment)**
 - Getting a breeze to attack the following mobs: zombie, husk, skeleton, stray, slime, spiders, and cave spiders will cause the mob to be permanently angered at the breeze
 
+**1.20.80.21 - 1.20.80.20 (Downgrade) (Experimental)**
+- Shearing a Bogged and downgrading to 1.20.80.20 and then reupgrading back to 1.20.80.21 will make the mushrooms on the head of the bogged disappear but you can still shear it, this is due to the shearing mechanic on Boggs being added in 1.20.80.21
+
 **1.21.0**
 - If a Pillager or Witch attacks a Vindicator, Evoker, or Witches would retaliate against the illager that attacked them
 
