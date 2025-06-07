@@ -36,8 +36,9 @@ ________________________________________________________________________________
 > [!NOTE] To update an old world to an infinite world in this version will require file editing. This can be done by changing the "generator:0" value in the level.dat file to "generator:1". This will change the world to infinite.
 - Furnaces that are generated in Villages in this version have a data value of 0 and have no visible face
 
-**0.12.1 alpha (Android)**
+**0.12.1 alpha (PC)**
 - Placing a sponge underwater won't absorb the water
+- Ghasts in this version would be insanely fast
 
 **0.14.0 (Android)**
 - Colors in this version have a different color value than colors in the newer version, the following colors are: white, brown, lime, green, cyan, light blue, blue, purple, magenta and pink, meaning that there can be thousand of illegal color variants by combining them in a cauldron. This also gives us two extra illegals: Cauldrons with illegal color value and Leather Armor with illegal color value
