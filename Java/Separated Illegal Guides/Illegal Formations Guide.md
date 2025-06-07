@@ -354,6 +354,9 @@ ________________________________________________________________________________
 **22w14a**
 - Currently growing a mangrove tree doesn't update blocks around it, allowing for many discontinued mangrove tree arrangements, such as a mangrove root on snowy grass
 
+**22w42a**
+- You can place a Hanging Sign on the bottom of a fence gate
+
 **22w43a**
 - Placing a birch wall sign on the side of a block and placing a note block above it sets the note block instrument to snare. In future versions this instrument will be bass, making this a discontinued note block variant.
 
