@@ -51,6 +51,7 @@ ________________________________________________________________________________
 
 **Infdev 20100607**
 - Top Half Doors can be created by placing two signs and placing a door on top
+- Placing a Door one block below the height limit will result in the Bottom Half Door
 
 **Infdev 20100611**
 - Monoliths would generate in flat terrain and they would spawn without bedrock underneath allowing for illegal terrain generation. You can use the Monolith Finder in the "Links" folder
