@@ -190,9 +190,9 @@ ________________________________________________________________________________
 - Zombifying a Baby Villager will result in a Zombified Baby Villager will illegal tags and effects such as being affected by poison, regeneration hurts them, they are not affected by smite, they can not enter boats or minecarts, they are not targeted by Iron Golems, Snow Golems, Johnny Vindicators, or Zoglins, unless the Zombie attacks them first, and they don't scare Villagers, Wandering Traders, or Armadillos
 - Breeding a Warm or Cold Pig, Chicken, or Cow with the superspeed pig from 1.16.220 will cause the baby to be faster than normal
 - If the mob that the fox is attacking is removed and the fox lands in snow layers, it will get snuck in the falling position "sniffing position", to keep this you need to simply relog and make sure the fox never sees any rabbits or chickens or it will reset
-- Fireballs, Wither Skulls, and Llama Spit can all be stopped using a honey and water bubble contraption that will be linked in the "Links" folder
-- Dragon Fireballs can also be stopped using a different honey contraption that will also be linked in the "Links" folder
 - Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
 - Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE
 - Pushing a Witch into an end portal while it is drinking a potion will keep it in it's drinking animation
 - Drowneds that pick up tridents in this version won't be able to throw them
+- You can obtain Floating Llama Spit, Blaze Fireballs using this setup https://www.youtube.com/shorts/xfLQj22kDB0
+- You can obtain Floating Dragon Breath Fireballs using a setup made by SilentShadow which will be linked in the "Links" folder, it does take a long time to obtain though, it can take an average of 3 hours of waiting using ths setup
