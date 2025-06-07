@@ -379,6 +379,9 @@ ________________________________________________________________________________
 - Giving Wall Skulll to armor stands and mobs will cause them to hold it in their hand, which when updating to 1.21.30 will cause the wall skulls to change to skeleton skull which allows for mobs holding skeleton skulls in their hand
 - Trader Llamas before 1.19.0.20 will not be separate from llamas meaning that they will be titled llama instead of Trader Llama in their inventory screen.
 
+**Beta 1.19.0.20 - 1.18.31 (Downgrading) (Experimental) (0.12 Downgrading) (UBC)**
+- Downgrading a Mangrove door in block form from 1.19.0.20 to 1.18.31 will cause it to convert to Unknown Blocks and when updating them back in item form they will become unplacable
+
 **Beta 1.19.0.20**
 - All copper horn variants can be obtained in this version, putting the copper horns in an unplaced shulker box will save their data even when they're removed in 1.19.0.24/25
 
