@@ -66,6 +66,9 @@ ________________________________________________________________________________
 - The Old Stonecutter Item can be obtained with 4 cobblestone
 - Mining up Glowing Obsidian will drop it as an item.
 - Blowing up a chest with enchanted book inside it will drop enchanted books without any enchantments on it
+
+**0.14.0 (Android)**
+- Colors in this version have a different color value than colors in the newer version, the following colors are: white, brown, lime, green, cyan, light blue, blue, purple, magenta and pink, meaning that there can be thousand of illegal color variants by combining them in a cauldron. This also gives us two extra illegals: Cauldrons with illegal color value and Leather Armor with illegal color value
   
 **0.15.2.1 alpha (Android)**
 - Doors have a durability of 66 in this version and keep their damage value upon updating. Stacking Normal Doors with Durability Doors will remove the durability of the door.
