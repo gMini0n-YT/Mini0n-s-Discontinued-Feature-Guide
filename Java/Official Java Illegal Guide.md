@@ -310,6 +310,7 @@ ________________________________________________________________________________
 
 **13w49a**
 - Added Chicken Jockeys. Chickens in chicken jockeys currently lay eggs, as the "IsJockey" tag does not exist yet. Chickens also maintain agression against the player after the zombie is dead, despite not being able to deal damage.
+- Zombies, zombie villagers, and zombie pigmen (if made weaponless first) chicken jockeys could pick up eggs from 13w49a to 1.7.10.
 
 **1.7.10 Build 1 Classroom-1 (EDU)**
 - Player data is saved in the playerdata folder under username.dat. This will become unobtainable in future versions as it is stored as a UUID instead of a username. Additionally, since you are logging in in offline mode, the UUID for the statistics is different, allowing for multiple statistic files in a singleplayer world.
