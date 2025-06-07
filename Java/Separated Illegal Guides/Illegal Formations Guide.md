@@ -32,6 +32,7 @@ ________________________________________________________________________________
 
 **Infdev 20100607**
 - Top Half Doors can be created by placing two signs and placing a door on top
+- Placing a Door one block below the height limit will result in the Bottom Half Door
 
 **Infdev 20100615**
 - Water and Lava can flow next to each other without forming stone
