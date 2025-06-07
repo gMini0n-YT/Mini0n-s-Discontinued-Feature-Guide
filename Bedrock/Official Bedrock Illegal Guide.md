@@ -252,7 +252,7 @@ ________________________________________________________________________________
 - Pushing a detector rail with a minecart on it, and breaking the minecart will give you a Permanently Powered Detector Rail
 - Placing non-full blocks (e.g. Enchanting Tables, Slabs, Trapdoors) in snow-covered flowers, the flowers will won't break. This allows for flower-logged blocks.
 - End Portals do not trigger Block updates. So by flower-logging the end portal frames and activating them below gravity blocks and then breaking the grass block underneath the end portals, the end portal frames will break leaving floating gravity blocks.
-- When animals and villagers are bred, they use the current speed rather than the base speed. So by splashing two animals/villagers with splash potion of speed or slowness and then breeding them, the offspring will be faster/slower than their parents. This process can be repeated endlessly, make sure to get a superspeed pig for a future illegal in 1.21.82
+- When animals and villagers are bred, they use the current speed rather than the base speed. So by splashing two animals/villagers with splash potion of speed or slowness and then breeding them, the offspring will be faster/slower than their parents. This process can be repeated endlessly, make sure to get a superspeed pig, cow, and chicken for a future illegal in 1.21.82
 - Breeding two foxes with netherite armor will cause their offspring to inherit the knockback resistance from their parents.
 
 **Beta 1.16.230.54 - Beta 1.16.230.50 (Experimental) (UBC)**
@@ -431,6 +431,9 @@ ________________________________________________________________________________
 **Preview 1.19.70.26**
 - Suspicious Sand can be obtained by letting it fall onto an item frame
 - Decorated Pots stack with each other
+
+**Preview 1.19.80.20 - Preview 1.19.33 (UBC) (Experimental) (0.12 Downgrading)**
+- Downgrading a Cherry door in block form from 1.19.80.20 to 1.19.73 will cause it to convert to Unknown Blocks and when updating them back in item form they will become unplacable
 
 **Preview 1.19.80.21**
 - Suspicious Gravel can be obtained by letting it fall onto an item frame
