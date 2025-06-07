@@ -252,7 +252,7 @@ ________________________________________________________________________________
 - Pushing a detector rail with a minecart on it, and breaking the minecart will give you a Permanently Powered Detector Rail
 - Placing non-full blocks (e.g. Enchanting Tables, Slabs, Trapdoors) in snow-covered flowers, the flowers will won't break. This allows for flower-logged blocks.
 - End Portals do not trigger Block updates. So by flower-logging the end portal frames and activating them below gravity blocks and then breaking the grass block underneath the end portals, the end portal frames will break leaving floating gravity blocks.
-- When animals and villagers are bred, they use the current speed rather than the base speed. So by splashing two animals/villagers with splash potion of speed or slowness and then breeding them, the offspring will be faster/slower than their parents. This process can be repeated endlessly
+- When animals and villagers are bred, they use the current speed rather than the base speed. So by splashing two animals/villagers with splash potion of speed or slowness and then breeding them, the offspring will be faster/slower than their parents. This process can be repeated endlessly, make sure to get a superspeed pig for a future illegal in 1.21.82
 - Breeding two foxes with netherite armor will cause their offspring to inherit the knockback resistance from their parents.
 
 **Beta 1.16.230.54 - Beta 1.16.230.50 (Experimental) (UBC)**
@@ -285,7 +285,7 @@ ________________________________________________________________________________
 - Tying an axolotl to a fence/wall and scooping the axolotl up with a water bucket will not remove the leash knot on the fence/wall and the axolotls will remain unattached and unleashable
 - Using Dispensers to remove the water from bubble columns does not destroy the bubble column itself.
 - Leashing Axolotls before scooping them up won't unleash the axolotl
-- When a mob is left with only one heart and is simultaneously struck by an Instant Health Potion and an Instant Damage Potion, the mob becomes invincible. If the mob appears red and shaking, rejoining the game will restore its normal appearance, make sure to get a invincible pig for a future illegal in 1.21.82
+- When a mob is left with only one heart and is simultaneously struck by an Instant Health Potion and an Instant Damage Potion, the mob becomes invincible. If the mob appears red and shaking, rejoining the game will restore its normal appearance
 - Inside Woodland Mansions, it is possible to black glow sticks. The Black Glow Sticks are a lot rarer and a lot harder to find. To find the Glow Sticks you must find the "secret" end portal room within the Woodland Mansion. The room is a lot harder to find because it has no indicator to locate it. To make things easier for you, go ahead and download the "Mansion X-Ray.mcpack" from the "Texture Pack" folder. This pack will x-ray through the dark-oak planks in the woodland mansion.
 
 **1.17.10.22 - 1.17.10.21 (UBC)**
@@ -581,3 +581,4 @@ ________________________________________________________________________________
 
 **1.21.82**
 - Zombifying a Baby Villager will result in a Zombified Baby Villager will illegal tags and effects such as being affected by poison, regeneration hurts them, they are not affected by smite, they can not enter boats or minecarts, they are not targeted by Iron Golems, Snow Golems, Johnny Vindicators, or Zoglins, unless the Zombie attacks them first, and they don't scare Villagers, Wandering Traders, or Armadillos
+
