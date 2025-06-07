@@ -394,6 +394,7 @@ ________________________________________________________________________________
 - Iron Bars/Glass Panes don't connect to mangrove roots
 - Pushing a lit TNT into a portal at the exact same time it explodes, it will summon an unstable tnt that appears all white and will stay that way forever
 - Cod, Pufferfish, Salmon, and Tropical Fish have 3 hearts instead 1.5
+- Wardens in this version could not be pushed by a player or a mob because they do not have the "pushable" tag. This will stay upon updating
 
 **1.19.2**
 - Shulkers inflict Levitation 2 instead of Levitation 1. To keep this effect, you can let a shulker hit any scoopable mob and promptly scoop the mob with a bucket after it gets hit.
