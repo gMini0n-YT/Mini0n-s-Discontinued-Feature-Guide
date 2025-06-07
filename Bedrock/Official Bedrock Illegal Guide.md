@@ -563,6 +563,7 @@ ________________________________________________________________________________
 - Striking a Villager in a minecart with a lightning bolt will cause it to convert to a witch that will not attack you, make sure it stays in the minecart and keep it on the rails otherwise it will become hostile and attack you
 - Pushing a Witch into an end portal while it is drinking a potion will keep it in it's drinking animation
 - Removing the mob that a Fox is attacking will cause the Fox to stay in its attacking animation. To keep it from resetting, you can relog and it will be permanent.
+- Drowneds that pick up tridents in this version won't be able to throw them
 
 **Preview 1.21.70.22**
 - The Invincible Mobs from 1.17.0 have been removed entirely but if you obtain an Invincible Axolotl in a bucket they will turn into a Disappearing Axolotl in a Bucket. Warning don't place it down because it will immediately disappear
