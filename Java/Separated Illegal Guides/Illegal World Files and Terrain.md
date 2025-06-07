@@ -146,3 +146,8 @@ sed to overfill a chunk and perform both chunk savestating and chunk regeneratio
 > [!Note]
 > In order to play your world in this version world save insertion must be used. This requires first removing the world save from the world saves folder. From here, select create world and create a world with the same folder name as the world save. Then select the Datapacks or Experimental option and enable the Update 1.21, Villager Trade Rebalance, and the Bundle datapack. Then, while still in the create world screen, drag the world save into the saves folder, and select create world. This forces the world to load without removing the level.dat or level.dat_old files.
 - The potato dimension generates in a dimensions folder. The dimensions folder does not normally generate in the world folder, allowing for several discontinued folders and files.
+
+**25w14craftmine**
+- In the dimensions/minecraft folder of your world, new level# (with # replaced by the level number) folders can be created in 25w14craftmine. There is no way to reach these dimensions after 25w14craftmine, making this a file discontinued feature.
+- In the data folder of your world, a new mine_data.dat file is created in 25w14craftmine that remains after updating out of the version
+- For each level created in 25w14craftmine, a datapack will be created to specify that level's dimension properties. They will remain after WSI, but will not properly register their dimensions due to using minecraft:generated as the type field, which is not a registered type by default
