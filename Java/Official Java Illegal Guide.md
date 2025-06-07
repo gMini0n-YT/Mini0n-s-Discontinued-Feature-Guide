@@ -1057,6 +1057,7 @@ ________________________________________________________________________________
 - Poisonous potatoes can be crafted into poisonous potato blocks. These blocks can then be crafted back into poisonous potatoes, allowing for a poisonous potato crafted statistic.  Poisonous potatoes can also be bought from villagers, also allowing the poisonous potato crafted statistic to increase.
 - Maps made in the potato dimension will have an invalid dimension after updating. This also occurs for buried treasure maps.
 - The potato dimension generates in a dimensions folder. The dimensions folder does not normally generate in the world folder, allowing for several discontinued folders and files.
+- After transporting the Mega Spud to the overworld using the potato portal you can have it throw its fireball which has ExplosionPower:2b in the world, this is the only way of getting power 2b fireballs at the moment. 
 
 **24w13a**
 > [!Note]
