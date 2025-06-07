@@ -51,6 +51,7 @@ ________________________________________________________________________________
 
 **Preview 1.20.50.22 - Preview 1.20.50.21 (UBC) (Experimental)**
 - Downgrading a Double Tuff Slab, Double Tuff Brick Slab and Double Polished Tuff Slab (with 1.21 experiment) from 1.20.50.22 as a block to 1.20.50.21 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Tuff Slab, Double Tuff Brick Slab and Double Polished Tuff Slab as a tile item.
+- Downgrading all 8 Copper doors in block form from 1.20.50.22 to 1.20.50.21 will cause them to convert to Unknown Blocks and when updating them back in item form they will become unplacable
 
 **Preview 1.20.70.21 - Preview 1.20.70.20 (UBC) (Experimental)**
 - Downgrading the Vault Block from 1.20.70.21 as a block to 1.20.70.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Vault Block as a tile item.
