@@ -52,3 +52,10 @@ ________________________________________________________________________________
 **24w36a**
 - Horse armor can be combined with other horse armor in a crafting table to repair it, which is normally not possible. This allows for a crafting statistic for diamond, gold, and iron horse armor by repairing them in a crafting table, which is normally not an obtainable statistic.
 - Taking damage while wearing an elytra decreases the durability of the elytra, eventually breaking it and increasing the broken elytra statistic
+
+**25w14craftmine**
+- When loading into a raid special event the player is given bad omen with a duration of -1. It normally turns into raid omen right away due to the player always (at least in my testing) spawning inside a village, this can be avoided by quickly logging out and downgrading from this version. The bad omen will also show particles, which bad omen typically does not.
+- In 25w14craftmine, Any frog can "devoure" you in a mine that has the "Wednesday frog" challenge ingredient, that saves it as a "frog killed you" statistic
+- Many of the player unlocks in 25w14craftmine achieve their effects by giving the player an attribute modifier, which are not removed when updating out of this version (unless their attribute exists only in 25w14craftmine).
+-  When inside a mine with the One HP mine ingredient the player is given an attribute modifier that reduces max health by 19. The modifier is cleared upon leaving the mine, but it can be preserved by updating out of 25w14craftmine without leaving the mine.
+-  Using a mine revisitor to visit an old mine sets the player's game mode to adventure. Dying in a mine in multiplayer sets the player's game mode to spectator. These game modes can be preserved by logging off and updating out of craftmine.
