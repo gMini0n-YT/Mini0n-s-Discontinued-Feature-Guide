@@ -567,27 +567,11 @@ ________________________________________________________________________________
 - In this version, you can obtain Permanently Frozen Ghast Fireballs, the way to do this is by getting a Ghast to shoot at you and then quickly leaving into a nether portal before it hits you, after you enter another dimension the fireball should be in stasis and will not move, then what you have to do is go through a different portal that will take you at least 300 blocks away from the fireball and then walk/fly over there and the fireball should be in stasis
 - Baby Drowneds spawn with the same speed as the adult drowneds
 
-**1.21.62**
-- Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
-- Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
-- You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
-- You can snow-log resin, skull veins, glow lichen, and dead bushes
-- Fences, Iron bars, Glass Panes, and Walls can connect to Structure Voids
+**1.21.71**
 - Pillagers, Vindicators, and Evokers, for some strange reason, can pick up a White Banner, and will even trade their weapons for it.
-- You can place Twisting Vines on Leaves and Chrous Flowers/Plants
-- Quicky Replacing blocks with cactus inside of water can cause the cactus to be waterlogged
-- Using Nether Portals you can create a solid block of water that will not flow. Placing Nether Portals on the side of some sort of enclosed aquarium and breaking the obsidian on the portal will not update the water leaving it floating on its side
-- Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
+- Placing Sea Pickles against a non full block will break the block the sea pickles are placed against meaning you can use this for bedrock removal
 - Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
-- Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE
-- Leashes can be connected to the Middle Block of three walls
-- Placing Torchflower seeds and bonemealing them once on farmland and then quickly break and replace the farmland with any block and then bonemealing the torchflower to its final stage will remove its pending ticks causing it to be placed on any block
-- Floating Wind Charges can be created using this setup https://www.youtube.com/shorts/gcm_0NAtwtE
-- Spawning a Creaking via its heart and name tagging it so it won't despawn, and then taking it about 400 blocks away from its heart will cause it to be out of range of the heart. Now to keep it from dying you must go back to the Creaking Heart during the day and wait till nighttime and relog, a creaking should spawn from the heart and you can then break the heart without the creaking disappearing
-- Striking a Villager in a minecart with a lightning bolt will cause it to convert to a witch that will not attack you, make sure it stays in the minecart and keep it on the rails otherwise it will become hostile and attack you
-- Pushing a Witch into an end portal while it is drinking a potion will keep it in it's drinking animation
-- Removing the mob that a Fox is attacking will cause the Fox to stay in its attacking animation. To keep it from resetting, you can relog and it will be permanent.
-- Drowneds that pick up tridents in this version won't be able to throw them
+
 
 **Preview 1.21.70.22**
 - The Invincible Mobs from 1.17.0 have been removed entirely but if you obtain an Invincible Axolotl in a bucket they will turn into a Disappearing Axolotl in a Bucket. Warning don't place it down because it will immediately disappear
@@ -606,3 +590,17 @@ ________________________________________________________________________________
 - If the mob that the fox is attacking is removed and the fox lands in snow layers, it will get snuck in the falling position "sniffing position", to keep this you need to simply relog and make sure the fox never sees any rabbits or chickens or it will reset
 - Fireballs, Wither Skulls, and Llama Spit can all be stopped using a honey and water bubble contraption that will be linked in the "Links" folder
 - Dragon Fireballs can also be stopped using a different honey contraption that will also be linked in the "Links" folder
+- Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
+- Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
+- You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
+- Fences, Iron bars, Glass Panes, and Walls can connect to Structure Voids
+- You can place Twisting Vines on Leaves and Chrous Flowers/Plants
+- Quicky Replacing blocks with cactus inside of water can cause the cactus to be waterlogged
+- Using Nether Portals you can create a solid block of water that will not flow. Placing Nether Portals on the side of some sort of enclosed aquarium and breaking the obsidian on the portal will not update the water leaving it floating on its side
+- Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
+- Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE
+- Leashes can be connected to the Middle Block of three walls
+- Placing Torchflower seeds and bonemealing them once on farmland and then quickly break and replace the farmland with any block and then bonemealing the torchflower to its final stage will remove its pending ticks causing it to be placed on any block
+- Spawning a Creaking via its heart and name tagging it so it won't despawn, and then taking it about 400 blocks away from its heart will cause it to be out of range of the heart. Now to keep it from dying you must go back to the Creaking Heart during the day and wait till nighttime and relog, a creaking should spawn from the heart and you can then break the heart without the creaking disappearing
+- Striking a Villager in a minecart with a lightning bolt will cause it to convert to a witch that will not attack you, make sure it stays in the minecart and keep it on the rails otherwise it will become hostile and attack you
+- Pushing a Witch into an end portal while it is drinking a potion will keep it in it's drinking animation
