@@ -257,6 +257,9 @@ ________________________________________________________________________________
 **1.16.2-Prerelease 1**
 - Zombie villagers can be converted to regular villagers while riding a chicken. They will then not dismount the chicken, allowing for a villager riding a chicken, which is not normally obtainable. The villager can be rezombified, also allowing for adult zombie villagers riding chickens. This same change also allows for piglins riding any mobs to zombify, and thus allows for zombified piglins riding any mob on a boat from earlier versions.
 
+**21w51a**
+- In 21w03a, Shulkers were changed such that when they entered a minecart, they would immediately reorient themselves right-side up and parallel to the block grid, meaning that any shulkers put in minecarts before then will keep their previous orientations but not display them when upgraded. the rotation is not limited to just the 6 normal rotations an attached shulker can have, but is very free as shulkers before 21w03a would rotate to follow the facing direction of a minecart they are in, which would be kept on updating.
+
 **21w15a**
 - Any entity that receives the glowing effect through either a spectral arrow or from a creeper explosion lingering cloud of glowing will become permanately glowing and the glowing tag will be set to 1b.
 - Currently, zombie variants can hold glow ink sacs. This will not be possible in future versions, allowing for several discontinued zombie varieties.
