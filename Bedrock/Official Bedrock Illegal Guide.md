@@ -588,8 +588,6 @@ ________________________________________________________________________________
 - Zombifying a Baby Villager will result in a Zombified Baby Villager will illegal tags and effects such as being affected by poison, regeneration hurts them, they are not affected by smite, they can not enter boats or minecarts, they are not targeted by Iron Golems, Snow Golems, Johnny Vindicators, or Zoglins, unless the Zombie attacks them first, and they don't scare Villagers, Wandering Traders, or Armadillos
 - Breeding a Warm or Cold Pig, Chicken, or Cow with the superspeed pig from 1.16.220 will cause the baby to be faster than normal
 - If the mob that the fox is attacking is removed and the fox lands in snow layers, it will get snuck in the falling position "sniffing position", to keep this you need to simply relog and make sure the fox never sees any rabbits or chickens or it will reset
-- Fireballs, Wither Skulls, and Llama Spit can all be stopped using a honey and water bubble contraption that will be linked in the "Links" folder
-- Dragon Fireballs can also be stopped using a different honey contraption that will also be linked in the "Links" folder
 - Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
 - Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
 - You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
@@ -604,5 +602,6 @@ ________________________________________________________________________________
 - Spawning a Creaking via its heart and name tagging it so it won't despawn, and then taking it about 400 blocks away from its heart will cause it to be out of range of the heart. Now to keep it from dying you must go back to the Creaking Heart during the day and wait till nighttime and relog, a creaking should spawn from the heart and you can then break the heart without the creaking disappearing
 - Striking a Villager in a minecart with a lightning bolt will cause it to convert to a witch that will not attack you, make sure it stays in the minecart and keep it on the rails otherwise it will become hostile and attack you
 - Pushing a Witch into an end portal while it is drinking a potion will keep it in it's drinking animation
+- Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE
 - You can obtain Floating Llama Spit, Blaze Fireballs using this setup https://www.youtube.com/shorts/xfLQj22kDB0
 - You can obtain Floating Dragon Breath Fireballs using a setup made by SilentShadow which will be linked in the "Links" folder, it does take a long time to obtain though, it can take an average of 3 hours of waiting using ths setup
