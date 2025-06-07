@@ -92,6 +92,9 @@ ________________________________________________________________________________
 **1.16.100**
 - Placing an end gateway on the central pillar of the end fountain when the dragon perches, it will freeze the dragon. After relogging an end gateway will appear where the ender dragon was. This allows for over 20 end gateways in the main end island.
 
+**1.16.210.58 (Experimental)**
+- Walls could be connected to Lightning Rods
+
 **Beta 1.16.220.52**
 - Moss Blocks could be waterlogged
 
