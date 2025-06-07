@@ -1129,3 +1129,9 @@ ________________________________________________________________________________
 **25w07a**
 - Leaf Litter can be placed on blocks without a solid top surface (e.g. fences, walls, iron bars, glass panes)
 - Placing Cactus Flower on walls do not create pillars in this version
+
+**25w14craftmine**
+- Unlocking the "Starter Compass" will give you a compass with an illegal dimension nbt saved to it depending on the mine it is created in
+- In the dimensions/minecraft folder of your world, new level# (with # replaced by the level number) folders can be created in 25w14craftmine. There is no way to reach these dimensions after 25w14craftmine, making this a file discontinued feature.
+- In the data folder of your world, a new mine_data.dat file is created in 25w14craftmine that remains after updating out of the version
+- For each level created in 25w14craftmine, a datapack will be created to specify that level's dimension properties. They will remain after WSI, but will not properly register their dimensions due to using minecraft:generated as the type field, which is not a registered type by default
