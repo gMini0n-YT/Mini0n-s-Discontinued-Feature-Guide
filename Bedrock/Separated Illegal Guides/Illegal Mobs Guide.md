@@ -178,13 +178,7 @@ ________________________________________________________________________________
 - The Invincible Mobs from 1.17.0 have been removed entirely but if you obtain an Invincible Axolotl in a bucket they will turn into a Disappearing Axolotl in a Bucket. Warning don't place it down because it will immediately disappear
 
 **1.21.60**
-- You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
 - Pillagers, Vindicators, and Evokers, for some strange reason, can pick up a White Banner, and will even trade their weapons for it.
-- Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
-- Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE
-- Pushing a Witch into an end portal while it is drinking a potion will keep it in it's drinking animation
-- Removing the mob that a Fox is attacking will cause the Fox to stay in its attacking animation. To keep it from resetting, you can relog and it will be permanent.
-- Drowneds that pick up tridents in this version won't be able to throw them
 
 **Preview 1.21.70.25**
 - Shulker Bullets in this version conflict Levitation that lasts 200 seconds instead of 10, using this idea you can let the shulker bullet hit a fish and scoop it up allowing for a fish with 200 seconds of levitation that will be saved.
@@ -198,3 +192,7 @@ ________________________________________________________________________________
 - If the mob that the fox is attacking is removed and the fox lands in snow layers, it will get snuck in the falling position "sniffing position", to keep this you need to simply relog and make sure the fox never sees any rabbits or chickens or it will reset
 - Fireballs, Wither Skulls, and Llama Spit can all be stopped using a honey and water bubble contraption that will be linked in the "Links" folder
 - Dragon Fireballs can also be stopped using a different honey contraption that will also be linked in the "Links" folder
+- Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
+- Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE
+- Pushing a Witch into an end portal while it is drinking a potion will keep it in it's drinking animation
+- Drowneds that pick up tridents in this version won't be able to throw them
