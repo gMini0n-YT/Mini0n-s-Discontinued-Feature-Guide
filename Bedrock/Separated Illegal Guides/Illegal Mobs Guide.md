@@ -177,7 +177,7 @@ ________________________________________________________________________________
 - Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE
 - Pushing a Witch into an end portal while it is drinking a potion will keep it in it's drinking animation
 - Removing the mob that a Fox is attacking will cause the Fox to stay in its attacking animation. To keep it from resetting, you can relog and it will be permanent.
-
+- Drowneds that pick up tridents in this version won't be able to throw them
 
 **Preview 1.21.70.25**
 - Shulker Bullets in this version conflict Levitation that lasts 200 seconds instead of 10, using this idea you can let the shulker bullet hit a fish and scoop it up allowing for a fish with 200 seconds of levitation that will be saved.
