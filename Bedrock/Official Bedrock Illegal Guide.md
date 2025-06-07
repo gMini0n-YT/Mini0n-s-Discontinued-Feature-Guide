@@ -477,11 +477,9 @@ ________________________________________________________________________________
 
 **Preview 1.20.60.20 (Experiment Update 1.21)**
 - Mining decorated pots with loot tables using a silk touch pickaxe won't remove the loot table tag
-- Skeletons would retaliate against Breezes when hit by them, this mob will be angry at a Breeze, which normally isn't possible.
 
 **1.20.60 (Experimental)**
 -  Inside Woodland Mansions, it is possible to get an Efficiency I Chainmail Helmet. The Efficiency I Helmet is located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
--  Getting a breeze to attack the following mobs: zombie, husk, skeleton, stray, slime, spiders, and cave spiders will cause the mob to be permanently angered at the breeze
 
 **1.20.62**
 - Naming a Campfire and then placing it will give the campfire a hovering name tag above it
