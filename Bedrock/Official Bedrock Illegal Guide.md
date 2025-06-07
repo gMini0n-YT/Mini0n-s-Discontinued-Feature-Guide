@@ -593,6 +593,9 @@ ________________________________________________________________________________
 **Preview 1.21.70.25**
 - Shulker Bullets in this version conflict Levitation that lasts 200 seconds instead of 10, using this idea you can let the shulker bullet hit a fish and scoop it up allowing for a fish with 200 seconds of levitation that will be saved. 
 
+**1.21.80.25 (Experimental)**
+- Happy Ghasts in this version have 40 health (20 hearts), this will be changed in 1.21.80.27 where there health will be halved, experiments will turn off acheivements but if you rename your world in 0.11.0 it will turn acheivments back on
+
 **1.21.82**
 - Zombifying a Baby Villager will result in a Zombified Baby Villager will illegal tags and effects such as being affected by poison, regeneration hurts them, they are not affected by smite, they can not enter boats or minecarts, they are not targeted by Iron Golems, Snow Golems, Johnny Vindicators, or Zoglins, unless the Zombie attacks them first, and they don't scare Villagers, Wandering Traders, or Armadillos
 - Breeding a Warm or Cold Pig, Chicken, or Cow with the superspeed pig from 1.16.220 will cause the baby to be faster than normal
