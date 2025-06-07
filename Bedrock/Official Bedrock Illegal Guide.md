@@ -70,7 +70,7 @@ ________________________________________________________________________________
 **0.15.2.1 alpha (Android)**
 - Doors have a durability of 66 in this version and keep their damage value upon updating. Stacking Normal Doors with Durability Doors will remove the durability of the door.
 
-**0.15.0 - 0.12.1 alpha (Android)**
+**0.15.0 - 0.12.1 alpha (PC Exclusive)**
 - Downgrading from **0.15.0** to **0.12.1** alpha will transform these enchants which will transform back when updating: Fortune -> Power, Silk Touch -> Unbreaking, Infinity - Luck of the Sea. So putting Unbreaking on any item in **0.12.1** and then updating back to **0.15.0** will give you Silk Touch on any item. Putting Luck of the Sea on a Fishing Rod in **0.12.1** and updating to **0.15.0** will give you an Infinity Fishing Rod. Putting Power IV/V on a Book or Bow will give you a Fortune IV/V Book or Bow. Finally combining Power 1-5 and Unbreaking can give you a Silk Touch and Fortune enchantment on the same book. 
 
 **0.15.9 alpha (Android)**
@@ -475,6 +475,9 @@ ________________________________________________________________________________
 
 **1.20.72 (Experimental)**
 - Inside Woodland Mansions, it is possible to get an Efficiency I Chainmail Chestplate. The Efficiency I Chestplate is located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
+
+**1.20.80.21 - 1.20.80.20 (Downgrade) (Experimental)**
+- Shearing a Bogged and downgrading to 1.20.80.20 and then reupgrading back to 1.20.80.21 will make the mushrooms on the head of the bogged disappear but you can still shear it, this is due to the shearing mechanic on Boggs being added in 1.20.80.21
 
 **Preview 1.21.0.22**
 - Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Leggings. The Efficiency I Leggings are located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
