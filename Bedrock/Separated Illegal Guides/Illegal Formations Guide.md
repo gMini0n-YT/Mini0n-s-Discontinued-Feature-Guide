@@ -197,7 +197,7 @@ ________________________________________________________________________________
 - You can place Leaf Litter and the Cactus Flower on Hoppers
 - You can also place Dry Grass on Farmland
 
-**1.21.60**
+**1.21.82**
 - Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
 - Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
 - You can snow-log resin, skull veins, glow lichen, and dead bushes
