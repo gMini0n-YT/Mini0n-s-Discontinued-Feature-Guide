@@ -450,3 +450,6 @@ ________________________________________________________________________________
 
 **25w03a**
 - Axolotls picked up in water buckets do not save their variant in the resulting bucket of axolotl. These buckets of axolotl update into later versions where you can only obtain buckets of axolotl with a variant saved. This bucket will always spawn a lucy (pink) axolotl. It is observable because it only has 11 components instead of the normal 12 on a bucket of axolotl.
+
+**25w14craftmine**
+- Unlocking the "Starter Compass" will give you a compass with an illegal dimension nbt saved to it depending on the mine it is created in
