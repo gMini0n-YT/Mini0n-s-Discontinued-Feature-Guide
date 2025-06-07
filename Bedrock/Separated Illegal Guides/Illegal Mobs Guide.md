@@ -141,6 +141,9 @@ ________________________________________________________________________________
 **1.20.40**
 - Putting Baby Camels and Baby Sniffers in a boat won't eject them when they grow up
 
+**1.20.60 (Experimental)**
+-  Getting an armadillo to roll up and then logging out will cause the armadillo to appear to be back to its normal state but it is still rolled up and will not move. To keep this make sure you do not sprint or ride a mob toward the armadillo, and keep mobs away from it
+
 **1.20.80.21 - 1.20.80.20 (Downgrade) (Experimental)**
 - Shearing a Bogged and downgrading to 1.20.80.20 and then reupgrading back to 1.20.80.21 will make the mushrooms on the head of the bogged disappear but you can still shear it, this is due to the shearing mechanic on Boggs being added in 1.20.80.21
 
