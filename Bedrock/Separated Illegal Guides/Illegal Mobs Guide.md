@@ -107,6 +107,7 @@ ________________________________________________________________________________
 
 **1.18.30**
 - Giving Wall Skulll to armor stands and mobs will cause them to hold it in their hand, which when updating to 1.21.30 will cause the wall skulls to change to skeleton skull which allows for mobs holding skeleton skulls in their hand
+- Trader Llamas before 1.19.0.20 will not be separate from llamas meaning that they will be titled llama instead of Trader Llama in their inventory screen.
 
 **Beta 1.19.0.21**
 - Allays in this version have 8 hearts/16 health points instead of 10 hearts/20 health points
