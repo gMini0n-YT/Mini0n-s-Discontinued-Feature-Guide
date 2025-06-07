@@ -72,7 +72,7 @@ ________________________________________________________________________________
 **1.16.220**
 - Foxes can put on armor by dropping it to them. It won't be visible unless you use the "Discontinued Feature Texture Pack"  in the "Texture Pack" folder.
 - Glowstone can be dispensed on hostile mobs that can wear armor, armor stands, and players. It won't be visible unless you use the "Discontinued Feature Texture Pack"  in the "Texture Pack" folder.
-- When animals and villagers are bred, they use the current speed rather than the base speed. So by splashing two animals/villagers with splash potion of speed or slowness and then breeding them, the offspring will be faster/slower than their parents. This process can be repeated endlessly, make sure to get a superspeed pig for a future illegal in 1.21.82
+- When animals and villagers are bred, they use the current speed rather than the base speed. So by splashing two animals/villagers with splash potion of speed or slowness and then breeding them, the offspring will be faster/slower than their parents. This process can be repeated endlessly, make sure to get a superspeed pig, cow, and chicken for a future illegal in 1.21.82
 
 **1.17.0**
 - Vindicators can spawn from Patrols when the world difficulty is set to Hard. Making it possible to obtain Vindicator Patrol followers and Patrol Captains. Vindicator Patrol Captains can be distinguished from normal Vindicators with the Discontinued Feature Tweaks texture pack
@@ -186,3 +186,4 @@ ________________________________________________________________________________
 
 **1.21.82**
 - Zombifying a Baby Villager will result in a Zombified Baby Villager will illegal tags and effects such as being affected by poison, regeneration hurts them, they are not affected by smite, they can not enter boats or minecarts, they are not targeted by Iron Golems, Snow Golems, Johnny Vindicators, or Zoglins, unless the Zombie attacks them first, and they don't scare Villagers, Wandering Traders, or Armadillos
+- Breeding a Warm or Cold Pig, Chicken, or Cow with the superspeed pig from 1.16.220 will cause the baby to be faster than normal
