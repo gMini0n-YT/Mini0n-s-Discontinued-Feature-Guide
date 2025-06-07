@@ -15,6 +15,9 @@ ________________________________________________________________________________
 **0.12.0 alpha (Android)**
 - Iron golems in this version have no knockback resistance
 
+**0.12.1 alpha (PC)**
+- Ghasts in this version would be insanely fast
+
 **0.15.9 alpha (Android)**
 - Taming Cats in this version and leaving them in unloaded chunks until **1.8.0.8** will turn them into Tamed Ocelots
 - Skeleton Horses in this Version have more health and speed values than normal horses which will be changed in the future
