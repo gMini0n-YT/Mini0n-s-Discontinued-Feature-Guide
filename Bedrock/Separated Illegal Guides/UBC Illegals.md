@@ -33,8 +33,12 @@ ________________________________________________________________________________
 **1.18.30.33 - 1.18.30.31 (Experimental) (UBC)**
 - Downgrading Reinforced Deepslate from 1.18.30.33 as a block to 1.18.30.31 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you Reinforced Deepslate as a tile item.
 
+**Beta 1.19.0.20 - 1.18.31 (Downgrading) (Experimental) (0.12 Downgrading) (UBC)**
+- Downgrading a Mangrove door in block form from 1.19.0.20 to 1.18.31 will cause it to convert to Unknown Blocks and when updating them back in item form they will become unplacable
+
 **Preview 1.19.50.21 - Preview 1.19.50.20 (UBC) (Experimental)**
 - Downgrading Double Bamboo Slabs and Double Mosaic Bamboo Slabs from 1.19.50.21 as a block to 1.19.50.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you Double Bamboo Slabs and Double Mosaic Bamboo Slabs as a tile item.
+- Downgrading a Bamboo door in block form from 1.19.50.21 to 1.19.50.20 will cause it to convert to Unknown Blocks and when updating them back in item form they will become unplacable
 
 **Preview 1.19.70.23 - Preview 1.19.70.22 (UBC) (Experimental)**
 - Downgrading the Torchflower crop from 1.19.70.23 as a block to 1.19.70.22 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Torchflower as a tile item.
