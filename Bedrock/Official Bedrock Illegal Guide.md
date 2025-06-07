@@ -184,6 +184,7 @@ ________________________________________________________________________________
 - Vindicators that spawn in Woodland Mansions are neutral in versions before 1.16. Hitting these Vindicators or renaming them will switch them back to hostile.
 - Endermen can pick up netherack in their hands (WARNING: In bedrock edition, endermen can teleport out of boats so there is no way to store him without putting him in a 1x1 block in the middle of the ocean so he can't teleport or place down the block, after 1.21.60.27, endermen will stay in boats, just make sure to not give any room for the endermen to place down the block otherwise the illegal will be removed.
 - Pillager Captains that spawn in this version would be peaceful and not attack
+- Mobs that spawn naturally will not despawn even if they don't have a nametag, this includes all mobs except: Bats, Squids, Cave Spiders, Dolphins, Endermen, Polar Bears, Spiders, Blazes, Creepers, Ghasts, Guardians, Magma Cubes, Phantom, Slimes, Vexes
 
 **Beta 1.16.0.51**
 - Piglins have more health in this version and they will keep their health when updating through versions
