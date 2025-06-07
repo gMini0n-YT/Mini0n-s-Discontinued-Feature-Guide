@@ -43,6 +43,9 @@ ________________________________________________________________________________
 **Preview 1.19.70.23 - Preview 1.19.70.22 (UBC) (Experimental)**
 - Downgrading the Torchflower crop from 1.19.70.23 as a block to 1.19.70.22 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Torchflower as a tile item.
 
+**Preview 1.19.80.20 - Preview 1.19.33 (UBC) (Experimental) (0.12 Downgrading)**
+- Downgrading a Cherry door in block form from 1.19.80.20 to 1.19.73 will cause it to convert to Unknown Blocks and when updating them back in item form they will become unplacable
+
 **Preview 1.20.10.20 - 1.20.1 (0.12.1 Downgrade)**
 - Downgrading Dyed Shulker Boxes as blocks from 1.20.10.20 - 1.20.1 will convert them to unknown blocks. Using this method, mining up the unknown blocks and letting them stack can give you stacked shulker boxes and if you put them in an undyed shulker boxes they will be stacked shulker boxes in a shulker box so it will be considered a double illegal.
 
