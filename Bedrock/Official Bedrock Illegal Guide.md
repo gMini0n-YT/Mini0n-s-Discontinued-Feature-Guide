@@ -241,6 +241,9 @@ ________________________________________________________________________________
 **Beta 1.16.210.57 - Beta 1.16.210.55 (Experimental) (UBC)**
 - Downgrading all 7 Double Cut Copper Slabs (excluding the Double Waxed Oxidized Copper Slab) to 1.16.210.55 will convert them to unknown blocks. Mining up the Unknown blocks while making sure they do not stack and updating to 1.21.30 will give you 7 different Double Cut Copper Slabs
 
+**1.16.210.58 (Experimental)**
+- Walls could be connected to Lightning Rods
+
 **Beta 1.16.210.59 - Beta 1.16.210.58 (Experimental) (UBC)**
 - Downgrading Glow Item Frames in block form from 1.16.210.59 to 1.16.210.58 will cause them to convert to Unknown Blocks and when updating them back in item form they will become unplacable
 
