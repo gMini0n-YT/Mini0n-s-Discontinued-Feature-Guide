@@ -920,6 +920,9 @@ ________________________________________________________________________________
 **22w24a**
 - Allays can be duplicated while handing them an amethyst shard while they are dancing to a jukebox. Allays updated from earlier versions will have the CanDuplicate tag set to 0, allowing for discontinued allay variants
 
+**22w42a**
+- You can place a Hanging Sign on the bottom of a fence gate
+
 **22w43a**
 - Placing a birch wall sign on the side of a block and placing a note block above it sets the note block instrument to snare. In future versions this instrument will be bass, making this a discontinued note block variant.
 - Dropping an anvil onto a fireball and then having it land inside a moving piston, it will create a fireball that has that anvil as the owner. This fireball can be made stationary by pushing it with a piston into a cobweb to preserve it.
