@@ -214,6 +214,9 @@ ________________________________________________________________________________
 - Suspicious Sand can be obtained by letting it fall onto an item frame
 - Decorated Pots stack with each other
 
+**Preview 1.19.80.20 - Preview 1.19.33 (UBC) (Experimental) (0.12 Downgrading)**
+- Downgrading a Cherry door in block form from 1.19.80.20 to 1.19.73 will cause it to convert to Unknown Blocks and when updating them back in item form they will become unplacable
+
 **Preview 1.19.80.21**
 - Suspicious Gravel can be obtained by letting it fall onto an item frame
 
