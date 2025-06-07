@@ -61,6 +61,7 @@ ________________________________________________________________________________
 
 **13w49a**
 - Added Chicken Jockeys. Chickens in chicken jockeys currently lay eggs, as the "IsJockey" tag does not exist yet. Chickens also maintain agression against the player after the zombie is dead, despite not being able to deal damage.
+- Zombies, zombie villagers, and zombie pigmen (if made weaponless first) chicken jockeys could pick up eggs from 13w49a to 1.7.10.
 
 **14w02a**
 - Completely reworked villager trades. Almost all trades will be discontinued in future versions, either by trade, amount, or tier it is within. Some specific trades that will be discontinued are: Shepherds Selling All 16 Wool Colors, Librarians Buying 2 Written Books, and Leatherworkers Selling Enchanted Leather Tunic. Trades are now generated based on tier and are more specifically ordered. All trades from previous versions are considered tier 0 trades, meaning all trades from this version can be stacked on top of trades from previous versions.
