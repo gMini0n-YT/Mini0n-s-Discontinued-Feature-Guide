@@ -68,6 +68,7 @@ ________________________________________________________________________________
 **1.16.201**
 - Pushing End Crystals with a flying machine while summoning the ender dragon, will keep the ender crystal from updating, because of this they will stay indestructible and permanently have the summoning beam
 - Punching an End Crystal while summoning the Ender Dragon, and standing in the exit portal will send you back to the overworld. As a result you will have 4 beaming crystals at your exit portal and they will be destructible. You sometimes may get 3 end crystals at your exit portal depending on the speed you go back to the Overworld.
+- Equiping Mobs with netherite armor will give them Knockback resistance of 90%, this was changed in 1.18.30.20 which allows for mobs with higher knockback resistance
 
 **1.16.220**
 - Foxes can put on armor by dropping it to them. It won't be visible unless you use the "Discontinued Feature Texture Pack"  in the "Texture Pack" folder.
