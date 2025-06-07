@@ -327,6 +327,7 @@ ________________________________________________________________________________
 - Mobs spawned during the mega spud boss battle all have persistence required:1b. This allows for chickens, armadillos, creepers, ghasts, and giants to all generate with persistence_required:1b, all of which are discontinued variants of these mobs.
 - The spiders spawned during the mega spud boss battle can be skeleton jockeys, allowing for spider jockeys to be in the end after teleporting the mega spud to the end. Normally jockeys cannot travel through portals, meaning these are mobs in an invalid dimension.
 - Giants have AI in this version, allowing for the player to get a killed by giant statistic
+- After transporting the Mega Spud to the overworld using the potato portal you can have it throw its fireball which has ExplosionPower:2b in the world, this is the only way of getting power 2b fireballs at the moment. 
 
 **24w13a**
 > [!Note]
