@@ -115,6 +115,7 @@ ________________________________________________________________________________
 **1.19.2**
 - Shulkers inflict Levitation 2 instead of Levitation 1. To keep this effect, you can let a shulker hit any scoopable mob and promptly scoop the mob with a bucket after it gets hit.
 - Ravagers in this version have a lot slower base speed than Ravagers spawned in newer versions
+- Wardens in this version could not be pushed by a player or a mob because they do not have the "pushable" tag. This will stay upon updating
 
 **Preview 1.19.10.23**
 - Cod, Salmon, Tropical Fish, and Pufferfish have 3 hearts/6 health points instead of 1.5 hearts/3 health points
