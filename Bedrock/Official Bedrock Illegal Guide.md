@@ -541,6 +541,9 @@ ________________________________________________________________________________
 - You can overfill bundles up to 4096 items. (You can only do this on touchscreen devices). If you fill a bundle with less than one stack of an item and then by clicking on it and then swapping the items with a full stack of the same items will swap the items and you will now have a stack of the items in the bundle. Using this method having extra items in the bundle before doing this will create overstacked bundles with up to 4096 items.
 - Vindicators and Evokers would retaliate to Pillagers who shot them
 
+**Preview 1.21.50.20 - 1.20.62 (UBC) (0.12 Downgrading)**
+- Downgrading all Pale Oak doors in block form from 1.21.50.20 to 1.20.62 will cause them to convert to Unknown Blocks and when updating them back in item form they will become unplacable
+
 **Preview 1.21.50.20**
 - Creaking Hearts can be put in the fuel slot of the furnace
 
