@@ -77,6 +77,7 @@ ________________________________________________________________________________
 - Foxes can put on armor by dropping it to them. It won't be visible unless you use the "Discontinued Feature Texture Pack"  in the "Texture Pack" folder.
 - Glowstone can be dispensed on hostile mobs that can wear armor, armor stands, and players. It won't be visible unless you use the "Discontinued Feature Texture Pack"  in the "Texture Pack" folder.
 - When animals and villagers are bred, they use the current speed rather than the base speed. So by splashing two animals/villagers with splash potion of speed or slowness and then breeding them, the offspring will be faster/slower than their parents. This process can be repeated endlessly, make sure to get a superspeed pig, cow, and chicken for a future illegal in 1.21.82
+- Withers that are below half health in this version will not be able to heal, updating this wither to newer version also will keep this trait and can not be healed through instant damage potions
 
 **1.17.0**
 - Vindicators can spawn from Patrols when the world difficulty is set to Hard. Making it possible to obtain Vindicator Patrol followers and Patrol Captains. Vindicator Patrol Captains can be distinguished from normal Vindicators with the Discontinued Feature Tweaks texture pack
