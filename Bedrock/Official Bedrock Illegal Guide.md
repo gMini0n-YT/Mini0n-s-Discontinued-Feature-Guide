@@ -124,6 +124,7 @@ ________________________________________________________________________________
 - Impaling and Riptide use the same id as Curse of Binding and Curse of Vanishing respectively, so in future versions all the Impaling and Riptide books will turn into Curse of Binding and Curse of Vanishing. This allows for Curse of Binding 2-5 and Curse of Vanishing 2-3 books and villager trades.
 - Helmets can be enchanted with any enchant in the game this allows for a Helmet with sword enchants or any other enchants in the game.
 - Invalid Data Value Trapdoors can be obtained by mining a trapdoor in survival mode. The direction it was placed will determine the different data value the trapdoor has when dropped.
+- Updating Mobs with a name tag to this version will remove their nametag, meaning that if you update a vindicator that is named Johnny, it will remove the nametag but the vindicator will still attack whatever it sees.
 
 **1.2.13.8 - 1.2.6.60**
 > [!CAUTION]
