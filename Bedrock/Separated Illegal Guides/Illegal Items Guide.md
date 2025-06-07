@@ -247,6 +247,8 @@ ________________________________________________________________________________
 > [!CAUTION]
 > Before updating to this version, make sure to put all your petrified oak slabs in an unplaced shulker box or they will turn into Stone Brick Slabs until 1.21.10.20
 - Enchant a mace with at least Density V, Breach IV, & Bane of Arthopods/Smite V, if you do so you will have almost every enchant on a mace. Density V, Breach IV, & Bane of Arthropods/Smite V are incompatible with each other in normal versions
+- Trial Chambers that spawn with Decorated Pots have loot tables, if you break these pots the loot table will not be removed from the item
+- Villagers in this version will sell Wind Burst III enchantments and these enchanted books will have a lower enchantment cost than the books from an Ominous Vault meaning this is two illegals for the price of one
 
 **Preview 1.21.0.23 - Preview 1.21.0.21**
 - Wearing down two maces to about 200ish durability, then downgrading to 1.21.0.21, their durability becomes negative. You can then combine them with an anvil to make their durability go down even more, and to ensure it stays negative when updating back.
