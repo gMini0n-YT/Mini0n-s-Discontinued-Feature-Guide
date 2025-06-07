@@ -235,7 +235,8 @@ ________________________________________________________________________________
 - Punching an End Crystal while summoning the Ender Dragon, and standing in the exit portal will send you back to the overworld. As a result you will have 4 beaming crystals at your exit portal and they will be destructible. You sometimes may get 3 end crystals at your exit portal depending on the speed you go back to the Overworld.
 - Wandering Traders sell ink sacs with a Damage Value of 4
 - Inside Woodland Mansions, it is possible to get Efficiency I leather helmet. The Efficiency I Helmets are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still vislbe.
-- Before 1.16.220, zombies and skeletons would put shields on the wrong arm. 
+- Before 1.16.220, zombies and skeletons would put shields on the wrong arm.
+- Equiping Mobs with netherite armor will give them Knockback resistance of 90%, this was changed in 1.18.30.20 which allows for mobs with higher knockback resistance
 
 **Beta 1.16.210.57 - Beta 1.16.210.55 (Experimental) (UBC)**
 - Downgrading all 7 Double Cut Copper Slabs (excluding the Double Waxed Oxidized Copper Slab) to 1.16.210.55 will convert them to unknown blocks. Mining up the Unknown blocks while making sure they do not stack and updating to 1.21.30 will give you 7 different Double Cut Copper Slabs
