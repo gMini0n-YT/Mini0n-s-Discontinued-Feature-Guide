@@ -144,6 +144,7 @@ ________________________________________________________________________________
 **1.4.0**
 - Putting a TNT on a string that is connected to tripwire hooks and blowing it up, it can create a tripwire hook ghost block. If you mine the ghost block at the same time a portal lights you have an oppurtunity to obtain a portal tile. https://www.youtube.com/watch?v=dYYz6a0VyDQ
 - Portal Blocks do not update if placed next to each other.
+- Dolphins before 1.5 could not be fed raw cod and this will not revert upon updating to newer versions
 
 **1.5.0**
 - Flowers, Saplings, and Dead Bushes can be waterlogged. Make sure to make the sapling a dark oak sapling so it doesn't update
