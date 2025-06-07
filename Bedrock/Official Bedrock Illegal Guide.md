@@ -285,7 +285,7 @@ ________________________________________________________________________________
 - Tying an axolotl to a fence/wall and scooping the axolotl up with a water bucket will not remove the leash knot on the fence/wall and the axolotls will remain unattached and unleashable
 - Using Dispensers to remove the water from bubble columns does not destroy the bubble column itself.
 - Leashing Axolotls before scooping them up won't unleash the axolotl
-- When a mob is left with only one heart and is simultaneously struck by an Instant Health Potion and an Instant Damage Potion, the mob becomes invincible. If the mob appears red and shaking, rejoining the game will restore its normal appearance
+- When a mob is left with only one heart and is simultaneously struck by an Instant Health Potion and an Instant Damage Potion, the mob becomes invincible. If the mob appears red and shaking, rejoining the game will restore its normal appearance, make sure to get a invincible pig for a future illegal in 1.21.82
 - Inside Woodland Mansions, it is possible to black glow sticks. The Black Glow Sticks are a lot rarer and a lot harder to find. To find the Glow Sticks you must find the "secret" end portal room within the Woodland Mansion. The room is a lot harder to find because it has no indicator to locate it. To make things easier for you, go ahead and download the "Mansion X-Ray.mcpack" from the "Texture Pack" folder. This pack will x-ray through the dark-oak planks in the woodland mansion.
 
 **1.17.10.22 - 1.17.10.21 (UBC)**
