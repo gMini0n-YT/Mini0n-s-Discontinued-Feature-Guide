@@ -597,7 +597,6 @@ ________________________________________________________________________________
 - Using Nether Portals you can create a solid block of water that will not flow. Placing Nether Portals on the side of some sort of enclosed aquarium and breaking the obsidian on the portal will not update the water leaving it floating on its side
 - Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
 - Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE
-- Leashes can be connected to the Middle Block of three walls
 - Placing Torchflower seeds and bonemealing them once on farmland and then quickly break and replace the farmland with any block and then bonemealing the torchflower to its final stage will remove its pending ticks causing it to be placed on any block
 - Spawning a Creaking via its heart and name tagging it so it won't despawn, and then taking it about 400 blocks away from its heart will cause it to be out of range of the heart. Now to keep it from dying you must go back to the Creaking Heart during the day and wait till nighttime and relog, a creaking should spawn from the heart and you can then break the heart without the creaking disappearing
 - Striking a Villager in a minecart with a lightning bolt will cause it to convert to a witch that will not attack you, make sure it stays in the minecart and keep it on the rails otherwise it will become hostile and attack you
@@ -606,3 +605,10 @@ ________________________________________________________________________________
 - You can obtain Floating Llama Spit, Blaze Fireballs, Snowballs using this setup https://www.youtube.com/shorts/0eaGBf1xqas
 - You can obtain Floating Dragon Breath Fireballs using a setup made by SilentShadow which will be linked in the "Links" folder, it does take a long time to obtain though, it can take an average of 3 hours of waiting using ths setup
 - Logging out the immediate second a TnT minecart lands on an activator rail will cause the TNT Minecart to become invincible and not be able to blow up on activator rails
+
+**Preview 1.21.90.25**
+- Happy Ghasts in this version could not be saddled, rode, or temptable when updating to versions past 1.21.90.26
+
+**1.21.90**
+- Allays can hold leads  which will be discontinued in future versions
+- Leashing untamed wolves and making them angry at a skeleton or a sheep will cause the leash to stay on, updating to newer versions will cause the leash to become infinite and the dog will be able to exceed 10 blocks away from the fence, the leash will snap if the dog kills the prey or it can't see the mob it wants to attack and becomes "unangrified"
