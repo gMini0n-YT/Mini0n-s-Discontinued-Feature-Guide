@@ -197,3 +197,10 @@ ________________________________________________________________________________
 - You can obtain Floating Llama Spit, Blaze Fireballs using this setup https://www.youtube.com/shorts/xfLQj22kDB0
 - You can obtain Floating Dragon Breath Fireballs using a setup made by SilentShadow which will be linked in the "Links" folder, it does take a long time to obtain though, it can take an average of 3 hours of waiting using ths setup
 - Logging out the immediate second a TnT minecart lands on an activator rail will cause the TNT Minecart to become invincible and not be able to blow up on activator rails
+
+**Preview 1.21.90.25**
+- Happy Ghasts in this version could not be saddled, rode, or temptable when updating to versions past 1.21.90.26
+
+**1.21.90**
+- Allays can hold leads  which will be discontinued in future versions
+- Leashing untamed wolves and making them angry at a skeleton or a sheep will cause the leash to stay on, updating to newer versions will cause the leash to become infinite and the dog will be able to exceed 10 blocks away from the fence, the leash will snap if the dog kills the prey or it can't see the mob it wants to attack and becomes "unangrified"
