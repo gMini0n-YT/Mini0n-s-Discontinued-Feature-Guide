@@ -342,9 +342,6 @@ ________________________________________________________________________________
 **14w25a**
 - A Wet sponge can be placed in the nether and will not update to Dry Sponge
 - Removed the item forms of flowing and stationary water and lava blocks (8, 9, 10 & 11), double stone and wooden slabs (43 & 125), fire blocks (51), Nether portal and End portal blocks (90 & 119), cocoa pods (127), and potato and carrot crops (141 & 142)
-- 
-
-**14w25b**
 - Torches can be placed in an assortment of invalid locations, including floating, on other torches, and on transparent blocks, all of which are discontinued block configurations. This occurs by placing them on a block that is against a solid block, instead of changing the position to a wall torch, the position is maintained as a standing torch.
 
 **14w26c**
