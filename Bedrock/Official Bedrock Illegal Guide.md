@@ -612,3 +612,6 @@ ________________________________________________________________________________
 **1.21.90**
 - Allays can hold leads  which will be discontinued in future versions
 - Leashing untamed wolves and making them angry at a skeleton or a sheep will cause the leash to stay on, updating to newer versions will cause the leash to become infinite and the dog will be able to exceed 10 blocks away from the fence, the leash will snap if the dog kills the prey or it can't see the mob it wants to attack and becomes "unangrified"
+
+**1.21.92**
+- Lagging out the game and then opening three chests in a row will cause one of the chests to be open
