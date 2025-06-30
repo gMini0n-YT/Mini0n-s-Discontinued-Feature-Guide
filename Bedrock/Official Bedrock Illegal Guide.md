@@ -584,13 +584,21 @@ ________________________________________________________________________________
 **1.21.80.25 (Experimental)**
 - Happy Ghasts in this version have 40 health (20 hearts), this will be changed in 1.21.80.27 where there health will be halved, experiments will turn off acheivements but if you rename your world in 0.11.0 it will turn acheivments back on
 
-**1.21.82**
+**Preview 1.21.90.25**
+- Happy Ghasts in this version could not be saddled, rode, or temptable when updating to versions past 1.21.90.26
+
+**1.21.90**
+- Allays can hold leads  which will be discontinued in future versions
+- Leashing untamed wolves and making them angry at a skeleton or a sheep will cause the leash to stay on, updating to newer versions will cause the leash to become infinite and the dog will be able to exceed 10 blocks away from the fence, the leash will snap if the dog kills the prey or it can't see the mob it wants to attack and becomes "unangrified"
+
+**1.21.92**
+- Lagging out the game and then opening three chests in a row will cause one of the chests to be open
 - Zombifying a Baby Villager will result in a Zombified Baby Villager will illegal tags and effects such as being affected by poison, regeneration hurts them, they are not affected by smite, they can not enter boats or minecarts, they are not targeted by Iron Golems, Snow Golems, Johnny Vindicators, or Zoglins, unless the Zombie attacks them first, and they don't scare Villagers, Wandering Traders, or Armadillos
 - Breeding a Warm or Cold Pig, Chicken, or Cow with the superspeed pig from 1.16.220 will cause the baby to be faster than normal
 - If the mob that the fox is attacking is removed and the fox lands in snow layers, it will get snuck in the falling position "sniffing position", to keep this you need to simply relog and make sure the fox never sees any rabbits or chickens or it will reset
-- Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
 - Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
 - You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
+- Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
 - Fences, Iron bars, Glass Panes, and Walls can connect to Structure Voids
 - You can place Twisting Vines on Leaves and Chrous Flowers/Plants
 - Quicky Replacing blocks with cactus inside of water can cause the cactus to be waterlogged
@@ -605,13 +613,3 @@ ________________________________________________________________________________
 - You can obtain Floating Llama Spit, Blaze Fireballs, Snowballs using this setup https://www.youtube.com/shorts/0eaGBf1xqas
 - You can obtain Floating Dragon Breath Fireballs using a setup made by SilentShadow which will be linked in the "Links" folder, it does take a long time to obtain though, it can take an average of 3 hours of waiting using ths setup
 - Logging out the immediate second a TnT minecart lands on an activator rail will cause the TNT Minecart to become invincible and not be able to blow up on activator rails
-
-**Preview 1.21.90.25**
-- Happy Ghasts in this version could not be saddled, rode, or temptable when updating to versions past 1.21.90.26
-
-**1.21.90**
-- Allays can hold leads  which will be discontinued in future versions
-- Leashing untamed wolves and making them angry at a skeleton or a sheep will cause the leash to stay on, updating to newer versions will cause the leash to become infinite and the dog will be able to exceed 10 blocks away from the fence, the leash will snap if the dog kills the prey or it can't see the mob it wants to attack and becomes "unangrified"
-
-**1.21.92**
-- Lagging out the game and then opening three chests in a row will cause one of the chests to be open
