@@ -617,3 +617,4 @@ ________________________________________________________________________________
 - You can obtain Floating Llama Spit, Blaze Fireballs, Snowballs using this setup https://www.youtube.com/shorts/0eaGBf1xqas
 - You can obtain Floating Dragon Breath Fireballs using a setup made by SilentShadow which will be linked in the "Links" folder, it does take a long time to obtain though, it can take an average of 3 hours of waiting using ths setup
 - Logging out the immediate second a TnT minecart lands on an activator rail will cause the TNT Minecart to become invincible and not be able to blow up on activator rails
+- If u give iron to an iron golem 0.50 secs before it dies it will become immortal as shown: https://youtube.com/shorts/TzS-TIkIW3Q?si=EryTPHhlfc_r2mpd
