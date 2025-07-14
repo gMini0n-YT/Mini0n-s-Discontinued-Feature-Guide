@@ -186,7 +186,14 @@ ________________________________________________________________________________
 **1.21.80.25 (Experimental)**
 - Happy Ghasts in this version have 40 health (20 hearts), this will be changed in 1.21.80.27 where there health will be halved, experiments will turn off acheivements but if you rename your world in 0.11.0 it will turn acheivments back on
 
-**1.21.82**
+**Preview 1.21.90.25**
+- Happy Ghasts in this version could not be saddled, rode, or temptable when updating to versions past 1.21.90.26
+
+**1.21.90**
+- Allays can hold leads  which will be discontinued in future versions
+- Leashing untamed wolves and making them angry at a skeleton or a sheep will cause the leash to stay on, updating to newer versions will cause the leash to become infinite and the dog will be able to exceed 10 blocks away from the fence, the leash will snap if the dog kills the prey or it can't see the mob it wants to attack and becomes "unangrified"
+
+**1.21.92**
 - Zombifying a Baby Villager will result in a Zombified Baby Villager will illegal tags and effects such as being affected by poison, regeneration hurts them, they are not affected by smite, they can not enter boats or minecarts, they are not targeted by Iron Golems, Snow Golems, Johnny Vindicators, or Zoglins, unless the Zombie attacks them first, and they don't scare Villagers, Wandering Traders, or Armadillos
 - Breeding a Warm or Cold Pig, Chicken, or Cow with the superspeed pig from 1.16.220 will cause the baby to be faster than normal
 - If the mob that the fox is attacking is removed and the fox lands in snow layers, it will get snuck in the falling position "sniffing position", to keep this you need to simply relog and make sure the fox never sees any rabbits or chickens or it will reset
@@ -197,10 +204,3 @@ ________________________________________________________________________________
 - You can obtain Floating Llama Spit, Blaze Fireballs using this setup https://www.youtube.com/shorts/xfLQj22kDB0
 - You can obtain Floating Dragon Breath Fireballs using a setup made by SilentShadow which will be linked in the "Links" folder, it does take a long time to obtain though, it can take an average of 3 hours of waiting using ths setup
 - Logging out the immediate second a TnT minecart lands on an activator rail will cause the TNT Minecart to become invincible and not be able to blow up on activator rails
-
-**Preview 1.21.90.25**
-- Happy Ghasts in this version could not be saddled, rode, or temptable when updating to versions past 1.21.90.26
-
-**1.21.90**
-- Allays can hold leads  which will be discontinued in future versions
-- Leashing untamed wolves and making them angry at a skeleton or a sheep will cause the leash to stay on, updating to newer versions will cause the leash to become infinite and the dog will be able to exceed 10 blocks away from the fence, the leash will snap if the dog kills the prey or it can't see the mob it wants to attack and becomes "unangrified"
