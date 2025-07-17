@@ -28,6 +28,9 @@ ________________________________________________________________________________
 <br>
 - Loading a world in 1.2.13.8 and downgrading to 1.2.6.60 will convert all sub-chunks with block in them (air excluded) into chunks with random blocks in them. This can spawn a lot of entities and tile entities so it will be extremely laggy. These chunks have a random block pallet and can create a lot of illegal formations, like nether wart on top of brewing stand, or illegal blocks such as Education Edition Blocks, and Creative placed Blocks
 
+**1.16.0.51 (Beta)**
+- In development and debug versions of the game, it was possible to enable a setting within the debug options to create a flat Nether world.
+
 **1.16.40 - 0.6.0**
 > [!Note]
 > If your phone is crashing upon creating a world in 0.6.0, you can unzip the "Cross Dimension Chunk Template" zip file and move the extracted folder to "games > com.mojang > minecraftWorlds" Note: this may be considered cheating because it does require you to move world files
