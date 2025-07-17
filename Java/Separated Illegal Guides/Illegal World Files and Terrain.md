@@ -26,6 +26,9 @@ ________________________________________________________________________________
 **Infdev 20100611**
 - Monoliths would generate in flat terrain and they would spawn without bedrock underneath allowing for illegal terrain generation. You can use the Monolith Finder in the "Links" folder
 
+**Infdev 20100615**
+- Caves do not generate in this version allowing for an area with no caves
+
 **Infdev 20100616-1**
 - Holes in the Bedrock can generate when lava pools generate at the bottom of the world
 
