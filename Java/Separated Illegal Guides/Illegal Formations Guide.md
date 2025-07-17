@@ -17,6 +17,7 @@ ________________________________________________________________________________
 
 **Classic 0.0.14a_08**
 - Sand and Gravel do not fall into liquids allowing for sand and gravel floating above water
+- Dandelions and Poppys would block water and lava sources
 
 **Classic 0.0.19a_04**
 - Sponges would not update to a Wet Sponge when used, allowing for weird, unobtainable positions and states of water
