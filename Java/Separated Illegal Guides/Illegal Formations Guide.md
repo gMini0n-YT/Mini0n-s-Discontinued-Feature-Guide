@@ -181,6 +181,7 @@ ________________________________________________________________________________
 - When the dragon is resummoned, it generates a new end portal at 0 0, which can exist alongside the previous portal from earlier versions, thus allowing multiple end portals in the world.
 - By removing nbt data from a spawn egg, either through brewing stand item transmutation or by shift clicking a spawn egg into an enchantment table, a no nbt spawn egg can be created. By using a spawn egg with no nbt on a spawner, a spawner missing nbt data can be created
 - When building a creeper face, a 6x6 block of clay is removed. This however removes all blocks in this 6x6 area, including bedrock. This is a form of bedrock removal.
+- Since 15w31a (first snapshot of 1.9) regenerating the exit portal by either killing or respawning the ender dragon would delete the blocks around it allowing for many fun things like half beds, doors and floating plants, rails, torches, gravity blocks and such until 17w47a
 
 **15w33c**
 - Resummoning the ender dragon also regenerates the end pillars. The ender crystals can be moved during this regeneration process, allowing for indestructable ender crystals which will be unobtainable in future versions.
