@@ -619,3 +619,4 @@ ________________________________________________________________________________
 - Logging out the immediate second a TnT minecart lands on an activator rail will cause the TNT Minecart to become invincible and not be able to blow up on activator rails
 - If u give iron to an iron golem 0.50 secs before it dies it will become immortal as shown: https://youtube.com/shorts/TzS-TIkIW3Q?si=EryTPHhlfc_r2mpd
 - If a Drowned with a Trident spawns with the ability to pick up items, then if it sees a Nautilus Shell, it will discard it's Trident and pick up the shell. However, for some strange reason, it won't lose it's ability to throw Tridents.
+- Relogging an excessive amount really fast (a lot of times, no exact number) when the wither is at half health or lower will cause it to bug out when you kill it. The wither will be unexploded yet constantly repeating its exploding sequence
