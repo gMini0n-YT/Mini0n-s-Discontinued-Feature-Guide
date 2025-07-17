@@ -61,6 +61,7 @@ ________________________________________________________________________________
 - Lava will flow 8 blocks in the overworld which will later update to 3 blocks making it an illegal block formations
 - Water and Lava do not update correctly, allowing for water and lava in different flow states without a source block
 - Caves do not generate in this version allowing for an area with no caves
+- In this version no Bedrock will spawn at the bottom of the world. These chunks can be loaded by left unpopulated, if these chunks are then repopulated in later versions then not only will no bedrock generate but the world will generate new stone types and biomes.
 
 **Infdev 20100616-1**
 - Holes in the Bedrock can generate when lava pools generate at the bottom of the world
