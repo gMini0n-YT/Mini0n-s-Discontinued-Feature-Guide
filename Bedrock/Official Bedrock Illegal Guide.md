@@ -196,6 +196,7 @@ ________________________________________________________________________________
 - Hoglins can go into the Overworld without transferring into Zoglins
 - Zoglins and Hoglins spawned before beta 1.16.0.63 had no knockback resistance
 - Wither Skeletons would prefer Golden Swords over Stone Swords which means that Wither Skeletons would pick up gold swords and keep hold of them
+- In development and debug versions of the game, it was possible to enable a setting within the debug options to create a flat Nether world.
 
 **Beta 1.16.0.57**
 - Treasure Bastions spawn with one Barrier Block in one of the lava pools
