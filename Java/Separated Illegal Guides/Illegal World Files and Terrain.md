@@ -28,6 +28,7 @@ ________________________________________________________________________________
 
 **Infdev 20100615**
 - Caves do not generate in this version allowing for an area with no caves
+- In this version no Bedrock will spawn at the bottom of the world. These chunks can be loaded by left unpopulated, if these chunks are then repopulated in later versions then not only will no bedrock generate but the world will generate new stone types and biomes.
 
 **Infdev 20100616-1**
 - Holes in the Bedrock can generate when lava pools generate at the bottom of the world
