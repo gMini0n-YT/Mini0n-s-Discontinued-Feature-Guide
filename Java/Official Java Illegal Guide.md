@@ -394,6 +394,7 @@ ________________________________________________________________________________
 - By removing nbt data from a spawn egg, either through brewing stand item transmutation or by shift clicking a spawn egg into an enchantment table, a no nbt spawn egg can be created. By using a spawn egg with no nbt on a spawner, a spawner missing nbt data can be created
 - When building a creeper face, a 6x6 block of clay is removed. This however removes all blocks in this 6x6 area, including bedrock. This is a form of bedrock removal.
 - Currently resummoning dragons will regenerate the dragon egg, which allows for a normally unobtainable amount of dragon eggs.
+- Since 15w31a (first snapshot of 1.9) regenerating the exit portal by either killing or respawning the ender dragon would delete the blocks around it allowing for many fun things like half beds, doors and floating plants, rails, torches, gravity blocks and such until 17w47a 
 
 **15w32a**
 - Loading the mobs stored in 1.8.9 will create 0 drop chance left hand mobs
