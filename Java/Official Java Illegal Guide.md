@@ -453,6 +453,7 @@ ________________________________________________________________________________
 
 **16w20a**
 - Endermen can spawn in the nether and can pick up netherack. In the future Endermen aren't able to pick up netherack
+- If you kill a slime and unload it while it is dying, when reloaded it will have its health set above 0, which stops the mob from dying. However, the death timer is not reset.
 
 **16w21a**
 - Dispensers can equip shields onto entities, including armor stands.
