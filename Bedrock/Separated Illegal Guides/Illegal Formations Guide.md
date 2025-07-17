@@ -207,3 +207,4 @@ ________________________________________________________________________________
 - Using Nether Portals you can create a solid block of water that will not flow. Placing Nether Portals on the side of some sort of enlosed aquarium and breaking the obsidian on the portal will not update the water leaving it floating on it's side
 - Lagging Out the Game and then opening three shulker boxes in a row will cause two of the shulker boxes to remain open
 -  Lagging Out the Game and then opening three chests in a row will cause one of the chests to remain open
+- Endermen can place dandelions, poppy, crimson fungus, warped fungus, warped roots, and crimson roots on any block that is usually impossible
