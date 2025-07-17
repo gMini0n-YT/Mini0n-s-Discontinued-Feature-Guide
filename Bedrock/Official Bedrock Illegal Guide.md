@@ -121,7 +121,7 @@ ________________________________________________________________________________
 - Placing Daylight Sensor in the nether leaves them powered
 
 **1.2.13**
-- Blowing up a spawner jn this version will drop it as an item
+- Blowing up a spawner in this version will drop it as an item
 
 **Beta 1.2.13.54**
 - Placing Water in End Portals and End Gateways will drop them as an item. For End Gateways you may have to use a dispenser with a water bucket in it.
