@@ -85,6 +85,9 @@ ________________________________________________________________________________
 - Using the Nested Shulker Box trick from 1.2.0.2 you can get a whole lot more illegals from a glitch called CSC (Compressed Shulker Conversion). Filling a shulker box full of shulker boxes full of shulker boxes full of one random item and then mining it and picking it up (it will be invisible in your inventory so have your first slot of your hot bar empty so that when you pick it up it will go straight to your first slot on the hotbar). Once picked up move your item of choice to the first slot of your hotbar (or wherever you decided to pick up the shulker box to) and when you place the item on your shulker box your inventory will blow up with tile.piston_arm_collisions.name, tile.redstone_wire.name and other random items.
 - Mining a Standing Banner or a wall banner with Silk Touch will drop the tile version of those two blocks they will be titled Banner and tile.wall_banner.name
 
+**1.2.13**
+- Blowing up a spawner jn this version will drop it as an item
+
 **Beta 1.2.13.54**
 - Placing Water in End Portals and End Gateways will drop them as an item. For End Gateways you may have to use a dispenser with a water bucket in it.
 
