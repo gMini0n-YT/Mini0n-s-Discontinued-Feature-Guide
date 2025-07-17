@@ -60,6 +60,7 @@ ________________________________________________________________________________
 - Water and Lava can flow next to each other without forming stone
 - Lava will flow 8 blocks in the overworld which will later update to 3 blocks making it an illegal block formations
 - Water and Lava do not update correctly, allowing for water and lava in different flow states without a source block
+- Caves do not generate in this version allowing for an area with no caves
 
 **Infdev 20100616-1**
 - Holes in the Bedrock can generate when lava pools generate at the bottom of the world
