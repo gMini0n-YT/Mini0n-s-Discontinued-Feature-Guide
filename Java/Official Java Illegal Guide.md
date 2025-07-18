@@ -149,6 +149,7 @@ ________________________________________________________________________________
 - Enderpearls can stack up to 64 in this version allowing for overstacked enderpearls
 - Updating a furnace into a lit furnace which will update a piston and then pushing the furnace will displace it's block entity. This allows for furnace block entity in any block in the game that normally has a block entity
 - Placing a mushroom on any block and then bonemealing them would grow a big mushroom and replace the block underneath it with dirt making it possible for unbreakable bock removal
+- Updating a Chest from Beta 1.7.3 will cause it to be a darkness block inside the chest because previously chests were opaque and a full block. Any block changes around the chest will break it.
 
 **Beta 1.9 Prerelease 1**
 - Jumping will give you XP, this is not an unobtainable but it is a debug feature that can be used to get insane amount of Xp levels really quickly
