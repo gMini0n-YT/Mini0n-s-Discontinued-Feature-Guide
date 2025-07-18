@@ -79,6 +79,9 @@ ________________________________________________________________________________
 - Nether Portals can be summoned by pressing F4 which can be used to get to the Farlands and to create illegal block formations
 - Signs can be placed on the Nether Portal Tile
 
+**Beta 1.3.2**
+- Because the Chest is a full block you are able to power blocks through chests. The best way to so that is by the repeater
+
 **Beta 1.4-1** 
 - Locked Chests can generate throughout the world if your computer time is set to April 1st, 2011. You can obtain them from explosions, they will convert to stained glass in the future allowing for several illegal block formations
 
