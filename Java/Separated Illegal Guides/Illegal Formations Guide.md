@@ -94,6 +94,7 @@ ________________________________________________________________________________
 
 **Beta 1.8 Prerelease 1-1**
 - Updating a furnace into a lit furnace which will update a piston and then pushing the furnace will displace it's block entity. This allows for furnace block entity in any block in the game that normally has a block entity
+- Updating a Chest from Beta 1.7.3 will cause it to be a darkness block inside the chest because previously chests were opaque and a full block. Any block changes around the chest will break it.
 
 **Beta 1.9 Prerelease 2 (MOD)**
 > [!Note]
