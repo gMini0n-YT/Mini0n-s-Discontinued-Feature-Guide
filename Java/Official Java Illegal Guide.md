@@ -1049,6 +1049,7 @@ ________________________________________________________________________________
 - Currently any chunks with overstacked items can be savestated, as attempting to save invalid item counts of items (or bundles with invalid items inside of them) causes the chunk to revert to it's last save. This allows for item and block duplication, and many discontinued block configurations.
 - Grindstoning enchanted books adds the Damage:0 tag to the book, which is an invalid nbt tag.
 - Updating old cleric villagers from 13w36a that have the empty enchantment trades will remove this tag, instead causing these villagers to become a variant of cleric selling completely unenchanted armor. This is a distinctly different variant of discontinued villager trade, as in future versions this tag will instead be converted to enchantment_glint_override.
+- All overstacked items have been reverted until 1.20.5 Prerelease 1 which means if you want to keepnall of your overstacked items, they must be kept in unloaded chunks
 
 **24w10a**
 - By placing two of the same items into the grindstone slots, the enchantments of the item in the bottom slot will be transferred to the item in the top slot. This only works for items that have durability, however it allows for all enchantments to be combined on a single item without repair cost, and many instances of incompatible enchantment combinations.
