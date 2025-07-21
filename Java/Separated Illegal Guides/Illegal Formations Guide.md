@@ -253,6 +253,7 @@ ________________________________________________________________________________
 
 **18w15a**
 - Bonemealing a Small Grass underneath a block will grow into a double tall grass and will break the block above it
+- Support Blocks could be placed on Conduits
 
 **18w20a**
 - Placing a conduit defaults it to a waterlogged state, allowing for water in the nether.
