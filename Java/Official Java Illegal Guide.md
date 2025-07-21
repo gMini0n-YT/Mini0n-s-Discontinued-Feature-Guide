@@ -600,6 +600,7 @@ ________________________________________________________________________________
 - Updating any named item to this version causes it to have extra text added to it, allowing for longer than possible named items.
 - Updating a villager with the map trades causes the translation string to break and receive extra text, resulting in a discontinued trade
 - Updating a vindicator named "Johnny" will cause it to receive a different name, while still keeping the "Johnny: 1b" tag. This is unobtainable normally.
+- All items that have durability can be worn down till it has 0 durability which is discontinued because in later versions items break when you use the item at 1 durability
 
 **18w22a**
 - Updating enchanted books converts all enchantments to protection, allowing for protection V and multi protection enchanted books. Multiple protection enchantments will be deleted in future versions, however protection V will be preserved.
