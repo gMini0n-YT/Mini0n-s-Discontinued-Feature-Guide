@@ -269,6 +269,7 @@ ________________________________________________________________________________
 
 **18w45a**
 - Currently illager banners that are placed as blocks do not maintain the HideFlags tag, which displays the patterns on the banner. In future versions, all ominous banners will have this tag and will not lose it, making this a discontinued variant of ominous banner.
+- Support blocks could be placed on stonecutters
 
 **18w47a**
 - Currently chests that generate in ocean ruins have the block data of structure blocks, which is normally unobtainable. These chests cannot be opened, however they can visually connect to create a double chest. The structure block data, while unobservable, has the signature of ladyagnes.
