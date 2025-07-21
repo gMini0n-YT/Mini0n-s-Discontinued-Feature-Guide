@@ -812,7 +812,7 @@ ________________________________________________________________________________
 - Updating overstacked potions from the previous combat test versions allows you to combine the stacks of 16 into larger stacks, allowing for all potions stacked to 64
 
 **20w45a**
-- Bundles currently only stack to one, however 16 bundles can be picked up within a bundle, allowing for overstacked bundles
+- In 20w45a (a 1.17 snapshot), it was possible create overstacked bundles. To create stacked bundles, place at least 2 bundles into a bundle. At most 16 empty bundles can fit into a bundle. Fill every slot in the player's inventory with at least one item, such that every slot of the main inventory is not empty, and attempt to empty the bundle. The bundles that fall onto the ground will be overstacked. They can then be picked up. Overstacked bundles may be combined together with identical overstacked bundles to increase the stack size further.
 - Using bundles within the crafting interface allows for certain items to be overstacked. The method requires putting stacked items into a crafting recipe, and then using a bundle to remove one of the ingredients. This doesn't update the output, so taking the output increases the stack size of all remaining ingredients in the crafting grid. This allows for overstacked honey bottles, and overstacked banners and shields.
 - Currently 64 bee nests can be placed inside a bundle regardless of nbt data. In future versions, bee nests with nbt data related to bees will only be able to stack to 1 in a bundle, allowing for overstacked bee nests in bundles.
 - Using a firecharge from a dispenser, waterlogged candles can be lit
