@@ -257,6 +257,9 @@ ________________________________________________________________________________
 - Currently illager banners that are placed as blocks do not maintain the HideFlags tag, which displays the patterns on the banner. In future versions, all ominous banners will have this tag and will not lose it, making this a discontinued variant of ominous banner.
 - Currently illager banners can have the custom name removed by renaming it in an anvil. In future versions this coloring will be converted to a rarity color, making these a non-rare discontinued variety of illager banners.
 
+**18w48a**
+- Combining two Curse books in a grindstone will give you an overstacked amount of curse books. The grindstone will give you two curse books and this can be repeated until 64
+
 **19w02a**
 - Multiple protection types can be applied to enchanted books and armor, allowing for variuos assortments of normally unobtainable enchantment combinations. This also affects villager trades, allowing for villagers trading enchanted armor with invalid enchantments.
 - Currently more than six banner patterns can be applied to banners within a loom, due to banner previews not updating correctly. This will be discontinued in future versions.
