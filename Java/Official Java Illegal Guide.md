@@ -637,6 +637,7 @@ ________________________________________________________________________________
 - Villagers that generate in the new villages are missing their tier one trade. This allows for a wide variety of discontinued trades.
 - Currently chests that generate inside a blacksmith have an incorrect loot table. This loot table will be unobtainable in future versions.
 - Support blocks could be placed on Chorus Flowers
+- Combining two Curse books in a grindstone will give you an overstacked amount of curse books. The grindstone will give you two curse books and this can be repeated until 64
 
 **18w50a**
 - By update suppressing a container and then placing items within that container, a technique known as item shadowing can be performed, which allows for duplicate item references. Along with item duplication, this allows for the same item to be placed inside an enchantment table at the same time, allowing for duplicate enchantments on any item that can be placed in an enchanting table. Note this is not the first version this is obtainable, however it is the last.
