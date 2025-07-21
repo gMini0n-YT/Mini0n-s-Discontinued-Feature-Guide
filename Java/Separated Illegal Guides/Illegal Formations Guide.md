@@ -27,6 +27,7 @@ ________________________________________________________________________________
 
 **Indev 20100124-3**
 - As chests were a full cube from Indev 0.31 20100124-2119 through Beta 1.9 Prerelease 5, many blocks requiring support could be placed against them. The action of "shift clicking" was not implemented in these versions, so to place the blocks onto the chest, they must be placed on a block next to them that cannot support them allowing for Support Blocks on chests
+- Torches could be placed Underwater
 
 **Indev 20100201-2**
 - Sponges would soak up infinite lava and infinite water allowing for discontinued configurations of the water and lava
