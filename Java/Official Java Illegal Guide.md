@@ -189,6 +189,7 @@ ________________________________________________________________________________
 
 **1.0.0 Release Candidate 1**
 - In this version, all swords have 5 durability points. Updating any swords with 1 durability point remaining, and combining them in this version causes these swords to gain negative durability once updated. This allows for negative durability wooden, stone, iron, gold, diamond, and eventually netherite swords
+- Shooting from a bow that has 0 durability can cause the bow to become a zero stack.
 
 **11w49a**
 - Pressing B changes the clientside gamemode to creative. This allows for Bedrock, Sponge, Chainmail Armor, Ice, and Creeper, Skeleton, Spider, Zombie, Slime, Ghast, Pig Zombie, Enderman, Cave Spider, Silverfish, Blaze, Magma Cube, Pig, Sheep, Cow, Chicken, Squid, Wolf, Mooshroom, and Villager Spawn Eggs. This also allows for easy bedrock removal.
