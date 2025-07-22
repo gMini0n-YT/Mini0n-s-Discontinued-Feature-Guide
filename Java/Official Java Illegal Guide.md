@@ -193,6 +193,7 @@ ________________________________________________________________________________
 
 **11w49a**
 - Pressing B changes the clientside gamemode to creative. This allows for Bedrock, Sponge, Chainmail Armor, Ice, and Creeper, Skeleton, Spider, Zombie, Slime, Ghast, Pig Zombie, Enderman, Cave Spider, Silverfish, Blaze, Magma Cube, Pig, Sheep, Cow, Chicken, Squid, Wolf, Mooshroom, and Villager Spawn Eggs. This also allows for easy bedrock removal.
+- Using spawn eggs for mobs with weapons (e.g Skeleton, and Pig Zombie) for the B Creative Mode will spawn them without weapons
 
 **1.1**
 - The unicode delete character [] can be typed into a world name by pressing ctrl + backspace. This is the only version where a world can be named with both the delete character [] and the section symbol [§], making this the ideal version to name your world.
