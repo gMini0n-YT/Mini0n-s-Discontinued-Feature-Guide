@@ -38,6 +38,7 @@ ________________________________________________________________________________
 **Infdev 20100607**
 - Top Half Doors can be created by placing two signs and placing a door on top
 - Placing a Door one block below the height limit will result in the Bottom Half Door
+- Placing ladders off of the side of non-opaque blocks with a supporting block next to it can cause the ladder to be rendered invisible. If placed onto a slab that has two full blocks next to it, the ladder could be placed floating above the slab while invisible. The placement of the ladder depends on the direction of the last ladder the player placed, if no other ladders have been placed then using the slab method results in a full block ladder that is rendered invisible.
 
 **Infdev 20100615**
 - Water and Lava can flow next to each other without forming stone
