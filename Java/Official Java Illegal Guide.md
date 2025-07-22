@@ -838,6 +838,7 @@ ________________________________________________________________________________
 - Using a firecharge from a dispenser, waterlogged candles can be lit
 - Added Amethyst Geodes, which generate in a globe shape consisting of amethyst blocks, usually buried in the ground. Currently, geodes can generate higher than Y 30, however this will be changed in future versions. This makes any budding amethyst blocks above Y 30 currently unobtainable.
 - Smelting Copper Ore will add the recipe tag of "minecraft:copper_ingot" on a furnace, and a recipe tag of "minecraft:copper_ingot_from_blasting" on a blast furnace, both of which will be changed in future versions. This stored recipe is completely unobservable, and will be removed if an item is ever taken out of the furnace/blast furnace output slot manually, however hoppers can be used to remove items from the output slot and stack multiple recipes.
+- If you move a lightning rod with a piston while it is being struck by lightning, it will cause that lightning rod to be permanently powered.
 
 **20w48a**
 - By emptying a bundle in the inventory, an empty item tag is created. This empty tag is normally not obtainable.
