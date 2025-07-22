@@ -841,6 +841,7 @@ ________________________________________________________________________________
 - Any entity that receives the glowing effect through either a spectral arrow or from a creeper explosion lingering cloud of glowing will become permanately glowing and the glowing tag will be set to 1b.
 - Salmon buckets now store salmon health. This creates another variant of salmon buckets without size information saved, which will be discontinued in future versions.
 - Currently, zombie variants can hold glow ink sacs. This will not be possible in future versions, allowing for several discontinued zombie varieties.
+- beds can be placed towards the world border and half of the bed will be placed outside the world border
 
 **21w16a**
 - Endermen can currently pick up both azalea leaves and flowering azalea leaves. Endermen holding azalea leaves will not be obtainable in future versions.
