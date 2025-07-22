@@ -326,6 +326,7 @@ ________________________________________________________________________________
 - Crimson and warped signs are now obtainable through crafting. These signs can be placed within the fuel slot of furnaces, which will not be possible in future versions.
 - Crying obsidian is currently pushable by pistons. By pushing crying obsidian into the world border, a block 36 of crying obsidian can be created, which will not be obtainable in future versions.
 - beds can be placed towards the world border and half of the bed will be placed outside the world border
+- Dragon eggs could teleport beyond the world border when right-clicked near the border.
 
 **20w10a**
 - Added Crimson and Warped Stripped and Regular Hyphae Blocks, which are obtainable through crafting. These blocks can be used as furnace fuel, which will not be obtainable in future versions.
