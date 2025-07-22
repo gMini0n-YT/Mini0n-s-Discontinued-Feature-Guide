@@ -56,6 +56,9 @@ ________________________________________________________________________________
 **Beta 1.4-1** 
 - Locked Chests can generate throughout the world if your computer time is set to April 1st, 2011. You can obtain them from explosions, they will convert to stained glass in the future allowing for several illegal block formations
 
+**Beta 1.6.0**
+- Dropping any equipment that was damaged creates a zero stack. This item can picked up any number of times and fills up the player's inventory quickly. This method only works on tools, armor, and weapons that have durability.
+
 **Beta 1.6-tb3**
 > [!Note]
 > The level.dat and level.dat_old will need to be removed, either temporarily or permanetly in order to allow for the test build chests to generate in this version. In order to access the world after removing level.dat, you can go to create world and create a world with the same name as the world save. It is also recommended to use the same seed to prevent chunk borders. It is recommended to replace the original level.dat after entering this version in order to preserve the discontinued world name from the previous versions.
