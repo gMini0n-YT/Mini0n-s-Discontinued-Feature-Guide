@@ -54,6 +54,7 @@ ________________________________________________________________________________
 
 **Infdev 20100625-2**
 - Spawners currently have the same block id as signs. If a sign is loaded near a spawner, the spawner will receive sign metadata. Reloading a sign-spawner will crash and potentially soft lock the world in this version. This is fixed in the next version, but the spawner maintains the sign data.
+- Torches could be placed on leaves if the graphics setting was on 'Fast' (leaves are solid).
 
 **Alpha 1.0.1_01 - Infdev 20100630-2**
 - Downgrading Redstone that is placed on against a block will convert it to a gear in Infdev 20100630-2. Breaking the block below the gear and updating back to Alpha 1.0.1_01 will create floating redstone
