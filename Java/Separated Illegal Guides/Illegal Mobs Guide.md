@@ -23,6 +23,7 @@ ________________________________________________________________________________
 
 **11w49a**
 - Pressing B changes the clientside gamemode to creative. This allows for Bedrock, Sponge, Chainmail Armor, Ice, and Creeper, Skeleton, Spider, Zombie, Slime, Ghast, Pig Zombie, Enderman, Cave Spider, Silverfish, Blaze, Magma Cube, Pig, Sheep, Cow, Chicken, Squid, Wolf, Mooshroom, and Villager Spawn Eggs. This also allows for easy bedrock removal.
+- Using spawn eggs for mobs with weapons (e.g Skeleton, and Pig Zombie) for the B Creative Mode will spawn them without weapons
 
 **12w08a**
 - Iron Golems current have no knockback resistance which will not revert when updating to newer versions allowing for discontinued variants of the iron golem
