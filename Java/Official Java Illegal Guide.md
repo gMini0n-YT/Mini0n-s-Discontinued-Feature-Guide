@@ -521,6 +521,7 @@ ________________________________________________________________________________
 **17w18a**
 - Placing and attempting to use a button or lever above a shulker box suppresses any updates. This allows for multiple discontinued block configurations through update suppression.
 - Ladders could be placed on glass, sea lanterns, glowstone, cauldron, leaves, ice, beacons and shulker boxes
+- Placing a ladder on a invalid block with a stair facing towards it will place the ladder facing north
 
 **1.12 Prerelease 1**
 - Added a function system. This causes an empty folder named functions to generate in the data folder, which is unobtainable in future versions.
