@@ -224,6 +224,7 @@ ________________________________________________________________________________
 
 **17w18a**
 - Placing and attempting to use a button or lever above a shulker box suppresses any updates. This allows for multiple discontinued block configurations through update suppression.
+- Ladders could be placed on glass, sea lanterns, glowstone, cauldron, leaves, ice, beacons and shulker boxes
 
 **1.12.2**
 - There is a complex method known as pallette corruption, which can allow for any block to replace random blocks in the world. This is done with async observer lines, and can allow for various blocks including command blocks and structure blocks. This is not the first version this works in, but the last major version where this can occur.  https://mcdf.wiki.gg/wiki/Java_Edition:Parallel_Asynchronous_Threads
