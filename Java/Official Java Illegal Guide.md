@@ -143,6 +143,9 @@ ________________________________________________________________________________
 - Update Suppresion now works by using budding redstone updates, you can find the world download in the "Mods & Extra Files" Folder for the Update Suppresor Model for this version
 - Maps would not snap to a grid, meaning unobtainable map variants can be obtained
 
+**Beta 1.6.0**
+- Dropping any equipment that was damaged creates a zero stack. This item can picked up any number of times and fills up the player's inventory quickly. This method only works on tools, armor, and weapons that have durability.
+
 **Beta 1.7**
 - Block Transmutation can work by building a piston and water based contraption
 - Block Transmutation can also work with an arrow and piston contraption
