@@ -85,6 +85,7 @@ ________________________________________________________________________________
 
 **Beta 1.3.2**
 - Because the Chest is a full block you are able to power blocks through chests. The best way to so that is by the repeater
+- Placing a redstone torch against a unsupportable block adjacent to a valid supporting block or against the ceiling next to a supporting block, these would allow the redstone torch to float on any block including air or itself.
 
 **Beta 1.4-1** 
 - Locked Chests can generate throughout the world if your computer time is set to April 1st, 2011. You can obtain them from explosions, they will convert to stained glass in the future allowing for several illegal block formations
