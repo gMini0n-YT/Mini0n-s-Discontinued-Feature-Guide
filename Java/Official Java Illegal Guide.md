@@ -128,6 +128,7 @@ ________________________________________________________________________________
 - World names can contain the section symbol § and will format the name which will become unobtainable in later versions.
 - After respawning or initial spawning into a world you will be given a stack of torches, a pickaxe, an axe, a shovel, 1 bed, and then a stack of 63 beds, this will create unobtainable overstacked beds which will be unobtainble in later versions.
 - Because the Chest is a full block you are able to power blocks through chests. The best way to so that is by the repeater
+- Blowing up a Chest while spam clicking an item in and out of the chest has a chance of dropping a zero stack item which can give you understacked items
 
 **Beta 1.4-1** 
 - Locked Chests can generate throughout the world if your computer time is set to April 1st, 2011. You can obtain them from explosions, they will convert to stained glass in the future allowing for several illegal block formations
