@@ -108,6 +108,9 @@ ________________________________________________________________________________
 **12w32a-2**
 - Equipment droped from mobs ranges in durability. The durability can be 0 which allows for various 0 durability equipment piece
 
+**12w37a**
+- Mobs that burn in sunlight and can wear helmets occasionally do not check the durability of the damage caused to their helmets.
+
 **12w41a**
 - Anvils can rename an item to have no characters and all spaces which will become unobtainable in future versions
 
