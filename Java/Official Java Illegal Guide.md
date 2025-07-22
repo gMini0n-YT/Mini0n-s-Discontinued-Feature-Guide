@@ -41,7 +41,7 @@ ________________________________________________________________________________
 - Golden Hoes have a higher durability which is later lowered allowing for negative durability hoes if you lower the durability of the hoe in this current version
 - Tilling Dirt underneath a block and then placing seeds on the farmland will remove the block above making it possible for bedrock removal
 
-**Indev 20100209**
+**Indev 20100219**
 -  Any item can be placed in the furnace fuel and output slot
 
 **Infdev 20100316**
