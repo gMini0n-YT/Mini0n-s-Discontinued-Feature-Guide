@@ -249,6 +249,7 @@ ________________________________________________________________________________
 
 **12w37a**
 - Wither can explode end portal frames when spawned which results in end portal frame removal.
+- Mobs that burn in sunlight and can wear helmets occasionally do not check the durability of the damage caused to their helmets.
 
 **12w41a**
 - Anvils can rename an item to have no characters and all spaces which will become unobtainable in future versions
