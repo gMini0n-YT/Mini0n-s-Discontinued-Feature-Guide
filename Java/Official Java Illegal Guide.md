@@ -142,6 +142,7 @@ ________________________________________________________________________________
 
 **Beta 1.7**
 - Block Transmutation can work by building a piston and water based contraption
+- Block Transmutation can also work with an arrow and piston contraption
 
 **Beta 1.7.2**
 - Block Transmutation can work by updating a budded piston at the same time another piston pushes a block merging the blocks
