@@ -757,6 +757,7 @@ ________________________________________________________________________________
 **20w09a**
 - Crimson and warped signs are now obtainable through crafting. These signs can be placed within the fuel slot of furnaces, which will not be possible in future versions.
 - Crying obsidian is currently pushable by pistons. By pushing crying obsidian into the world border, a block 36 of crying obsidian can be created, which will not be obtainable in future versions.
+- Moving a powered target using a piston will cause that target to permanently keep it's signal strength. The signal strength will remain even after the projectile is removed
 
 **20w10a**
 - Added Crimson and Warped Stripped and Regular Hyphae Blocks, which are obtainable through crafting. These blocks can be used as furnace fuel, which will not be obtainable in future versions.
