@@ -107,6 +107,7 @@ ________________________________________________________________________________
 
 **12w32a-2**
 - Equipment droped from mobs ranges in durability. The durability can be 0 which allows for various 0 durability equipment piece
+- The center of a map would be aligned on the location the map was crafted. This was changed in 12w34a, where maps would now align to a grid, regardless of crafting location. Therefore maps with center locations that do not fit the grid are all discontinued.
 
 **12w37a**
 - Mobs that burn in sunlight and can wear helmets occasionally do not check the durability of the damage caused to their helmets.
