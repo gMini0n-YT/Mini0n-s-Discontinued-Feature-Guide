@@ -248,6 +248,7 @@ ________________________________________________________________________________
 - Pigs that are struck by lightning will spawn Zombie Pigmen that are holding nothing
 - Villagers now trade different arrow and paper amounts which will become unobtainable in future versions.
 - Within the data folder, the villages.dat file now generates. This file tracks player made villages, and will become discontinued in future versions
+- The center of a map would be aligned on the location the map was crafted. This was changed in 12w34a, where maps would now align to a grid, regardless of crafting location. Therefore maps with center locations that do not fit the grid are all discontinued.
 
 **12w34a**
 - Multiple Item frames can be placed on the same block which will become unobtainable in future versions
