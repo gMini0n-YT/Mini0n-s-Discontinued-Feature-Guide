@@ -100,6 +100,9 @@ ________________________________________________________________________________
 - Block Transmutation can work by building a piston and water based contraption
 - Pulling a detector rail with a minecart on it will leave it powered, though will only temporarily as it will be reverted once ticked
 
+**1.7_01**
+- Placing an upwards facing piston of any type, and building a two block high pillar of solid blocks right besides the piston, and place a lever on the top block, in such a way that the lever is right above the piston. Activating this lever will crash the game, and you world will not be able to be opened again in b1.7_01. Update to b1.7.2, and load the world. There will now be a block-entity less moving piston block (Block 36) above the piston.
+
 **Beta 1.7.2**
 - Block Transmutation can work by updating a budded piston at the same time another piston pushes a block merging the blocks
 
