@@ -101,6 +101,7 @@ ________________________________________________________________________________
 **12w17a-2**
 - The title for written books is currently 16 characters which later will be updated to 15
 - Pressing enter inside a book and quill creates a newline character, but it does not advance the line. This allows for a total of up to 256 newline characters, which is far more than will be allowed in future versions.
+- When written books were first added to Minecraft, they had a severe flaw in their server side logic to check against potentially malicious client input. This flaw allows one to place nearly any NBT they desire onto a book and quill or written book. When written books were first added to Minecraft, they had a severe flaw in their server side logic to check against potentially malicious client input. This flaw allows one to place nearly any NBT they desire onto a book and quill or written book. The Clients can be found in the Mods folder, BookMod can be used from 1.3-1.4.2 and the EnchantedSigning mod can be used from 1.4 to 1.4.2
 
 **12w24a**
 - Shift Clicking a stacked item into an enchantment table will remove the nbt data of the item allowing for various discontinued features
