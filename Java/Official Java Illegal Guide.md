@@ -197,6 +197,7 @@ ________________________________________________________________________________
 **Beta 1.9 Prerelease 6**
 - The exit portal would generate when the ender dragon is killed but the exit portal would generate where the dragon died and not at 0,0 allowing for the exit end portal in discontinued locations
 - Nether Portal can be placed in the end, allowing for nether portals in the end
+- The player can try to place a torch or redstone torch on a block that is situated next to the world border (where you are not supposed to place a torch). This will result in the torch going onto the world border.
 
 **1.0.0 Release Candidate 1**
 - In this version, all swords have 5 durability points. Updating any swords with 1 durability point remaining, and combining them in this version causes these swords to gain negative durability once updated. This allows for negative durability wooden, stone, iron, gold, diamond, and eventually netherite swords
