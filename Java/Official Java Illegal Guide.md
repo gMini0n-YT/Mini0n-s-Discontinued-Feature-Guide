@@ -559,6 +559,7 @@ ________________________________________________________________________________
 - Using shears on a tripwire string disarms it instead of breaking the string, creating a tripwire with the disarmed state. In future versions this will not be possible, making tripwires with the disarmed state future discontinued.
 - Updating filled maps from earlier versions does not properly apply nbt data, creating no nbt filled maps, which will be discontinued in future versions
 - Placing a noteblock on a bone block sets the instrument to bass drum, which is unobtainable in the future. Additionally, placing noteblocks on iron blocks, pumpkins, blocks of emerald and hay bales all have the instrument set to harp, soul sand has the instrument set to snare drum, and glowstone has the instrument set to clicks and sticks, all of which are unobtainable in future versions.
+- Endermen could pick up snowy grass. They could also place it down and it would keep the state. If an enderman places or picks up snowy grass in a future version it simply converts to regular grass.
 
 **17w47b**
 - Uncraftable potions can be obtained through fishing
