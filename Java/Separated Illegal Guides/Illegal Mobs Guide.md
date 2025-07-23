@@ -135,6 +135,7 @@ ________________________________________________________________________________
 **17w47a**
 - Updating a villager with a pumpkin trade will convert that pumpkin to a carved pumpkin, allowing for a carved pumpkin trade. This is unobtainable in future versions.
 - Fishermen now have a salmon trade, which is unobtainable in certain amounts in future versions
+- Endermen could pick up snowy grass. They could also place it down and it would keep the state. If an enderman places or picks up snowy grass in a future version it simply converts to regular grass.
 
 **18w07a**
 - Phantoms have a base attack damage of 6, which is unobtainable in future versions
