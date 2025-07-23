@@ -111,6 +111,7 @@ ________________________________________________________________________________
 **Alpha 1.2.0**
 - Zombie Pigmen and skeletons appear to hold their weapons but it is all visual, updating these two mobs past 1.3 will turn them into weaponless weaponless mobs
 - Lava only flows 4 blocks in the nether
+- Any ice put in the Nether that was melted would not evaporate from Alpha v1.2.0 (when the Nether was introduced) to 12w16a (1.3 snapshot). In 12w17a and later ice melts properly. However, ice can only be obtained in the nether by placing the item. The ice item is only obtainable in 3 version ranges during this period: Beta 1.6 Test Build 3, Beta 1.9 Prerelease 4 to Beta 1.9 Prerelease 5, and 11w49a
 
 **Alpha 1.2.2**
 - In this version it is possible to get to the Farlands in under an hour. The way to do this is to summon a nether portal and place a boat in it, get into the boat, and once you go through the nether the game will become glitched and you will become stuck in the nether portal animation. Save and Quit the game, and when you load back in you will be at the same coordinates in the nether as you were in the overworld. When you generate another portal and go through your coordinates in the overworld will be multiplied 8 times. Doing this over again will cause your coords to multiply 8 types each time until you are all the way at the farlands
