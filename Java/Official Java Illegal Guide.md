@@ -560,6 +560,7 @@ ________________________________________________________________________________
 **18w06a**
 - /Enchant can be used to add enchantments to items that cannot normally have a specific combination of enchantments, for example adding mending to a multiple protection helmet from horsemen
 - Unconnected chorus plants generate in the end islands, which will be discontinued in future versions
+- Before introduction of bubble columns in 18w07a, placing soul sand/magma [1] blocks beneath full blocks of water did not create a bubble column.
 
 **18w07a**
 - Added Loyalty, Channeling, Impaling, and Riptide. Riptide is not mutually exclusive with Channeling and Loyalty currently, which allows for invalid enchantments on books and tridents.
