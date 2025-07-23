@@ -1069,7 +1069,7 @@ ________________________________________________________________________________
 - Crafting suspicious stews with a dandelion or a blue orchid creates a 7 second stew instead of a 7 tick stew, which are unobtainable variants. This also works to create discontinued mooshroom variants by feeding them the respective flowers.
 
 **24w03a**
-- Currently sword enchants can apply to axes and thorns can apply to non chestplate armor in the enchantment table, allowing for these items to have these enchantments without repair cost. Normally these enchantments on these respective items are only obtainable through an anvil, and thus will have repair cost.
+- Currently Sharpness/Smite/Bane of Arthropods can apply to axes and thorns can apply to non chestplate armor in the enchantment table, allowing for these items to have these enchantments without repair cost. Normally these enchantments on these respective items are only obtainable through an anvil, and thus will have repair cost.
 
 **24w05a**
 - Updating horses wearing horse armor into this version causes the armor to be duplicated, and also remain within the ArmorItems tag. Normally horses cannot have anything equipped in these slots.
