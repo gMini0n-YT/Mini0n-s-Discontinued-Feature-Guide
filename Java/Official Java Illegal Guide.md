@@ -680,6 +680,7 @@ ________________________________________________________________________________
 **19w02a**
 - Multiple protection types can be applied to enchanted books and armor, allowing for variuos assortments of normally unobtainable enchantment combinations. This also affects villager trades, allowing for villagers trading enchanted armor with invalid enchantments.
 - Currently more than six banner patterns can be applied to banners within a loom, due to banner previews not updating correctly. This will be discontinued in future versions.
+- Vines can be placed and supported by campfires
 
 **19w07a**
 - Added Foxes. Foxes can currently have armor dispensed onto them, allowing for armored foxes which are normally not obtainable.
