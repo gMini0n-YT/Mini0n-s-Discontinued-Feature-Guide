@@ -302,6 +302,7 @@ ________________________________________________________________________________
 
 **19w02a**
 - Currently more than six banner patterns can be applied to banners within a loom, due to banner previews not updating correctly. This will be discontinued in future versions.
+- Vines can be placed and supported by campfires
 
 **19w08a**
 - Waterlogged campfires can be ignited with fire charges, allowing for waterlogged lit campfires, which are normally not obtainable. Extinguished campfires no longer drop food items.
