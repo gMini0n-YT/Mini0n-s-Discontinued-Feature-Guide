@@ -244,6 +244,7 @@ ________________________________________________________________________________
 
 **18w06a**
 - Unconnected chorus plants generate in the end islands, which will be discontinued in future versions
+- Before introduction of bubble columns in 18w07a, placing soul sand/magma [1] blocks beneath full blocks of water did not create a bubble column.
 
 **18w07a**
 - Turtle eggs are treated as full blocks, and as such support blocks such as levers and and buttons can be placed on the side of turtle eggs. These are discontinued block configurations.
