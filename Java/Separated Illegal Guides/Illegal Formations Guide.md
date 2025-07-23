@@ -97,6 +97,7 @@ ________________________________________________________________________________
 
 **Beta 1.7**
 - Block Transmutation can work by building a piston and water based contraption
+- Pulling a detector rail with a minecart on it will leave it powered, though will only temporarily as it will be reverted once ticked
 
 **Beta 1.7.2**
 - Block Transmutation can work by updating a budded piston at the same time another piston pushes a block merging the blocks
