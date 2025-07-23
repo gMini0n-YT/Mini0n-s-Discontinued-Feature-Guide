@@ -148,6 +148,7 @@ ________________________________________________________________________________
 - Hoppers are currently capable of placing items in any inventory slots, allowing for invalid items in brewing stands and invalid items in furnace slots. By placing items not normal craftable in a furnace output slot, these items can register as crafted by statistics in future versions.
 - Daylight sensors can be placed in the nether and will permanently powered on
 - Redstone Torches can float if the block beneath them is removed
+- Placing a rail on a block that is inside of an end portal will leave the rail floating on top of the end portal block
 
 **13w06a-1**
 - All minecarts will be converted to spawner minecarts which will become unobtainable later
