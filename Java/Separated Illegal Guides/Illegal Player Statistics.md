@@ -23,6 +23,7 @@ ________________________________________________________________________________
 - Items and blocks that are normally unobtainable can have various statistics associated with them, allowing for discontinued statistics by extension. Examples include bedrock placed. There is also the special case of command blocks placed. In future versions command blocks will no longer be able to be placed in survival, meaning that the statistic is both discontinued by block type and by statistic value.
 - In 14w02a (1.8 snapshot) the crafting recipe of doors was changed from 1 door to 3 doors. So if you craft a door in this version, it will only give you one, messing up the statistic, crafting doors in this version will cause the statistic to be uneven multiple of 3 so door statistics of 4 and 5 are possible
 - Just like the Doors from above, in this version you can only craft fences two at a time instead of 3 in future versions allowing for unobtainable statistic of fences so it is possible to have a statistic of 5 for fences crafted
+- You can get an unobtainable Player Kills statistic if you are in singleplayer by shooting yourself with an arrow or harming potions till you die
 
 **15w33a**
 - Added items picked up and items dropped statistics. These can go negative by simply dropping or picking up negative stacks of items.
