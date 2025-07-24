@@ -332,6 +332,7 @@ ________________________________________________________________________________
 - Items and blocks that are normally unobtainable can have various statistics associated with them, allowing for discontinued statistics by extension. Examples include bedrock placed. There is also the special case of command blocks placed. In future versions command blocks will no longer be able to be placed in survival, meaning that the statistic is both discontinued by block type and by statistic value.
 - Enchantments are not applied properly either through anvils of enchanting tables, resulting in items with an empty enchantment tag. These items all have a discontinued nbt tag by having no enchantments yet still having the enchantments tag.
 - The empty enchantments also apply to villager trades, allowing for cleric villagers to sell enchanted armor without enchantments. This trade will become unobtainable in future versions.
+- In 14w02a (1.8 snapshot) the crafting recipe of doors was changed from 1 door to 3 doors. So if you craft a door in this version, it will only give you one, messing up the statistic, crafting doors in this version will cause the statistic to be uneven multiple of 3 so door statistics of 4 and 5 are possible
 
 **13w37a**
 - Enchanted Books in loot table chests do not have enchantments
