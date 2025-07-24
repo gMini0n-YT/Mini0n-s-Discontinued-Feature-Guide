@@ -245,7 +245,7 @@ ________________________________________________________________________________
 - Block Transmutation is possible by using tripwires allowing for various unobtainable blocks
 
 **12w24a**
-- Shift Clicking a stacked item into an enchantment table will remove the nbt data of the item allowing for various discontinued features
+- Shift Clicking a stacked item into an enchantment table will remove the nbt data of the item including written books allowing for various discontinued features
 
 **0.984 Classroom (EDU)**
 - A file called EduWorldSettings.ini is generated within the world save. A folder called MCEdu is created within the world save, which includes several files that are gnenerated when the server is launched. These files and folders are exclusive to Edu versions, and will be discontinued in future versions.
