@@ -73,6 +73,9 @@ ________________________________________________________________________________
 **0.984 Classroom (EDU)**
 - A file called EduWorldSettings.ini is generated within the world save. A folder called MCEdu is created within the world save, which includes several files that are gnenerated when the server is launched. These files and folders are exclusive to Edu versions, and will be discontinued in future versions.
 
+**12w21a**
+- When creating a new world, if the name picked matches a current world folder name, additional characters will be added to the new folder name. The actual world name will only be the original picked name, which must be within the 32 character limit. However, if the game closes out while generating the world, the folder name will be applied to the world name, regardless of the folder name length. From 12w18a through 19w11b, world names would uses dashes after the name, and from 19w12a+ a number in parentheses is added to the end. The longest possible name is a bit complicated to figure out, since it is limited to the longest possible folder name, and the maximum length of the folder name is determined by the length of the file path, which is limited to 248 characters. Due to the version range,
+
 **12w32a-2**
 - Within the data folder, the villages.dat file now generates. This file tracks player made villages, and will become discontinued in future versions
 
