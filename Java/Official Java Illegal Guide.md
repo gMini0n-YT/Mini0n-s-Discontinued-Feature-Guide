@@ -314,7 +314,7 @@ ________________________________________________________________________________
 
 **13w21a**
 - Updating Mobs from this version into future version will allow for unobtainable variants of mobs due to speed change
-- Wild Horses can be saddled in this version
+- You can saddle and put armor on wild horses in this version
 
 **1.6.3-1**
 - Bounding boxes now save with the world. In order for current structures (witch huts, nether fortresses, etc.) to be saved to the world file, the player must load the appropriate chunks within the game manually. After this is completed, structures will be compatible in all snapshots starting with snapshot. All these bounding boxes will not be obtainable in their current locations in future versions.
