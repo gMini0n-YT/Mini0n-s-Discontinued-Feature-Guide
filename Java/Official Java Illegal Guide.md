@@ -334,6 +334,7 @@ ________________________________________________________________________________
 - The empty enchantments also apply to villager trades, allowing for cleric villagers to sell enchanted armor without enchantments. This trade will become unobtainable in future versions.
 - In 14w02a (1.8 snapshot) the crafting recipe of doors was changed from 1 door to 3 doors. So if you craft a door in this version, it will only give you one, messing up the statistic, crafting doors in this version will cause the statistic to be uneven multiple of 3 so door statistics of 4 and 5 are possible
 - Just like the Doors from above, in this version you can only craft fences two at a time instead of 3 in future versions allowing for unobtainable statistic of fences so it is possible to have a statistic of 5 for fences crafted
+- You can get an unobtainable Player Kills statistic if you are in singleplayer by shooting yourself with an arrow or harming potions till you die
 
 **13w37a**
 - Enchanted Books in loot table chests do not have enchantments
