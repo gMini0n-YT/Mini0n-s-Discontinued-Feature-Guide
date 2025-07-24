@@ -472,6 +472,7 @@ ________________________________________________________________________________
 - Adding Blaze powder to a Brewing Stand will set the fuel higher than in newer versions
 - Mending and Frost Walker Librarian Trades in this version are cheaper than in newer versions
 - Currently renaming any item adds the repair cost 0 tag, which will not be added to renamed items in future versions
+- From 15w42a to 15w44b, breaking frosted ice with a Silk Touch pickaxe will drop air. This cannot be picked up by player, but it can be picked up by minecart with hopper, from which you can move it to hopper and then into other containers. Interacting with the item in a container crashes the game
 
 **15w43a**
 - Added loot tables to all chests that generate in structures. Currently blacksmith chests in villages generate with the loot table of minecraft:chests/village_blacksmith, which will be discontinued in future versions.
