@@ -569,6 +569,7 @@ ________________________________________________________________________________
 - Updating filled maps from earlier versions does not properly apply nbt data, creating no nbt filled maps, which will be discontinued in future versions
 - Placing a noteblock on a bone block sets the instrument to bass drum, which is unobtainable in the future. Additionally, placing noteblocks on iron blocks, pumpkins, blocks of emerald and hay bales all have the instrument set to harp, soul sand has the instrument set to snare drum, and glowstone has the instrument set to clicks and sticks, all of which are unobtainable in future versions.
 - Endermen could pick up snowy grass. They could also place it down and it would keep the state. If an enderman places or picks up snowy grass in a future version it simply converts to regular grass.
+- The crafting statistic does not actually count the action of crafting, instead it counts when the item is taken from the output slot of either a crafting table or furnace. Therefore, any item taken out of the output slot of a furnace adds to the crafting stat of that item. If items are placed in a furnace output slot by any means (See invalid items in furnace under Indev 20100219), and then taken out in any version from 17w47a to 1.21.8 (present) the item will increase the respective crafting statistic.
 
 **17w47b**
 - Uncraftable potions can be obtained through fishing
