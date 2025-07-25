@@ -175,6 +175,7 @@ ________________________________________________________________________________
 
 **14w25a**
 - A Wet sponge can be placed in the nether and will not update to Dry Sponge
+- Mining the piston hwad in this version will not break the rest of the piston but instead leav you with a headless piston
 
 **14w25b**
 - Torches can be placed in an assortment of invalid locations, including floating, on other torches, and on transparent blocks, all of which are discontinued block configurations. This occurs by placing them on a block that is against a solid block, instead of changing the position to a wall torch, the position is maintained as a standing torch.
