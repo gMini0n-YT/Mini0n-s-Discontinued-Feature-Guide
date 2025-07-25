@@ -489,6 +489,9 @@ ________________________________________________________________________________
 **15w44a**
 - By placing an end crystal in the center of the exit end portal when attempting to resummon the ender dragon, there is a small chance bedrock will drop as an item, allowing it to be obtained.
 
+**15w44b**
+- Relogging during the Dragon's resummoning process will cause all of the End Crystals present to become invincible
+
 **1.9 Prerelease 1 - 16w07b (Downgrading)**
 - By downgrading a shield from the previous version, negative durability shields can be created. This works by taking at least two shields in the previous version, and getting the durability lower than roughly 140 at least. The lower the durability, the easier to combine. Once these low durability shields are obtained, they can be downgraded to this version and combined in a crafting table. This will make the shields receive a lower durability, and can consistently be combined to as low as roughly -32400 durability. Anything lower than roughly -160 durability will remain negative when updated.
 
