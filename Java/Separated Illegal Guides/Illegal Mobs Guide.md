@@ -86,6 +86,7 @@ ________________________________________________________________________________
 > [!Note]
 > In order to update to this version, the world folder must be renamed to "existence.af15"
 - Attempting to trade with a villager does not give the proper item, but instead gives a paper renamed "Thanks for your donation". This paper is a discontinued item since it is renamed without a repair cost.
+- Horses could be stacked on top of the player by right clicking them. They can be removed from riding the player by logging out, or submerging the stack into water. While both tamed and untamed horses could be added to the stack, untamed horses will randomly dismount their mounts, making them a temporary discontinued feature if the stack consists of untamed horses.
 
 **1.8.9**
 - Currently there is a bug that allows for commands to be run in survival. This is known as Cross Word Commands, and it functions by first creating a creative world. From the creative world a redstone setup can be made to generate a large amount of lag at the same time it runs command blocks. The player then quickly logs out of the creative world and into the survival world, which has a chance to transfer the commands and have them run in survival. A creative world download will be added to "Mods & Extra Files"
