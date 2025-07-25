@@ -479,7 +479,7 @@ ________________________________________________________________________________
 **15w42a**
 - Mending and Infinity can be added to a bow and an enchanted book
 - Adding Blaze powder to a Brewing Stand will set the fuel higher than in newer versions
-- Mending and Frost Walker Librarian Trades in this version are cheaper than in newer versions
+- trading with a librarian in 15w42a and getting either a Mending or Frost Walker enchanted book trade. Mending and Frost Walker I would be 5-19 emeralds and one book each. This was changed in the next version so it would cost 10-38 emeralds and one book. Similarly in 15w42a Frost Walker II would cost 8-32 emeralds and one book, where in the next snapshot it would cost 16-64 emeralds and one book.
 - Currently renaming any item adds the repair cost 0 tag, which will not be added to renamed items in future versions
 - From 15w42a to 15w44b, breaking frosted ice with a Silk Touch pickaxe will drop tile.air.name. This cannot be picked up by player, but it can be picked up by minecart with hopper, from which you can move it to hopper and then into other containers. Interacting with the item in a container crashes the game
 
