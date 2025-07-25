@@ -117,6 +117,9 @@ ________________________________________________________________________________
 - An ender dragon can enter a boat, which will be discontinued in future versions
 - Clerics now sell ender pearls instead of eye of enders, which is another discontinued trade
 
+**15w44b**
+- Relogging during the Dragon's resummoning process will cause all of the End Crystals present to become invincible
+
 **16w20a**
 - Endermen can spawn in the nether and can pick up netherack. In the future Endermen aren't able to pick up netherack
 - If you kill a slime and unload it while it is dying, when reloaded it will have its health set above 0, which stops the mob from dying. However, the death timer is not reset.
