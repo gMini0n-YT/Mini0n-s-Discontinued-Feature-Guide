@@ -67,6 +67,7 @@ ________________________________________________________________________________
 **14w02a**
 - Completely reworked villager trades. Almost all trades will be discontinued in future versions, either by trade, amount, or tier it is within. Some specific trades that will be discontinued are: Shepherds Selling All 16 Wool Colors, Librarians Buying 2 Written Books, and Leatherworkers Selling Enchanted Leather Tunic. Trades are now generated based on tier and are more specifically ordered. All trades from previous versions are considered tier 0 trades, meaning all trades from this version can be stacked on top of trades from previous versions.
 - Clerics currently buy enderpearls, which will become unobtainable in future versions.
+- Clerics currently sell eyes of enders, which ill become unobtainable in future versions
 - In 14w02a (a 1.8 snapshot), farmer villagers were supposed to sell cake at tier 4. However, due to a bug farmer villagers will instead sell the Cake (Block Item) for 1 emerald. As the cake block does not have a registered item in 13w37a (a 1.7 snapshot) and above, opening this villager's GUI before reloading from disk after unlocking its tier 4 trades will crash the game whilst trying to write the villager's trades to the trade packet. When the villager is saved to disk, 0 is written as the item id, converting it to air.
 
 **14w02a - 1.7.10 (Downgrading)**
