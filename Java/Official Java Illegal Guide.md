@@ -708,7 +708,7 @@ ________________________________________________________________________________
 - Smelting Coal Ore, Diamond Ore, Emerald Ore, Gold Ore, Iron Ore, Lapis Lazuli Ore, or Redstone Ore in a blast furnace add recipe values that will be changed in future versions. These stored recipes are completely unobservable, and will be removed if an item is ever taken out of the blast furnace output slot manually, however hoppers can be used to remove items from the output slot and stack multiple recipes.
 
 **19w02a**
-- Multiple protection types can be applied to enchanted books and armor, allowing for variuos assortments of normally unobtainable enchantment combinations. This also affects villager trades, allowing for villagers trading enchanted armor with invalid enchantments.
+- Multiple protection types can be applied to enchanted books and armor, allowing for various assortments of normally unobtainable enchantment combinations. This also affects villager trades, allowing for villagers trading enchanted armor with invalid enchantments.
 - Currently more than six banner patterns can be applied to banners within a loom, due to banner previews not updating correctly. This will be discontinued in future versions.
 - Vines can be placed and supported by campfires
 
@@ -718,7 +718,8 @@ ________________________________________________________________________________
 - Foxes currently spawn with high health of 20 hp, which will change to 10 hp in future versions.
 
 **19w08a**
-- Waterlogged campfires can be ignited with fire charges, allowing for waterlogged lit campfires, which are normally not obtainable. Extinguished campfires no longer drop food items.
+- Waterlogged campfires can be ignited with fire charges, allowing for waterlogged lit campfires, which are normally not obtainable.
+- Extinguished campfires no longer drop food items.
 
 **19w11a**
 - Armorer and Cartographer trades have been completely reworked, and will be discontinued in future versions, either by trade, amount, tier the trade is in, or based off of the biome variant
