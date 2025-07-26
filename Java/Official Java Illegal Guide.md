@@ -691,6 +691,7 @@ ________________________________________________________________________________
 
 **18w47a**
 - Currently chests that generate in ocean ruins have the block data of structure blocks, which is normally unobtainable. These chests cannot be opened, however they can visually connect to create a double chest. The structure block data, while unobservable, has the signature of ladyagnes.
+- Normally, Multishot and Piercing cannot be obtained on the same crossbow. However, from 18w47a (a 1.14 snapshot) to 20w29a (a 1.16.2 snapshot), pillagers from raids could rarely spawn with crossbows with both enchantments or duplicate enchantments.
 
 **18w48a**
 - Villagers that generate in the new villages are missing their tier one trade. This allows for a wide variety of discontinued trades.
