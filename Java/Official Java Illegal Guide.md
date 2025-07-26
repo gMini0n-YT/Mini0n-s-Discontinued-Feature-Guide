@@ -585,6 +585,9 @@ ________________________________________________________________________________
 - Uncraftable potions can be obtained through fishing
 - Uncraftable tipped arrows are dropped by strays
 
+**18w01a**
+- Throwing your Ender Pearl and then, reloading it, whether it is by leaving the chunks which the Ender Pearl is in or leaving and rejoining your world. The ender pearl will then lose its "Owner" tag, allowing for an Ownerless Enderpearl
+
 **18w06a**
 - /Enchant can be used to add enchantments to items that cannot normally have a specific combination of enchantments, for example adding mending to a multiple protection helmet from horsemen
 - Unconnected chorus plants generate in the end islands, which will be discontinued in future versions
