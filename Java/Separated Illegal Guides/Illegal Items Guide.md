@@ -232,6 +232,7 @@ ________________________________________________________________________________
 **17w47a**
 - Banners only stack to one. This means by combining previous banner stacks, the stack can surpass 16 and thus allow for overstacked banners.
 - Updating filled maps from earlier versions does not properly apply nbt data, creating no nbt filled maps, which will be discontinued in future versions
+- Pumpkins can be enchanted with Curse of Vanishing and Curse of Binding, which allows for 4 different ivalid pumpkins
 
 **17w47b**
 - Uncraftable potions can be obtained through fishing
