@@ -572,6 +572,7 @@ ________________________________________________________________________________
 
 **17w47a**
 - Updating a villager with a pumpkin trade will convert that pumpkin to a carved pumpkin, allowing for a carved pumpkin trade. This is unobtainable in future versions.
+- Pumpkins can be enchanted with Curse of Vanishing and Curse of Binding, which allows for 4 different ivalid pumpkins
 - Fishermen now have a salmon trade, which is unobtainable in certain amounts in future versions
 - Banners only stack to one. This means by combining previous banner stacks, the stack can surpass 16 and thus allow for overstacked banners.
 - Using shears on a tripwire string disarms it instead of breaking the string, creating a tripwire with the disarmed state. In future versions this will not be possible, making tripwires with the disarmed state future discontinued.
