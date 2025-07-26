@@ -123,6 +123,9 @@ ________________________________________________________________________________
 **18w08a**
 - The deep warm ocean biome will be temporarily discontinued in future versions. Ocean monuments can currently generate in a deep warm ocean biome, which in future versions will convert to a warm ocean biome. An ocean monument in a warm ocean biome is normally unobtainable, making this a discontinued feature.
 
+**18w46a**
+- Void End Rings would generate from this version to the current version. The edge of these rings is always aligned to an 8×8 grid and can cause "cuts" (completely smooth, flat surfaces) when intersecting with outer end islands. Other structures, such as the small circular end islands, chorus plants, gateways and end cities are not cut off when crossing the border, but also do not generate inside the void ring. The first ring that generates starts at 370,728 and ends at 524,288
+
 **19w36a**
 - This version introduced new gamerules. These included drowningDamage, fallDamage, fireDamage, and doInsomnia. These rules are normally defaulted to true, however updating your world to this version causes them to be set to false, which allows for 4 discontinued gamestates. These cause the player to take no drowning, fire, or fall damage. This also prevents phantoms from spawning, causing phantoms to become a discontinued feature. Phantom membranes are still obtainable through cats.
 
