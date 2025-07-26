@@ -282,6 +282,7 @@ ________________________________________________________________________________
 
 **18w47a**
 - Normally, Multishot and Piercing cannot be obtained on the same crossbow. However, from 18w47a (a 1.14 snapshot) to 20w29a (a 1.16.2 snapshot), pillagers from raids could rarely spawn with crossbows with both enchantments or duplicate enchantments.
+- From 18w47a (1.14 snapshot) to 24w12a (1.20.5 snapshot), every ominous banner generated as a part of the pillager outpost structure will display patterns, unlike the ones obtained from killing patrol captains.
 
 **18w48a**
 - Combining two Curse books in a grindstone will give you an overstacked amount of curse books. The grindstone will give you two curse books and this can be repeated until 64
