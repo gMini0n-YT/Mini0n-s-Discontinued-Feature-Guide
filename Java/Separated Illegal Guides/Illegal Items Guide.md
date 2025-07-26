@@ -280,6 +280,9 @@ ________________________________________________________________________________
 - Currently illager banners that are placed as blocks do not maintain the HideFlags tag, which displays the patterns on the banner. In future versions, all ominous banners will have this tag and will not lose it, making this a discontinued variant of ominous banner.
 - Currently illager banners can have the custom name removed by renaming it in an anvil. In future versions this coloring will be converted to a rarity color, making these a non-rare discontinued variety of illager banners.
 
+**18w47a**
+- Normally, Multishot and Piercing cannot be obtained on the same crossbow. However, from 18w47a (a 1.14 snapshot) to 20w29a (a 1.16.2 snapshot), pillagers from raids could rarely spawn with crossbows with both enchantments or duplicate enchantments.
+
 **18w48a**
 - Combining two Curse books in a grindstone will give you an overstacked amount of curse books. The grindstone will give you two curse books and this can be repeated until 64
 
