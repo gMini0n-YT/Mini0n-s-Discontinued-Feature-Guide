@@ -230,7 +230,7 @@ ________________________________________________________________________________
 - Currently non-breaking space characters can be put into the title of written books by typing the alt code "Alt + 0160". This character will not be allowed in book titles in future versions, making this a discontinued book variant.
 
 **17w47a**
-[!WARNING]
+[!Caution]
 > Entity statistics do not exist, meaning that updating to this snapshot will delete all entity specific statistics.
 - Banners only stack to one. This means by combining previous banner stacks, the stack can surpass 16 and thus allow for overstacked banners.
 - Updating filled maps from earlier versions does not properly apply nbt data, creating no nbt filled maps, which will be discontinued in future versions
