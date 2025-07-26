@@ -519,7 +519,7 @@ ________________________________________________________________________________
 
 **16w39a**
 - Currently the curse of vanishing can be added to any item, allowing for a large variety of items with discontinued enchantments
-- Curse of Binding can be applied to Jack O' Lantern
+- Curse of Binding and Curse of Vanishing can be applied to Jack O' Lantern
 - Added cartographer villagers, which have trades that will be discontinued in future versions. They can also be combined with the invalid career villagers from 16w32b.
 - Vindicators currently only visually appear to hold an axe, they do not actually hold an axe. This means updating them to future versions allows for weaponless vindicators
 - Currently crafting a shulker box with dye adds a color tag, which will be unobtainable in future versions
