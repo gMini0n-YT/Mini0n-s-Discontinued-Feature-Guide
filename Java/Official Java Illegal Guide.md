@@ -636,8 +636,6 @@ ________________________________________________________________________________
 - Support Blocks could be placed on Conduits
 - Dolphins have the persistence required tag set to true without setting a custom name when they play with an item. Simply throw an item into the water and wait for the dolphin to play with it.
 
-
-
 **18w20a**
 - Placing a conduit defaults it to a waterlogged state, allowing for water in the nether.
 - Loading the mobs from 1.8.9 will cause them to be dual wielding and holding armor. It also causes them to have a 0 drop chance for their left hand, which is also normally not obtainable.
@@ -678,6 +676,7 @@ ________________________________________________________________________________
 - Crafting a suspicious stew with a poppy causes it to have the speed effect. This is replaced in future versions with the Night Vision effect. These speed suspicious stews can also be obtained from shipwrecks, and have different levels of duration.
 - Currently saturation effect suspicious stew has a duration longer than normally possible. This ranges from 140-200 ticks from shipwreck loot, and 100 ticks from crafting.
 - Currently armor can be dispensed onto a panda, allowing for armored pandas which are normally unobtainable
+- Mining a Shulker Box containing overstacked items from 18w43a (1.14 snapshot) to 24w07a (1.20.5 snapshot) in survival mode will drop a shulker box item with an Items tag with the overstacked items split into separate slots with the max stack size of that item.
 
 **18w45a**
 - Pillagers currently can run out of durability on crossbows, leaving them weaponless. This will not be obtainable in future versions.
