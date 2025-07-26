@@ -686,6 +686,9 @@ ________________________________________________________________________________
 - Support blocks could be placed on Stonecutters
 - Redstone components would not update when unloaded allowing for the creation of many permanently powered components.
 
+**18w46a**
+- Void End Rings would generate from this version to the current version. The edge of these rings is always aligned to an 8×8 grid and can cause "cuts" (completely smooth, flat surfaces) when intersecting with outer end islands. Other structures, such as the small circular end islands, chorus plants, gateways and end cities are not cut off when crossing the border, but also do not generate inside the void ring. The first ring that generates starts at 370,728 and ends at 524,288
+
 **18w47a**
 - Currently chests that generate in ocean ruins have the block data of structure blocks, which is normally unobtainable. These chests cannot be opened, however they can visually connect to create a double chest. The structure block data, while unobservable, has the signature of ladyagnes.
 
