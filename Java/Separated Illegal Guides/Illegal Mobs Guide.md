@@ -145,6 +145,9 @@ ________________________________________________________________________________
 - Fishermen now have a salmon trade, which is unobtainable in certain amounts in future versions
 - Endermen could pick up snowy grass. They could also place it down and it would keep the state. If an enderman places or picks up snowy grass in a future version it simply converts to regular grass.
 
+**18w01a**
+- Throwing your Ender Pearl and then, reloading it, whether it is by leaving the chunks which the Ender Pearl is in or leaving and rejoining your world. The ender pearl will then lose its "Owner" tag, allowing for an Ownerless Enderpearl
+
 **18w07a**
 - Phantoms have a base attack damage of 6, which is unobtainable in future versions
 
