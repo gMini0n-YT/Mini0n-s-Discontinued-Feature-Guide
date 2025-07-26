@@ -877,6 +877,9 @@ ________________________________________________________________________________
 **21w03a**
 - Placing glow lichen into lava in the nether causes it to waterlog, allowing for water in the nether
 
+**21w05a**
+- Freezing a Skeleton On a Skeleton Horse will cause the skeleton to convert to a stray allowing for a Stray Skeleton Horsemen
+
 **21w15a**
 - Any entity that receives the glowing effect through either a spectral arrow or from a creeper explosion lingering cloud of glowing will become permanately glowing and the glowing tag will be set to 1b.
 - Salmon buckets now store salmon health. This creates another variant of salmon buckets without size information saved, which will be discontinued in future versions.
