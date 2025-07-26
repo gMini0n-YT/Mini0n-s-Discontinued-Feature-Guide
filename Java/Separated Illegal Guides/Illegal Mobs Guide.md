@@ -162,6 +162,7 @@ ________________________________________________________________________________
 **18w15a**
 - Currently dolphins can be equipped with armor, which is unobtainable in future versions.
 - Dolphins can ride in boats currently, which is unobtainable in future versions.
+- Dolphins have the persistence required tag set to true without setting a custom name when they play with an item. Simply throw an item into the water and wait for the dolphin to play with it.
 
 **18w20a**
 - Loading the mobs from 1.8.9 will cause them to be dual wielding and holding armor. It also causes them to have a 0 drop chance for their left hand, which is also normally not obtainable.
