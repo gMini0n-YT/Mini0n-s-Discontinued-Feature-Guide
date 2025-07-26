@@ -271,7 +271,7 @@ ________________________________________________________________________________
 - In 21w03a, Shulkers were changed such that when they entered a minecart, they would immediately reorient themselves right-side up and parallel to the block grid, meaning that any shulkers put in minecarts before then will keep their previous orientations but not display them when upgraded. the rotation is not limited to just the 6 normal rotations an attached shulker can have, but is very free as shulkers before 21w03a would rotate to follow the facing direction of a minecart they are in, which would be kept on updating.
 
 **21w05a**
-- Freezing a Skeleton On a Skeleton Horse will cause the skeleton to convert to a stray allowing for a Stray Skeleton Horsemen
+- Freezing a Skeleton On a Skeleton Horse or a spider will cause the skeleton to convert to a stray allowing for a Stray Skeleton Horsemen or a Stray Spider Jockey
 
 **21w15a**
 - Any entity that receives the glowing effect through either a spectral arrow or from a creeper explosion lingering cloud of glowing will become permanately glowing and the glowing tag will be set to 1b.
