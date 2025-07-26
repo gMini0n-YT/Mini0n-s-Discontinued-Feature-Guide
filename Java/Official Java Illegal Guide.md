@@ -634,6 +634,9 @@ ________________________________________________________________________________
 - Dolphins can ride in boats currently, which is unobtainable in future versions.
 - Bonemealing a Small Grass underneath a block will grow into a double tall grass and will break the block above it
 - Support Blocks could be placed on Conduits
+- Dolphins have the persistence required tag set to true without setting a custom name when they play with an item. Simply throw an item into the water and wait for the dolphin to play with it.
+
+
 
 **18w20a**
 - Placing a conduit defaults it to a waterlogged state, allowing for water in the nether.
