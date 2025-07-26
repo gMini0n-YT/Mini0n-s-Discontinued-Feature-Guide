@@ -274,6 +274,7 @@ ________________________________________________________________________________
 - Currently, using shears in a dispenser in this manner does not check for a lower durability bound, allowing the shears to become negative durability shears.
 - Crafting a suspicious stew with a poppy causes it to have the speed effect. This is replaced in future versions with the Night Vision effect. These speed suspicious stews can also be obtained from shipwrecks, and have different levels of duration.
 - Currently saturation effect suspicious stew has a duration longer than normally possible. This ranges from 140-200 ticks from shipwreck loot, and 100 ticks from crafting.
+- Mining a Shulker Box containing overstacked items from 18w43a (1.14 snapshot) to 24w07a (1.20.5 snapshot) in survival mode will drop a shulker box item with an Items tag with the overstacked items split into separate slots with the max stack size of that item.
 
 **18w45a**
 - Currently illager banners that are placed as blocks do not maintain the HideFlags tag, which displays the patterns on the banner. In future versions, all ominous banners will have this tag and will not lose it, making this a discontinued variant of ominous banner.
