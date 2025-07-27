@@ -789,7 +789,7 @@ ________________________________________________________________________________
 - Lava can currently spread soul fire to any flammable block, which is normally not obtainable. This allows for a large variety of discontinued block combinations.
 - Soul torches, soul lanterns, and string can all be placed on top of a wall without updating it to a post state, which is normally not obtainable. Placing walls in certain formations also allows for discontinued wall placements. Currently warped and crimson fences do not connect to overworld fences, allowing for discontinued fence configurations.
 - Nether sprouts can float, and thus be placed onto any block. This will not be obtainable in future versions.
-- Lava can currently be placed on soul soil, and adjacent to blue ice without creating a block. This will be an unobtainable block configuration in future versions.
+- Lava can currently be placed on soul soil, and adjacent to blue ice without creating a basalt. This will be an unobtainable block configuration in future versions.
 
 **20w07a**
 - Currently, if a piglin enters the overworld, it becomes a zombified piglin. This conversion has a rare chance for the entity to become an adult zombified pigling jockey, which will not be obtainable in future versions.
