@@ -796,10 +796,11 @@ ________________________________________________________________________________
 - Lava can currently be placed on soul soil, and adjacent to blue ice without creating a basalt. This will be an unobtainable block configuration in future versions.
 
 **20w07a**
-- Currently, if a piglin enters the overworld, it becomes a zombified piglin. This conversion has a rare chance for the entity to become an adult zombified pigling jockey, which will not be obtainable in future versions.
+- Currently, if a piglin enters the overworld, it becomes a zombified piglin. This conversion has a rare chance for the entity to become an adult zombified piglin jockey, which will not be obtainable in future versions.
 - Currently piglins and hoglins that are within 16 blocks of a player do not despawn. This allows for persistence required 1b piglins and hoglins without names, which are normally not obtainable.
 - Piglins that are holding a crossbow will drop their crossbow to pick up golden items. Normally a piglin needs to be holding a weapon, thus allowing for discontinued piglin variants.
-- Baby piglins can currently pick up both soul torches and soul lanterns, however piglins are supposed to be afraid of soul items. In future versions, baby piglins will not be able to pick up soul items. Baby piglins can currently pick up leather, and in future versions baby piglins will also no longer be allowed to pick up leather.
+- Baby piglins can currently pick up both soul torches and soul lanterns, however piglins are supposed to be afraid of soul items. In future versions, baby piglins will not be able to pick up soul items.
+- Baby piglins can currently pick up leather, and in future versions baby piglins will also no longer be allowed to pick up leather.
 
 **20w09a**
 - Crimson and warped signs are now obtainable through crafting. These signs can be placed within the fuel slot of furnaces, which will not be possible in future versions.
@@ -813,7 +814,7 @@ ________________________________________________________________________________
 
 **20w11a**
 - Enchanting boots with soul speed and running on soul soil will cause durability to decrease on the boots. There is no check, allowing for negative durability boots, which are normally not obtainable.
-- Currently, there is a chance that bartering with a piglin will give the player an enchanted book that is enchanted with soul speed. This enchantment is not actually a stored enchantment, and is instead applied to the enchanted book as if it was a piece of equipment. This is normally not obtainable.
+- Currently, there is a chance that bartering with a piglin will give the player an enchanted book that is enchanted with soul speed. This enchantment tag is not actually a stored enchantment tag, and is instead applied to the enchanted book as if it was a piece of equipment. This is normally not obtainable.
 - Currently soul sand can be ignited with regular fire, which will not be obtainable in future versions
 
 **20w12a**
@@ -824,6 +825,7 @@ ________________________________________________________________________________
 - Currently there is a chance striders will spawn with NoGravity:1b, meaning they float. These striders will not be obtainable in future versions.
 - Striders can spawn on top of other striders. Currently there is no upper bound, allowing for 4+ strider stacks, which will be unobtainable in future versions.
 - Striders can currently spawn with zombified piglins holding golden swords. This will be changed in future versions so the zombified piglins only hold warped fungi on a stick.
+- Right-clicking a compass on a lodestone will change it to lodestone compass without the LodestoneTracked Tag
 
 **20w14∞**
 > [!Note]
