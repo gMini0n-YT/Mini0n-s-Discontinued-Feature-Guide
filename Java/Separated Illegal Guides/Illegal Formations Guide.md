@@ -302,6 +302,10 @@ ________________________________________________________________________________
 - Bells can have invalid states by attaching it to a noteblock and then tuning the noteblock, and by attaching it to an observer and then breaking the observer.
 - Smelting Coal Ore, Diamond Ore, Emerald Ore, Gold Ore, Iron Ore, Lapis Lazuli Ore, or Redstone Ore in a blast furnace add recipe values that will be changed in future versions. These stored recipes are completely unobservable, and will be removed if an item is ever taken out of the blast furnace output slot manually, however hoppers can be used to remove items from the output slot and stack multiple recipes.
 
+**18w50a - 18w49a**
+- Downgrading A Blast Furnace from 18w50a to 18w49a will cause the Blast Furnace UI to work like a Furnace allowing for invalid items that are not ore in the blast furnace output slot
+- Downgrading A Smoker from 18w50a to 18w49a will cause the Smoker UI to work like a Furnace allowing for invalid items that is not meat in the smoker output slot
+
 **19w02a**
 - Currently more than six banner patterns can be applied to banners within a loom, due to banner previews not updating correctly. This will be discontinued in future versions.
 - Vines can be placed and supported by campfires
