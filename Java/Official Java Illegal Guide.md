@@ -865,6 +865,7 @@ ________________________________________________________________________________
 
 **20w21a**
 - Currently, piglins can ride any mob that is inside a boat. This therefore allows for many variants of normally unobtainable piglin jockeys. Having a piglin ride one of these mobs in the overworld or end and storing them in unloaded chunks until later can allow for zombified piglins riding many mobs in the future.
+- From 20w21a (1.16 snapshot) to 21w44a (1.18 snapshot), there existed a Caves world type, which generated a world strictly composed of caves. To obtain the caves world type, you must set the world type to "Caves" in the world creation menu. Alternatively, you can perform **world save insertion** for any new chunks to generate as the caves world type.
 
 **1.16-Prerelease 6**
 - Piglins can now spawn wearing enchanted golden armor, holding enchanted golden swords, and holding enchanted crossbows. Each bastion remnant visited with the world open, adds another layer of enchantments to the equipment held and worn by piglins in bastions. This allows for a wide variety of discontinued enchantment configurations, including conflicting and duplicate enchantments. Duplicate enchantments will be deleted in future versions, but the conflicting enchantments will be preserved.
