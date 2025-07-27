@@ -936,13 +936,16 @@ ________________________________________________________________________________
 > This version requires a Caves & Cliffs Datapack. The 21w15a Caves & Cliffs Datapack can be downloaded from the "Mods & Extra Files" folder. From here, the zip folder can directly be placed into the datapacks folder within the world save folder.
 - Downgrading bundles containing a Powdered Snow Bucket will cause the bundles to maintain the item tags, however the item will visually disappear, and cause the count to not include this item. This allows for additional items to be placed within the bundle, increasing the amount to 128 total items (448 if stacked with the previous bundle). It is recommended to combine this with 64 unique bee nests within the bundle for the maximum bundle size.
 
-**21w51a**
+**21w03a**
 - In 21w03a, Shulkers were changed such that when they entered a minecart, they would immediately reorient themselves right-side up and parallel to the block grid, meaning that any shulkers put in minecarts before then will keep their previous orientations but not display them when upgraded. the rotation is not limited to just the 6 normal rotations an attached shulker can have, but is very free as shulkers before 21w03a would rotate to follow the facing direction of a minecart they are in, which would be kept on updating.
 
 **21w05b (Datapack)**
 > [!Note]
 > This version requires the same Caves & Cliffs Datapack from the previous version, meaning no file editing is required if updating from the previous version
 - The world height is now increased to 320, and extends below to -64. Any new chunks generated in this version with the datapack will have solid stone generate underneath all chunks extending down from Y0 to Y-64, with no bedrock.
+
+**21w06a**
+- The big dripleaf could be broken without making the whole plant break allowing for unconnected dripleaf stem
 
 **21w13a**
 - Endermen can currently pick up both azalea leaves and flowering azalea leaves. Endermen holding azalea leaves will not be obtainable in future versions.
