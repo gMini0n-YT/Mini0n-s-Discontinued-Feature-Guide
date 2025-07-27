@@ -136,6 +136,9 @@ ________________________________________________________________________________
 - Currently, a level.dat and level.dat_old file generate, however they have the name special_level.dat and special_level.dat_old. These are both normally unobtainable files.
 - Added the /debugdim command. This command can be used in survival, and creates debug files for whichever dimension you are in. This allows for a large assortment of discontinued files within the world save.
 
+**20w21a**
+- From 20w21a (1.16 snapshot) to 21w44a (1.18 snapshot), there existed a Caves world type, which generated a world strictly composed of caves. To obtain the caves world type, you must set the world type to "Caves" in the world creation menu. Alternatively, you can perform **world save insertion** for any new chunks to generate as the caves world type.
+
 **21w05b (Datapack)**
 > [!Note]
 > This version requires the same Caves & Cliffs Datapack from the previous version, meaning no file editing is required if updating from the previous version
