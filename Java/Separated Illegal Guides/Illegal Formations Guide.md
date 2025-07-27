@@ -379,6 +379,9 @@ ________________________________________________________________________________
 > This version requires the same Caves & Cliffs Datapack from the previous version, meaning no file editing is required if updating from the previous version
 - The world height is now increased to 320, and extends below to -64. Any new chunks generated in this version with the datapack will have solid stone generate underneath all chunks extending down from Y0 to Y-64, with no bedrock.
 
+**21w06a**
+- The big dripleaf could be broken without making the whole plant break allowing for unconnected dripleaf stem
+
 **1.19-Exp 1**
 > [!Note]]
 > In order to play your world in this version, world save insertion must be used. This requires first removing the world save from the world saves folder. From here, select create world and create a world with the same folder name as the world save. Then, while still in the create world screen, drag the world save into the saves folder, and select create world. This forces the world to load without removing the level.dat or level.dat_old files.
