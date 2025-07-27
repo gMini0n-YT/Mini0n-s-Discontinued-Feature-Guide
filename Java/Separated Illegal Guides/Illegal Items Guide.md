@@ -319,6 +319,9 @@ ________________________________________________________________________________
 - Enchanting boots with soul speed and running on soul soil will cause durability to decrease on the boots. There is no check, allowing for negative durability boots, which are normally not obtainable.
 - Currently, there is a chance that bartering with a piglin will give the player an enchanted book that is enchanted with soul speed. This enchantment is not actually a stored enchantment, and is instead applied to the enchanted book as if it was a piece of equipment. This is normally not obtainable.
 
+**20w13a**
+- Right-clicking a compass on a lodestone will change it to lodestone compass without the LodestoneTracked Tag
+
 **20w14∞**
 > [!Note]
 > In order to play your world in this version, world save insertion must be used. This requires first removing the world save from the world saves folder. From here, select create world and create a world with the same folder name as the world save. Then, while still in the create world screen, drag the world save into the saves folder, and select create world. This forces the world to load without removing the level.dat or level.dat_old files.
