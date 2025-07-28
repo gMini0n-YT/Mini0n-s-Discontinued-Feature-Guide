@@ -395,6 +395,7 @@ ________________________________________________________________________________
 
 **22w14a**
 - Added Recovery Compasses, which point to the location where the player last died. Currently, by having exactly two recovery compasses in a stack, and clicking both of them on a lodestone, one will become a recovery compass with lodestone tags, which will be discontinued in the next version.
+- You can enchant Recovery Compasses wuth Curse of Vanishing
 
 **22w45a**
 - Currently trying to place a book into a full chiseled bookshelf duplicates the book and increases the stack size. This allows for overstacked enchanted books, book and quills, and written books, and is the first overstacking method for any enchanted book with swift sneak
