@@ -1023,6 +1023,7 @@ ________________________________________________________________________________
 **22w44a**
 - Spawner minecarts will now be one of two varieties depending on the update path taken. For an empty spawner minecart, the spawner minecart can be loaded in 13w06a through 15w31d, then kept unloaded until 1.11, then kept unloaded again until this version. For a pig spawner minecart, the spawner minecart can be loaded in one of the versions of 1.13 or later. This snapshot technically creates a discontinued feature as a result of this split of spawner minecarts.
 - Mobs with canpickuploot can wear armor, however they now will also pick up armor, even if it replaces a weapon. Normally a weapon takes precedence over armor for held items, meaning mobs that always spawn holding a weapon holding armor instead are discontinued. The discontinued mob variants holding armor are skeletons, strays, wither skeletons, piglins, and zombified piglins.
+- Placing down a Spawner in this version to the present will cause it to be an empty spawner
 
 **22w45a**
 - Currently trying to place a book into a full chiseled bookshelf duplicates the book and increases the stack size. This allows for overstacked enchanted books, book and quills, and written books, and is the first overstacking method for any enchanted book with swift sneak
