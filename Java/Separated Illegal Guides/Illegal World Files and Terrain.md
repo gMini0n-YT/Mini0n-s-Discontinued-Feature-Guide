@@ -144,6 +144,9 @@ ________________________________________________________________________________
 > This version requires the same Caves & Cliffs Datapack from the previous version, meaning no file editing is required if updating from the previous version
 - The world height is now increased to 320, and extends below to -64. Any new chunks generated in this version with the datapack will have solid stone generate underneath all chunks extending down from Y0 to Y-64, with no bedrock.
 
+**21w13a**
+- In 21w13a, any new chunks that are loaded will generate the terrain at an abnormal height, at both the central island and the outer islands. This change does not affect the placement of the end spikes (obsidian pillars) or end gateways and as such, those features can generate within the terrain, becoming buried. However, this does affect the placement of the end exit portal and end cities and as such, those features will generate above the terrain, resulting in many end cities being cut off.
+
 **21w19a**
 sed to overfill a chunk and perform both chunk savestating and chunk regeneration, which will be further utilized in later versions.
 - Obtaining a large bundle and attempting to save, and crashing the game at a precise time during this save can create a level#############.dat file, which is a file discontinued feature will not be obtainable in future versions. Similarly, by performing this crash while attempting to save a chunk containing more data than allocated ram, a tmp###################.tmp can be created in the region folder, which is another file discontinued feature that will not be obtainable in future versions.
