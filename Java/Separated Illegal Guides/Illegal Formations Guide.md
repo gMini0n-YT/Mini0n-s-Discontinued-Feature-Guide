@@ -404,6 +404,7 @@ ________________________________________________________________________________
 
 **22w44a**
 - Spawner minecarts will now be one of two varieties depending on the update path taken. For an empty spawner minecart, the spawner minecart can be loaded in 13w06a through 15w31d, then kept unloaded until 1.11, then kept unloaded again until this version. For a pig spawner minecart, the spawner minecart can be loaded in one of the versions of 1.13 or later. This snapshot technically creates a discontinued feature as a result of this split of spawner minecarts.
+- Placing down a Spawner in this version to the present will cause it to be an empty spawner
 
 **22w46a**
 - Added new noteblock instruments in the form of mob sounds. By placing a mob head on a noteblock, the note block will now play the corresponding sound of the mob. This introduces discontinued noteblocks, as any noteblocks with mob heads on them from earlier versions will have the incorrect instrument.
