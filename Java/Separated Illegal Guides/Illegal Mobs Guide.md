@@ -304,6 +304,7 @@ ________________________________________________________________________________
 
 **22w14a**
 - Allays can have armor dispensed onto them after being given an item, allowing for armored allays, which will likely be discontinued in future versions. This also allows for the killed by allay statistic by having another player equip them with thorns armor, which will likely be future discontinued.
+- Allays spawned in this version will have a higher generic movement speed than allays in newer versions
 
 **22w24a**
 - Allays can be duplicated while handing them an amethyst shard while they are dancing to a jukebox. Allays updated from earlier versions will have the CanDuplicate tag set to 0, allowing for discontinued allay variants
