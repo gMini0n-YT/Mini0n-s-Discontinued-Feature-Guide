@@ -900,6 +900,9 @@ ________________________________________________________________________________
 **21w05a**
 - Freezing a Skeleton On a Skeleton Horse or a spider will cause the skeleton to convert to a stray allowing for a Stray Skeleton Horsemen and a Stray Spider Jockey
 
+**21w13a**
+- In 21w13a, any new chunks that are loaded will generate the terrain at an abnormal height, at both the central island and the outer islands. This change does not affect the placement of the end spikes (obsidian pillars) or end gateways and as such, those features can generate within the terrain, becoming buried. However, this does affect the placement of the end exit portal and end cities and as such, those features will generate above the terrain, resulting in many end cities being cut off.
+
 **21w15a**
 - Any entity that receives the glowing effect through either a spectral arrow or from a creeper explosion lingering cloud of glowing will become permanately glowing and the glowing tag will be set to 1b.
 - Salmon buckets now store salmon health. This creates another variant of salmon buckets without size information saved, which will be discontinued in future versions.
