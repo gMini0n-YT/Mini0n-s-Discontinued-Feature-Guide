@@ -1004,6 +1004,7 @@ ________________________________________________________________________________
 - Allays spawned in this version will have a higher generic movement speed than allays in newer versions
 - Added Recovery Compasses, which point to the location where the player last died. Currently, by having exactly two recovery compasses in a stack, and clicking both of them on a lodestone, one will become a recovery compass with lodestone tags, which will be discontinued in the next version.
 - Recovery compasses can be used on a lodestone, which increases the recovery compass used statistic, which will be discontinued in future versions
+- You can enchant Recovery Compasses wuth Curse of Vanishing
 - Currently growing a mangrove tree doesn't update blocks around it, allowing for many discontinued mangrove tree arrangements, such as a mangrove root on snowy grass
 
 **22w17a**
