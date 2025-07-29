@@ -361,7 +361,7 @@ ________________________________________________________________________________
 
 **1.20.5-Prerelease 1**
 - Mobs that wear equipment that spawn from ominous trial spawners can now wear enchanted armor and hold enchanted weapons. The protection types on this armor are not properly mutually exclusive, allowing for mobs wearing invalid protection armor.
-- Placing a spawn egg in a trial spawner and then activating them in ominous mode will spawn the mob with armor allowing for mobs that are wearing armor when they normally shouldn't
+
 
 **24w19a**
 - Dispensing wolf armor onto villagers allows them to wear the wolf armor, and by having a canpickuploot:1b mob pick up either horse armor or wolf armor, they can also equip it
