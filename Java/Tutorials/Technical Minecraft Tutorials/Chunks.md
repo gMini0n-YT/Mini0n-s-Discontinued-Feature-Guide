@@ -41,3 +41,10 @@ Chunk Unloading can be prevented using permaloaders. [Gnembon Permaloader, ](htt
 When a player is loading chunks the 5x5 chunk radius around the player is titled Entity-Processing Chunks. This is where the normal game behaves, mobs will spawn, falling blocks will fall normally, and redstone will work normally. Outside of this range is called `lazy chunks`
 
 Gravity-affected blocks only create falling block entities in entity-processing chunks, and do instantfalling in non-entity-processing chunks, amd mobs will not spawn in lazy chunks.
+
+# Chunk Maps
+
+The ChunkMap, also known in MCP as the PlayerChunkMap, gets updated.
+
+- Block modification packets are send. This means, your client gets informed about all block changes that happened since the last PlayerChunkMap update. If less than 64 block changes happened in a chunk since the last time these packets were send, these block changes will be send in `BlockUpdateS2CPacket` or `BlocksUpdateS2CPacket` packets. If more than 64 block changes happened, it will send a `WorldChunkS2CPacket` which sends the whole chunk again.
+- Up to 49 ungenerated chunks in view distance of players get generated and loaded. This operation stops as soon as it takes more than 50 milliseconds.
