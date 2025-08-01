@@ -27,3 +27,11 @@ Spawn Chunks are 17 by 17 chunk areas that are always loaded when the server sta
 An unloaded chunk becomes loaded if the game requests any kind of information from the chunk, or tries to make any kind of change in the chunk, then the chunk is loaded immediately. (e.g. every time the game does a `setBlockState` or `getBlockState` call at coordinates contained inside the chunk.) If the chunk is in the render distance of a player, and the chunk is already generated, then the chunk is loaded immediately, if the chunk is not generated then it becomes scheduled in the chunk map phase spoken on in future sections 
 
 When a chunk is loaded it immediately checks whether a [terrain population](Chunk%20Population.md) should occur, and immediately executes it if it should occur. 
+
+# Chunk Unloading
+
+A Chunk becomes unloaded either the chunk leaves the render distance or an autosave occurs and the chunk is outside of the player's view distance, in these cases the chunk starts its unloading process immediately.
+
+If a chunk is scheduled to be unloaded, and any chunk access it made to that chunk, for example through a getBlockState or setBlockState call in that chunk, then the unloading of that chunk gets canceled. In every tick in the unload phase the game unloads up to 100 chunks that were scheduled to be unloaded.
+
+Chunk Unloading can be prevented using permaloaders. [Gnembon Permaloader, ](https://www.youtube.com/watch?v=JAc0DAZRSGI) [Mini-Permaloader](https://www.youtube.com/watch?v=cdekBxhfvys)
