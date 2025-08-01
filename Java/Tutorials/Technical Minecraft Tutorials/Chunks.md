@@ -24,6 +24,6 @@ Spawn Chunks are 17 by 17 chunk areas that are always loaded when the server sta
 
 # Chunk Loading
 
-An unloaded chunk becomes loaded if the game requests any kind of information from the chunk, or tries to make any kind of change in the chunk, then the chunk is loaded immediately. (e.g. every time the game does a `setBlockState` or `getBlockState` call at coordinates contained inside the chunk.) If the chunk is in the render distance of a player, and the chunk is already generated, then the chunk is loaded immediately, if the chunk is not generated then it becomes scheduled in the chunk map phase spoken on in future sections
+An unloaded chunk becomes loaded if the game requests any kind of information from the chunk, or tries to make any kind of change in the chunk, then the chunk is loaded immediately. (e.g. every time the game does a `setBlockState` or `getBlockState` call at coordinates contained inside the chunk.) If the chunk is in the render distance of a player, and the chunk is already generated, then the chunk is loaded immediately, if the chunk is not generated then it becomes scheduled in the chunk map phase spoken on in future sections 
 
-When a chunk is loaded it immediately checks whether a [terrain population](Chunk_Population.md) should occur, and immediately executes it if it should occur.
+When a chunk is loaded it immediately checks whether a [terrain population](Chunk%20Population.md) should occur, and immediately executes it if it should occur. 
