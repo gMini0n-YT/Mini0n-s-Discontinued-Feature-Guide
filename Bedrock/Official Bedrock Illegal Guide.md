@@ -50,11 +50,6 @@ ________________________________________________________________________________
 - Block of Coal in this version and updating will change the block of coal to Nether Bricks allowing for Nether Bricks in the Furnace Fuel Slot by putting Block of Coal in the Furnace Fuel Slot.
 - In this version, Logs can now be placed sideways. Mining up the sideways Logs will give you Invalid Data Value Logs
 
-**0.9.0 alpha (Android)**
-<br>
-> [!NOTE] To update an old world to an infinite world in this version will require file editing. This can be done by changing the "generator:0" value in the level.dat file to "generator:1". This will change the world to infinite.
-- Furnaces that are generated in Villages in this version have a data value of 0 and have no visible face
-
 **0.12.0 alpha (Android)**
 - Iron golems in this version have no knockback resistance
 
