@@ -16,6 +16,9 @@ ________________________________________________________________________________
 - World names can be up to 1023 characters long. The first 255 characters can be any letter/symbol on the normal keyboard. The final characters can only be characters that are not allowed on android such as /, , :, *, ?, ", <, >, and |.
 - Line breaks are allowed in world names
 
+**0.11.1 - Present**
+- Upgrading the Player and all mobs from 0.11.1 to the version range of 1.19.60.25 to Present will cause the base value of the player's minecraft:movement attribute is set to 0.7 (7x higher than normal). This results in the player permanently being 7x faster when walking, sneaking, or sprinting. **WARNING**: Do not downgrade when at the version or it will reset the attribute removing the speed also you cannot go to other versions before upgrading to 1.19.60.25 or you will also lose the attribute
+
 **0.17.0.1 alpha (Android)**
 > [!CAUTION]
 > PDV: Hitting a Mob or getting hit by a mob will crash the game.
