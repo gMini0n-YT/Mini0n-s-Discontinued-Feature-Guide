@@ -50,6 +50,9 @@ ________________________________________________________________________________
 - Block of Coal in this version and updating will change the block of coal to Nether Bricks allowing for Nether Bricks in the Furnace Fuel Slot by putting Block of Coal in the Furnace Fuel Slot.
 - In this version, Logs can now be placed sideways. Mining up the sideways Logs will give you Invalid Data Value Logs
 
+**0.11.1 - Present**
+- Upgrading the Player and all mobs from 0.11.1 to the version range of 1.19.60.25 to Present will cause the base value of the player's minecraft:movement attribute is set to 0.7 (7x higher than normal). This results in the player permanently being 7x faster when walking, sneaking, or sprinting. **WARNING**: Do not downgrade when at the version or it will reset the attribute removing the speed also you cannot go to other versions before upgrading to 1.19.60.25 or you will also lose the attribute
+
 **0.12.0 alpha (Android)**
 - Iron golems in this version have no knockback resistance
 
