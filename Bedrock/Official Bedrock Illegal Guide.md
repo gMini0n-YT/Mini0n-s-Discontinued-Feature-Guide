@@ -473,6 +473,7 @@ ________________________________________________________________________________
 - Replacing the outer portal blocks of a portal (the portal blocks that are touching the obsidian) with powder snow/water/or lava and at the same time going through a sliced portal will leave the portal blocks intact and it will create a powder snow/water/lava portal
 - Placing a grass block in the center and then doing a checkerboard pattern of the block you want to catch fire on and grass blocks to the reach of lava. Placing lava on the center block, and when the lava is done spreading, pick up the lava and spam clicking bonemeal on the center block can catch fire on the blocks causing a chance of an Always Burning Fire on the block of your choice.
 - You can dispense armor on Villagers and Evokers and they will wear it
+- Foxes can pick up Shulker Boxes in this version
 
 **1.20.40**
 - Putting Baby Camels and Baby Sniffers in a boat won't eject them when they grow up
