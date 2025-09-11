@@ -731,6 +731,7 @@ ________________________________________________________________________________
 - Fletcher villagers can sell tipped arrows as their master tier trade. This includes the arrow of luck, which is normally unobtainable. This allows for both a discontinued trade and a discontinued item.
 - Toolsmith villagers can sell enchanted diamond hoes as their journeyman tier trade. This will later be changed to unenchanted diamond hoes, making this trade discontinued.
 - Librarian villagers can sell 3 bookshelves for 6 emeralds, which will later become an unobtainable amount trade
+- Zombie Villagers who spawn from abandoned villagers will have their speed set to 0.5 instead of 0.23 and will have the CanPickUpLoot tag
 
 **19w11a - 18w48b (Downgrading)**
 - Downgrading villagers to this point removes their profession, career, and career level, converting all of their trades to tier 0, and converting the profession to a farmer. This allows for any trade existing on any villager in 19w11a (including old trades updated to 19w11a) is obtainable on a farmer profession villager. This farmer profession can be any one of the four farmer careers; farmer, fisherman, shepherd, or fletcher. By repeating downgrade, theoretically infinite trades can be obtained on this one villager by constantly converting the tier to 0.
@@ -1201,6 +1202,7 @@ ________________________________________________________________________________
 - Tridents and arrows now get stuck in the world border. These projectiles in the world border will be discontinued in future versions.
 - Bonemealing grass breaks all blocks above it, allowing for bedrock and end portal frame removal
 - Scooping up a Bucket of Salmon will not store it's size nbt tag
+- Aquatic Mobs can normally not enter boats but from snapshot 24w32a - 25w32a Squids, Glow Squids and Dolphins could enter boats due to a bug.
 
 **24w36a**
 - Golden armor has the same durability as iron armor. By damaging this armor past the normal amount for gold, negative durability armor can be obtained. This cannot be combined in future versions to go lower.
@@ -1255,3 +1257,15 @@ Golden Pickaxe from Silky Pick: Silk Touch (15-65), Unbreaking I (5-12), Diamond
 - Many of the player unlocks in 25w14craftmine achieve their effects by giving the player an attribute modifier, which are not removed when updating out of this version (unless their attribute exists only in 25w14craftmine).
 -  When inside a mine with the One HP mine ingredient the player is given an attribute modifier that reduces max health by 19. The modifier is cleared upon leaving the mine, but it can be preserved by updating out of 25w14craftmine without leaving the mine.
 -  Using a mine revisitor to visit an old mine sets the player's game mode to adventure. Dying in a mine in multiplayer sets the player's game mode to spectator. These game modes can be preserved by logging off and updating out of craftmine.
+
+**1.21.8**
+- Occasionally inside of a shipwreck an treasure map will spawn inside of the chest but instead of being a normal treasure map it will be an empty treasure map
+
+**25w34a**
+- Before 25w35a copper golems that were given poppies by iron golems have them in their head slot instead of the saddle slot
+
+**25w35a**
+-In 25w35a, shelves can connect to other shelves facing the opposite direction, in 25w36b, this connection can no longer happen, making connected shelves facing different directions discontinued, the connection doesn't always happen in 25w35a either, the most reliable way is to place the redstone blocks after the shelves, or re-place them afterwards. 
+
+**25w36a**
+- In snapshot 25w36a/b, by placing an unwaxed copper rod of any oxidation level but the default one next to blocks that are able to interact with redstone and having it get struck by lightning will cause the blocks to power forever (as long as no block updates are caused). Exceptions include: repeaters, comparators, pistons and sticky pistons.
