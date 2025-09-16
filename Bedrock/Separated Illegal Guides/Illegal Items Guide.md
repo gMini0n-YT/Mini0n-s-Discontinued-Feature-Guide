@@ -35,6 +35,7 @@ ________________________________________________________________________________
 
 **0.8.0_test1 (Android)**
 - In this version, Logs can now be placed sideways. Mining up the sideways Logs will give you Invalid Data Value Logs
+- In this version, you could use developer commands like /give, /health, /player. /give gives you acces to get any item in the game, /health lets you have as many hearts as you want but it is removed in a 0.12.0 version, and /player lets you give yourself attributes such as /player fly which lets you fly, /player nodamage which makes you take no damage and /player instabuild which does a lot of weird things in different versions. All of these attributes were removed in 0.12.0-b1
 
 **0.12.1 alpha (Android)**
 - Breaking Wall Signs, Standing Signs, Flower Pots, Skulls, Brewing Stands, and Beds with Silk Touch will make them drop their tile variant (e.g. tile.wall_sign.name, tile.sign.name, tile.flower_pot.name, tile.skull.name, tile.brewing_stand.name, tile.bed.name.
