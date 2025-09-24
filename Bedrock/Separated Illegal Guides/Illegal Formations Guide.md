@@ -199,7 +199,7 @@ ________________________________________________________________________________
 - You can place Leaf Litter and the Cactus Flower on Hoppers
 - You can also place Dry Grass on Farmland
 
-**1.21.92**
+**1.21.101**
 - Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
 - Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
 - You can snow-log resin, skull veins, glow lichen, and dead bushes
@@ -210,3 +210,4 @@ ________________________________________________________________________________
 - Lagging Out the Game and then opening three shulker boxes in a row will cause two of the shulker boxes to remain open
 -  Lagging Out the Game and then opening three chests in a row will cause one of the chests to remain open
 - Endermen can place dandelions, poppy, crimson fungus, warped fungus, warped roots, and crimson roots on any block that is usually impossible
+- Throwing an item on a wooden pressure plate and quickly breaking the pressure plate and replace it with fire will cause the fire to eternally lit even in rain and it will not spread to other wooden blocks around it.
