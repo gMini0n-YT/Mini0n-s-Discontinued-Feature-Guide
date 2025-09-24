@@ -88,6 +88,7 @@ ________________________________________________________________________________
 - Wet Sponge does not turn into Dry Sponge in the Nether
 - Mining Chorus Plants with silk touch will drop the item form of the Chorus Plant
 - In **0.17.0.1** it was possible to get Tipped Arrows from Lingering Awkward, Thick, or Mundane Potions. The Thick Tipped Arrow will appear as "tipped_arrow.effect.mundane.extended", but all the other ones will be titled Tipped Arrow and will not stack with each other.
+- Shulkers that spawn in this version will appear as black shulkers as if they were dyed
 
 **1.0.0.16**
 - Mining a Furnace while it is smelting with Silk Touch will drop Lit Furnace tile.
