@@ -40,6 +40,8 @@ ________________________________________________________________________________
 
 **1.5.0**
 - In 1.5, Zombie Villagers found in Zombie Villages will be extremely fast. Updating from 1.5 directly to the latest version will revert them. To keep them you must update from 1.5 to 1.8 to 1.10 to 1.11 to 1.21 in that order.
+- Zombies that convert to Drowneds will be missing the minecraft:+melee_mode tag, making it impossible for them to hit you, making them passive
+
 
 **1.6.0.1**
 - Phantoms in this version have 5 hearts instead of 10 hearts.
