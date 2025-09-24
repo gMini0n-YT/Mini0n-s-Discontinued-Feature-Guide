@@ -58,6 +58,9 @@ ________________________________________________________________________________
 - Ravagers, Zoglins, and Hoglins in this version have less knockback resistance
 - Wither Skeletons would prefer Golden Swords over Stone Swords which means that Wither Skeletons would pick up gold swords and keep hold of them
 
+**Beta 1.16.0.57**
+- Striders that spawn in this version have a slower movement speed specifically on lava (0.2 instead of 0.32)
+
 **1.16.1.2**
 - You can exploit commands in this version by removing the space between the /give and the @ symbol. This will not turn off achievements allowing for commands in a vanilla world. This can give you infinite amount of illegals including bedrock, spawn eggs, top slabs, command blocks, and weird blocks in the furnace fuel slot. List of Illegals are in the "1.16.1.2 Guide" file in the "Links Folder". Using this glitch may be considered cheating but it relies on personal preference, some commands will be for sure considered cheating. 
 - Giving yourself an item that has a durability bar and adding the metadata of 9999 will give you negative durability items. So using the /give@s netherite_sword 1 9999 will give you a negative durability netherite sword. Combining 4 of these negative durability items in a crafting recipe will give you an unbreakable item with almost infinite durability.
