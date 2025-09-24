@@ -25,6 +25,9 @@ ________________________________________________________________________________
 **0.17.0.1**
 - Shulkers that spawn in this version will appear as black shulkers as if they were dyed
 
+**1.1.0.3** 
+-  Shulkers that spawn between this version and 1.1.7.1 will convert to purple dyed shulkers
+
 **Beta 1.2.0.2**
 - Pumpkins can be placed on Armor Stands, Players, and Mobs these pumpkins will revert from carved pumpkins to normal pumpkins
 - Farmer Villagers now sell 5-7 apples instead of just 5
