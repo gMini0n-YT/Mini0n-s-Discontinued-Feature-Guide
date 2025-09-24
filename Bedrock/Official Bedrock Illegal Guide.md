@@ -203,6 +203,7 @@ ________________________________________________________________________________
 
 **Beta 1.16.0.57**
 - Treasure Bastions spawn with one Barrier Block in one of the lava pools
+- Striders that spawn in this version have a slower movement speed specifically on lava (0.2 instead of 0.32)
 
 **Beta 1.16.0.60**
 - Breaking Nether Sprouts will drop invisible tile nether sprouts
@@ -419,6 +420,7 @@ ________________________________________________________________________________
 **1.19.2**
 - Shulkers inflict Levitation 2 instead of Levitation 1. To keep this effect, you can let a shulker hit any scoopable mob and promptly scoop the mob with a bucket after it gets hit.
 - Ravagers in this version have a lot slower base speed than Ravagers spawned in newer versions
+- Wardens in this versions were not pushable by the player
 
 **Preview 1.19.10.23**
 - Cod, Salmon, Tropical Fish, and Pufferfish have 3 hearts/6 health points instead of 1.5 hearts/3 health points
@@ -599,8 +601,9 @@ ________________________________________________________________________________
 **1.21.90**
 - Allays can hold leads  which will be discontinued in future versions
 - Leashing untamed wolves and making them angry at a skeleton or a sheep will cause the leash to stay on, updating to newer versions will cause the leash to become infinite and the dog will be able to exceed 10 blocks away from the fence, the leash will snap if the dog kills the prey or it can't see the mob it wants to attack and becomes "unangrified"
+- Foxes in this version will wear Mob Heads and Carved Pumpkins if dropped to them, this is unobservable without a world editor
 
-**1.21.92**
+**1.21.101**
 - Lagging out the game and then opening three chests in a row will cause one of the chests to be open
 - Lagging Out the Game and then opening three shulker boxes in a row will cause two of the shulker boxes to remain open
 - Zombifying a Baby Villager will result in a Zombified Baby Villager will illegal tags and effects such as being affected by poison, regeneration hurts them, they are not affected by smite, they can not enter boats or minecarts, they are not targeted by Iron Golems, Snow Golems, Johnny Vindicators, or Zoglins, unless the Zombie attacks them first, and they don't scare Villagers, Wandering Traders, or Armadillos
@@ -627,3 +630,9 @@ ________________________________________________________________________________
 - Relogging an excessive amount really fast (a lot of times, no exact number) when the wither is at half health or lower will cause it to bug out when you kill it. The wither will be unexploded yet constantly repeating its exploding sequence
 - Endermen can place dandelions, poppy, crimson fungus, warped fungus, warped roots, and crimson roots on any block that is usually impossible
 - Giving a zombie with the attribute canPickupLoot enabled an elytra and then killing it will give it a chance to drop the elytra with 0 durability which is illegal because usually elytras go into their broken state when they are at 1 durability which means it is impossible to get 0 durability elytras
+- Filling a Bundle with 60 items and then putting that bundle into another bundle will cause the bundle to become full, but if you put that bundle into two hoppers facing into each other and then by flipping off the hoppers, the bundle forgets how many items were inside the previous bundle holding the items and is no longer full, this allows you to put another bundle inside it making it an infinite bundle, this can be done until the game crashes.
+- Placing a water bucket with a dispenser on top of skeleton, stray, bogged, or pillager's head will cause it to no longer shoot arrows at you, but watch it is still hostile and if it hits you with it's melee it will start shooting you again. This is relog proof.
+- Throwing an item on a wooden pressure plate and quickly breaking the pressure plate and replace it with fire will cause the fire to eternally lit even in rain and it will not spread to other wooden blocks around it.
+- Putting upward bubble columns underneath an end portal and putting a boat on it will cause the boat to bounce up and down, lighting the end portal will send the boat through and due to this when you enter, the boat will have 0 gravity and will just float even if the blocks below it are broken. This is also possible with nether portals.
+- Using pistons to push soul sand and magma blocks with bubble columns on top back and forth while a boat is on top of the bubble columns will cause the boat to shake. Leaving the dimension while this process is active and coming back, you will notice that if you right click the boat, you will not be able to get inside it nor any other entity due to the boat thinking that it is still underwater.
+- If a witch hits a raid mob like a ravager, a pillager, a evoker, or a vindicator, they will get mad at the witch and will try to kill it.
