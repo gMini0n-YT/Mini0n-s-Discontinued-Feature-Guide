@@ -1236,6 +1236,7 @@ ________________________________________________________________________________
 **25w07a**
 - Leaf Litter can be placed on blocks without a solid top surface (e.g. fences, walls, iron bars, glass panes)
 - Placing Cactus Flower on walls do not create pillars in this version
+- Non ASCII control codes can be pasted into Written Books
 
 **25w14craftmine**
 - Unlocking the "Starter Compass" will give you a compass with an illegal dimension nbt saved to it depending on the mine it is created in
