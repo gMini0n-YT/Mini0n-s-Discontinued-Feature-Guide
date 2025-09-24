@@ -193,8 +193,9 @@ ________________________________________________________________________________
 **1.21.90**
 - Allays can hold leads  which will be discontinued in future versions
 - Leashing untamed wolves and making them angry at a skeleton or a sheep will cause the leash to stay on, updating to newer versions will cause the leash to become infinite and the dog will be able to exceed 10 blocks away from the fence, the leash will snap if the dog kills the prey or it can't see the mob it wants to attack and becomes "unangrified"
+- Foxes will pick up and wear Mob Heads and Carved Pumpkins, this is unobservable without a world editor
 
-**1.21.92**
+**1.21.101**
 - Zombifying a Baby Villager will result in a Zombified Baby Villager will illegal tags and effects such as being affected by poison, regeneration hurts them, they are not affected by smite, they can not enter boats or minecarts, they are not targeted by Iron Golems, Snow Golems, Johnny Vindicators, or Zoglins, unless the Zombie attacks them first, and they don't scare Villagers, Wandering Traders, or Armadillos
 - Breeding a Warm or Cold Pig, Chicken, or Cow with the superspeed pig from 1.16.220 will cause the baby to be faster than normal
 - If the mob that the fox is attacking is removed and the fox lands in snow layers, it will get snuck in the falling position "sniffing position", to keep this you need to simply relog and make sure the fox never sees any rabbits or chickens or it will reset
@@ -208,3 +209,7 @@ ________________________________________________________________________________
 - If u give iron to an iron golem 0.50 secs before it dies it will become immortal as shown: https://youtube.com/shorts/TzS-TIkIW3Q?si=EryTPHhlfc_r2mpd
 - If a Drowned with a Trident spawns with the ability to pick up items, then if it sees a Nautilus Shell, it will discard it's Trident and pick up the shell. However, for some strange reason, it won't lose it's ability to throw Tridents.
 - Relogging an excessive amount really fast (a lot of times, no exact number) when the wither is at half health or lower will cause it to bug out when you kill it. The wither will be unexploded yet constantly repeating its exploding sequence
+- Placing a water bucket with a dispenser on top of skeleton, stray, bogged, or pillager's head will cause it to no longer shoot arrows at you, but watch it is still hostile and if it hits you with it's melee it will start shooting you again. This is relog proof.
+- Putting upward bubble columns underneath an end portal and putting a boat on it will cause the boat to bounce up and down, lighting the end portal will send the boat through and due to this when you enter, the boat will have 0 gravity and will just float even if the blocks below it are broken. This is also possible with nether portals.
+- Using pistons to push soul sand and magma blocks with bubble columns on top back and forth while a boat is on top of the bubble columns will cause the boat to shake. Leaving the dimension while this process is active and coming back, you will notice that if you right click the boat, you will not be able to get inside it nor any other entity due to the boat thinking that it is still underwater.
+- If a witch hits a raid mob like a ravager, a pillager, a evoker, or a vindicator, they will get mad at the witch and will try to kill it.
