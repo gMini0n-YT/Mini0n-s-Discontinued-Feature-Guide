@@ -22,6 +22,9 @@ ________________________________________________________________________________
 - Taming Cats in this version and leaving them in unloaded chunks until **1.8.0.8** will turn them into Tamed Ocelots
 - Skeleton Horses in this Version have more health and speed values than normal horses which will be changed in the future
 
+**0.17.0.1**
+- Shulkers that spawn in this version will appear as black shulkers as if they were dyed
+
 **Beta 1.2.0.2**
 - Pumpkins can be placed on Armor Stands, Players, and Mobs these pumpkins will revert from carved pumpkins to normal pumpkins
 - Farmer Villagers now sell 5-7 apples instead of just 5
