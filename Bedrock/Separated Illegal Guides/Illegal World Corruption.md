@@ -31,6 +31,9 @@ ________________________________________________________________________________
 <br>
 - Loading a world in 1.2.13.8 and downgrading to 1.2.6.60 will convert all sub-chunks with block in them (air excluded) into chunks with random blocks in them. This can spawn a lot of entities and tile entities so it will be extremely laggy. These chunks have a random block pallet and can create a lot of illegal formations, like nether wart on top of brewing stand, or illegal blocks such as Education Edition Blocks, and Creative placed Blocks
 
+**1.14.0**
+- Updating a world into  b1.12.0.2 through p1.20.40.21 adds the spawnradius gamerule, and sets it to 0. Creating a world in this version ranges sets the value to 5. This is noticeable based on where the player spawns, as spawnradius is the distance in blocks from initial world spawn that the player can actually spawn.
+
 **1.16.0.51 (Beta)**
 - In development and debug versions of the game, it was possible to enable a setting within the debug options to create a flat Nether world.
 
