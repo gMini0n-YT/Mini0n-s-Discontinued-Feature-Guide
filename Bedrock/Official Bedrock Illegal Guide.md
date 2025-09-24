@@ -158,6 +158,7 @@ ________________________________________________________________________________
 - In 1.5, Zombie Villagers found in Zombie Villages will be extremely fast. Updating from 1.5 directly to 1.21.41 will revert them. To keep them you must update from 1.5 to 1.8 to 1.10 to 1.11 to 1.21 in that order.
 - Invalid oak buttons could be obtained in survival mode by mining an oak button with an enchanted Silk Touch tool. Note that the direction the player was facing determined the damage/metadata value the oak button had upon dropping as an item. Facing north would give a damage/metadata value of 3, facing east would give a value of 4, facing south would give a value of 2, facing down would give a value of 1, and facing up would give a value of 0.
 - Husks that were converted to regular zombies via drowning them would have superspeed on land
+- Zombies that convert to Drowneds will be missing the minecraft:+melee_mode tag, making it impossible for them to hit you, making them passive
 
 **1.6.0.1**
 - Phantoms in this version have 5 hearts instead of 10 hearts.
