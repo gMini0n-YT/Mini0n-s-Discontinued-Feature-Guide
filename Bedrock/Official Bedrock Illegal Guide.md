@@ -62,6 +62,9 @@ ________________________________________________________________________________
 **0.9.0-b2 alpha (Android)**
 - Spawners currently have a max spawn delay of 200 ticks. In future versions, all spawners will have this value set at 800 ticks, making these discontinued spawners. 
 
+**0.11.0**
+- Reloading the world while a block is falling causes the block to convert to a falling air block, which when lands drops an air item entity. Air item entities are temporarily discontinued, as they do get deleted in future versions but I thought it was worth mentioning
+
 **0.11.1 - Present**
 - Upgrading the Player and all mobs from 0.11.1 to the version range of 1.19.60.25 to Present will cause the base value of the player's minecraft:movement attribute is set to 0.7 (7x higher than normal). This results in the player permanently being 7x faster when walking, sneaking, or sprinting. **WARNING**: Do not downgrade when at the version or it will reset the attribute removing the speed also you cannot go to other versions before upgrading to 1.19.60.25 or you will also lose the attribute
 
