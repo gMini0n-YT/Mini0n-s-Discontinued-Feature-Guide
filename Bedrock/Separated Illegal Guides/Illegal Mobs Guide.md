@@ -27,6 +27,9 @@ ________________________________________________________________________________
 - Endermites currently spawn with a speed value of 0.7, which is higher than typically possible
 - Shulkers currently spawn with only 10 health. Typically shulkers spawn with 30 health, making these a discontinued variant.  
 
+**1.0.4.0**
+- Villagers now have trades. Every single villager trade will become unobtainable in future versions, whether through invalid prices or invalid items. Villager trades are not based on tiers and trade amounts can vary. Bottles of enchanting are obtainable through trading now.
+
 **1.1.0.3** 
 -  Shulkers that spawn between this version and 1.1.7.1 will convert to purple dyed shulkers
 
