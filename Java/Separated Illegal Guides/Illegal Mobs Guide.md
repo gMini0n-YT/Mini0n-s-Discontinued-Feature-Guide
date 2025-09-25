@@ -222,6 +222,7 @@ ________________________________________________________________________________
 
 **3D Shareware v1.34**
 - Typing "HOWDOYOUTURNTHISON" spawns a tamed, ownerless horse with 200 hp and 3.0 jump and speed. These are all incredibly high effects, and normally unobtainable on a horse. This horse can be bred with other horses and donkeys, further allowing for mules and other horse variants with normally unobtainable effects.
+- Mobs that spawn with 3d Shareware cheat codes do not have the "Modifiers" NBT attached to their data
 
 **1.14**
 - Ender Dragons can be teleported to the overworld. This is accomplished by placing end stone blocks at certain nodes in the end, freezing the dragon, and then pushing it through an end portal. The ender dragon in the overworld will not be obtainable in future versions.
