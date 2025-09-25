@@ -55,6 +55,9 @@ ________________________________________________________________________________
 
 - Wet Sponge does not turn into Dry Sponge in the Nether
 
+**1.1.0.0**
+-  Frosted ice that melts currently does not flow, allowing for stationary water sources
+
 **1.0.4.0**
 - Top snow layers can be placed on top of fences and walls, which will be invalid block configurations in future versions 
 
