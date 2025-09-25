@@ -91,6 +91,9 @@ ________________________________________________________________________________
 - You can put Glass Bottles in a Brewing Stand via hopper
 - Scaffolding can currently be placed on conduits, which will be unobtainable in future versions 
 
+**1.10.0.3**
+- Bells that generate in villages generate in invalid configurations , and also currently have no block entity data. The invalid configurations are permanent, however the lack of block entity data is temporary.
+- Scaffolding can currently be supported by grindstones, which is an invalid block configuration 
 
 **1.11.0**
 - In 1.11, you can place 16 buckets in a furnace fuel slot instead of just one
