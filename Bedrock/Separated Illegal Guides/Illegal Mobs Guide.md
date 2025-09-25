@@ -59,6 +59,12 @@ ________________________________________________________________________________
 **1.10.0 (Experimental)**
 - Villager V2s spawn in normal villages, but they have the old Villager v1 trades so if you trade with them in this update their trades will lock and they will not convert upon updating to newer versions
 
+**1.10.0.3**
+- Pillager captains that spawn currently have black banners in their chestplate slot instead of ominous banners. These will become discontinued in future versions.
+
+**1.11.0.1 (Beta)**
+- Ravagers can now spawn, and have a knocback resistance value of 0.5. In future versions this value will be 0.75, making this an unobtainable ravager variant. 
+
 **1.14.0**
 - Farmer Villagers buy 4 melon slices instead of 4 melon blocks at the Journeyman Trade Level
 - Farmer Villagers buy 16 eggs at the Expert Trade Level
