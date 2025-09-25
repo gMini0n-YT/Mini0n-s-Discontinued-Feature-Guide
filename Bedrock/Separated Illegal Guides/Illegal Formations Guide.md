@@ -237,3 +237,7 @@ ________________________________________________________________________________
 -  Lagging Out the Game and then opening three chests in a row will cause one of the chests to remain open
 - Endermen can place dandelions, poppy, crimson fungus, warped fungus, warped roots, and crimson roots on any block that is usually impossible
 - Throwing an item on a wooden pressure plate and quickly breaking the pressure plate and replace it with fire will cause the fire to eternally lit even in rain and it will not spread to other wooden blocks around it.
+
+**Preview 1.21.110.20**
+- Shelves are currently treated as full blocks and can provide block support on all sides, which allow for invalid block configurations
+- Currently warped and crimson shelves can be used as furnace fuel, which will not be possible in future versions 
