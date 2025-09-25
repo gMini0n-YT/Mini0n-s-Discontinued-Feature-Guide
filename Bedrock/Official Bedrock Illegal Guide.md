@@ -682,4 +682,4 @@ ________________________________________________________________________________
 
 **Preview 1.21.110.20**
 - Shelves are currently treated as full blocks and can provide block support on all sides, which allow for invalid block configurations
-- Currently warped and crimson shelves can be used as furnace fuel, which will not be possible in future versions 
+- Currently warped and crimson shelves can be used as furnace fuel, which will not be possible in future versions
