@@ -136,6 +136,7 @@ ________________________________________________________________________________
 - Blowing up a Chest while spam clicking an item in and out of the chest has a chance of dropping a zero stack item which can give you understacked items
 - Placing a redstone torch against a unsupportable block adjacent to a valid supporting block or against the ceiling next to a supporting block, these would allow the redstone torch to float on any block including air or itself.
 - Placing a bed next to a cactus would result in the lower half adjacent to cactus breaking from Beta 1.3 to Beta 1.9 Prerelease 5.
+- You can paste ASCII Control Codes and the DEL Character into the world name. Beware that with some control characters, backspacing too many times after pasting them can cause a game crash in some versions. 
 
 **Beta 1.4-1** 
 - Locked Chests can generate throughout the world if your computer time is set to April 1st, 2011. You can obtain them from explosions, they will convert to stained glass in the future allowing for several illegal block formations
