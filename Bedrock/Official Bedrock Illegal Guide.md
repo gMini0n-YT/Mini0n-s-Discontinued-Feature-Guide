@@ -121,6 +121,7 @@ ________________________________________________________________________________
 -  Breaking Blocks while they are being moved by a piston can drop a moving block tile, a silk touch pickaxe with at least efficiency IV is reccomended. Setup for contraption here at 23:40: https://www.youtube.com/watch?v=i1VK64sA5QM
 -  End Cities generated in this version will always generate with some tile.smooth_purpur.name tiles build in it. You can find these smooth purpur blocks on the outside behind the upside down stairs on the first spiral staircase from the bottom going up on the endcity. You can find the location marked by endstone in the picture from the LINKS folder titled "Smooth Purpur Locations".
 -  Shulkers that spawn between this version and 1.1.7.1 will convert to purple dyed shulkers
+-  Frosted ice that melts currently does not flow, allowing for stationary water sources 
 
 **Beta 1.2.0.2**
 - Hoppers can be used to put shulker boxes in shulker boxes
