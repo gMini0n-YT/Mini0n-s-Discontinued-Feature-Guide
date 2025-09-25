@@ -685,6 +685,7 @@ ________________________________________________________________________________
 - Currently pillagers and vindicators spawn holding ominous banners that are missing one layer. Normally only complete ominous banners can be equipped.
 - Currently illager banners that are placed as blocks do not maintain the HideFlags tag, which displays the patterns on the banner. In future versions, all ominous banners will have this tag and will not lose it, making this a discontinued variant of ominous banner.
 - Currently illager banners can have the custom name removed by renaming it in an anvil. In future versions this coloring will be converted to a rarity color, making these a non-rare discontinued variety of illager banners.
+- Killing a pillager with a loaded crossbow had a chance to drop a crossbow with no projectiles 
 - Support blocks could be placed on Stonecutters
 - Redstone components would not update when unloaded allowing for the creation of many permanently powered components.
 
