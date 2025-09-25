@@ -450,7 +450,7 @@ ________________________________________________________________________________
 - Allays in this version have 8 hearts/16 health points instead of 10 hearts/20 health points
 
 **Beta 1.19.0.26**
-- Mangrove Roots can be used as fuel in Furnaces
+- Mangrove Roots and muddy mangrove roots can be used as fuel in Furnaces
 
 **1.19.0**
 - Breaking Mangrove leaves with shears can drop leaves that don't stack with each other
@@ -679,3 +679,7 @@ ________________________________________________________________________________
 - Putting upward bubble columns underneath an end portal and putting a boat on it will cause the boat to bounce up and down, lighting the end portal will send the boat through and due to this when you enter, the boat will have 0 gravity and will just float even if the blocks below it are broken. This is also possible with nether portals.
 - Using pistons to push soul sand and magma blocks with bubble columns on top back and forth while a boat is on top of the bubble columns will cause the boat to shake. Leaving the dimension while this process is active and coming back, you will notice that if you right click the boat, you will not be able to get inside it nor any other entity due to the boat thinking that it is still underwater.
 - If a witch hits a raid mob like a ravager, a pillager, a evoker, or a vindicator, they will get mad at the witch and will try to kill it.
+
+**Preview 1.21.110.20**
+- Shelves are currently treated as full blocks and can provide block support on all sides, which allow for invalid block configurations
+- Currently warped and crimson shelves can be used as furnace fuel, which will not be possible in future versions 
