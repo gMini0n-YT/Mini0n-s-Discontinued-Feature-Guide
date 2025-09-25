@@ -683,3 +683,4 @@ ________________________________________________________________________________
 **Preview 1.21.110.20**
 - Shelves are currently treated as full blocks and can provide block support on all sides, which allow for invalid block configurations
 - Currently warped and crimson shelves can be used as furnace fuel, which will not be possible in future versions
+- Copper Golem Statues are normally unstackable in survival but if you manage to dupe a copper golem statue you will be able to have stackable copper golem statues.
