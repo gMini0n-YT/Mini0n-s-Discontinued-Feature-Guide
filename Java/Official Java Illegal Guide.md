@@ -1265,6 +1265,7 @@ Golden Pickaxe from Silky Pick: Silk Touch (15-65), Unbreaking I (5-12), Diamond
 
 **25w34a**
 - Before 25w35a copper golems that were given poppies by iron golems have them in their head slot instead of the saddle slot
+- Explosions reduce acceleration power of nearby projectiles by half, this allows for wind charges with acceleration power of 0.05, 0.025, 0.0125 and so on. Normally wind charges have acceleration of 0, but redirecting them via punching or hitting them with a projectile sets it to 0.1, which can then be halved any number of times. Note that only wind charges with acceleration power other than 0 or 0.1 are discontinued as other projectiles can still have their acceleration power reduced by bouncing them off of a breeze
 
 **25w35a**
 -In 25w35a, shelves can connect to other shelves facing the opposite direction, in 25w36b, this connection can no longer happen, making connected shelves facing different directions discontinued, the connection doesn't always happen in 25w35a either, the most reliable way is to place the redstone blocks after the shelves, or re-place them afterwards. 
