@@ -169,6 +169,8 @@ ________________________________________________________________________________
 
 **1.2.14.2**
 - Riptide can be combined with loyalty and Channeling on a trident or book
+- Waterlogging blocks and then breaking the waterlogged block will not update the water source, allowing for water to float
+- Level 1 water layers are sometimes left behind after removing a water source when the water is adjacent to non full blocks. These are invalid water configurations. 
 
 **1.4.0**
 - Putting a TNT on a string that is connected to tripwire hooks and blowing it up, it can create a tripwire hook ghost block. If you mine the ghost block at the same time a portal lights you have an oppurtunity to obtain a portal tile. https://www.youtube.com/watch?v=dYYz6a0VyDQ
