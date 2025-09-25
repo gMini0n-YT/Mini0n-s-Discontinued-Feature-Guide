@@ -36,7 +36,12 @@ ________________________________________________________________________________
 <br>
 > [!NOTE] To update an old world to an infinite world in this version will require file editing. This can be done by changing the "generator:0" value in the level.dat file to "generator:1". This will change the world to infinite.
 - Furnaces that are generated in Villages in this version have a data value of 0 and have no visible face
+- Reloading any spawners in this version removes the tile entity from the spawner, creating tile entityless spawners
+- Cactus can be placed adjacent to other Cactus, which is not normally allowed. These Cacti need to be 3 block tall to prevent random ticking breaking them.
+- Breaking blocks underneath snow layers leaves the snow layer floating, which is an invalid block configuration
 
+**0.9.0-b2 alpha (Android)**
+- Spawners currently have a max spawn delay of 200 ticks. In future versions, all spawners will have this value set at 800 ticks, making these discontinued spawners. 
 **0.12.1 alpha (PC)**
 - Placing a sponge underwater won't absorb the water
 - Ghasts in this version would be insanely fast
