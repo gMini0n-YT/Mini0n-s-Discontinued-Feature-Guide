@@ -51,6 +51,17 @@ ________________________________________________________________________________
 - In this version, Logs can now be placed sideways. Mining up the sideways Logs will give you Invalid Data Value Logs
 - In this version, you could use developer commands like /give, /health, /player. /give gives you acces to get any item in the game, /health lets you have as many hearts as you want but it is removed in a 0.12.0 version, and /player lets you give yourself attributes such as /player fly which lets you fly, /player nodamage which makes you take no damage and /player instabuild which does a lot of weird things in different versions. All of these attributes were removed in 0.12.0-b1
 
+**0.9.0 alpha (Android)**
+<br>
+> [!NOTE] To update an old world to an infinite world in this version will require file editing. This can be done by changing the "generator:0" value in the level.dat file to "generator:1". This will change the world to infinite.
+- Furnaces that are generated in Villages in this version have a data value of 0 and have no visible face
+- Reloading any spawners in this version removes the tile entity from the spawner, creating tile entityless spawners
+- Cactus can be placed adjacent to other Cactus, which is not normally allowed. These Cacti need to be 3 block tall to prevent random ticking breaking them.
+- Breaking blocks underneath snow layers leaves the snow layer floating, which is an invalid block configuration
+
+**0.9.0-b2 alpha (Android)**
+- Spawners currently have a max spawn delay of 200 ticks. In future versions, all spawners will have this value set at 800 ticks, making these discontinued spawners. 
+
 **0.11.1 - Present**
 - Upgrading the Player and all mobs from 0.11.1 to the version range of 1.19.60.25 to Present will cause the base value of the player's minecraft:movement attribute is set to 0.7 (7x higher than normal). This results in the player permanently being 7x faster when walking, sneaking, or sprinting. **WARNING**: Do not downgrade when at the version or it will reset the attribute removing the speed also you cannot go to other versions before upgrading to 1.19.60.25 or you will also lose the attribute
 
