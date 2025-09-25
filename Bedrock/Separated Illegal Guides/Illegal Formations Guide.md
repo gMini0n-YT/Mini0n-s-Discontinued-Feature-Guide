@@ -61,6 +61,10 @@ ________________________________________________________________________________
 **1.0.4.0**
 - Top snow layers can be placed on top of fences and walls, which will be invalid block configurations in future versions 
 
+**1.2.0.2**
+- Hoppers can currently be used to place any item inside a jukebox, which will not be allowed in future versions
+- All support blocks can be placed off of cocoa beans, allowing for many invalid block configurations
+
 **1.2.11**
 - Placing Daylight Sensor in the nether leaves them powered
 
