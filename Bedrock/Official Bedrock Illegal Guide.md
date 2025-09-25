@@ -110,6 +110,10 @@ ________________________________________________________________________________
 - Mining a Furnace while it is smelting with Silk Touch will drop Lit Furnace tile.
 - Dropping anvil on torches will give you differing data value of anvils depending on which direction the anvil was placed. Depending on the direction and the type of anvil you can obtain 0-11 data value anvils.
 
+**1.0.4.0**
+- Villagers now have trades. Every single villager trade will become unobtainable in future versions, whether through invalid prices or invalid items. Villager trades are not based on tiers and trade amounts can vary. Bottles of enchanting are obtainable through trading now.
+- Top snow layers can be placed on top of fences and walls, which will be invalid block configurations in future versions 
+
 **1.1 - 1.0**
 - Downgrading a Frosted Ice Block from 1.1 to 1.0, the Frosted Ice will turn into an info update block that is titled tile.207.name. Mining it up and updating back to 1.1 will convert the tile.207.name block in your inventory to Frosted Ice
 
