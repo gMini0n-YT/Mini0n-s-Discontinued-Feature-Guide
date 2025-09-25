@@ -62,7 +62,7 @@ ________________________________________________________________________________
 **0.9.0-b2 alpha (Android)**
 - Spawners currently have a max spawn delay of 200 ticks. In future versions, all spawners will have this value set at 800 ticks, making these discontinued spawners. 
 
-**0.11.0**
+**0.11.0 alpha (Android)**
 - Reloading the world while a block is falling causes the block to convert to a falling air block, which when lands drops an air item entity. Air item entities are temporarily discontinued, as they do get deleted in future versions but I thought it was worth mentioning
 
 **0.11.1 - Present**
@@ -103,6 +103,8 @@ ________________________________________________________________________________
 - Mining Chorus Plants with silk touch will drop the item form of the Chorus Plant
 - In **0.17.0.1** it was possible to get Tipped Arrows from Lingering Awkward, Thick, or Mundane Potions. The Thick Tipped Arrow will appear as "tipped_arrow.effect.mundane.extended", but all the other ones will be titled Tipped Arrow and will not stack with each other.
 - Shulkers that spawn in this version will appear as black shulkers as if they were dyed
+- Endermites currently spawn with a speed value of 0.7, which is higher than typically possible
+- Shulkers currently spawn with only 10 health. Typically shulkers spawn with 30 health, making these a discontinued variant.  
 
 **1.0.0.16**
 - Mining a Furnace while it is smelting with Silk Touch will drop Lit Furnace tile.
