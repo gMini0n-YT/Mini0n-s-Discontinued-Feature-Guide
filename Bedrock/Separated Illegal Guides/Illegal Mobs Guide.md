@@ -24,6 +24,8 @@ ________________________________________________________________________________
 
 **0.17.0.1**
 - Shulkers that spawn in this version will appear as black shulkers as if they were dyed
+- Endermites currently spawn with a speed value of 0.7, which is higher than typically possible
+- Shulkers currently spawn with only 10 health. Typically shulkers spawn with 30 health, making these a discontinued variant.  
 
 **1.1.0.3** 
 -  Shulkers that spawn between this version and 1.1.7.1 will convert to purple dyed shulkers
