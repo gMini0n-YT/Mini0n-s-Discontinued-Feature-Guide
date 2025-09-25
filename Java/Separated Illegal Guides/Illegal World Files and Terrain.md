@@ -49,6 +49,7 @@ ________________________________________________________________________________
 
 **Beta 1.3.2**
 - World names can contain the section symbol § and will format the name which will become unobtainable in later versions.
+- You can paste ASCII Control Codes and the DEL Character into the world name. Beware that with some control characters, backspacing too many times after pasting them can cause a game crash in some versions. 
 
 **Beta 1.9 Prerelease 3-1**
 > [!Note]
