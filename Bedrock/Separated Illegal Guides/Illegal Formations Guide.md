@@ -55,6 +55,9 @@ ________________________________________________________________________________
 
 - Wet Sponge does not turn into Dry Sponge in the Nether
 
+**1.0.4.0**
+- Top snow layers can be placed on top of fences and walls, which will be invalid block configurations in future versions 
+
 **1.2.11**
 - Placing Daylight Sensor in the nether leaves them powered
 
