@@ -206,6 +206,7 @@ ________________________________________________________________________________
 - You can put Glass Bottles in a Brewing Stand via hopper
 - Brewing potions alongside glass bottles in the Brewing Stand adds a tag name "wasJustBrewed:1" to the glass bottle. These bottles will not stack with other bottles and will keep it's tag upon updating.
 - Mining up the Mushroom Blocks from Huge Mushrooms found in Swamps and Dark Oak Forests will give you a Mushroom Block with a data value of 0.
+- Scaffolding can currently be placed on conduits, which will be unobtainable in future versions 
 
 **1.10.0 (Experimental)**
 - Villager V2s spawn in normal villages, but they have the old Villager v1 trades so if you trade with them in this update their trades will lock and they will not convert upon updating to newer versions
