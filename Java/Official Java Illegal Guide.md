@@ -236,6 +236,7 @@ ________________________________________________________________________________
 - Pressing enter inside a book and quill creates a newline character, but it does not advance the line. This allows for a total of up to 256 newline characters, which is far more than will be allowed in future versions.
 - When written books were first added to Minecraft, they had a severe flaw in their server side logic to check against potentially malicious client input. This flaw allows one to place nearly any NBT they desire onto a book and quill or written book. When written books were first added to Minecraft, they had a severe flaw in their server side logic to check against potentially malicious client input. This flaw allows one to place nearly any NBT they desire onto a book and quill or written book. The Clients can be found in the Mods folder, BookMod can be used from 1.3-1.4.2 and the EnchantedSigning mod can be used from 1.4 to 1.4.2
 - You were able to format book & quills in this version using the formatting symbol §
+- Carriage Return characters can be copy pasted in written books
 
 **12w21a**
 - Villagers now have trades. Every single villager trade will become unobtainable in future versions, whether through invalid prices or invalid items. Villager trades are not based on tiers and trade amounts can vary. Eyes of enders and rotten flesh can currently be bought, which will no longer be possible in the next two versions. Bottles of enchanting are obtainable through trading now.
