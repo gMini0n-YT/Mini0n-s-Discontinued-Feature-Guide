@@ -322,3 +322,6 @@ ________________________________________________________________________________
 
 **1.21.101**
 - Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
+
+**Preview 1.21.110.20**
+- Copper Golem Statues are normally unstackable in survival but if you manage to dupe a copper golem statue you will be able to have stackable copper golem statues.
