@@ -36,6 +36,7 @@ ________________________________________________________________________________
 **Beta 1.2.0.2**
 - Pumpkins can be placed on Armor Stands, Players, and Mobs these pumpkins will revert from carved pumpkins to normal pumpkins
 - Farmer Villagers now sell 5-7 apples instead of just 5
+- Sheep that are sheared and regrow their wool retain the +minecraft:rideable_sheared and +minecraft:loot_sheared definitions. These are unobtainable sheep variants that have wool yet will not drop wool on death.
 
 **Beta 1.2.13.8**
 - Updating Mobs with a name tag to this version will remove their nametag, meaning that if you update a vindicator that is named Johnny, it will remove the nametag but the vindicator will still attack whatever it sees.
