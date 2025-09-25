@@ -32,6 +32,9 @@ ________________________________________________________________________________
 - There is a teacher menu that allows for the teacher to enter creative mode and also gives numerous discontinued items.
 - Currently any command can be run by joining the game as a teacher all while being in survival mode.
 
+**12w17a**
+- You could make minecarts have an infinite fire texture on them by making them quickly touch fire. Starting with 12w18a (1.3.1), minecarts no longer display this texture, but updating these minecarts to current versions shows that they have a 'Fire' property of 300, when normally they should have `Fire` at 0, or 160 if they quickly touch fire without being destroyed in current versions. 
+
 **12w21a**
 - Villagers now have trades. Every single villager trade will become unobtainable in future versions, whether through invalid prices or invalid items. Villager trades are not based on tiers and trade amounts can vary. Eyes of enders and rotten flesh can currently be bought, which will no longer be possible in the next two versions. Bottles of enchanting are obtainable through trading now.
 
