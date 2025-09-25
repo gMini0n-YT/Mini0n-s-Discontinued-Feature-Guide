@@ -758,6 +758,7 @@ ________________________________________________________________________________
 - The arrows that generate within the bonus barrels had a random potion effect applied, despite this effect being unnoticeable. These potion tag arrows are normally not obtainable.
 - Currently, opening a barrel and removing all contents causes it to explode, as well as shooting a barrel with an arrow. Opening a barrel and leaving items inside causes the barrel to get stuck in the open state, which is normally unobtainable.
 - Barrels generate randomly throughout the world, in all three dimensions, and have a custom loot table of "bonus_barrel". This loot table is normally unobtainable.
+- Mobs that spawn with 3d Shareware cheat codes do not have the "Modifiers" NBT attached to their data
 
 **1.14-Prerelease 2**
 - Renamed the illager banner to ominous banner. Any ominous banners that generate on pillager outposts have the incorrect translation tag, and say "block.minecraft.illager_banner". These banners will not be obtainable in future versions.
