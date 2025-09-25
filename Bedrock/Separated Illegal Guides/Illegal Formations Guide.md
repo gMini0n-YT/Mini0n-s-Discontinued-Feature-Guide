@@ -84,6 +84,8 @@ ________________________________________________________________________________
 
 **1.5.0**
 - Flowers, Saplings, and Dead Bushes can be waterlogged. Make sure to make the sapling a dark oak sapling so it doesn't update
+- Using a dispenser on a water column with a bubble column will remove the water but will preserve the bubble column, allowing for waterless bubble columns 
+
 
 **1.9.0**
 - You can put Glass Bottles in a Brewing Stand via hopper
