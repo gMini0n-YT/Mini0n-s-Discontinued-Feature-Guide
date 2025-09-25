@@ -89,6 +89,8 @@ ________________________________________________________________________________
 
 **1.9.0**
 - You can put Glass Bottles in a Brewing Stand via hopper
+- Scaffolding can currently be placed on conduits, which will be unobtainable in future versions 
+
 
 **1.11.0**
 - In 1.11, you can place 16 buckets in a furnace fuel slot instead of just one
