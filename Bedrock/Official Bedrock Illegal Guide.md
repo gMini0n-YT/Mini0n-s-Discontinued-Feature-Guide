@@ -127,6 +127,9 @@ ________________________________________________________________________________
 - Hoppers can be used to put shulker boxes in shulker boxes
 - Pumpkins can be placed on Armor Stands, Players, and Mobs these pumpkins will revert from carved pumpkins to normal pumpkins
 - Farmer Villagers now sell 5-7 apples instead of just 5
+- Hoppers can currently be used to place any item inside a jukebox, which will not be allowed in future versions
+- Sheep that are sheared and regrow their wool retain the +minecraft:rideable_sheared and +minecraft:loot_sheared definitions. These are unobtainable sheep variants that have wool yet will not drop wool on death.
+- All support blocks can be placed off of cocoa beans, allowing for many invalid block configurations
 
 **1.2.5.0**
 - Mob Spawners can be mined up and obtained as an item
