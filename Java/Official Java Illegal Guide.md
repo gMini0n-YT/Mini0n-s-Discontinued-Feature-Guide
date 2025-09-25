@@ -182,6 +182,9 @@ ________________________________________________________________________________
 - Potions can be brewed by adding an assortment of ingredients to a cauldron. A total of 5,339 potion variations are possible using this method, most of which provide discontinued status effects and create invalid data value potions. A potion calculator is included on the resource sheet to explain the brewing process in more detail. 
 - Feeding animals would cause the wheat to decrement past 0 if it was the last item in the stack
 
+**Beta 1.9 Prerelease 3 - Beta 1.9 Prerelease 2**
+- Downgrading potions from Beta 1.9 Prerelease 3 to Beta 1.9 Prerelease 2 will make it possible to overstack the potions allowing for overstacked potions
+
 **Beta 1.9 Prerelease 3-1**
 > [!Note]
 > Certain multiplayer exclusive chunks can be obtained, however it requires file manipulation. Regions from a newly generated multiplayer world can be copied into the pre-existing world. This would work by taking a region file, changing the numbers to not conflict with previously existing region files, and adding them to the preexisting world.
