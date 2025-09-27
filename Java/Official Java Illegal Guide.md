@@ -958,6 +958,7 @@ ________________________________________________________________________________
 
 **21w06a**
 - The big dripleaf could be broken without making the whole plant break allowing for unconnected dripleaf stem
+-  Hanging roots were able to hold back flowing liquids
 
 **21w13a**
 - Endermen can currently pick up both azalea leaves and flowering azalea leaves. Endermen holding azalea leaves will not be obtainable in future versions.
