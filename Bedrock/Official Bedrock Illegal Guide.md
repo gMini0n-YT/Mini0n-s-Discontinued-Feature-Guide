@@ -682,6 +682,7 @@ ________________________________________________________________________________
 - If a witch hits a raid mob like a ravager, a pillager, a evoker, or a vindicator, they will get mad at the witch and will try to kill it.
 - Pushing a creeper into a nether portal the second before it explodes and then going into the portal with no armor will result the creeper blowing up and immediatly killing you. If you then re enter the nether from a different portal and going to the explosion site of the creeper, the nether portal will be broken but if you have a big enough of portal some nether portals will still be there but the whole portal would not be broken and there would be a creeper hole in the portal frames.
 - Taming a wolf the second it becomes angry has a chance to ake the wolf turn red and for some reason you will be able to dye it any color like a sheep. You must keep a sheep or the mob that it wants to attack around it at all times or it will reset. You can find an easy setup to get this mob in the Links folder titled "Reddog.mcstructure"
+- Breeding two red dogs together has a small chance to give you a normal looking tamed dog but it will still attack you and you cant feed it bones or dye it
 
 **Preview 1.21.110.20**
 - Shelves are currently treated as full blocks and can provide block support on all sides, which allow for invalid block configurations
