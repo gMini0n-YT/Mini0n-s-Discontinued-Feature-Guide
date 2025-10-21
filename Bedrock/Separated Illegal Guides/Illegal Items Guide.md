@@ -123,6 +123,9 @@ ________________________________________________________________________________
 **1.6.0.1**
 - Mining up the Mushroom Blocks from Huge Mushrooms found in Swamps and Dark Oak Forests can give you different data values of Mushrooom blocks from 1-9 and mining up the Mushroom Stems from Huge Mushrooms will give you a Data Value 10 Mushroom Block
 
+**1.7.0**
+- Crafting an Undyed Shulker Box will give you a shulker box with a damage value of 16
+
 **Beta 1.8.0.8 (Android)**
 - Mining up a Double Slab will give you a Double Slab item depending on the type of slab used
 - Using a Bamboo based Farm, you can obtain Bedrock by using Mining Block Transfer. Tutorial by PRGRMR: https://www.youtube.com/watch?v=gA4l__oYjQ0, Full Tutorial Here: https://www.youtube.com/watch?v=xJ-5SR88RVs
