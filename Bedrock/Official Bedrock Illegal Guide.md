@@ -197,6 +197,7 @@ ________________________________________________________________________________
 
 **1.7.0**
 - You can put a Jack-o-lantern on an armor stand, player, and mobs via dispensers
+- Crafting Undyed Shulker Boxes will give you a shulker box with a data value of 16
 
 **Beta 1.8.0.8 (Android)**
 - Mining up a Double Slab will give you a Double Slab item depending on the type of slab used
