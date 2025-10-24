@@ -180,14 +180,16 @@ ________________________________________________________________________________
 - Portal Blocks do not update if placed next to each other.
 - Dolphins before 1.5 could not be fed raw cod and this will not revert upon updating to newer versions
 
+**Beta 1.5.0.0**
+- Husks that were converted to regular zombies via drowning them would have superspeed on land
+- Zombies that convert to Drowneds will be missing the minecraft:+melee_mode tag, making it impossible for them to hit you, making them passive
+- In 1.5, Zombie Villagers found in Zombie Villages will be extremely fast. Updating from 1.5 directly to 1.21.41 will revert them. To keep them you must update from 1.5 to 1.8 to 1.10 to 1.11 to 1.21 in that order.
+
 **1.5.0**
 - Flowers, Saplings, and Dead Bushes can be waterlogged. Make sure to make the sapling a dark oak sapling so it doesn't update
 - Water, flowing water, lava, and flowing lava can be obtained through various ways of Mining Block Transfer.
 - Using the CSC knowledge you can rename 27 items 16000 of one letter and putting them in one shulker and mining them will give you any one item from CSC depending on the letter. You can obtain any item from the CSC glitch with the IDs of -33 to -63 and 33 to 63. A giving an id of -33 and B giving and id of 33. This is a list of Elements and illegals with the letter/symbol that you can obtain them with in this spreadsheet: https://docs.google.com/spreadsheets/u/0/d/1kHdwFMY0aLSELdt6vEQ3p2LySG4ivMbEJv6oP-MihZI/edit?gid=0&pli=1&authuser=0#gid=0
-- In 1.5, Zombie Villagers found in Zombie Villages will be extremely fast. Updating from 1.5 directly to 1.21.41 will revert them. To keep them you must update from 1.5 to 1.8 to 1.10 to 1.11 to 1.21 in that order.
 - Invalid oak buttons could be obtained in survival mode by mining an oak button with an enchanted Silk Touch tool. Note that the direction the player was facing determined the damage/metadata value the oak button had upon dropping as an item. Facing north would give a damage/metadata value of 3, facing east would give a value of 4, facing south would give a value of 2, facing down would give a value of 1, and facing up would give a value of 0.
-- Husks that were converted to regular zombies via drowning them would have superspeed on land
-- Zombies that convert to Drowneds will be missing the minecraft:+melee_mode tag, making it impossible for them to hit you, making them passive
 - Using a dispenser on a water column with a bubble column will remove the water but will preserve the bubble column, allowing for waterless bubble columns 
 
 **1.6.0.1**
