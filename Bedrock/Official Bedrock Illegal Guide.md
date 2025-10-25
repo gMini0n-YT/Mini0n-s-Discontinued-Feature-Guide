@@ -206,6 +206,9 @@ ________________________________________________________________________________
 - Mining up a Double Slab will give you a Double Slab item depending on the type of slab used
 - Using a Bamboo based Farm, you can obtain Bedrock by using Mining Block Transfer. Tutorial by PRGRMR: https://www.youtube.com/watch?v=gA4l__oYjQ0, Full Tutorial Here: https://www.youtube.com/watch?v=xJ-5SR88RVs
 
+**1.8-1.10+**
+- Updating Baby V1 Zombie Villagers to newer versions will cause the baby zombie villager to not fully convert and have the same body as a adult zombie villager, have faster speed and have a larger head size than normal
+
 **1.9.0**
 - You can put Glass Bottles in a Brewing Stand via hopper
 - Brewing potions alongside glass bottles in the Brewing Stand adds a tag name "wasJustBrewed:1" to the glass bottle. These bottles will not stack with other bottles and will keep it's tag upon updating.
