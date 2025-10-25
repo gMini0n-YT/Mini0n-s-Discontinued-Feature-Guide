@@ -215,10 +215,11 @@ ________________________________________________________________________________
 **1.10.0 (Experimental)**
 - Villager V2s spawn in normal villages, but they have the old Villager v1 trades so if you trade with them in this update their trades will lock and they will not convert upon updating to newer versions
 
-**1.10.0.3**
+**Beta 1.10.0.3**
 - Pillager captains that spawn currently have black banners in their chestplate slot instead of ominous banners. These will become discontinued in future versions.
 - Bells that generate in villages generate in invalid configurations , and also currently have no block entity data. The invalid configurations are permanent, however the lack of block entity data is temporary.
 - Scaffolding can currently be supported by grindstones, which is an invalid block configuration 
+- Invalid Coral and Seagrass Formations could be obtained by breaking the block beneath them which would cause them to be floating and then you can place invalid blocks underneath them
 
 **1.10.0 - beta 1.11.0.1**
 - Updating a slab from 1.10.0 to 1.11.0.1 will cause them to convert to Double Slab. All slabs will convert excluding all wood slabs, Petrified Oak Slabs can be converted into their double slab state. In versions after 1.11.0.1 they will appear as glitched slabs that cannot be placed or they will switch to different looking slabs, but they are still illegal. After 1.21.30 they will have the texture of double slabs.
