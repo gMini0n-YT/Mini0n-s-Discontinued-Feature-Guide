@@ -206,7 +206,7 @@ ________________________________________________________________________________
 - Mining up a Double Slab will give you a Double Slab item depending on the type of slab used
 - Using a Bamboo based Farm, you can obtain Bedrock by using Mining Block Transfer. Tutorial by PRGRMR: https://www.youtube.com/watch?v=gA4l__oYjQ0, Full Tutorial Here: https://www.youtube.com/watch?v=xJ-5SR88RVs
 
-**1.8-1.10+**
+**1.8-1.11+**
 - Updating Baby V1 Zombie Villagers to newer versions will cause the baby zombie villager to not fully convert and have the same body as a adult zombie villager, have faster speed and have a larger head size than normal
 
 **1.9.0**
