@@ -56,6 +56,9 @@ ________________________________________________________________________________
 **1.7.0**
 - You can put a Jack-o-lantern on an armor stand, player, and mobs via dispensers
 
+**1.8-1.10+**
+- Updating Baby V1 Zombie Villagers to newer versions will cause the baby zombie villager to not fully convert and have the same body as a adult zombie villager, have faster speed and have a larger head size than normal
+
 **1.10.0 (Experimental)**
 - Villager V2s spawn in normal villages, but they have the old Villager v1 trades so if you trade with them in this update their trades will lock and they will not convert upon updating to newer versions
 
