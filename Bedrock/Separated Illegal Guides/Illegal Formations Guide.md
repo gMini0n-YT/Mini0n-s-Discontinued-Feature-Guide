@@ -94,6 +94,7 @@ ________________________________________________________________________________
 **1.10.0.3**
 - Bells that generate in villages generate in invalid configurations , and also currently have no block entity data. The invalid configurations are permanent, however the lack of block entity data is temporary.
 - Scaffolding can currently be supported by grindstones, which is an invalid block configuration 
+- Invalid Coral and Seagrass Formations could be obtained by breaking the block beneath them which would cause them to be floating and then you can place invalid blocks underneath them
 
 **1.11.0**
 - In 1.11, you can place 16 buckets in a furnace fuel slot instead of just one
