@@ -68,9 +68,6 @@ ________________________________________________________________________________
 **0.11.1 - Present**
 - Upgrading the Player and all mobs from 0.11.1 to the version range of 1.19.60.25 to Present will cause the base value of the player's minecraft:movement attribute is set to 0.7 (7x higher than normal). This results in the player permanently being 7x faster when walking, sneaking, or sprinting. **WARNING**: Do not downgrade when at the version or it will reset the attribute removing the speed also you cannot go to other versions before upgrading to 1.19.60.25 or you will also lose the attribute
 
-**0.12.0 alpha (Android)**
-- Iron golems in this version have no knockback resistance
-
 **0.12.1 alpha (Android)**
 - Placing a sponge underwater won't absorb the water
 - Breaking Wall Signs, Standing Signs, Flower Pots, Skulls, Brewing Stands, and Beds with Silk Touch will make them drop their tile variant (e.g. tile.wall_sign.name, tile.sign.name, tile.flower_pot.name, tile.skull.name, tile.brewing_stand.name, tile.bed.name.)
@@ -80,6 +77,7 @@ ________________________________________________________________________________
 - The Old Stonecutter Item can be obtained with 4 cobblestone
 - Mining up Glowing Obsidian will drop it as an item.
 - Blowing up a chest with enchanted book inside it will drop enchanted books without any enchantments on it
+- Iron golems in this version have no knockback resistance
 
 **0.14.0 (Android)**
 - Colors in this version have a different color value than colors in the newer version, the following colors are: white, brown, lime, green, cyan, light blue, blue, purple, magenta and pink, meaning that there can be thousand of illegal color variants by combining them in a cauldron. This also gives us two extra illegals: Cauldrons with illegal color value and Leather Armor with illegal color value
