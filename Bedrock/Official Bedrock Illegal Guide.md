@@ -72,7 +72,6 @@ ________________________________________________________________________________
 - Placing a sponge underwater won't absorb the water
 - Breaking Wall Signs, Standing Signs, Flower Pots, Skulls, Brewing Stands, and Beds with Silk Touch will make them drop their tile variant (e.g. tile.wall_sign.name, tile.sign.name, tile.flower_pot.name, tile.skull.name, tile.brewing_stand.name, tile.bed.name.)
 - Renaming an item in this version adds anvil uses to the item which usually only happens to armor and tools increasing the XP cost of every time you rename it
-- Renaming items cuss words will not replace the word with * or #.
 - Obtaining pufferfish and raw salmon in this version will have a different data value then in newer versions and will not stack with newer pufferfish and raw salmon items
 - The Old Stonecutter Item can be obtained with 4 cobblestone
 - Mining up Glowing Obsidian will drop it as an item.
