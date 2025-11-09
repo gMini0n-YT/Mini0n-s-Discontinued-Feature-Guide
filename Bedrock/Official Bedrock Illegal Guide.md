@@ -584,7 +584,7 @@ ________________________________________________________________________________
 **1.21.0**
 - Placing Powder Snow next to cactus won't break the cactus
 - Placing a 9+ high snow layer on a piece of foliage and then breaking the snow block will cause the extra snow layers to float above the foliage.
-- when Deepslate Redstone Ore is lit up, it never turns off
+- When Deepslate Redstone Ore is lit up, it never turns off
 - If a Pillager or Witch attacks a Vindicator, Evoker, or Witches would retaliate against the illager that attacked them
 
 **Preview 1.21.10.22 - Preview 1.21.10.21**
@@ -609,8 +609,7 @@ ________________________________________________________________________________
 
 **1.21.30 (Bundle Experiment)**
 - You can overfill bundles up to 4096 items. (You can only do this on touchscreen devices). If you fill a bundle with less than one stack of an item and then by clicking on it and then swapping the items with a full stack of the same items will swap the items and you will now have a stack of the items in the bundle. Using this method having extra items in the bundle before doing this will create overstacked bundles with up to 4096 items.
-- Vindicators and Evokers would retaliate to Pillagers who shot them
-
+  
 **Preview 1.21.50.20 - 1.20.62 (UBC) (0.12 Downgrading)**
 - Downgrading all Pale Oak doors in block form from 1.21.50.20 to 1.20.62 will cause them to convert to Unknown Blocks and when updating them back in item form they will become unplacable
 
@@ -628,38 +627,35 @@ ________________________________________________________________________________
 
 **1.21.71**
 - Pillagers, Vindicators, and Evokers, for some strange reason, can pick up a White Banner, and will even trade their weapons for it.
-- Placing Sea Pickles against a non full block will break the block the sea pickles are placed against meaning you can use this for bedrock removal
+- Placing Sea Pickles against a non-full block will break the block the sea pickles are placed against, meaning you can use this for bedrock removal
 - Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
 
 
 **Preview 1.21.70.22**
-- The Invincible Mobs from 1.17.0 have been removed entirely but if you obtain an Invincible Axolotl in a bucket they will turn into a Disappearing Axolotl in a Bucket. Warning don't place it down because it will immediately disappear
-- You can place Leaf Litter on Non full blocks (e.g. fence, walls, and glass panes)
+- You can place Leaf Litter on non-full blocks (e.g., fence, walls, and glass panes)
 - You can also place Dry Grass on Farmland
 
 **Preview 1.21.70.25**
-- Shulker Bullets in this version conflict Levitation that lasts 200 seconds instead of 10, using this idea you can let the shulker bullet hit a fish and scoop it up allowing for a fish with 200 seconds of levitation that will be saved. 
+- Shulker Bullets in this version conflict with Levitation, which lasts 200 seconds instead of 10. Using this idea, you can let the shulker bullet hit a fish and scoop it up, allowing for a fish with 200 seconds of levitation that will be saved. 
 
 **1.21.80.25 (Experimental)**
-- Happy Ghasts in this version have 40 health (20 hearts), this will be changed in 1.21.80.27 where there health will be halved, experiments will turn off acheivements but if you rename your world in 0.11.0 it will turn acheivments back on
+- Happy Ghasts in this version have 40 health (20 hearts). This will be changed in 1.21.80.27, where their health will be halved, experiments will turn off, achievements, but if you rename your world in 0.11.0, it will turn achievements back on
 
 **Preview 1.21.90.25**
-- Happy Ghasts in this version could not be saddled, rode, or temptable when updating to versions past 1.21.90.26
+- Happy Ghasts in this version could not be saddled, ridden, or tameable when updating to versions past 1.21.90.26
 
 **1.21.90**
-- Allays can hold leads  which will be discontinued in future versions
+- Allays can hold leads, which will be discontinued in future versions
 - Leashing untamed wolves and making them angry at a skeleton or a sheep will cause the leash to stay on, updating to newer versions will cause the leash to become infinite and the dog will be able to exceed 10 blocks away from the fence, the leash will snap if the dog kills the prey or it can't see the mob it wants to attack and becomes "unangrified"
-- Foxes in this version will wear Mob Heads and Carved Pumpkins if dropped to them, this is unobservable without a world editor
+- Foxes in this version will wear Mob Heads and Carved Pumpkins if dropped to them; this is unobservable without a world editor
 
 **1.21.101**
-- Lagging out the game and then opening three chests in a row will cause one of the chests to be open
-- Lagging Out the Game and then opening three shulker boxes in a row will cause two of the shulker boxes to remain open
 - Zombifying a Baby Villager will result in a Zombified Baby Villager will illegal tags and effects such as being affected by poison, regeneration hurts them, they are not affected by smite, they can not enter boats or minecarts, they are not targeted by Iron Golems, Snow Golems, Johnny Vindicators, or Zoglins, unless the Zombie attacks them first, and they don't scare Villagers, Wandering Traders, or Armadillos
 - Breeding a Warm or Cold Pig, Chicken, or Cow with the superspeed pig from 1.16.220 will cause the baby to be faster than normal
-- If the mob that the fox is attacking is removed and the fox lands in snow layers, it will get snuck in the falling position "sniffing position", to keep this you need to simply relog and make sure the fox never sees any rabbits or chickens or it will reset
+- If the mob that the fox is attacking is removed and the fox lands in snow layers, it will get snuck in the falling position "sniffing position", to keep this, you need to simply relog and make sure the fox never sees any rabbits or chickens, or it will reset
 - Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
-- You can create Shulker Logged Blocks by pushing a Shulker into a block via piston
-- Placing Two Tall Plants including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height, These will not update if placed in this version
+- You can create Shulker Logged Blocks by pushing a Shulker into a block via a piston
+- Placing Two Tall Plants, including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height limit. These will not update if placed in this version
 - Fences, Iron bars, Glass Panes, and Walls can connect to Structure Voids
 - You can place Twisting Vines on Leaves and Chrous Flowers/Plants
 - Quicky Replacing blocks with cactus inside of water can cause the cactus to be waterlogged
@@ -670,7 +666,6 @@ ________________________________________________________________________________
 - Striking a Villager in a minecart with a lightning bolt will cause it to convert to a witch that will not attack you, make sure it stays in the minecart and keep it on the rails otherwise it will become hostile and attack you
 - Pushing a Witch into an end portal while it is drinking a potion will keep it in it's drinking animation
 - Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE
-- You can obtain Floating Llama Spit, Blaze Fireballs, Snowballs using this setup https://www.youtube.com/shorts/0eaGBf1xqas
 - You can obtain Floating Dragon Breath Fireballs using a setup made by SilentShadow which will be linked in the "Links" folder, it does take a long time to obtain though, it can take an average of 3 hours of waiting using ths setup
 - Logging out the immediate second a TnT minecart lands on an activator rail will cause the TNT Minecart to become invincible and not be able to blow up on activator rails
 - If u give iron to an iron golem 0.50 secs before it dies it will become immortal as shown: https://youtube.com/shorts/TzS-TIkIW3Q?si=EryTPHhlfc_r2mpd
@@ -683,12 +678,11 @@ ________________________________________________________________________________
 - Throwing an item on a wooden pressure plate and quickly breaking the pressure plate and replace it with fire will cause the fire to eternally lit even in rain and it will not spread to other wooden blocks around it.
 - Putting upward bubble columns underneath an end portal and putting a boat on it will cause the boat to bounce up and down, lighting the end portal will send the boat through and due to this when you enter, the boat will have 0 gravity and will just float even if the blocks below it are broken. This is also possible with nether portals.
 - Using pistons to push soul sand and magma blocks with bubble columns on top back and forth while a boat is on top of the bubble columns will cause the boat to shake. Leaving the dimension while this process is active and coming back, you will notice that if you right click the boat, you will not be able to get inside it nor any other entity due to the boat thinking that it is still underwater.
-- If a witch hits a raid mob like a ravager, a pillager, a evoker, or a vindicator, they will get mad at the witch and will try to kill it.
 - Pushing a creeper into a nether portal the second before it explodes and then going into the portal with no armor will result the creeper blowing up and immediatly killing you. If you then re enter the nether from a different portal and going to the explosion site of the creeper, the nether portal will be broken but if you have a big enough of portal some nether portals will still be there but the whole portal would not be broken and there would be a creeper hole in the portal frames.
-- Taming a wolf the second it becomes angry has a chance to ake the wolf turn red and for some reason you will be able to dye it any color like a sheep. You must keep a sheep or the mob that it wants to attack around it at all times or it will reset. You can find an easy setup to get this mob in the Links folder titled "Reddog.mcstructure"
-- Breeding two red dogs together has a small chance to give you a normal looking tamed dog but it will still attack you and you cant feed it bones or dye it
+- Taming a wolf the second it becomes angry has a chance to make the wolf turn red, and for some reason, you will be able to dye it any color like a sheep. You must keep a sheep or the mob that it wants to attack around it at all times, or it will reset. You can find an easy setup to get this mob in the Links folder titled "Reddog.mcstructure"
+- Breeding two red dogs together has a small chance to give you a normal-looking tamed dog, but it will still attack you, and you can't feed it bones or dye it
 
 **Preview 1.21.110.20**
-- Shelves are currently treated as full blocks and can provide block support on all sides, which allow for invalid block configurations
-- Currently warped and crimson shelves can be used as furnace fuel, which will not be possible in future versions
-- Copper Golem Statues are normally unstackable in survival but if you manage to dupe a copper golem statue you will be able to have stackable copper golem statues.
+- Shelves are currently treated as full blocks and can provide block support on all sides, which allows for invalid block configurations
+- Currently, warped and crimson shelves can be used as furnace fuel, which will not be possible in future versions
+- Copper Golem Statues are normally unstackable in survival, but if you manage to dupe a copper golem statue, you will be able to have stackable copper golem statues.
