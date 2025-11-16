@@ -5,7 +5,7 @@ ________________________________________________________________________________
 **Upgrading:** Upgrading from X.XX.XX to Y.YY.YY to obtain a certain illegal
 <br>
 
-**Downrading:** Downgrade from X.XX.XX to Y.YY.YY to obtain a certain illegal
+**Downgrading:** Downgrade from X.XX.XX to Y.YY.YY to obtain a certain illegal
 <br>
 
 **EDU:** MinecraftEDU is a modified fork of Minecraft Java Edition, and is an educational form of Minecraft
