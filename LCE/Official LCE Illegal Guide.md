@@ -27,6 +27,7 @@ ________________________________________________________________________________
 - Currently Enderpearls stack to 64, which is unobtainable because later the stack size will change to 16
 - By updating the previous world, a tag will be added to the world folder signifying the sea level is from an old world, the "newSeaLevel:0" tag 
 - Mining Stone brick stairs in different orientations drop stone bricks with various data values, allowing for Invalid Data Value Stone Bricks
+- Redstone can be powered through chests which will be a discontinued formation in the future
 
 **TU7**
 - Using Silk Touch on leaves in different orientations allows for Invalid Data Value Leaves
@@ -61,6 +62,7 @@ ________________________________________________________________________________
 - Currently naming items in an anvil adds only 3 tags, the display name, the repair cost, and a "createdOnHost" tag. This differs from named items in earlier versions, which are missing the "createdOnHost" tag, and from named items in future versions, which also contain the tag "createdByRestricted". 
 - Crafting bone blocks currently creates bone blocks with a data value of 4, which is an invalid data value variant of bone blocks 
 - Entites updated to this version have the drop chance of their left hand set to 0, even though it is normally 0.85.
+- On the tutorial world at -394 -125, there will be a tamed ocelot with a different owner, the owner is MH4J.
 
 **TU54**
 - Woodland Mansions can generate with spider rooms, which currently contain a spawner without entity data. The spawner will look like a pig spawner and not spawn anything, and will not be obtainable in future versions. 
