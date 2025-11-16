@@ -17,6 +17,7 @@ ________________________________________________________________________________
 
 **TU1**
 - Blowing up a chest while spam clicking an item in and out of the chest has a chance for it to become a 0 stack item allowing for overstacked and under stacked items
+- Placing a bed adjacent to a cactus (with the bottom half touching it) would delete the bottom half, leaving only the top half (resulting in a half bed).
 
 **TU3**
 - Block transmutation can work by updating a budded piston at the same time another piston pushes a block, merging the blocks. This allows for many variations of invalid data value blocks. 
