@@ -25,7 +25,7 @@ ________________________________________________________________________________
 - Sugar cane is now an infinite item in the inventory. The sugar cane in the inventory is actually the tile entity of sugar cane, not the item, which will be unobtainable in future versions 
 
 **0.3.0 alpha (Android)**
-- Crafting Oak Slabs in this version will give you Wooden Slabs that are similar to Petrified Oak Slabs in Java Edition
+- <details> <summary>Crafting Oak Slabs in this version will give you Wooden Slabs that are similar to Petrified Oak Slabs in Java Edition **(0.3.0-0.7.2)** </summary> 0.3.0, 0.3.2, 0.3.2j, 0.3.3, 0.3.3j, 0.3.3.1, 0.4.0, 0.4.0j, 0.4.0.1, 0.5.0-b1, 0.5.0-b2, 0.5.0, 0.5.0j, 0.6.0, 0.6.1, 0.7.0, 0.7.1, 0.7.2 </details>
 
 **0.3.2 alpha (Android)**
 - Data value 4, 5, and 6 saplings drop from oak, spruce, and birch leaves respectively
