@@ -190,10 +190,10 @@ ________________________________________________________________________________
 - Mining buttons and levers in different orientations drops invalid data value buttons and levers and mining powered pressure plates will drop invalid data value pressure plates 
 
 **Beta 1.2.13.8**
-- Curse of Binding and Curse of Vanishing use the same ids as Loyalty and Channeling respectively, so in future versions all the Curse of Binding and Curse of Vanishing will turn into Loyalty and Channeling. This allows for Loyalty on every armor piece, and Channeling for every armor and tool that can have Curse of Vanishing on it.
+- Curse of Binding and Curse of Vanishing use the same ids as Loyalty and Channeling respectively, so in future versions all the Curse of Binding and Curse of Vanishing will turn into Loyalty and Channeling. This allows for Loyalty on every armor piece, and Channeling for every armor and tool that can have Curse of Vanishing on it. 
 - Impaling and Riptide use the same id as Curse of Binding and Curse of Vanishing respectively, so in future versions all the Impaling and Riptide books will turn into Curse of Binding and Curse of Vanishing. This allows for Curse of Binding 2-5 and Curse of Vanishing 2-3 books and villager trades.
 - *Helmets can be enchanted with any enchant in the game this allows for a Helmet with sword enchants or any other enchants in the game.*
-- Invalid Data Value Trapdoors can be obtained by mining a trapdoor in survival mode. The direction it was placed will determine the different data value the trapdoor has when dropped.
+- <details> <summary>Invalid Data Value Trapdoors can be obtained by mining a trapdoor in survival mode. The direction it was placed will determine the different data value the trapdoor has when dropped. **(1.2.13.8-1.2.13.60)** </summary> 1.2.13.8, 1.2.13.10, 1.2.13.11, 1.2.13.12, 1.2.13.54, 1.2.14, 1.2.15.1, 1.2.13.60 </details>
 - *Updating Mobs with a name tag to this version will remove their nametag, meaning that if you update a vindicator that is named Johnny, it will remove the nametag but the vindicator will still attack whatever it sees.*
 
 **1.2.13.8 - 1.2.6.60**
