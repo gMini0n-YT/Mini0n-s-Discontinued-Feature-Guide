@@ -13,7 +13,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________
 **0.1.0 alpha (Android)**
 - Frozen oceans generate. Later these frozen oceans will stop generating and be renamed to legacy frozen oceans, making them a discontinued biome. 
-- Water, lava, fire, or snow could be replaced with Sugarcane, Cactus, and Ladders to create Cactus on grass, Sugarcane on Stone without water, or Floating Invisible Ladders. Due to the replacement of the block bypassing the initial update check, the blocks can be placed.
+- <details> <summary>Water, lava, fire, or snow could be replaced with Sugarcane, Cactus, and Ladders to create Cactus on grass, Sugarcane on Stone without water, or Floating Invisible Ladders. Due to the replacement of the block bypassing the initial update check, the blocks can be placed. **(0.1.0-0.3.2)** </summary> 0.1.0, 0.1.1j, 0.1.2, 0.1.2j, 0.1.3-b1, 0.1.3-b2, 0.1.3, 0.1.3j, 0.2.0-b2, 0.2.0, 0.2.0j, 0.2.1-b1, 0.2.1-b2, 0.2.1, 0.2.1j, 0.2.1 alpha2, 0.2.2, 0.3.0-b2, 0.3.0-b3, 0.3.0, 0.3.0j, 0.3.2 </details> 
 - The end of lava flows does not create cobblestone when it comes in contact with water, allowing for discontinued block configurations
 - Gravity Blocks like Sand or Gravel will not fall if a block is broken underneath them.
 
