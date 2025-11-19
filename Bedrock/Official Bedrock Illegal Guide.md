@@ -88,55 +88,52 @@ ________________________________________________________________________________
 **0.12.1-b1 alpha (Android)**
 - <details><summary>Blowing up a chest with enchanted book inside it will drop enchanted books without any enchantments on it **(0.12.1-b1 - 0.12.1-b5)**</summary> 0.12.1-b1, 0.12.1-b2, 0.12.1-b3, 0.12.1-b4, 0.12.1-b5 </details>
 - <details><summary>Attempting to place a snow layer inside a non full block deletes adjacent blocks, allowing for bedrock breaking **(0.12.1-b1 - 0.12.1-b2)**</summary> 0.12.1-b1, 0.12.1-b2 </details>
+- <details> <summary>Mining a Furnace while it is smelting with Silk Touch will drop Lit Furnace tile. **(0.12.0-b1 - 1.0.5)** </summary> 0.12.1-b1, 0.12.1-b2, 0.12.1-b3, 0.12.1-b4, 0.12.1-b5, 0.12.1-b6, 0.12.1-b7, 0.12.1-b8, 0.12.1-b9, 0.12.1-b10, 0.12.1-b11, 0.12.1-b12, 0.12.1-b13, 0.12.1, 0.12.1.19, 0.12.2, 0.12.2.2, 0.12.3, 0.12.3.1, 0.13.0-b1, 0.13.0-b2, 0.13.0-b3, 0.13.0-b4, 0.13.0-b5, 0.13.0, 0.13.1, 0.13.2-2, 0.13.2-3, 0.13.2, 0.14.0-b1, 0.14.0-b2, 0.14.0-b3, 0.14.0-b4, 0.14.0-b5, 0.14.0-b6, 0.14.0-b7, 0.14.0.1, 0.14.0.9, 0.14.1, 0.14.2, 0.14.2.1, 0.14.2.2, 0.14.3-1, 0.14.3-2, 0.14.3, 0.14.3.1, 0.15.0-r2, 0.15.0-r4, 0.15.0-b1, 0.15.0-b2, 0.15.0-b3, 0.15.0, 0.15.0.1, 0.15.0.3, 0.15.1-b1, 0.15.1.2, 0.15.2.1, 0.15.3.2, 0.15.4, 0.15.4.1, 0.15.6, 0.15.7.1, 0.15.7.2, 0.15.8, 0.15.8.1, 0.15.9, 0.15.10, 0.16.0-b1, 0.16.0-b2, 0.16.0-b3, 0.16.0-b4, 0.16.0-b5, 0.16.0.5, 0.16.1, 0.16.2.2, 0.17.0.1, 0.17.0.2, 1.0.0.0, 1.0.0.1, 1.0.0.2, 1.0.0.7, 1.0.0.16, 1.0.0.18, 1.0.1, 1.0.2, 1.0.2.1, 1.0.3, 1.0.3.12, 1.0.4, 1.0.4.1, 1.0.4.11, 1.0.5 </details>
 
 **0.12.1 alpha (Android)**
 - Placing a sponge underwater won't absorb the water
 - <details> <summary>Breaking Wall Signs, Standing Signs, Flower Pots, Skulls, Brewing Stands, and Beds with Silk Touch will make them drop their tile variant (e.g. tile.wall_sign.name, tile.sign.name, tile.flower_pot.name, tile.skull.name, tile.brewing_stand.name, tile.bed.name.) **(0.12.1 alpha build 1 - 0.12.3 alpha)** </summary> 0.12.1-b1, 0.12.1-b2, 0.12.1-b3, 0.12.1-b4, 0.12.1-b5, 0.12.1-b6, 0.12.1-b7, 0.12.1-b8, 0.12.1-b9, 0.12.1-b10, 0.12.1-b11, 0.12.1-b12, 0.12.1-b13, 0.12.1, 0.12.1.19, 0.12.2, 0.12.2.2, 0.12.3 </details>
-- Renaming an item in this version adds anvil uses to the item which usually only happens to armor and tools increasing the XP cost of every time you rename it
-- Obtaining pufferfish and raw salmon in this version will have a different data value then in newer versions and will not stack with newer pufferfish and raw salmon items
+- Renaming an item in this version adds anvil uses to the item, which usually only happens to armor and tools, increasing the XP cost every time you rename it
+- Obtaining pufferfish and raw salmon in this version will have a different data value than in newer versions and will not stack with newer pufferfish and raw salmon items
 - Mining up Glowing Obsidian will drop it as an item. **(0.12.1-Present)**
 - <details> <summary>Iron golems in this version have no knockback resistance **(0.12.1 - 0.17.0.1)** </summary> 0.12.1-b1, 0.12.1-b2, 0.12.1-b3, 0.12.1-b4, 0.12.1-b5, 0.12.1-b6, 0.12.1-b7, 0.12.1-b8, 0.12.1-b9, 0.12.1-b10, 0.12.1-b11, 0.12.1-b12, 0.12.1-b13, 0.12.1, 0.12.1.19, 0.12.2, 0.12.2.2, 0.12.3, 0.12.3.1, 0.13.0-b1, 0.13.0-b2, 0.13.0-b3, 0.13.0-b4, 0.13.0-b5, 0.13.0, 0.13.1, 0.13.2-2, 0.13.2-3, 0.13.2, 0.14.0-b1, 0.14.0-b2, 0.14.0-b3, 0.14.0-b4, 0.14.0-b5, 0.14.0-b6, 0.14.0-b7, 0.14.0.1, 0.14.0.9, 0.14.1, 0.14.2, 0.14.2.1, 0.14.2.2, 0.14.3-1, 0.14.3-2, 0.14.3, 0.14.3.1, 0.15.0-r2, 0.15.0-r4, 0.15.0-b1, 0.15.0-b2, 0.15.0-b3, 0.15.0, 0.15.0.1, 0.15.0.3, 0.15.1-b1, 0.15.1.2, 0.15.2.1, 0.15.3.2, 0.15.4, 0.15.4.1, 0.15.6, 0.15.7.1, 0.15.7.2, 0.15.8, 0.15.8.1, 0.15.9, 0.15.10, 0.16.0-b1, 0.16.0-b2, 0.16.0-b3, 0.16.0-b4, 0.16.0-b5, 0.16.0.5, 0.16.1, 0.16.2.2, 0.17.0.1 </details>
 - <details> <summary>Placing skull tiles and then mining the skull drops a skull with a data value of -1, which is an invalid data value **(0.12.1-b10 - 0.12.3)** </summary> 0.12.1-b10, 0.12.1-b11, 0.12.1-b12, 0.12.1-b13, 0.12.1, 0.12.1.19, 0.12.2, 0.12.2.2, 0.12.3 </details>
 
 **0.14.0 (Android)**
 - Colors in this version have a different color value than colors in the newer version, the following colors are: white, brown, lime, green, cyan, light blue, blue, purple, magenta and pink, meaning that there can be thousand of illegal color variants by combining them in a cauldron. This also gives us two extra illegals: Cauldrons with illegal color value and Leather Armor with illegal color value
-- You can put Glass Bottles in a Brewing Stand via hopper
+- You can put Glass Bottles in a Brewing Stand via the hopper
 - Brewing potions alongside glass bottles in the Brewing Stand adds a tag name "wasJustBrewed:1" to the glass bottle. These bottles will not stack with other bottles and will keep it's tag upon updating.
   
 **0.15.0-b1 alpha (Android)**
-- Doors have a durability of 66 in this version and keep their damage value upon updating. Stacking Normal Doors with Durability Doors will remove the durability of the door.
-- Falling snow layers will drop invalid data value snow layers when falling onto partial blocks
+- <details> <summary>Doors have a durability of 66 in this version and keep their damage value upon updating. Stacking Normal Doors with Durability Doors will remove the durability of the door. **(0.15.0-b1 - 0.15.10)** </summary> 0.15.0-b1, 0.15.0-b2, 0.15.0-b3, 0.15.0, 0.15.0.1, 0.15.0.3, 0.15.1-b1, 0.15.1.2, 0.15.2.1, 0.15.3.2, 0.15.4, 0.15.4.1, 0.15.6, 0.15.7.1, 0.15.7.2, 0.15.8, 0.15.8.1, 0.15.9, 0.15.10 </details>
+- <details> <summary>Falling snow layers will drop invalid data value snow layers when falling onto partial blocks **(0.15.0-b1 - 1.0.3)** </summary> 0.15.0-b1, 0.15.0-b2, 0.15.0-b3, 0.15.0, 0.15.0.1, 0.15.0.3, 0.15.1-b1, 0.15.1.2, 0.15.2.1, 0.15.3.2, 0.15.4, 0.15.4.1, 0.15.6, 0.15.7.1, 0.15.7.2, 0.15.8, 0.15.8.1, 0.15.9, 0.15.10, 0.16.0-b1, 0.16.0-b2, 0.16.0-b3, 0.16.0-b4, 0.16.0-b5, 0.16.0.5, 0.16.1, 0.16.2.2, 0.17.0.1, 0.17.0.2, 1.0.0.0, 1.0.0.1, 1.0.0.2, 1.0.0.7, 1.0.0.16, 1.0.0.18, 1.0.1, 1.0.2, 1.0.2.1, 1.0.3 </details>
 - Endermen can pick up netherack in their hands (WARNING: In bedrock edition, endermen can teleport out of boats so there is no way to store him without putting him in a 1x1 block in the middle of the ocean so he can't teleport or place down the block, after 1.21.60.27, endermen will stay in boats, just make sure to not give any room for the endermen to place down the block otherwise the illegal will be removed.
 - Pistons can extend below y-level 0
+- <details> <summary>Dropping an anvil on torches will give you a differing data value of anvils depending on which direction the anvil was placed. Depending on the direction and the type of anvil, you can obtain 0-11 data value anvils. **(0.15.0-b1 - 1.0.3)** </summary> 0.15.0-b1, 0.15.0-b2, 0.15.0-b3, 0.15.0, 0.15.0.1, 0.15.0.3, 0.15.1-b1, 0.15.1.2, 0.15.2.1, 0.15.3.2, 0.15.4, 0.15.4.1, 0.15.6, 0.15.7.1, 0.15.7.2, 0.15.8, 0.15.8.1, 0.15.9, 0.15.10, 0.16.0-b1, 0.16.0-b2, 0.16.0-b3, 0.16.0-b4, 0.16.0-b5, 0.16.0.5, 0.16.1, 0.16.2.2, 0.17.0.1, 0.17.0.2, 1.0.0.0, 1.0.0.1, 1.0.0.2, 1.0.0.7, 1.0.0.16, 1.0.0.18, 1.0.1, 1.0.2, 1.0.2.1, 1.0.3 </details>
 
 **0.15.0 - 0.12.1 alpha (PC Exclusive)**
-- Downgrading from **0.15.0** to **0.12.1** alpha will transform these enchants which will transform back when updating: Fortune -> Power, Silk Touch -> Unbreaking, Infinity - Luck of the Sea. So putting Unbreaking on any item in **0.12.1** and then updating back to **0.15.0** will give you Silk Touch on any item. Putting Luck of the Sea on a Fishing Rod in **0.12.1** and updating to **0.15.0** will give you an Infinity Fishing Rod. Putting Power IV/V on a Book or Bow will give you a Fortune IV/V Book or Bow. Finally combining Power 1-5 and Unbreaking can give you a Silk Touch and Fortune enchantment on the same book. 
+- Downgrading from **0.15.0** to **0.12.1** alpha will transform these enchants, which will transform back when updating: Fortune -> Power, Silk Touch -> Unbreaking, Infinity - Luck of the Sea. So putting Unbreaking on any item in **0.12.1** and then updating back to **0.15.0** will give you Silk Touch on any item. Putting Luck of the Sea on a Fishing Rod in **0.12.1** and updating to **0.15.0** will give you an Infinity Fishing Rod. Putting Power IV/V on a Book or Bow will give you a Fortune IV/V Book or Bow. Finally, combining Power 1-5 and Unbreaking can give you a Silk Touch and Fortune enchantment on the same book. 
 
 **0.15.9 alpha (Android)**
-- Taming Cats in this version and leaving them in unloaded chunks until **1.8.0.8** will turn them into Tamed Ocelots
+- Taming Cats in this version and leaving them in unloaded chunks until **1.8.0.8** will turn them into Tamed Ocelots 
 
 **0.16.0-b1 alpha (Android)**
 - Wet Sponge does not turn into Dry Sponge in the Nether
 
 **0.16.0-b4 alpha (Android)**
-- Dropping anvil on torches will give you differing data value of anvils depending on which direction the anvil was placed. Depending on the direction and the type of anvil you can obtain 0-11 data value anvils.
 - Breeding ocelots creates tamed ocelots without owners, which are typically unobtainable  
 - When animals and villagers are bred, they use the current speed rather than the base speed. So by splashing two animals/villagers with splash potion of speed or slowness and then breeding them, the offspring will be faster/slower than their parents. This process can be repeated endlessly, make sure to get a superspeed pig, cow, and chicken for a future illegal in 1.21.82
-
-**0.16.0.5 alpha (Android)**
-- Shearing mooshrooms currently drop mushrooms with a data value of -1, which are invalid data value mushrooms  
 
 **0.17.0.1 alpha (Android)**
 > [!CAUTION]
 > PDV: Hitting a Mob or getting hit by a mob will crash the game.
 
 - Updating a world from **0.15.9** alpha to this version will overwrite biome data of chunks causing the biomes to change into a stripe pattern. This can cause Overworld mobs to spawn in the Nether.
-- Mining Chorus Plants with silk touch will drop the item form of the Chorus Plant
+- <details> <summary>Mining Chorus Plants with silk touch will drop the item form of the Chorus Plant **(0.17.0.1 - 1.0.0.0)** </summary> 0.17.0.1, 0.17.0.2, 1.0.0.0 </details>
 - In **0.17.0.1** it was possible to get Tipped Arrows from Lingering Awkward, Thick, or Mundane Potions. The Thick Tipped Arrow will appear as "tipped_arrow.effect.mundane.extended", but all the other ones will be titled Tipped Arrow and will not stack with each other.
 - Shulkers that spawn in this version will appear as black shulkers as if they were dyed
 - Endermites currently spawn with a speed value of 0.7, which is higher than typically possible
 - Shulkers currently spawn with only 10 health. Typically shulkers spawn with 30 health, making these a discontinued variant.  
-- Mining a Furnace while it is smelting with Silk Touch will drop Lit Furnace tile.
 
 **1.0.4.0**
 - Villagers now have trades. Every single villager trade will become unobtainable in future versions, whether through invalid prices or invalid items. Villager trades are not based on tiers and trade amounts can vary. Bottles of enchanting are obtainable through trading now.
@@ -146,7 +143,7 @@ ________________________________________________________________________________
 - Downgrading a Frosted Ice Block from 1.1 to 1.0, the Frosted Ice will turn into an info update block that is titled tile.207.name. Mining it up and updating back to 1.1 will convert the tile.207.name block in your inventory to Frosted Ice
 
 **1.1.0.3** 
--  Breaking Blocks while they are being moved by a piston can drop a moving block tile, a silk touch pickaxe with at least efficiency IV is reccomended. Setup for contraption here at 23:40: https://www.youtube.com/watch?v=i1VK64sA5QM
+-  <details> <summary>Breaking Blocks while they are being moved by a piston can drop a moving block tile, a silk touch pickaxe with at least efficiency IV is reccomended. Setup for contraption here at 23:40: https://www.youtube.com/watch?v=i1VK64sA5QM **(1.1.0.3 - 1.2.13)** </summary> 1.1.0.3, 1.1.0.4, 1.1.0.5, 1.1.0.8, 1.1.0.9, 1.1.0.55, 1.1.1.0, 1.1.1.1, 1.1.1.51, 1.1.2.50, 1.1.3.0, 1.1.3.1, 1.1.3.52, 1.1.4.51, 1.1.5.0, 1.1.5.1, 1.1.7.1, 1.2.0.2, 1.2.0.7, 1.2.0.9, 1.2.0.11, 1.2.0.15, 1.2.0.18, 1.2.0.22, 1.2.0.25, 1.2.0.31, 1.2.0.81, 1.2.1.1, 1.2.2.2, 1.2.2.3, 1.2.3.3, 1.2.3.6, 1.2.5.0, 1.2.5.12, 1.2.5.13, 1.2.5.15, 1.2.5.52, 1.2.6.2, 1.2.6.55, 1.2.6.60, 1.2.7.2, 1.2.8, 1.2.9.1, 1.2.10.1, 1.2.10.2, 1.2.11.4, 1.2.12, 1.2.12.1, 1.2.13.5 </details>
 -  End Cities generated in this version will always generate with some tile.smooth_purpur.name tiles build in it. You can find these smooth purpur blocks on the outside behind the upside down stairs on the first spiral staircase from the bottom going up on the endcity. You can find the location marked by endstone in the picture from the LINKS folder titled "Smooth Purpur Locations".
 -  Shulkers that spawn between this version and 1.1.7.1 will convert to purple dyed shulkers
 -  Frosted ice that melts currently does not flow, allowing for stationary water sources 
