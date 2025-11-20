@@ -12,60 +12,59 @@ ________________________________________________________________________________
 **(0.12.1 Downgrade**): Downgrading client to 0.12.1 and renaming world you would like to downgrade will cause the world to downgrade to 0.12 without any corruption. This allows to easily downgrade to any version above 0.12.1. 
 ______________________________________________________________________________________________________________________________________
 **0.1.0 alpha (Android)**
-- Frozen oceans generate. Later these frozen oceans will stop generating and be renamed to legacy frozen oceans, making them a discontinued biome. 
-- <details> <summary>Water, lava, fire, or snow could be replaced with Sugarcane, Cactus, and Ladders to create Cactus on grass, Sugarcane on Stone without water, or Floating Invisible Ladders. Due to the replacement of the block bypassing the initial update check, the blocks can be placed. **(0.1.0-0.3.2)** </summary> 0.1.0, 0.1.1j, 0.1.2, 0.1.2j, 0.1.3-b1, 0.1.3-b2, 0.1.3, 0.1.3j, 0.2.0-b2, 0.2.0, 0.2.0j, 0.2.1-b1, 0.2.1-b2, 0.2.1, 0.2.1j, 0.2.1 alpha2, 0.2.2, 0.3.0-b2, 0.3.0-b3, 0.3.0, 0.3.0j, 0.3.2 </details> 
-- The end of lava flows does not create cobblestone when it comes in contact with water, allowing for discontinued block configurations
+- Water, lava, fire, or snow could be replaced with Sugarcane, Cactus, and Ladders to create Cactus on grass, Sugarcane on Stone without water, or Floating Invisible Ladders. Due to the replacement of the block bypassing the initial update check, the blocks can be placed. 
+- Frozen oceans generate. Later these frozen oceans will stop generating and be renamed to legacy frozen oceans, making them a discontinued biome.
 - Gravity Blocks like Sand or Gravel will not fall if a block is broken underneath them.
+- The end of lava flows does not create cobblestone when it comes in contact with water, allowing for discontinued block configurations 
 
 **0.2.0 alpha (Android)**
 - World names can be up to 1023 characters long. The first 255 characters can be any letter/symbol on the normal keyboard. The final characters can only be characters that are not allowed on android such as /, , :, *, ?, ", <, >, and |.
 - Line breaks are allowed in world names
 
-**0.2.1 alpha (Android)**
-- <details> <summary>Sugar cane is now an infinite item in the inventory. The sugar cane in the inventory is actually the tile entity of sugar cane, not the item, which will be unobtainable in future versions (0.2.1-0.2.2) </summary> 0.2.1-b1, 0.2.1-b2, 0.2.1, 0.2.1j, 0.2.1 alpha2, 0.2.2 </details>
+**0.2.1 (Android)**
+- Sugar cane is now an infinite item in the inventory. The sugar cane in the inventory is actually the tile entity of sugar cane, not the item, which will be unobtainable in future versions
 
-**0.3.0 alpha (Android)**
-- <details> <summary>Crafting Oak Slabs in this version will give you Wooden Slabs that are similar to Petrified Oak Slabs in Java Edition **(0.3.0-0.7.2)** </summary> 0.3.0, 0.3.2, 0.3.2j, 0.3.3, 0.3.3j, 0.3.3.1, 0.4.0, 0.4.0j, 0.4.0.1, 0.5.0-b1, 0.5.0-b2, 0.5.0, 0.5.0j, 0.6.0, 0.6.1, 0.7.0, 0.7.1, 0.7.2 </details>
+**0.3.0 (Android)**
+- Crafting Oak Slabs in this version will give you Wooden Slabs that are similar to Petrified Oak Slabs in Java Edition
 
-**0.3.2 alpha (Android)**
-- <details> <summary>Data value 4, 5, and 6 saplings drop from oak, spruce, and birch leaves respectively **(0.3.2)** </summary> 0.3.2 </details>
+**0.3.2 (Android)**
+- Data value 4, 5, and 6 saplings drop from oak, spruce, and birch leaves respectively
 
 **0.4.0 alpha (Android)**
 - Smelting Red Mushrooms in a Furnace will give you Red Dye in the Output Slot of a Furnace
-- <details><summary>Placing a Door on Farmland will remove the bottom half of the Door leaving the Top Half of the Door standing (0.4.0) </summary> 0.4.0 </details>
+- Placing a Door on Farmland will remove the bottom half of the Door leaving the Top Half of the Door standing
 - Placing a Door a block below the height limit will result in a Bottom Half Door
 - Tilling Dirt underwater will give you Underwater Farmland
 
 **0.5.0 alpha (Android)**
-- <details> <summary>Nether Reactor Cores can be crafted with 3 diamonds and 6 iron **(0.5.0-0.12.1)** </summary> 0.5.0-b1, 0.5.0-b2, 0.5.0, 0.5.0j, 0.6.0, 0.6.1, 0.7.0, 0.7.1, 0.7.2, 0.7.3, 0.7.4, 0.7.5, 0.7.6, 0.8.0_test1, 0.8.0-b2, 0.8.0-b3, 0.8.0-b4, 0.8.0-b5, 0.8.0-b6, 0.8.0-b7, 0.8.0-b8, 0.8.0, 0.8.1, 0.9.0-b1, 0.9.0-b2, 0.9.0-b3, 0.9.0-b4, 0.9.0-b5, 0.9.0-b6, 0.9.0-b7, 0.9.0-b8, 0.9.0-b9, 0.9.0-b10, 0.9.0-b11, 0.9.0-b12, 0.9.0, 0.9.1, 0.9.2, 0.9.3, 0.9.4, 0.9.5-b1, 0.9.5-b2, 0.9.5, 0.10.0-b1, 0.10.0-b2, 0.10.0-b3, 0.10.0-b4, 0.10.0-b5, 0.10.0-b6, 0.10.0-b7, 0.10.0-b8, 0.10.0-b9, 0.10.0, 0.10.1, 0.10.2, 0.10.3, 0.10.4, 0.10.5, 0.11.0-b1, 0.11.0-b2, 0.11.0-b3, 0.11.0-b4, 0.11.0-b5, 0.11.0-b6, 0.11.0-b7, 0.11.0-b8, 0.11.0-b9, 0.11.0-b10, 0.11.0-b11, 0.11.0-b12, 0.11.0-b13, 0.11.0-b14, 0.11.0, 0.11.0.15, 0.11.1-1, 0.11.1-2, 0.11.1.1, 0.12.0 </details>
+- Nether Reactor Cores can be crafted with 3 diamonds and 6 iron
 - Activating Nether Reactor Cores at the Bottom of the World can break the Bedrock
 - Activating the Nether Reactor Core can give you Sugar Cane Tiles
-- <details> <summary>Closing the Game while a Nether Reactor Core is active will leave the Glowing Obsidian around the Nether Reactor Core stationary. The Glowing Obsidian cannot be mined until 0.12.0.1, otherwise it just drops Obsidian. **(0.5.0-0.12.1)** </summary> 0.5.0-b1, 0.5.0-b2, 0.5.0, 0.5.0j, 0.6.0, 0.6.1, 0.7.0, 0.7.1, 0.7.2, 0.7.3, 0.7.4, 0.7.5, 0.7.6, 0.8.0_test1, 0.8.0-b2, 0.8.0-b3, 0.8.0-b4, 0.8.0-b5, 0.8.0-b6, 0.8.0-b7, 0.8.0-b8, 0.8.0, 0.8.1, 0.9.0-b1, 0.9.0-b2, 0.9.0-b3, 0.9.0-b4, 0.9.0-b5, 0.9.0-b6, 0.9.0-b7, 0.9.0-b8, 0.9.0-b9, 0.9.0-b10, 0.9.0-b11, 0.9.0-b12, 0.9.0, 0.9.1, 0.9.2, 0.9.3, 0.9.4, 0.9.5-b1, 0.9.5-b2, 0.9.5, 0.10.0-b1, 0.10.0-b2, 0.10.0-b3, 0.10.0-b4, 0.10.0-b5, 0.10.0-b6, 0.10.0-b7, 0.10.0-b8, 0.10.0-b9, 0.10.0, 0.10.1, 0.10.2, 0.10.3, 0.10.4, 0.10.5, 0.11.0-b1, 0.11.0-b2, 0.11.0-b3, 0.11.0-b4, 0.11.0-b5, 0.11.0-b6, 0.11.0-b7, 0.11.0-b8, 0.11.0-b9, 0.11.0-b10, 0.11.0-b11, 0.11.0-b12, 0.11.0-b13, 0.11.0-b14, 0.11.0, 0.11.0.15, 0.11.1-1, 0.11.1-2, 0.11.1.1, 0.12.0 </details>
+- Closing the Game while a Nether Reactor Core is active will leave the Glowing Obsidian around the Nether Reactor Core stationary. The Glowing Obsidian cannot be mined until 0.12.0.1, otherwise it just drops Obsidian.
 - Placing Torches on the side of a block and placing a painting on the same block will overlap the painting and the torches
-
 
 **0.6.0 alpha (Android)**
 - Downgrading a Cake from **0.7.0** and then placing it in **0.6.0**, upgrading back will turn the Cake into an info_update2 block
-- <details> <summary>Placing slabs in the upper position of the block and mining them will give you Invalid Data Value Slabs or Top Slabs. </summary> 0.6.0 </details>
+- Placing slabs in the upper position of the block and mining them will give you Invalid Data Value Slabs or Top Slabs.
 - Placing a slab adjacent to the world border and attempting to place a block that needs support (e.g. torches, levers, ladders) on the side of the slab will place them on the world border. When updating the world to infinite this will give you floating torches, levers, or ladders
-- <details> <summary>The Old Stonecutter Item can be obtained with 4 cobblestone **(0.6.0-0.12.3)** </summary> 0.6.0, 0.6.1, 0.7.0, 0.7.1, 0.7.2, 0.7.3, 0.7.4, 0.7.5, 0.7.6, 0.8.0_test1, 0.8.0-b2, 0.8.0-b3, 0.8.0-b4, 0.8.0-b5, 0.8.0-b6, 0.8.0-b7, 0.8.0-b8, 0.8.0, 0.8.1, 0.9.0-b1, 0.9.0-b2, 0.9.0-b3, 0.9.0-b4, 0.9.0-b5, 0.9.0-b6, 0.9.0-b7, 0.9.0-b8, 0.9.0-b9, 0.9.0-b10, 0.9.0-b11, 0.9.0-b12, 0.9.0, 0.9.1, 0.9.2, 0.9.3, 0.9.4, 0.9.5-1, 0.9.5-2, 0.9.5, 0.10.0-b1, 0.10.0-b2, 0.10.0-b3, 0.10.0-b4, 0.10.0-b5, 0.10.0-b6, 0.10.0-b7, 0.10.0-b8, 0.10.0-b9, 0.10.0, 0.10.1, 0.10.2, 0.10.3, 0.10.4, 0.10.5, 0.11.0-b1, 0.11.0-b2, 0.11.0-b3, 0.11.0-b4, 0.11.0-b5, 0.11.0-b6, 0.11.0-b7, 0.11.0-b8, 0.11.0-b9, 0.11.0-b10, 0.11.0-b11, 0.11.0-b12, 0.11.0-b13, 0.11.0-b14, 0.11.0, 0.11.0.15, 0.11.1-1, 0.11.1-2, 0.11.1.1, 0.12.0, 0.12.1-b1, 0.12.1-b2, 0.12.1-b3, 0.12.1-b4, 0.12.1-b5, 0.12.1-b6, 0.12.1-b7, 0.12.1-b8, 0.12.1-b9, 0.12.1-b10, 0.12.1-b11, 0.12.1-b12, 0.12.1-b13, 0.12.1, 0.12.1.19, 0.12.2, 0.12.2.2, 0.12.3 </details>
+- The Old Stonecutter Item can be obtained with 4 cobblestone
 
 **0.7.0 alpha (Android)**
-- A players folder is created in the world folder, which will not be obtainable in future versions. Within this folder, .dat files are created, which are additionally unobtainable.
+- A players folder is created in the world folder, which will not be obtainable in future versions. Within this folder, .dat files are created, which are additionally unobtainable. 
 
-**0.7.1 alpha (Android)**
+**0.7.1 (Android)**
 - In this version, all types of buckets can stack to 64 including Empty Buckets, Water Buckets, Lava Buckets, and Milk Buckets. Make sure to put these in a chest before updating to keep them from breaking upon updating.
 
 **0.8.0_test1 (Android)**
 - Block of Coal in this version and updating will change the block of coal to Nether Bricks allowing for Nether Bricks in the Furnace Fuel Slot by putting Block of Coal in the Furnace Fuel Slot.
 - In this version, Logs can now be placed sideways. Mining up the sideways Logs will give you Invalid Data Value Logs
-- <details><summary> In this version, you could use developer commands like /give, /health, /player. /give gives you acces to get any item in the game, /health lets you have as many hearts as you want but it is removed in a 0.12.0 version, and /player lets you give yourself attributes such as /player fly which lets you fly, /player nodamage which makes you take no damage and /player instabuild which does a lot of weird things in different versions. All of these attributes were removed in 0.12.0-b1. The /give command can give you many different illegals in this version using the following syntax "/give {player} {id} {count} {data}", the following illegals from this glitch are as followed: Grass Block (2): (/give Steve 2 64), Bedrock (7), Flowing Water (8), Stationary Water (9), Flowing Lava (10), Stationary Lava (11), Bed (Block Item) (26), Shrub (31), Smooth Stone Double Slab (43), Sandstone Double Slab (43:1): {/give Steve 43 64 1}, Petrified Oak Double Slab (43:2): {/give Steve 43 64 2}, Cobblestone Double Slab (43:3), Brick Double Slab (43:4), Stone Brick Double Slab (43:5), Quartz Double Slab (43:6), Petrified Oak Slab (44:2), Fire (51), Crop (Wheat) (59), Farmland (60), Lit Furnace (62), Oak Standing Sign (63), Oak Door (Block Item) (64), Oak Wall Sign (68), Iron Door (Block Item) (71), Lit Redstone Ore (74), Sugar Cane (Block Item) (83), Cake (Block Item) (92), Invisible Bedrock (95), Smooth Stone Brick (98:4), Pumpkin Stem (104), Melon Stem (105), Fake Cake (Block Item) (126), Carrot Crop (141), Potato Crop (142), Oak Double Slab (157), Spruce Double Slab (157:1), Birch Double Slab (157:2), Jungle Double Slab (157:3), Glowing Obsidian (246), Info Update (248), Info Update2 (249), Reserved6 (255), Chicken Spawn Egg (383:10), Cow Spawn Egg (383:11), Pig Spawn Egg (383:12), Sheep Spawn Egg (383:13), Zombie Spawn Egg (383:32), Creeper Spawn Egg (383:33), Skeleton Spawn Egg (383:34), Spider Spawn Egg (383:35), Zombie Pigman Spawn Egg (383:36), Camera (456). You can also get other weird spawn eggs by updating to newer versions of the game if you get a spawn egg using this damage value (383:66), it will give you a falling block spawn egg in later versions of the game, if you get a double slab with damage value of 7 (43:7), it will update to a Nether Brick Double Slab in later versions. Finally, using this glitch you can also get a "Player Spawn Egg", to get it in current versions you can use the damage value of 63 (383:63), but it won't spawn a player. To get a spawn egg that spawns a player in later versions you must use the following damage value for the corresponding versions: Beta 1.8.0.8: (383:258), Beta 1.11.0.3: (383:259), Beta 1.13.0.1: (383:258), Beta 1.14.0.1: (383:257). Damage values as high as 2,147,483,647 and as low as -2,147,483,648 are available through /give, but due to damage values being stored as shorts, only damage values as high as 32,767 and as low as -32,768 are savable. Regardless, this results in millions of invalid data value items being obtainable through /give. Going to these versions will spawn the player entity. **REMEMBER** You must put any of the illegals that you get from this glitch inside of a chest to prevent them getting deleted. **(0.8.0_test 1)</summary> 0.8.0_test1 0.8_test1 </details>
+- In this version, you could use developer commands like /give, /health, /player. /give gives you acces to get any item in the game, /health lets you have as many hearts as you want but it is removed in a 0.12.0 version, and /player lets you give yourself attributes such as /player fly which lets you fly, /player nodamage which makes you take no damage and /player instabuild which does a lot of weird things in different versions. All of these attributes were removed in 0.12.0-b1. The /give command can give you many different illegals in this version using the following syntax "/give {player} {id} {count} {data}", the following illegals from this glitch are as followed: Grass Block (2): (/give Steve 2 64), Bedrock (7), Flowing Water (8), Stationary Water (9), Flowing Lava (10), Stationary Lava (11), Bed (Block Item) (26), Shrub (31), Smooth Stone Double Slab (43), Sandstone Double Slab (43:1): {/give Steve 43 64 1}, Petrified Oak Double Slab (43:2): {/give Steve 43 64 2}, Cobblestone Double Slab (43:3), Brick Double Slab (43:4), Stone Brick Double Slab (43:5), Quartz Double Slab (43:6), Petrified Oak Slab (44:2), Fire (51), Crop (Wheat) (59), Farmland (60), Lit Furnace (62), Oak Standing Sign (63), Oak Door (Block Item) (64), Oak Wall Sign (68), Iron Door (Block Item) (71), Lit Redstone Ore (74), Sugar Cane (Block Item) (83), Cake (Block Item) (92), Invisible Bedrock (95), Smooth Stone Brick (98:4), Pumpkin Stem (104), Melon Stem (105), Fake Cake (Block Item) (126), Carrot Crop (141), Potato Crop (142), Oak Double Slab (157), Spruce Double Slab (157:1), Birch Double Slab (157:2), Jungle Double Slab (157:3), Glowing Obsidian (246), Info Update (248), Info Update2 (249), Reserved6 (255), Chicken Spawn Egg (383:10), Cow Spawn Egg (383:11), Pig Spawn Egg (383:12), Sheep Spawn Egg (383:13), Zombie Spawn Egg (383:32), Creeper Spawn Egg (383:33), Skeleton Spawn Egg (383:34), Spider Spawn Egg (383:35), Zombie Pigman Spawn Egg (383:36), Camera (456). You can also get other weird spawn eggs by updating to newer versions of the game if you get a spawn egg using this damage value (383:66), it will give you a falling block spawn egg in later versions of the game, if you get a double slab with damage value of 7 (43:7), it will update to a Nether Brick Double Slab in later versions. Finally, using this glitch you can also get a "Player Spawn Egg", to get it in current versions you can use the damage value of 63 (383:63), but it won't spawn a player. To get a spawn egg that spawns a player in later versions you must use the following damage value for the corresponding versions: Beta 1.8.0.8: (383:258), Beta 1.11.0.3: (383:259), Beta 1.13.0.1: (383:258), Beta 1.14.0.1: (383:257). Damage values as high as 2,147,483,647 and as low as -2,147,483,648 are available through /give, but due to damage values being stored as shorts, only damage values as high as 32,767 and as low as -32,768 are savable. Regardless, this results in millions of invalid data value items being obtainable through /give. Going to these versions will spawn the player entity. **REMEMBER** You must put any of the illegals that you get from this glitch inside of a chest to prevent them getting deleted. 
 
-**0.8.0-b5 alpha (Android)**
+**0.8.0-b5 (Android)**
 - Bonemealing sugar cane with block above will break any of those blocks, including unbreakable blocks such as end portal frames and bedrock 
 
 **0.8.0 alpha (Android)**
-- <details> <summary>In this version, Item duplication is possible and items can be stacked past their usual limits. To do this follow these steps, open your world to LAN and connect on a second device/instance. Throw the items that you would like to duplicate or overstack to the second device. After 10 seconds of the items being picked up relog on the 1st/host device and when returning the items on the second device should have overstacked. Place these items in the chest to keep their overstacked state. The overstacked items will usually exceed 99 and show up as 99+, sometimes the items will have a negative item count and still show up as 99+ **(0.8.0)** </summary> 0.8.0 </details>
+- In this version, Item duplication is possible and items can be stacked past their usual limits. To do this follow these steps, open your world to LAN and connect on a second device/instance. Throw the items that you would like to duplicate or overstack to the second device. After 10 seconds of the items being picked up relog on the 1st/host device and when returning the items on the second device should have overstacked. Place these items in the chest to keep their overstacked state. The overstacked items will usually exceed 99 and show up as 99+, sometimes the items will have a negative item count and still show up as 99+
 
 **0.9.0 alpha (Android)**
 <br>
@@ -79,61 +78,61 @@ ________________________________________________________________________________
 **0.9.0-b2 alpha (Android)**
 - Spawners currently have a max spawn delay of 200 ticks. In future versions, all spawners will have this value set at 800 ticks, making these discontinued spawners. 
 
-**0.11.0 alpha (Android)**
+**0.11.0-b1 alpha (Android)**
 - Reloading the world while a block is falling causes the block to convert to a falling air block, which when lands drops an air item entity. Air item entities are temporarily discontinued, as they do get deleted in future versions but I thought it was worth mentioning
 
 **0.11.1 - Present**
 - Upgrading the Player and all mobs from 0.11.1 to the version range of 1.19.60.25 to Present will cause the base value of the player's minecraft:movement attribute is set to 0.7 (7x higher than normal). This results in the player permanently being 7x faster when walking, sneaking, or sprinting. **WARNING**: Do not downgrade when at the version or it will reset the attribute removing the speed also you cannot go to other versions before upgrading to 1.19.60.25 or you will also lose the attribute
 
-**0.12.1-b1 alpha (Android)**
-- <details><summary>Blowing up a chest with enchanted book inside it will drop enchanted books without any enchantments on it **(0.12.1-b1 - 0.12.1-b5)**</summary> 0.12.1-b1, 0.12.1-b2, 0.12.1-b3, 0.12.1-b4, 0.12.1-b5 </details>
-- <details><summary>Attempting to place a snow layer inside a non full block deletes adjacent blocks, allowing for bedrock breaking **(0.12.1-b1 - 0.12.1-b2)**</summary> 0.12.1-b1, 0.12.1-b2 </details>
-- <details> <summary>Mining a Furnace while it is smelting with Silk Touch will drop Lit Furnace tile. **(0.12.0-b1 - 1.0.5)** </summary> 0.12.1-b1, 0.12.1-b2, 0.12.1-b3, 0.12.1-b4, 0.12.1-b5, 0.12.1-b6, 0.12.1-b7, 0.12.1-b8, 0.12.1-b9, 0.12.1-b10, 0.12.1-b11, 0.12.1-b12, 0.12.1-b13, 0.12.1, 0.12.1.19, 0.12.2, 0.12.2.2, 0.12.3, 0.12.3.1, 0.13.0-b1, 0.13.0-b2, 0.13.0-b3, 0.13.0-b4, 0.13.0-b5, 0.13.0, 0.13.1, 0.13.2-2, 0.13.2-3, 0.13.2, 0.14.0-b1, 0.14.0-b2, 0.14.0-b3, 0.14.0-b4, 0.14.0-b5, 0.14.0-b6, 0.14.0-b7, 0.14.0.1, 0.14.0.9, 0.14.1, 0.14.2, 0.14.2.1, 0.14.2.2, 0.14.3-1, 0.14.3-2, 0.14.3, 0.14.3.1, 0.15.0-r2, 0.15.0-r4, 0.15.0-b1, 0.15.0-b2, 0.15.0-b3, 0.15.0, 0.15.0.1, 0.15.0.3, 0.15.1-b1, 0.15.1.2, 0.15.2.1, 0.15.3.2, 0.15.4, 0.15.4.1, 0.15.6, 0.15.7.1, 0.15.7.2, 0.15.8, 0.15.8.1, 0.15.9, 0.15.10, 0.16.0-b1, 0.16.0-b2, 0.16.0-b3, 0.16.0-b4, 0.16.0-b5, 0.16.0.5, 0.16.1, 0.16.2.2, 0.17.0.1, 0.17.0.2, 1.0.0.0, 1.0.0.1, 1.0.0.2, 1.0.0.7, 1.0.0.16, 1.0.0.18, 1.0.1, 1.0.2, 1.0.2.1, 1.0.3, 1.0.3.12, 1.0.4, 1.0.4.1, 1.0.4.11, 1.0.5 </details>
+**0.12.1-b1**
+- 	Placing skull tiles and then mining the skull drops a skull with a data value of -1, which is an invalid data value
 
 **0.12.1 alpha (Android)**
 - Placing a sponge underwater won't absorb the water
-- <details> <summary>Breaking Wall Signs, Standing Signs, Flower Pots, Skulls, Brewing Stands, and Beds with Silk Touch will make them drop their tile variant (e.g. tile.wall_sign.name, tile.sign.name, tile.flower_pot.name, tile.skull.name, tile.brewing_stand.name, tile.bed.name.) **(0.12.1 alpha build 1 - 0.12.3 alpha)** </summary> 0.12.1-b1, 0.12.1-b2, 0.12.1-b3, 0.12.1-b4, 0.12.1-b5, 0.12.1-b6, 0.12.1-b7, 0.12.1-b8, 0.12.1-b9, 0.12.1-b10, 0.12.1-b11, 0.12.1-b12, 0.12.1-b13, 0.12.1, 0.12.1.19, 0.12.2, 0.12.2.2, 0.12.3 </details>
-- Renaming an item in this version adds anvil uses to the item, which usually only happens to armor and tools, increasing the XP cost every time you rename it
-- Obtaining pufferfish and raw salmon in this version will have a different data value than in newer versions and will not stack with newer pufferfish and raw salmon items
-- Mining up Glowing Obsidian will drop it as an item. **(0.12.1-Present)**
-- <details> <summary>Iron golems in this version have no knockback resistance **(0.12.1 - 0.17.0.1)** </summary> 0.12.1-b1, 0.12.1-b2, 0.12.1-b3, 0.12.1-b4, 0.12.1-b5, 0.12.1-b6, 0.12.1-b7, 0.12.1-b8, 0.12.1-b9, 0.12.1-b10, 0.12.1-b11, 0.12.1-b12, 0.12.1-b13, 0.12.1, 0.12.1.19, 0.12.2, 0.12.2.2, 0.12.3, 0.12.3.1, 0.13.0-b1, 0.13.0-b2, 0.13.0-b3, 0.13.0-b4, 0.13.0-b5, 0.13.0, 0.13.1, 0.13.2-2, 0.13.2-3, 0.13.2, 0.14.0-b1, 0.14.0-b2, 0.14.0-b3, 0.14.0-b4, 0.14.0-b5, 0.14.0-b6, 0.14.0-b7, 0.14.0.1, 0.14.0.9, 0.14.1, 0.14.2, 0.14.2.1, 0.14.2.2, 0.14.3-1, 0.14.3-2, 0.14.3, 0.14.3.1, 0.15.0-r2, 0.15.0-r4, 0.15.0-b1, 0.15.0-b2, 0.15.0-b3, 0.15.0, 0.15.0.1, 0.15.0.3, 0.15.1-b1, 0.15.1.2, 0.15.2.1, 0.15.3.2, 0.15.4, 0.15.4.1, 0.15.6, 0.15.7.1, 0.15.7.2, 0.15.8, 0.15.8.1, 0.15.9, 0.15.10, 0.16.0-b1, 0.16.0-b2, 0.16.0-b3, 0.16.0-b4, 0.16.0-b5, 0.16.0.5, 0.16.1, 0.16.2.2, 0.17.0.1 </details>
-- <details> <summary>Placing skull tiles and then mining the skull drops a skull with a data value of -1, which is an invalid data value **(0.12.1-b10 - 0.12.3)** </summary> 0.12.1-b10, 0.12.1-b11, 0.12.1-b12, 0.12.1-b13, 0.12.1, 0.12.1.19, 0.12.2, 0.12.2.2, 0.12.3 </details>
+- Breaking Wall Signs, Standing Signs, Flower Pots, Skulls, Brewing Stands, and Beds with Silk Touch will make them drop their tile variant (e.g. tile.wall_sign.name, tile.sign.name, tile.flower_pot.name, tile.skull.name, tile.brewing_stand.name, tile.bed.name.)
+- Renaming an item in this version adds anvil uses to the item which usually only happens to armor and tools increasing the XP cost of every time you rename it
+- Obtaining pufferfish and raw salmon in this version will have a different data value then in newer versions and will not stack with newer pufferfish and raw salmon items
+- Mining up Glowing Obsidian will drop it as an item.
+- Blowing up a chest with enchanted book inside it will drop enchanted books without any enchantments on it
+- Iron golems in this version have no knockback res
 
 **0.14.0 (Android)**
 - Colors in this version have a different color value than colors in the newer version, the following colors are: white, brown, lime, green, cyan, light blue, blue, purple, magenta and pink, meaning that there can be thousand of illegal color variants by combining them in a cauldron. This also gives us two extra illegals: Cauldrons with illegal color value and Leather Armor with illegal color value
-- You can put Glass Bottles in a Brewing Stand via the hopper
+- You can put Glass Bottles in a Brewing Stand via hopper
 - Brewing potions alongside glass bottles in the Brewing Stand adds a tag name "wasJustBrewed:1" to the glass bottle. These bottles will not stack with other bottles and will keep it's tag upon updating.
-  
-**0.15.0-b1 alpha (Android)**
-- <details> <summary>Doors have a durability of 66 in this version and keep their damage value upon updating. Stacking Normal Doors with Durability Doors will remove the durability of the door. **(0.15.0-b1 - 0.15.10)** </summary> 0.15.0-b1, 0.15.0-b2, 0.15.0-b3, 0.15.0, 0.15.0.1, 0.15.0.3, 0.15.1-b1, 0.15.1.2, 0.15.2.1, 0.15.3.2, 0.15.4, 0.15.4.1, 0.15.6, 0.15.7.1, 0.15.7.2, 0.15.8, 0.15.8.1, 0.15.9, 0.15.10 </details>
-- <details> <summary>Falling snow layers will drop invalid data value snow layers when falling onto partial blocks **(0.15.0-b1 - 1.0.3)** </summary> 0.15.0-b1, 0.15.0-b2, 0.15.0-b3, 0.15.0, 0.15.0.1, 0.15.0.3, 0.15.1-b1, 0.15.1.2, 0.15.2.1, 0.15.3.2, 0.15.4, 0.15.4.1, 0.15.6, 0.15.7.1, 0.15.7.2, 0.15.8, 0.15.8.1, 0.15.9, 0.15.10, 0.16.0-b1, 0.16.0-b2, 0.16.0-b3, 0.16.0-b4, 0.16.0-b5, 0.16.0.5, 0.16.1, 0.16.2.2, 0.17.0.1, 0.17.0.2, 1.0.0.0, 1.0.0.1, 1.0.0.2, 1.0.0.7, 1.0.0.16, 1.0.0.18, 1.0.1, 1.0.2, 1.0.2.1, 1.0.3 </details>
+
+**0.15.0**
+- Doors have a durability of 66 in this version and keep their damage value upon updating. Stacking Normal Doors with Durability Doors will remove the durability of the door.
 - Endermen can pick up netherack in their hands (WARNING: In bedrock edition, endermen can teleport out of boats so there is no way to store him without putting him in a 1x1 block in the middle of the ocean so he can't teleport or place down the block, after 1.21.60.27, endermen will stay in boats, just make sure to not give any room for the endermen to place down the block otherwise the illegal will be removed.
 - Pistons can extend below y-level 0
-- <details> <summary>Dropping an anvil on torches will give you a differing data value of anvils depending on which direction the anvil was placed. Depending on the direction and the type of anvil, you can obtain 0-11 data value anvils. **(0.15.0-b1 - 1.0.3)** </summary> 0.15.0-b1, 0.15.0-b2, 0.15.0-b3, 0.15.0, 0.15.0.1, 0.15.0.3, 0.15.1-b1, 0.15.1.2, 0.15.2.1, 0.15.3.2, 0.15.4, 0.15.4.1, 0.15.6, 0.15.7.1, 0.15.7.2, 0.15.8, 0.15.8.1, 0.15.9, 0.15.10, 0.16.0-b1, 0.16.0-b2, 0.16.0-b3, 0.16.0-b4, 0.16.0-b5, 0.16.0.5, 0.16.1, 0.16.2.2, 0.17.0.1, 0.17.0.2, 1.0.0.0, 1.0.0.1, 1.0.0.2, 1.0.0.7, 1.0.0.16, 1.0.0.18, 1.0.1, 1.0.2, 1.0.2.1, 1.0.3 </details>
+- Falling snow layers will drop invalid data value snow layers when falling onto partial blocks  
 
 **0.15.0 - 0.12.1 alpha (PC Exclusive)**
-- Downgrading from **0.15.0** to **0.12.1** alpha will transform these enchants, which will transform back when updating: Fortune -> Power, Silk Touch -> Unbreaking, Infinity - Luck of the Sea. So putting Unbreaking on any item in **0.12.1** and then updating back to **0.15.0** will give you Silk Touch on any item. Putting Luck of the Sea on a Fishing Rod in **0.12.1** and updating to **0.15.0** will give you an Infinity Fishing Rod. Putting Power IV/V on a Book or Bow will give you a Fortune IV/V Book or Bow. Finally, combining Power 1-5 and Unbreaking can give you a Silk Touch and Fortune enchantment on the same book. 
+- Downgrading from **0.15.0** to **0.12.1** alpha will transform these enchants which will transform back when updating: Fortune -> Power, Silk Touch -> Unbreaking, Infinity - Luck of the Sea. So putting Unbreaking on any item in **0.12.1** and then updating back to **0.15.0** will give you Silk Touch on any item. Putting Luck of the Sea on a Fishing Rod in **0.12.1** and updating to **0.15.0** will give you an Infinity Fishing Rod. Putting Power IV/V on a Book or Bow will give you a Fortune IV/V Book or Bow. Finally combining Power 1-5 and Unbreaking can give you a Silk Touch and Fortune enchantment on the same book. 
 
 **0.15.9 alpha (Android)**
-- Taming Cats in this version and leaving them in unloaded chunks until **1.8.0.8** will turn them into Tamed Ocelots 
+- Taming Cats in this version and leaving them in unloaded chunks until **1.8.0.8** will turn them into Tamed Ocelots
 
-**0.16.0-b1 alpha (Android)**
+**0.16.0.1-b1**
 - Wet Sponge does not turn into Dry Sponge in the Nether
 
-**0.16.0-b4 alpha (Android)**
+**0.16.0.1-b4**
+- Dropping anvil on torches will give you differing data value of anvils depending on which direction the anvil was placed. Depending on the direction and the type of anvil you can obtain 0-11 data value anvils.
 - Breeding ocelots creates tamed ocelots without owners, which are typically unobtainable  
-- When animals and villagers are bred, they use the current speed rather than the base speed. So by splashing two animals/villagers with splash potion of speed or slowness and then breeding them, the offspring will be faster/slower than their parents. This process can be repeated endlessly, make sure to get a superspeed pig, cow, and chicken for a future illegal in 1.21.82
 
 **0.17.0.1 alpha (Android)**
 > [!CAUTION]
 > PDV: Hitting a Mob or getting hit by a mob will crash the game.
 
 - Updating a world from **0.15.9** alpha to this version will overwrite biome data of chunks causing the biomes to change into a stripe pattern. This can cause Overworld mobs to spawn in the Nether.
-- <details> <summary>Mining Chorus Plants with silk touch will drop the item form of the Chorus Plant **(0.17.0.1 - 1.0.0.0)** </summary> 0.17.0.1, 0.17.0.2, 1.0.0.0 </details>
+- Mining Chorus Plants with silk touch will drop the item form of the Chorus Plant
 - In **0.17.0.1** it was possible to get Tipped Arrows from Lingering Awkward, Thick, or Mundane Potions. The Thick Tipped Arrow will appear as "tipped_arrow.effect.mundane.extended", but all the other ones will be titled Tipped Arrow and will not stack with each other.
 - Shulkers that spawn in this version will appear as black shulkers as if they were dyed
 - Endermites currently spawn with a speed value of 0.7, which is higher than typically possible
 - Shulkers currently spawn with only 10 health. Typically shulkers spawn with 30 health, making these a discontinued variant.  
+
+**1.0.0.16**
+- Mining a Furnace while it is smelting with Silk Touch will drop Lit Furnace tile.
 
 **1.0.4.0**
 - Villagers now have trades. Every single villager trade will become unobtainable in future versions, whether through invalid prices or invalid items. Villager trades are not based on tiers and trade amounts can vary. Bottles of enchanting are obtainable through trading now.
@@ -143,34 +142,18 @@ ________________________________________________________________________________
 - Downgrading a Frosted Ice Block from 1.1 to 1.0, the Frosted Ice will turn into an info update block that is titled tile.207.name. Mining it up and updating back to 1.1 will convert the tile.207.name block in your inventory to Frosted Ice
 
 **1.1.0.3** 
--  <details> <summary>Breaking Blocks while they are being moved by a piston can drop a moving block tile, a silk touch pickaxe with at least efficiency IV is reccomended. Setup for contraption here at 23:40: https://www.youtube.com/watch?v=i1VK64sA5QM **(1.1.0.3 - 1.2.13)** </summary> 1.1.0.3, 1.1.0.4, 1.1.0.5, 1.1.0.8, 1.1.0.9, 1.1.0.55, 1.1.1.0, 1.1.1.1, 1.1.1.51, 1.1.2.50, 1.1.3.0, 1.1.3.1, 1.1.3.52, 1.1.4.51, 1.1.5.0, 1.1.5.1, 1.1.7.1, 1.2.0.2, 1.2.0.7, 1.2.0.9, 1.2.0.11, 1.2.0.15, 1.2.0.18, 1.2.0.22, 1.2.0.25, 1.2.0.31, 1.2.0.81, 1.2.1.1, 1.2.2.2, 1.2.2.3, 1.2.3.3, 1.2.3.6, 1.2.5.0, 1.2.5.12, 1.2.5.13, 1.2.5.15, 1.2.5.52, 1.2.6.2, 1.2.6.55, 1.2.6.60, 1.2.7.2, 1.2.8, 1.2.9.1, 1.2.10.1, 1.2.10.2, 1.2.11.4, 1.2.12, 1.2.12.1, 1.2.13.5 </details>
+-  Breaking Blocks while they are being moved by a piston can drop a moving block tile, a silk touch pickaxe with at least efficiency IV is reccomended. Setup for contraption here at 23:40: https://www.youtube.com/watch?v=i1VK64sA5QM
 -  End Cities generated in this version will always generate with some tile.smooth_purpur.name tiles build in it. You can find these smooth purpur blocks on the outside behind the upside down stairs on the first spiral staircase from the bottom going up on the endcity. You can find the location marked by endstone in the picture from the LINKS folder titled "Smooth Purpur Locations".
 -  Shulkers that spawn between this version and 1.1.7.1 will convert to purple dyed shulkers
 -  Frosted ice that melts currently does not flow, allowing for stationary water sources 
-- Added cartographer villagers, which have trades that will be discontinued in future versions.
-
-**1.1.0.8**
-- Hoppers can be used to put shulker boxes in shulker boxes
 
 **Beta 1.2.0.2**
+- Hoppers can be used to put shulker boxes in shulker boxes
 - Pumpkins can be placed on Armor Stands, Players, and Mobs these pumpkins will revert from carved pumpkins to normal pumpkins
 - Farmer Villagers now sell 5-7 apples instead of just 5
 - Hoppers can currently be used to place any item inside a jukebox, which will not be allowed in future versions
 - Sheep that are sheared and regrow their wool retain the +minecraft:rideable_sheared and +minecraft:loot_sheared definitions. These are unobtainable sheep variants that have wool yet will not drop wool on death.
 - All support blocks can be placed off of cocoa beans, allowing for many invalid block configurations
-- Water, flowing water, lava, and flowing lava can be obtained through various ways of Mining Block Transfer.
-- Mining a Standing Banner or a wall banner with Silk Touch will drop the tile version of those two blocks they will be titled Banner and tile.wall_banner.name
-- Placing down any of the standing banner tiles youa chance to place down a super black banner, if you mine that it will give you a banner that has a damage value betwee 16-255 which is illegal
-- Crafting Undyed Shulker Boxes will give you a shulker box with a data value of 16
-
-**Beta 1.2.0.11**
-- Placing ice on top of magma blocks in the nether causes the ice to melt and create water sources in the nether 
-
-**Beta 1.2.0.18**
-- All support blocks can be placed off of cocoa beans, allowing for many invalid block configurations
-
-**1.2.3.3**
-- Blowing up a spawner in this version will drop it as an item
 
 **1.2.5.0**
 - Mob Spawners can be mined up and obtained as an item
@@ -180,21 +163,25 @@ ________________________________________________________________________________
 - Using this craftin glitch you can obtain negative durability shovels from the boat recipe and negative durability bows from the dispenser recipe. After obtaining these you must combine the negative durability item with a normal low durability item so that when updating the negative durability item does not change to a normal item.
 
 **1.2.10**
--*Using the Nested Shulker Box trick from 1.2.0.2 you can get a whole lot more illegals from a glitch called CSC (Compressed Shulker Conversion). Filling a shulker box full of shulker boxes full of shulker boxes full of one random item and then mining it and picking it up (it will be invisible in your inventory so have your first slot of your hot bar empty so that when you pick it up it will go straight to your first slot on the hotbar). Once picked up move your item of choice to the first slot of your hotbar (or wherever you decided to pick up the shulker box to) and when you place the item on your shulker box your inventory will blow up with tile.pistonArmCollisions.name, tile.redstone_wire.name and other random items.*
+- Using the Nested Shulker Box trick from 1.2.0.2 you can get a whole lot more illegals from a glitch called CSC (Compressed Shulker Conversion). Filling a shulker box full of shulker boxes full of shulker boxes full of one random item and then mining it and picking it up (it will be invisible in your inventory so have your first slot of your hot bar empty so that when you pick it up it will go straight to your first slot on the hotbar). Once picked up move your item of choice to the first slot of your hotbar (or wherever you decided to pick up the shulker box to) and when you place the item on your shulker box your inventory will blow up with tile.pistonArmCollisions.name, tile.redstone_wire.name and other random items.
+- Mining a Standing Banner or a wall banner with Silk Touch will drop the tile version of those two blocks they will be titled Banner and tile.wall_banner.name
+- Placing down any of the standing banner tiles youa chance to place down a super black banner, if you mine that it will give you a banner that has a damage value betwee 16-255 which is illegal
 
 **1.2.11**
-- *Placing Daylight Sensor in the nether leaves them powered*
+- Placing Daylight Sensor in the nether leaves them powered
+
+**1.2.13**
+- Blowing up a spawner in this version will drop it as an item
 
 **Beta 1.2.13.54**
 - Placing Water in End Portals and End Gateways will drop them as an item. For End Gateways you may have to use a dispenser with a water bucket in it.
-- Mining buttons and levers in different orientations drops invalid data value buttons and levers and mining powered pressure plates will drop invalid data value pressure plates 
 
 **Beta 1.2.13.8**
-- Curse of Binding and Curse of Vanishing use the same ids as Loyalty and Channeling respectively, so in future versions all the Curse of Binding and Curse of Vanishing will turn into Loyalty and Channeling. This allows for Loyalty on every armor piece, and Channeling for every armor and tool that can have Curse of Vanishing on it. 
+- Curse of Binding and Curse of Vanishing use the same ids as Loyalty and Channeling respectively, so in future versions all the Curse of Binding and Curse of Vanishing will turn into Loyalty and Channeling. This allows for Loyalty on every armor piece, and Channeling for every armor and tool that can have Curse of Vanishing on it.
 - Impaling and Riptide use the same id as Curse of Binding and Curse of Vanishing respectively, so in future versions all the Impaling and Riptide books will turn into Curse of Binding and Curse of Vanishing. This allows for Curse of Binding 2-5 and Curse of Vanishing 2-3 books and villager trades.
-- *Helmets can be enchanted with any enchant in the game this allows for a Helmet with sword enchants or any other enchants in the game.*
-- <details> <summary>Invalid Data Value Trapdoors can be obtained by mining a trapdoor in survival mode. The direction it was placed will determine the different data value the trapdoor has when dropped. **(1.2.13.8-1.2.13.60)** </summary> 1.2.13.8, 1.2.13.10, 1.2.13.11, 1.2.13.12, 1.2.13.54, 1.2.14, 1.2.15.1, 1.2.13.60 </details>
-- *Updating Mobs with a name tag to this version will remove their nametag, meaning that if you update a vindicator that is named Johnny, it will remove the nametag but the vindicator will still attack whatever it sees.*
+- Helmets can be enchanted with any enchant in the game this allows for a Helmet with sword enchants or any other enchants in the game.
+- Invalid Data Value Trapdoors can be obtained by mining a trapdoor in survival mode. The direction it was placed will determine the different data value the trapdoor has when dropped.
+- Updating Mobs with a name tag to this version will remove their nametag, meaning that if you update a vindicator that is named Johnny, it will remove the nametag but the vindicator will still attack whatever it sees.
 
 **1.2.13.8 - 1.2.6.60**
 > [!CAUTION]
@@ -208,49 +195,46 @@ ________________________________________________________________________________
 **1.2.14.2**
 - Riptide can be combined with loyalty and Channeling on a trident or book
 - Waterlogging blocks and then breaking the waterlogged block will not update the water source, allowing for water to float
-- Level 1 water layers are sometimes left behind after removing a water source when the water is adjacent to non full blocks. These are invalid water configurations.
-- Zombie villagers that spawn in igloos and abandoned villages currently have a speed value of 0.7, which is faster than normally obtainable
-- Flowers, Saplings, and Dead Bushes can be waterlogged. Make sure to make the sapling a dark oak sapling so it doesn't update
+- Level 1 water layers are sometimes left behind after removing a water source when the water is adjacent to non full blocks. These are invalid water configurations. 
 
 **1.4.0 - 1.2.16.3 (Downgrading)**
 - Downgrading loyalty II or loyalty III enchanted books will convert them to curse of binding, which can then be applied to any enchantable armor items. Updating these items will create armor with loyalty II or loyalty III. 
 
 **1.4.0**
-- *Putting a TNT on a string that is connected to tripwire hooks and blowing it up, it can create a tripwire hook ghost block. If you mine the ghost block at the same time a portal lights you have an oppurtunity to obtain a portal tile. https://www.youtube.com/watch?v=dYYz6a0VyDQ*
-- *Portal Blocks do not update if placed next to each other.*
-- *Dolphins before 1.5 could not be fed raw cod and this will not revert upon updating to newer versions*
+- Putting a TNT on a string that is connected to tripwire hooks and blowing it up, it can create a tripwire hook ghost block. If you mine the ghost block at the same time a portal lights you have an oppurtunity to obtain a portal tile. https://www.youtube.com/watch?v=dYYz6a0VyDQ
+- Portal Blocks do not update if placed next to each other.
+- Dolphins before 1.5 could not be fed raw cod and this will not revert upon updating to newer versions
 
 **Beta 1.5.0.0**
 - Husks that were converted to regular zombies via drowning them would have superspeed on land
 - Zombies that convert to Drowneds will be missing the minecraft:+melee_mode tag, making it impossible for them to hit you, making them passive
 - In 1.5, Zombie Villagers found in Zombie Villages will be extremely fast. Updating from 1.5 directly to 1.21.41 will revert them. To keep them you must update from 1.5 to 1.8 to 1.10 to 1.11 to 1.21 in that order.
 
-**Beta 1.5.0.4**
-- Using a dispenser on a water column with a bubble column will remove the water but will preserve the bubble column, allowing for waterless bubble columns 
-
 **1.5.0**
+- Flowers, Saplings, and Dead Bushes can be waterlogged. Make sure to make the sapling a dark oak sapling so it doesn't update
+- Water, flowing water, lava, and flowing lava can be obtained through various ways of Mining Block Transfer.
 - Using the CSC knowledge you can rename 27 items 16000 of one letter and putting them in one shulker and mining them will give you any one item from CSC depending on the letter. You can obtain any item from the CSC glitch with the IDs of -33 to -63 and 33 to 63. A giving an id of -33 and B giving and id of 33. This is a list of Elements and illegals with the letter/symbol that you can obtain them with in this spreadsheet: https://docs.google.com/spreadsheets/u/0/d/1kHdwFMY0aLSELdt6vEQ3p2LySG4ivMbEJv6oP-MihZI/edit?gid=0&pli=1&authuser=0#gid=0
 - Invalid oak buttons could be obtained in survival mode by mining an oak button with an enchanted Silk Touch tool. Note that the direction the player was facing determined the damage/metadata value the oak button had upon dropping as an item. Facing north would give a damage/metadata value of 3, facing east would give a value of 4, facing south would give a value of 2, facing down would give a value of 1, and facing up would give a value of 0.
+- Using a dispenser on a water column with a bubble column will remove the water but will preserve the bubble column, allowing for waterless bubble columns 
 
 **1.6.0.1**
 - Phantoms in this version have 5 hearts instead of 10 hearts.
 - If you spawn the Enderdragon in the end, and then every player who is in the End dies and goes back to the Overworld, and then traveling back to the end. The dragon should not be there. Return to the Overworld, and the ender dragon will be there in the Overworld, allowing for the Enderdragon outside the End. Placing a Nether Portal at the world spawn exactly will send the Ender Dragon to the Nether once it is transferred out of the End
-- *Mining up the Mushroom Blocks from Huge Mushrooms found in Swamps and Dark Oak Forests can give you different data values of Mushrooom blocks from 1-9 and mining up the Mushroom Stems from Huge Mushrooms will give you a Data Value 10 Mushroom Block*
+- Mining up the Mushroom Blocks from Huge Mushrooms found in Swamps and Dark Oak Forests can give you different data values of Mushrooom blocks from 1-9 and mining up the Mushroom Stems from Huge Mushrooms will give you a Data Value 10 Mushroom Block
 
 **1.7.0**
-- *You can put a Jack-o-lantern on an armor stand, player, and mobs via dispensers*
+- You can put a Jack-o-lantern on an armor stand, player, and mobs via dispensers
+- Crafting Undyed Shulker Boxes will give you a shulker box with a data value of 16
 
 **Beta 1.8.0.8 (Android)**
 - Mining up a Double Slab will give you a Double Slab item depending on the type of slab used
 - Using a Bamboo based Farm, you can obtain Bedrock by using Mining Block Transfer. Tutorial by PRGRMR: https://www.youtube.com/watch?v=gA4l__oYjQ0, Full Tutorial Here: https://www.youtube.com/watch?v=xJ-5SR88RVs
-- Snowlogging flowers and then breaking blocks underneath and letting it fall into a bubble column will result in the snow layers dropping with invalid data values  
-
 
 **1.8-1.11+**
 - Updating Baby V1 Zombie Villagers to newer versions will cause the baby zombie villager to not fully convert and have the same body as a adult zombie villager, have faster speed and have a larger head size than normal
 
 **1.9.0**
-- *Mining up the Mushroom Blocks from Huge Mushrooms found in Swamps and Dark Oak Forests will give you a Mushroom Block with a data value of 0.*
+- Mining up the Mushroom Blocks from Huge Mushrooms found in Swamps and Dark Oak Forests will give you a Mushroom Block with a data value of 0.
 - Scaffolding can currently be placed on conduits, which will be unobtainable in future versions 
 
 **1.10.0 (Experimental)**
@@ -261,55 +245,35 @@ ________________________________________________________________________________
 - Bells that generate in villages generate in invalid configurations , and also currently have no block entity data. The invalid configurations are permanent, however the lack of block entity data is temporary.
 - Scaffolding can currently be supported by grindstones, which is an invalid block configuration 
 - Invalid Coral and Seagrass Formations could be obtained by breaking the block beneath them which would cause them to be floating and then you can place invalid blocks underneath them
-- Withers can explode end gateways, which will also drop the tile, allowing for end gateways to be obtained
-- Placing a stonecutter in the east/west direction and mining it with silk touch will drop a stonecutter facing the wrong way in the inventory. They will stack with normal stonecutter.
-- Stone Masons have several trades that will be modified in future versions.
-- Pushing a villager through a nether portal while it is holding something will make the villager permanently hold the item. Do not hold an item that the villager wants once it is permanently holding an item or else it will stop holding it
 
 **1.10.0 - beta 1.11.0.1**
 - Updating a slab from 1.10.0 to 1.11.0.1 will cause them to convert to Double Slab. All slabs will convert excluding all wood slabs, Petrified Oak Slabs can be converted into their double slab state. In versions after 1.11.0.1 they will appear as glitched slabs that cannot be placed or they will switch to different looking slabs, but they are still illegal. After 1.21.30 they will have the texture of double slabs.
-- *In 1.11, you can place 16 buckets in a furnace fuel slot instead of just one*
-- *In 1.11.0.1 Ravagers can now spawn, and have a knockback resistance value of 0.5. In future versions this value will be 0.75, making this an unobtainable ravager variant.* 
+- In 1.11, you can place 16 buckets in a furnace fuel slot instead of just one
+- In 1.11.0.1 Ravagers can now spawn, and have a knocback resistance value of 0.5. In future versions this value will be 0.75, making this an unobtainable ravager variant. 
 
 **Beta 1.11.0.1 - 1.10.1**
 - Downgrading an Ominous Banner will convert it to a white banner allowing you to change the patterns of the ominous banner because it will convert back to a Ominous banner when updating back
 
-**Beta 1.12.0.2**
-- Updating a world into  b1.12.0.2 through p1.20.40.21 adds the spawnradius gamerule, and sets it to 0. Creating a world in this version ranges sets the value to 5. This is noticeable based on where the player spawns, as spawnradius is the distance in blocks from initial world spawn that the player can actually spawn.
-
 **1.14.0**
-- *Farmer Villagers buy 4 melon slices instead of 4 melon blocks at the Journeyman Trade Level*
-- *Farmer Villagers buy 16 eggs at the Expert Trade Level*
-- *Permanent Open Barrels can be made by pushing a Barrel via piston while opening it at the same time*
-- *Vindicators that spawn in Woodland Mansions are neutral in versions before 1.16. Hitting these Vindicators or renaming them will switch them back to hostile.*
-- *Pillager Captains that spawn in this version would be peaceful and not attack*
-- *Mobs that spawn naturally will not despawn even if they don't have a nametag, this includes all mobs except: Bats, Squids, Cave Spiders, Dolphins, Endermen, Polar Bears, Spiders, Blazes, Creepers, Ghasts, Guardians, Magma Cubes, Phantom, Slimes, Vexes*
+- Farmer Villagers buy 4 melon slices instead of 4 melon blocks at the Journeyman Trade Level
+- Farmer Villagers buy 16 eggs at the Expert Trade Level
+- Permanent Open Barrels can be made by pushing a Barrel via piston while opening it at the same time
+- Vindicators that spawn in Woodland Mansions are neutral in versions before 1.16. Hitting these Vindicators or renaming them will switch them back to hostile.
+- Pillager Captains that spawn in this version would be peaceful and not attack
+- Mobs that spawn naturally will not despawn even if they don't have a nametag, this includes all mobs except: Bats, Squids, Cave Spiders, Dolphins, Endermen, Polar Bears, Spiders, Blazes, Creepers, Ghasts, Guardians, Magma Cubes, Phantom, Slimes, Vexes
+- Updating a world into  b1.12.0.2 through p1.20.40.21 adds the spawnradius gamerule, and sets it to 0. Creating a world in this version ranges sets the value to 5. This is noticeable based on where the player spawns, as spawnradius is the distance in blocks from initial world spawn that the player can actually spawn.
 
 **Beta 1.16.0.51**
 - Piglins have more health in this version and they will keep their health when updating through versions
 - All Crimson and Warped Wood variants could be put into the fuel slot of Furnaces
 - Hoglins can go into the Overworld without transferring into Zoglins
-- Hoglins spawned before beta 1.16.0.63 had no knockback resistance
+- Zoglins and Hoglins spawned before beta 1.16.0.63 had no knockback resistance
 - Wither Skeletons would prefer Golden Swords over Stone Swords which means that Wither Skeletons would pick up gold swords and keep hold of them
 - In development and debug versions of the game, it was possible to enable a setting within the debug options to create a flat Nether world.
-- Endermen can pick up warped and crimson fungus and place it down on any other block
-- Foxes can put on armor by dropping it to them. It won't be visible unless you use the "Discontinued Feature Texture Pack"  in the "Texture Pack" folder.
-- Breeding two foxes with netherite armor will cause their offspring to inherit the knockback resistance from their parents.
-
-**Beta 1.16.0.52**
-- Dropping a Falling Block into the top of an End Gateway and relogging will change the id of the falling block to a different block. So when going through the other side all of the falling blocks will convert to random items allowing for tons of illegals. Illegals include Command Blocks, Chained Command Blocks, Repeating Command Blocks, Structure Blocks, Jigsaw Blocks, Structure Void, Structure Air, Allow, Deny, Border Block, Barrier, all Light Blocks (0-15), Bedrock, Monster Spawner, End Portal Frame, Chorus Plant, Broken Anvil, Infested Stone, Infested Cobblestone, Infested Stone Brick, Infested Mossy Stone Brick, Infested Cracked Stone Brick, Infested Chiseled Stone Brick, Flowing Water, Static Water, Flowing Lava, Static Lava, Fire Tile, Soul Fire Tile, tile.bubble_column.name, all 4 Lit Respawn Anchors, Open Barrel, Chiseled Purpur, Smooth Purpur, Smooth Stone Brick (this will be removed as of 1.21.30), Hard Glass, Hard Glass Pane, Underwater Torch, Chemical Heat, Camera Block, Underwater TNT (this will show up as normal TNT but it will not stack with crafted TNT and has a different tag), explodebit:1 TNT (this will show up as normal TNT but it will not stack with Crafted TNT and has the tag explodeBit:1), Wooden Slab, Nether Reactor Core, Glowing Obsidian, Stonecutter(Old), Invisible Bedrock, tile.info_update.name, tile.info_update2.name, tile.reserved6.name, Age 1 Saplings (these will be converted to Spruce Saplings as of 1.21.30)
 
 **Beta 1.16.0.57**
 - Treasure Bastions spawn with one Barrier Block in one of the lava pools
 - Striders that spawn in this version have a slower movement speed specifically on lava (0.2 instead of 0.32)
-- Lit Respawn Anchors can be obtained by mining them with silk touch, this allows for 4 different types of Respawn Anchors
-- Glowstone can be dispensed on hostile mobs that can wear armor, armor stands, and players. It won't be visible unless you use the "Discontinued Feature Texture Pack"  in the "Texture Pack" folder.
-- Striders currently have 15 health, which will be changed to 20 in future versions 
-- Zombie Piglins who spawn on top of Striders will have a Golden Sword instead of Warped Fungus on a stick
-- Zoglins currently have no knockback resistance. 
-
-**Beta 1.16.0.59**
-- Support Blocks can be placed on Chains
 
 **Beta 1.16.0.60**
 - Breaking Nether Sprouts will drop invisible tile nether sprouts
@@ -322,19 +286,21 @@ ________________________________________________________________________________
 - Ravagers, Zoglins, and Hoglins have less knockback resistance than in the orignal game
 
 **1.16.40**
-- *Striders in this version have 7.5 hearts or 15 health points instead of 10 hearts or 20 health points*
+- Lit Respawn Anchors can be obtained by mining them with silk touch, this allows for 4 different types of Respawn Anchors
+- Support Blocks can be placed on Chains
+- Endermen can pick up warped and crimson fungus and place it down on any other block
+- Zombie Piglins who spawn on top of Striders will have a Golden Sword instead of Warped Fungus on a stick
+- Striders in this version have 7.5 hearts or 15 health points instead of 10 hearts or 20 health points
+- Snowlogging flowers and then breaking blocks underneath and letting it fall into a bubble column will result in the snow layers dropping with invalid data values  
+- Dropping a Falling Block into the top of an End Gateway and relogging will change the id of the falling block to a different block. So when going through the other side all of the falling blocks will convert to random items allowing for tons of illegals. Illegals include Command Blocks, Chained Command Blocks, Repeating Command Blocks, Structure Blocks, Jigsaw Blocks, Structure Void, Structure Air, Allow, Deny, Border Block, Barrier, all Light Blocks (0-15), Bedrock, Monster Spawner, End Portal Frame, Chorus Plant, Broken Anvil, Infested Stone, Infested Cobblestone, Infested Stone Brick, Infested Mossy Stone Brick, Infested Cracked Stone Brick, Infested Chiseled Stone Brick, Flowing Water, Static Water, Flowing Lava, Static Lava, Fire Tile, Soul Fire Tile, tile.bubble_column.name, all 4 Lit Respawn Anchors, Open Barrel, Chiseled Purpur, Smooth Purpur, Smooth Stone Brick (this will be removed as of 1.21.30), Hard Glass, Hard Glass Pane, Underwater Torch, Chemical Heat, Camera Block, Underwater TNT (this will show up as normal TNT but it will not stack with crafted TNT and has a different tag), explodebit:1 TNT (this will show up as normal TNT but it will not stack with Crafted TNT and has the tag explodeBit:1), Wooden Slab, Nether Reactor Core, Glowing Obsidian, Stonecutter(Old), Invisible Bedrock, tile.info_update.name, tile.info_update2.name, tile.reserved6.name, Age 1 Saplings (these will be converted to Spruce Saplings as of 1.21.30)
 
 **1.16.40 - 0.6.0**
 > [!Note]
 > If your phone is crashing upon creating a world in 0.6.0, you can unzip the "Cross Dimension Chunk Template" zip file and move the extracted folder to "games > com.mojang > minecraftWorlds" Note: this may be considered cheating because it does require you to move world files
 - You can get Cross Dimension Chunks (e.g. Overworld Chunks in the end/nether) by entering the end at these specific coordinates 115, 100, 149 in 1.16.40. Downgrade your client to 0.6.0 and create a world in 0.6.0 with the same seed as your 1.16.40 save. After loading the world, disconnect from the world and move the db folder of the 1.16.40 world to the 0.6.0 save. Once done upgrade back to 1.16.40 and change the world to infinite, it may crash but just reload minecraft and just try again.
 
-**Beta 1.16.100.50**
-- Inside Woodland Mansions, it is possible to get Efficiency I leather helmet. The Efficiency I Helmets are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still vislbe.
-
 **Beta 1.16.100.56**
 - Inside Woodland Mansions, it is possible to obtain an Egg enchanted with Efficiency 1. These eggs can be located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, though the frame remains visible.
-- Wandering Traders sell ink sacs with a Damage Value of 4
 
 **1.16.100**
 - Placing an end gateway on the central pillar of the end fountain when the dragon perches, it will freeze the dragon. After relogging an end gateway will appear where the ender dragon was. This allows for over 20 end gateways in the main end island.
@@ -342,31 +308,24 @@ ________________________________________________________________________________
 - Placing a sign against a block would replace that block with the sign, making it possible to delete blocks. For example, having a slab on the lower half and placing a sign on it will delete the block directly above the slab. This can also be used to make signs that are supported solely by other signs
 
 **1.16.201**
-- *Pushing End Crystals with a flying machine while summoning the ender dragon, will keep the ender crystal from updating, because of this they will stay indestructible and permanently have the summoning beam*
-- *Punching an End Crystal while summoning the Ender Dragon, and standing in the exit portal will send you back to the overworld. As a result you will have 4 beaming crystals at your exit portal and they will be destructible. You sometimes may get 3 end crystals at your exit portal depending on the speed you go back to the Overworld.*
-- *Before 1.16.220, zombies and skeletons would put shields on the wrong arm.*
-- *Equiping Mobs with netherite armor will give them Knockback resistance of 90%, this was changed in 1.18.30.20 which allows for mobs with higher knockback resistance*
+- Pushing End Crystals with a flying machine while summoning the ender dragon, will keep the ender crystal from updating, because of this they will stay indestructible and permanently have the summoning beam
+- Punching an End Crystal while summoning the Ender Dragon, and standing in the exit portal will send you back to the overworld. As a result you will have 4 beaming crystals at your exit portal and they will be destructible. You sometimes may get 3 end crystals at your exit portal depending on the speed you go back to the Overworld.
+- Wandering Traders sell ink sacs with a Damage Value of 4
+- Inside Woodland Mansions, it is possible to get Efficiency I leather helmet. The Efficiency I Helmets are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still vislbe.
+- Before 1.16.220, zombies and skeletons would put shields on the wrong arm.
+- Equiping Mobs with netherite armor will give them Knockback resistance of 90%, this was changed in 1.18.30.20 which allows for mobs with higher knockback resistance
 
 **Beta 1.16.210.57 - Beta 1.16.210.55 (Experimental) (UBC)**
 - Downgrading all 7 Double Cut Copper Slabs (excluding the Double Waxed Oxidized Copper Slab) to 1.16.210.55 will convert them to unknown blocks. Mining up the Unknown blocks while making sure they do not stack and updating to 1.21.30 will give you 7 different Double Cut Copper Slabs
 
-**1.16.210.57 (Experimental)**
-- Various Support blocks (e.g. torches, buttons, levers) can be places on Lightning Rod
-
 **1.16.210.58 (Experimental)**
 - Walls could be connected to Lightning Rods
-
-**1.16.210.59 (Experimental)**
-- Inside Woodland Mansions, it is possible to black glow sticks. The Black Glow Sticks are a lot rarer and a lot harder to find. To find the Glow Sticks you must find the "secret" end portal room within the Woodland Mansion. The room is a lot harder to find because it has no indicator to locate it. To make things easier for you, go ahead and download the "Mansion X-Ray.mcpack" from the "Texture Pack" folder. This pack will x-ray through the dark-oak planks in the woodland mansion.
 
 **Beta 1.16.210.59 - Beta 1.16.210.58 (Experimental) (UBC)**
 - Downgrading Glow Item Frames in block form from 1.16.210.59 to 1.16.210.58 will cause them to convert to Unknown Blocks and when updating them back in item form they will become unplacable
 
 **Beta 1.16.230.54 - Beta 1.16.210.61 (0.12.1 Downgrading)**
 - Downgrading Dripstone found in small caves from 1.16.230.54 to 1.16.210.61 will cause the dripstone to stay in that version. You can then take the dripstone and place it next to cactus which creates an illegal formation with cactus
-
-**Beta 1.16.220.50**
-- In 1.16.230.50, the Powder Snow block can be obtained by placing it inside of a bubble column and pushing it with a piston. Video Tutorial: https://www.youtube.com/watch?v=qBvycwTPF6g
 
 **Beta 1.16.220.52**
 - Moss Blocks could be waterlogged
@@ -375,19 +334,19 @@ ________________________________________________________________________________
 - Glow Vines, Glow Berry Vines, Glow Berry Vine Tips can be obtained by downgrading them from 1.16.220.52 as a block to 1.16.220.51. They will turn into unknown blocks, mining them (make sure they do not stack), and updating them to 1.21.30 will convert them to Glow Vine Tiles, Glow Berry Vine Tiles, and Glow Berry Vine Tips Tile.
 
 **1.16.220**
+- Foxes can put on armor by dropping it to them. It won't be visible unless you use the "Discontinued Feature Texture Pack"  in the "Texture Pack" folder.
+- Glowstone can be dispensed on hostile mobs that can wear armor, armor stands, and players. It won't be visible unless you use the "Discontinued Feature Texture Pack"  in the "Texture Pack" folder.
 - Pushing a detector rail with a minecart on it, and breaking the minecart will give you a Permanently Powered Detector Rail
 - Placing non-full blocks (e.g. Enchanting Tables, Slabs, Trapdoors) in snow-covered flowers, the flowers will won't break. This allows for flower-logged blocks.
 - End Portals do not trigger Block updates. So by flower-logging the end portal frames and activating them below gravity blocks and then breaking the grass block underneath the end portals, the end portal frames will break leaving floating gravity blocks.
+- When animals and villagers are bred, they use the current speed rather than the base speed. So by splashing two animals/villagers with splash potion of speed or slowness and then breeding them, the offspring will be faster/slower than their parents. This process can be repeated endlessly, make sure to get a superspeed pig, cow, and chicken for a future illegal in 1.21.82
+- Breeding two foxes with netherite armor will cause their offspring to inherit the knockback resistance from their parents.
 - Withers that are below half health in this version will not be able to heal, updating this wither to newer version also will keep this trait and can not be healed through instant damage potions
 
 **Beta 1.16.230.54 - Beta 1.16.230.50 (Experimental) (UBC)**
 - Double Waxed Oxidised Cut Copper Slabs, Lit Deepslate Redstone Ore, Double Cobbled Deepslate Slabs, Double Deepslate Brick Slabs, Double Polished Deepslate Slabs, Double Deepslate Tile Slabs can be obtained by downgrading them from 1.16.230.54 as a block to 1.16.220.51. THey will turn into unknown blocks, mining them (make sure they do not stack), and then updating them 1.21.30 will give you Double Waxed Oxidised Cut Copper Slabs, Lit Deepslate Redstone Ore, Double Cobbled Deepslate Slabs, Double Deepslate Brick Slabs, Double Polished Deepslate Slabs, Double Deepslate Tile Slabs as a item.
+- In 1.16.230.50, the Powder Snow block can be obtained by placing it inside of a bubble column and pushing it with a piston. Video Tutorial: https://www.youtube.com/watch?v=qBvycwTPF6g
 - Obtaining Dripstone in 1.16.230.54 in small caves and downgrading to 1.16.230.50 will give you dripstone in 1.16.230.50. Placing the Dripstone as tall as you want and pushing the bottom of the dripstone with a piston will not update the dripstone causing for really odd looking dripstone base
-
-**Beta 1.16.230.54**
-- Hanging Roots can be waterlogged
-- Glow lichen can be placed on farmland and dirt path
-- Big Dripleaf can be placed on any block
 
 **Beta 1.16.230.54 (Experimental)**
 - If you picked up a baby axolotl in a bucket around beta 1.16.230.54 version then update to the current version, the bucket will contain an adult axolotl, but sill be called "bucket of baby axolotl"
@@ -395,103 +354,101 @@ ________________________________________________________________________________
 **Beta 1.17.0.58 - Beta 1.16.210.54 (Experimental)**
 - Powder Snow Buckets can be obtained in 1.17.0.58 through Cauldrons. So downgrading these buckets to 1.16.210.54, you can Powder Snow-log non-full blocks by placing the Powder Snow Bucket on the block adjacent to the block you want to snowlog
 
-**Beta 1.17.0.50**
-- Tying an axolotl to a fence/wall and scooping the axolotl up with a water bucket will not remove the leash knot on the fence/wall and the axolotls will remain unattached and unleashable
-- Leashing Axolotls before scooping them up won't unleash the axolotl
-- By placing a block at the tip of an amethyst cluster, and subsequently removing the supporting block, the shard will remain floating. Once it is floating, you can remove the other block.
-
 **Beta 1.17.0.54 - Beta 1.17.0.52 (UBC)**
 - Downgrading Infested Deepslate from 1.17.0.54 as a block to 1.17.0.52 will turn it into an unknown block. Mine up the unknown blocks (make sure they don't stack) and then updating them to 1.21.30 will give you Infested Deepslate as an item
 
 **Beta 1.17.0.52 (Experimental)**
-- Zombies, Husks, Drowneds, and Zombie Villagers can hold Glow Ink Sacs in their hand.
-
-**Beta 1.17.0.58**
-- Dispensing Powder snow into portals (East or North facing portals) will split the portal, leaving behind portal blocks on the layer you placed the powder snow in.
+- Chunks loaded with the Caves & Cliffs Experiment Toggle and updating it to the official version 1.17.0 will cause the chunks loaded to be elevated when updating. All tile entity data will be removed allowing for mobless mob spawners
 
 **1.17.0**
-- *Mining a lit observer will keep its lit state in the inventory. Stacking lit observers with normal observers will revert them*
-- *Vindicators can spawn from Patrols when the world difficulty is set to Hard. Making it possible to obtain Vindicator Patrol followers and Patrol Captains. Vindicator Patrol Captains can be distinguished from normal Vindicators with the Discontinued Feature Tweaks texture pack*
-- *When a mob is left with only one heart and is simultaneously struck by an Instant Health Potion and an Instant Damage Potion, the mob becomes invincible. If the mob appears red and shaking, rejoining the game will restore its normal appearance*
-
-**Beta 1.17.10.22**
-- Support Blocks can be placed on Candles
+- By placing a block at the tip of an amethyst cluster, and subsequently removing the supporting block, the shard will remain floating. Once it is floating, you can remove the other block.
+- Dispensing Powder snow into portals (East or North facing portals) will split the portal, leaving behind portal blocks on the layer you placed the powder snow in.
+- Mining a lit observer will keep its lit state in the inventory. Stacking lit observers with normal observers will revert them
+- Paintings can overlap with Glow Item Frames, Signs, Banners, and Torches
+- Vindicators can spawn from Patrols when the world difficulty is set to Hard. Making it possible to obtain Vindicator Patrol followers and Patrol Captains. Vindicator Patrol Captains can be distinguished from normal Vindicators with the Discontinued Feature Tweaks texture pack
+- Various Support blocks (e.g. torches, buttons, levers) can be places on Lightning Rod
+- Big Dripleaf can be placed on any block
+- Glow lichen can be placed on farmland and dirt path
+- Hanging Roots can be waterlogged
+- Tying an axolotl to a fence/wall and scooping the axolotl up with a water bucket will not remove the leash knot on the fence/wall and the axolotls will remain unattached and unleashable
+- Using Dispensers to remove the water from bubble columns does not destroy the bubble column itself.
+- Leashing Axolotls before scooping them up won't unleash the axolotl
+- When a mob is left with only one heart and is simultaneously struck by an Instant Health Potion and an Instant Damage Potion, the mob becomes invincible. If the mob appears red and shaking, rejoining the game will restore its normal appearance
+- Inside Woodland Mansions, it is possible to black glow sticks. The Black Glow Sticks are a lot rarer and a lot harder to find. To find the Glow Sticks you must find the "secret" end portal room within the Woodland Mansion. The room is a lot harder to find because it has no indicator to locate it. To make things easier for you, go ahead and download the "Mansion X-Ray.mcpack" from the "Texture Pack" folder. This pack will x-ray through the dark-oak planks in the woodland mansion.
 
 **1.17.10.22 - 1.17.10.21 (UBC)**
 - Downgrading all 17 cakes with candles from 1.17.10.22 as a block to 1.17.10.21 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you all 17 cakes with candles as a tile item.
 
 **1.17.10**
-- *Waterlogging stairs or slabs and subsequently breaking them won't update the water, making it possible to create floating water*
-- *Previously loaded chunks will get 64 bedrock layers if you turn on the "Caves and Cliff" experimental toggle*
-- *Picking up a fish or anything else that can go in a bucket as it dies, gives you a dead animal in a bucket*
-- *Placing an end crystal and placing two piston each on different sides and facing the end crystal and activating them at the same time will cause them both to extend, leaving two piston heads in one block*
-- *Putting something on fire and breaking the block underneath while the game setting "Fire Spreads" is off will make the fire float and it won't distinguish. To see floating fire, you can use the Discontinued Feature Tweaks pack from the "Texture Packs" folder*
-- *Using a powder snow bucket on a cauldron filled with powder snow creates a powder snow block directly above the cauldron. This deletes any block that was previously occupying the space above it including bedrock.*
+- Waterlogging stairs or slabs and subsequently breaking them won't update the water, making it possible to create floating water
+- Previously loaded chunks will get 64 bedrock layers if you turn on the "Caves and Cliff" experimental toggle
+- Support blocks can be placed on Candles
+- Picking up a fish or anything else that can go in a bucket as it dies, gives you a dead animal in a bucket
+- Placing an end crystal and placing two piston each on different sides and facing the end crystal and activating them at the same time will cause them both to extend, leaving two piston heads in one block
+- Putting something on fire and breaking the block underneath while the game setting "Fire Spreads" is off will make the fire float and it won't distinguish. To see floating fire, you can use the Discontinued Feature Tweaks pack from the "Texture Packs" folder
+- Using a powder snow bucket on a cauldron filled with powder snow creates a powder snow block directly above the cauldron. This deletes any block that was previously occupying the space above it including bedrock.
+- Zombies, Husks, Drowneds, and Zombie Villagers can hold Glow Ink Sacs in their hand.
 
 **Beta 1.17.20.22**
 - Snow layers stay floating in mid-air if you break the block underneath it
 
-**Beta 1.17.30.23**
-- Chunks loaded with the Caves & Cliffs Experiment Toggle and updating it to the official version 1.17.0 will cause the chunks loaded to be elevated when updating. All tile entity data will be removed allowing for mobless mob spawners
-- Deep warm oceans generate naturally, which will be an unobtainable biome in future versions  
-
 **1.17.32**
-- *Support blocks can be places on Light Blocks*
+- Support blocks can be places on Light Blocks
 
 **Beta 1.17.40.21**
-- *Flowers in Meadows can replace blocks from structures like village houses, which can make Discontinued Block Formations*
+- Flowers in Meadows can replace blocks from structures like village houses, which can make Discontinued Block Formations
 
 **1.17.40**
-- *Pushing a button and subsequently breaking it with Silk Touch will give you Pushed Buttons as an item*
+- Pushing a button and subsequently breaking it with Silk Touch will give you Pushed Buttons as an item
+
+**Beta 1.18.0.24**
+- Deep Warm Oceans can still naturally generate. To make deep warm oceans distinguishable, you can use the Discontinued Feature Tweaks texture pack in the "Texture Packs" folder
 
 **1.18.0**
-- *Updating any world to this version will not generate anything below y=0 if there is no bedrock at y=0*
-- *Placing walls under floating candles will cause the walls to fully stretch*
-- *Pushing piglins through a nether portal while they are trying to barter with the player will force them to put the item that was given to them into their offhand, making them dual wielding mobs*
-- *Scaffolding at y=1 will not update and fall if there is no block below it*
-- *Librarians only require one book&quill instead of two*
-- *Cartographers offer bedrock-specific banner patterns (Bordure Indented, Field Masoned) or the Flower Charge banner pattern on their master level trade*
-- *Butchers have cooked beef, cooked rabbit, and cooked mutton trades*
-- *Journeyman Armorer do not trade diamonds for emeralds*
-- *Novice Weaponsmiths do not trade Iron swords for emeralds*
-- *Apprentice Weaponsmiths trade enchanted iron swords*
-- *Journeyman Clerics sell 1 glowstone dust for 4 emeralds*
-- *Fishermen Boat trades do not change the wood type based on villager biome type, allowing you to obtain fishermen with mismatched wood type boats*
-- *Aquifers can generate with missing pieces of water*
-- *Spikes out of Dripstone Block can spawn on the surface*
-- *Structures like Ocean Ruins often spawn on land*
-- *Some igloos can generate with Redstone Torches facing the wrong way.*
-- *Mountain generation breaks at 2.812.332 blocks away from 0, 0 and replaces everything within a Frozen Peaks or Stony Peaks biome, except Aquifers, with huge lava ravines. These Aquifers can stretch all the way down to lava height and be on top of the lava without updating it and turning it into Obsidian. An example can be found on the Seed: -1485667881, at 2891297 -49 9439. On certain iOS devices, Monolith-like terrain generates instead of Lava Ravines. These "Monoliths" can go up to the old world height limit, y=256*
-- *(Requires Vanilla Experiments) You can place support blocks on the Skulk Shriekers and Skulk Sensors*
+- Updating any world to this version will not generate anything below y=0 if there is no bedrock at y=0
+- Placing walls under floating candles will cause the walls to fully stretch
+- Pushing piglins through a nether portal while they are trying to barter with the player will force them to put the item that was given to them into their offhand, making them dual wielding mobs
+- Pushing a villager through a nether portal while it is holding something will make the villager permanently hold the item. Do not hold an item that the villager wants once it is permanently holding an item or else it will stop holding it
+- Scaffolding at y=1 will not update and fall if there is no block below it
+- Librarians only require one book&quill instead of two
+- Cartographers offer bedrock-specific banner patterns (Bordure Indented, Field Masoned) or the Flower Charge banner pattern on their master level trade
+- Butchers have cooked beef, cooked rabbit, and cooked mutton trades
+- Journeyman Armorer do not trade diamonds for emeralds
+- Novice Weaponsmiths do not trade Iron swords for emeralds
+- Apprentice Weaponsmiths trade enchanted iron swords
+- Journeyman Clerics sell 1 glowstone dust for 4 emeralds
+- Fishermen Boat trades do not change the wood type based on villager biome type, allowing you to obtain fishermen with mismatched wood type boats
+- Aquifers can generate with missing pieces of water
+- Spikes out of Dripstone Block can spawn on the surface
+- Structures like Ocean Ruins often spawn on land
+- Some igloos can generate with Redstone Torches facing the wrong way.
+- Mountain generation breaks at 2.812.332 blocks away from 0, 0 and replaces everything within a Frozen Peaks or Stony Peaks biome, except Aquifers, with huge lava ravines. These Aquifers can stretch all the way down to lava height and be on top of the lava without updating it and turning it into Obsidian. An example can be found on the Seed: -1485667881, at 2891297 -49 9439. On certain iOS devices, Monolith-like terrain generates instead of Lava Ravines. These "Monoliths" can go up to the old world height limit, y=256
+- (Requires Vanilla Experiments) You can place support blocks on the Skulk Shriekers and Skulk Sensors
 
 **Beta 1.18.10.24 (Experimental)**
-- *Glow Lichen can be placed on Frog Eggs*
+- Glow Lichen can be placed on Frog Eggs
 
 **1.18.10**
-- *It is possible to obtain villagers with incorrect trades, such as a fletcher with stone mason trades. To achieve this, follow these steps: First, place 20 beds, with 19 of them corresponding to one type of workstation and 1 bed with a different type of workstation. Next, bring 20 villagers to the area where you have set up the beds and workstations. Then you have to zombify all the villagers (for a 100% zombification rate, ensure you are in hard mode). Once they are zombified, you can cure them. If done correctly, one of the villagers should have incorrect trades. This occurs because the villager retains their profession after being zombified, but during the curing process, there is a brief moment when they can change professions before returning to their original state. Please note that this method does not guarantee a 100% success rate*
+- It is possible to obtain villagers with incorrect trades, such as a fletcher with stone mason trades. To achieve this, follow these steps: First, place 20 beds, with 19 of them corresponding to one type of workstation and 1 bed with a different type of workstation. Next, bring 20 villagers to the area where you have set up the beds and workstations. Then you have to zombify all the villagers (for a 100% zombification rate, ensure you are in hard mode). Once they are zombified, you can cure them. If done correctly, one of the villagers should have incorrect trades. This occurs because the villager retains their profession after being zombified, but during the curing process, there is a brief moment when they can change professions before returning to their original state. Please note that this method does not guarantee a 100% success rate
 
 **1.18.10.26 - 1.18.10.22**
 - Downgrading a cartographer with the globe pattern trade from 1.18.10.26 to 1.18.10.22 turns the trade into an empty trade
 - Making a Banner with the Globe Pattern and downgrading to 1.18.10.22 turns the globe banner pattern on the banner into "item.banner.base.x", where "x" represents the color. Globe banners will keep the globe banner tag, which means they will revert to normal banners when upgrading back. To avoid this, simply place the banners down and break them. This will remove the globe banner tag and preserve the "item.banner.base.x" tag
 
 **1.18.12**
-- *Gravity Blocks will not fall if placed directly above top snow*
-- *Red & Brown Mushroom Blocks, Chorus Plants & Flowers, Iron & Gold Nuggets and Nether Bricks can be placed into the fuel slot in Furnaces*
+- Gravity Blocks will not fall if placed directly above top snow
+- Red & Brown Mushroom Blocks, Chorus Plants & Flowers, Iron & Gold Nuggets and Nether Bricks can be placed into the fuel slot in Furnaces
 
 **Beta 1.18.20.21 (Experimental)**
-- *Placing Frogspawns before this version and downgrading to 1.18.20.21 will turn them into unknown blocks, mining up the unknown blocks (making sure they do not stack), upgrading back to 1.21.30 will turn them into Frogspawn as an item*
-- *Tadpoles only have 2 hearts in 1.18.20.21. To prevent the tadpoles from growing you can scoop them up. To distinguish them from normal tadpoles, you can use the Discontinued Feature Tweaks pack*
+- Placing Frogspawns before this version and downgrading to 1.18.20.21 will turn them into unknown blocks, mining up the unknown blocks (making sure they do not stack), upgrading back to 1.21.30 will turn them into Frogspawn as an item
+- Tadpoles only have 2 hearts in 1.18.20.21. To prevent the tadpoles from growing you can scoop them up. To distinguish them from normal tadpoles, you can use the Discontinued Feature Tweaks pack
 
 **Beta 1.18.20.23**
-- *All types of Torches, redstone dust and Glow Lichen can be placed or attached to Brewing Stands*
-- *Azalea and Lily Pads don't break if water is flowing next to them*
-
-**Beta 1.18.30.22**
-- Allays can hold leads, which will be discontinued in future versions
-- Allays in this version have 8 hearts/16 health points instead of 10 hearts/20 health points
+- All types of Torches, redstone dust and Glow Lichen can be placed or attached to Brewing Stands
+- Azalea and Lily Pads don't break if water is flowing next to them
 
 **Beta 1.18.30.28**
-- *Older worlds that have areas unexplored since before 1.18 will have corrupted chunks below y=0*
+- Older worlds that have areas unexplored since before 1.18 will have corrupted chunks below y=0
 
 **Beta 1.18.30.28 - Beta 1.18.30.22 (UBC)**
 - Downgrading Piston Head (Extended Piston), Sticky Piston Head (Extended Sticky Piston), Moving Block (you can use a constant push-pull system by using observer clocks and pistons to obtain the block before logging out), and Tripwire from 1.18.30.28 as a block to 1.18.30.22 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the tile.pistonarmcollision.name, tile.stickypistonarmcollision.name, tile.movingblock.name, and the Tripwire as a tile item.
@@ -500,57 +457,60 @@ ________________________________________________________________________________
 - Downgrading Reinforced Deepslate from 1.18.30.33 as a block to 1.18.30.31 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you Reinforced Deepslate as a tile item.
 
 **Beta 1.18.30.32**
-- *If a charged Sculk Block is being pushed with a flying machine while it is generating Sculk Veins, it can generate Sculk Veins that are in mid-air*
-- *Aquifers can sometimes intersect with Ancient City structures and submerge/destroy big chunks of the structure*
-- *Reinforced Deepslate can be pushed by Pistons*
-
-**Beta 1.18.30.33**
-- Structure voids currently generate throughout ancient city corridors. These are noticeable on their own, but sculk veins can generate on them making them observable. 
+- If a charged Sculk Block is being pushed with a flying machine while it is generating Sculk Veins, it can generate Sculk Veins that are in mid-air
+- Aquifers can sometimes intersect with Ancient City structures and submerge/destroy big chunks of the structure
+- Reinforced Deepslate can be pushed by Pistons
 
 **1.18.30**
 - All types of Torches, redstone dust, Glow Lichen and Walls can be placed or attached to Bells
-- *Placing blocks in the lowest subchunk of a dimension and then reloading the dimension to save it and mining up all the blocks placed in the subchunk and reloading the dimension will regenerate the blocks mined up. The side of the main end island does matter on what you'll get in the regeneration, on one side all it will do is regenerate the block without changing the data of the block at all (this is called VCR (Valid Chunk Regen)). On the other side of the main end island will regenerate the blocks but either make them invisible or unfunctionable (this is called ICR (Invalid Chunk Regen)). To tell which chunk is which type type of Regen (VCR or ICR) StormofLight and VirsRJ made a chart of chunks showing which chunks are ICR or VCR, it will be titled "ChunkRegenerationGraph.webp" in "Links". This glitch can be used to create unique blocks like half-beds, invisible shulker boxes, and headless pistons using ICR. This also allows for the creation of different types of wall skulls based on the placement and orientation of the skulls. Placing a skull on the ground gives a Wither Skeleton Wall Skull, while placing them against a wall in certain cardinal directions results in various skulls: West yields a Creeper Wall Skull, South a Steve Wall Skull, North a Zombie Wall Skull, and East a Dragon Wall Skull using ICR. You can also get tons of illegals from ICR by placing tile entities listed in this Minecraft Wiki page https://minecraft.wiki/w/Block_entity. You can also get tons of VCR listed in the "Valid Chunk Regeneration Illegals.txt" in the "Links" folder. Tutorial: https://youtu.be/IPCpwxhccsg?si=HzK8bc5HLcrKgLDP*
-- *Giving Wall Skulll to armor stands and mobs will cause them to hold it in their hand, which when updating to 1.21.30 will cause the wall skulls to change to skeleton skull which allows for mobs holding skeleton skulls in their hand*
-- *Putting Wall Skulls in an item frame and updating to 1.21.44 (when these skulls were removed) you wont be able to put anything in the item frame*
-- *Trader Llamas before 1.19.0.20 will not be separate from llamas meaning that they will be titled llama instead of Trader Llama in their inventory screen.*
+- Placing blocks in the lowest subchunk of a dimension and then reloading the dimension to save it and mining up all the blocks placed in the subchunk and reloading the dimension will regenerate the blocks mined up. The side of the main end island does matter on what you'll get in the regeneration, on one side all it will do is regenerate the block without changing the data of the block at all (this is called VCR (Valid Chunk Regen)). On the other side of the main end island will regenerate the blocks but either make them invisible or unfunctionable (this is called ICR (Invalid Chunk Regen)). To tell which chunk is which type type of Regen (VCR or ICR) StormofLight and VirsRJ made a chart of chunks showing which chunks are ICR or VCR, it will be titled "ChunkRegenerationGraph.webp" in "Links". This glitch can be used to create unique blocks like half-beds, invisible shulker boxes, and headless pistons using ICR. This also allows for the creation of different types of wall skulls based on the placement and orientation of the skulls. Placing a skull on the ground gives a Wither Skeleton Wall Skull, while placing them against a wall in certain cardinal directions results in various skulls: West yields a Creeper Wall Skull, South a Steve Wall Skull, North a Zombie Wall Skull, and East a Dragon Wall Skull using ICR. You can also get tons of illegals from ICR by placing tile entities listed in this Minecraft Wiki page https://minecraft.wiki/w/Block_entity. You can also get tons of VCR listed in the "Valid Chunk Regeneration Illegals.txt" in the "Links" folder. Tutorial: https://youtu.be/IPCpwxhccsg?si=HzK8bc5HLcrKgLDP
+- Giving Wall Skulll to armor stands and mobs will cause them to hold it in their hand, which when updating to 1.21.30 will cause the wall skulls to change to skeleton skull which allows for mobs holding skeleton skulls in their hand
+- Putting Wall Skulls in an item frame and updating to 1.21.44 (when these skulls were removed) you wont be able to put anything in the item frame
+- Trader Llamas before 1.19.0.20 will not be separate from llamas meaning that they will be titled llama instead of Trader Llama in their inventory screen.
 
 **Beta 1.19.0.20 - 1.18.31 (Downgrading) (Experimental) (0.12 Downgrading) (UBC)**
 - Downgrading a Mangrove door in block form from 1.19.0.20 to 1.18.31 will cause it to convert to Unknown Blocks and when updating them back in item form they will become unplacable
 
 **Beta 1.19.0.20**
 - All copper horn variants can be obtained in this version, putting the copper horns in an unplaced shulker box will save their data even when they're removed in 1.19.0.24/25
+
+**Beta 1.19.0.21**
+- Allays in this version have 8 hearts/16 health points instead of 10 hearts/20 health points
+
+**Beta 1.19.0.26**
 - Mangrove Roots and muddy mangrove roots can be used as fuel in Furnaces
 
 **1.19.0**
-- *Breaking Mangrove leaves with shears can drop leaves that don't stack with each other*
-- *Iron Bars/Glass Panes don't connect to mangrove roots*
-- *Pushing a lit TNT into a portal at the exact same time it explodes, it will summon an unstable tnt that appears all white and will stay that way forever*
-- *Cod, Pufferfish, Salmon, and Tropical Fish have 3 hearts instead 1.5*
-- *Wardens in this version could not be pushed by a player or a mob because they do not have the "pushable" tag. This will stay upon updating*
+- Breaking Mangrove leaves with shears can drop leaves that don't stack with each other
+- Placing a stonecutter in the east/west direction and mining it with silk touch will drop a stonecutter facing the wrong way in the inventory. They will stack with normal stonecutter.
+- Iron Bars/Glass Panes don't connect to mangrove roots
+- Pushing a lit TNT into a portal at the exact same time it explodes, it will summon an unstable tnt that appears all white and will stay that way forever
+- Cod, Pufferfish, Salmon, and Tropical Fish have 3 hearts instead 1.5
+- Wardens in this version could not be pushed by a player or a mob because they do not have the "pushable" tag. This will stay upon updating
 
 **1.19.2**
-- *Shulkers inflict Levitation 2 instead of Levitation 1. To keep this effect, you can let a shulker hit any scoopable mob and promptly scoop the mob with a bucket after it gets hit.*
-- *Ravagers in this version have a lot slower base speed than Ravagers spawned in newer versions*
-- *Wardens in this versions were not pushable by the player*
+- Shulkers inflict Levitation 2 instead of Levitation 1. To keep this effect, you can let a shulker hit any scoopable mob and promptly scoop the mob with a bucket after it gets hit.
+- Ravagers in this version have a lot slower base speed than Ravagers spawned in newer versions
+- Wardens in this versions were not pushable by the player
 
 **Preview 1.19.10.23**
-- *Cod, Salmon, Tropical Fish, and Pufferfish have 3 hearts/6 health points instead of 1.5 hearts/3 health points*
+- Cod, Salmon, Tropical Fish, and Pufferfish have 3 hearts/6 health points instead of 1.5 hearts/3 health points
 
 **Preview 1.19.50.21**
-- *When camels are bred, they use their current speed rather than their base speed. Therefore if camels are bred together after being splashed with swiftness  or slowness potions, their offspring will be faster/slower than their parents. This breeding process can be repeated endlessly.*
-- *Hanging Signs can be attached to bamboo saplings*
-- *Hanging Signs have a max of 15 characters per line instead of 8*
+- When camels are bred, they use their current speed rather than their base speed. Therefore if camels are bred together after being splashed with swiftness  or slowness potions, their offspring will be faster/slower than their parents. This breeding process can be repeated endlessly.
+- Hanging Signs can be attached to bamboo saplings
+- Hanging Signs have a max of 15 characters per line instead of 8
 
 **Preview 1.19.50.21 - Preview 1.19.50.20 (UBC) (Experimental)**
 - Downgrading Double Bamboo Slabs and Double Mosaic Bamboo Slabs from 1.19.50.21 as a block to 1.19.50.20 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you Double Bamboo Slabs and Double Mosaic Bamboo Slabs as a tile item.
 - Downgrading a Bamboo door in block form from 1.19.50.21 to 1.19.50.20 will cause it to convert to Unknown Blocks and when updating them back in item form they will become unplacable
 
 **1.19.50**
-- *Using this setup you are able to obtain the moving block tile in vanilla survival https://youtu.be/45Q3etFd8Ic?si=3D2-OwYSMffgslAA*
+- Using this setup you are able to obtain the moving block tile in vanilla survival https://youtu.be/45Q3etFd8Ic?si=3D2-OwYSMffgslAA 
 
 **1.19.70**
 - Inside Woodland Mansions, it is possible to get Efficiency I leather chestplate. The Efficiency I Chestplates are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
-- *Mobs bigger than the boats themselves can fit in it. The following mobs include: Ravagers, Horses, Skeleton Horses, Donkeys, Mules, Spiders, Iron Golems, Snow Golems, Guardians, Elder Guardians, Pandas, Polar Bears, Slimes, Magma Cubes, Ghasts, Zoglins, and Hoglins, and Zombie Horses (which you can get the spawn eggs for from the 1.16.1.2 glitch).*
+- Mobs bigger than the boats themselves can fit in it. The following mobs include: Ravagers, Horses, Skeleton Horses, Donkeys, Mules, Spiders, Iron Golems, Snow Golems, Guardians, Elder Guardians, Pandas, Polar Bears, Slimes, Magma Cubes, Ghasts, Zoglins, and Hoglins, and Zombie Horses (which you can get the spawn eggs for from the 1.16.1.2 glitch).
 > [!CAUTION]
 > If you get this illegal you won't be able to play 1.20.0, otherwise all mobs in a boat will be ejected. You must skip/wait for 1.20.10 to join without casualities
 - Requires Experiment: Suspicious Sand can be waterlogged
@@ -562,37 +522,35 @@ ________________________________________________________________________________
 -Downgrading the Torchflower crop from 1.19.70.23 as a block to 1.19.70.22 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Torchflower as a tile item.
 
 **Preview 1.19.70.26**
-- *Suspicious Sand can be obtained by letting it fall onto an item frame*
-- *Decorated Pots stack with each other*
+- Suspicious Sand can be obtained by letting it fall onto an item frame
+- Decorated Pots stack with each other
 
 **Preview 1.19.80.20 - Preview 1.19.33 (UBC) (Experimental) (0.12 Downgrading)**
 - Downgrading a Cherry door in block form from 1.19.80.20 to 1.19.73 will cause it to convert to Unknown Blocks and when updating them back in item form they will become unplacable
 
 **Preview 1.19.80.21**
-- *Suspicious Gravel can be obtained by letting it fall onto an item frame*
+- Suspicious Gravel can be obtained by letting it fall onto an item frame
 
 **Preview 1.19.80.22 (Requires "Next Major Update" World Toggle)**
-- *Pink Petals are able to replace the bottom half of tallgrass blocks during world gen, keeping the top half. To prevent them from breaking randomly, quickly unload the chunks and keep them unloaded until 1.21.60*
-
-**Preview 1.20.10.20**
-- Inside Woodland Mansions, it is possible to get Efficiency I leather leggings. The Efficiency I Leggings are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+- Pink Petals are able to replace the bottom half of tallgrass blocks during world gen, keeping the top half. To prevent them from breaking randomly, quickly unload the chunks and keep them unloaded until 1.21.60
 
 **Preview 1.20.10.20 - 1.20.1 (0.12.1 Downgrading)**
 - Downgrading Dyed Shulker Boxes as blocks from 1.20.10.20 - 1.20.1 will convert them to unknown blocks. Using this method, mining up the unknown blocks and letting them stack can give you stacked shulker boxes and if you put them in an undyed shulker boxes they will be stacked shulker boxes in a shulker box so it will be considered a double illegal
 
 **1.20.12**
-- *Shearing grass in the meadows biome will drop a short grass item that has the title "Fern", the "Fern" will have the texture of the short grass and the name will be from the Fern. This item will be removed as of 1.21.30*
-- *Quickly replacing the bottom of a pitcher plant/bamboo stalk/ or two tall dripleaf with a pitcher pod/bamboo/big dripleaf will make a double dripleaf, a bamboo shoot on top of a bamboo stalk/ and a glitched pitcher pod.*
-- *Breaking a Decorated Pot with empty sides using your hand, the pot will drop & retain its design, but the sides that were originally crafted with bricks now show as "item...name" in the inventory*
-- *Zombies, Husks, Drowneds, Zombified Piglins, Zombie Villagers, Skeletons, and Strays can wear illager banners when dispensed on them*
-- *Letting a creeper fall into a sliced portal just as it explodes will make the creeper peaceful and unable to explode.*
-- *Replacing the outer portal blocks of a portal (the portal blocks that are touching the obsidian) with powder snow/water/or lava and at the same time going through a sliced portal will leave the portal blocks intact and it will create a powder snow/water/lava portal*
-- *Placing a grass block in the center and then doing a checkerboard pattern of the block you want to catch fire on and grass blocks to the reach of lava. Placing lava on the center block, and when the lava is done spreading, pick up the lava and spam clicking bonemeal on the center block can catch fire on the blocks causing a chance of an Always Burning Fire on the block of your choice.*
-- *You can dispense armor on Villagers and Evokers and they will wear it*
-- *Foxes can pick up Shulker Boxes in this version*
+- Inside Woodland Mansions, it is possible to get Efficiency I leather leggings. The Efficiency I Leggings are located in a secret room containing a chest and a tree. This room is easily identificable due to its blocked-off entrance, but the frame is still visible.
+- Shearing grass in the meadows biome will drop a short grass item that has the title "Fern", the "Fern" will have the texture of the short grass and the name will be from the Fern. This item will be removed as of 1.21.30
+- Quickly replacing the bottom of a pitcher plant/bamboo stalk/ or two tall dripleaf with a pitcher pod/bamboo/big dripleaf will make a double dripleaf, a bamboo shoot on top of a bamboo stalk/ and a glitched pitcher pod.
+- Breaking a Decorated Pot with empty sides using your hand, the pot will drop & retain its design, but the sides that were originally crafted with bricks now show as "item...name" in the inventory
+- Zombies, Husks, Drowneds, Zombified Piglins, Zombie Villagers, Skeletons, and Strays can wear illager banners when dispensed on them
+- Letting a creeper fall into a sliced portal just as it explodes will make the creeper peaceful and unable to explode.
+- Replacing the outer portal blocks of a portal (the portal blocks that are touching the obsidian) with powder snow/water/or lava and at the same time going through a sliced portal will leave the portal blocks intact and it will create a powder snow/water/lava portal
+- Placing a grass block in the center and then doing a checkerboard pattern of the block you want to catch fire on and grass blocks to the reach of lava. Placing lava on the center block, and when the lava is done spreading, pick up the lava and spam clicking bonemeal on the center block can catch fire on the blocks causing a chance of an Always Burning Fire on the block of your choice.
+- You can dispense armor on Villagers and Evokers and they will wear it
+- Foxes can pick up Shulker Boxes in this version
 
 **1.20.40**
-- *Putting Baby Camels and Baby Sniffers in a boat won't eject them when they grow up*
+- Putting Baby Camels and Baby Sniffers in a boat won't eject them when they grow up
 
 **Preview 1.20.50.22 - Preview 1.20.50.21 (UBC) (Experimental)**
 - Downgrading a Double Tuff Slab, Double Tuff Brick Slab and Double Polished Tuff Slab (with 1.21 experiment) from 1.20.50.22 as a block to 1.20.50.21 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Tuff Slab, Double Tuff Brick Slab and Double Polished Tuff Slab as a tile item.
@@ -607,24 +565,24 @@ ________________________________________________________________________________
 
 **1.20.60 (Experimental)**
 -  Inside Woodland Mansions, it is possible to get an Efficiency I Chainmail Helmet. The Efficiency I Helmet is located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
--  *Getting an armadillo to roll up and then logging out will cause the armadillo to appear to be back to its normal state but it is still rolled up and will not move. To keep this make sure you do not sprint or ride a mob toward the armadillo, and keep mobs away from it*
+-  Getting an armadillo to roll up and then logging out will cause the armadillo to appear to be back to its normal state but it is still rolled up and will not move. To keep this make sure you do not sprint or ride a mob toward the armadillo, and keep mobs away from it
 
 **1.20.62**
-- *Naming a Campfire and then placing it will give the campfire a hovering name tag above it*
-- *Naming a boat/chest boat and then placing it will give the boat a hovering name tag above it*
+- Naming a Campfire and then placing it will give the campfire a hovering name tag above it
+- Naming a boat/chest boat and then placing it will give the boat a hovering name tag above it
 
 **Preview 1.20.70.21 - Preview 1.20.70.20 (UBC) (Experimental)**
 - Downgrading the Vault Block from 1.20.70.21 as a block to 1.20.70.20 will turn them into unknown blocks. Mine up the unknown-block (making sure that they do not stack) and then updating to 1.21.30 will give you the Vault Block as a tile item.
 
-**Preview 1.20.70.24**
+**1.20.71**
+- Placing a painting on standing signs and then placing (item frames, wall signs, and banners) on the sign will create glitched-out paintings
+- Blowing up an end crystal at the same time a piston extends will make the piston head walkthrough which makes it possible to create crossing pistons
+
+**1.20.72 (Experimental)**
 - Inside Woodland Mansions, it is possible to get an Efficiency I Chainmail Chestplate. The Efficiency I Chestplate is located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
 
-**1.20.71**
-- *Placing a painting on standing signs and then placing (item frames, wall signs, and banners) on the sign will create glitched-out paintings*
-- *Blowing up an end crystal at the same time a piston extends will make the piston head walkthrough which makes it possible to create crossing pistons*
-
 **1.20.80.21 - 1.20.80.20 (Downgrade) (Experimental)**
-- *Shearing a Bogged and downgrading to 1.20.80.20 and then reupgrading back to 1.20.80.21 will make the mushrooms on the head of the bogged disappear but you can still shear it, this is due to the shearing mechanic on Boggs being added in 1.20.80.21*
+- Shearing a Bogged and downgrading to 1.20.80.20 and then reupgrading back to 1.20.80.21 will make the mushrooms on the head of the bogged disappear but you can still shear it, this is due to the shearing mechanic on Boggs being added in 1.20.80.21
 
 **Preview 1.21.0.22**
 - Inside Woodland Mansions, it is possible to get Efficiency I Chainmail Leggings. The Efficiency I Leggings are located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
@@ -648,10 +606,10 @@ ________________________________________________________________________________
 - Downgrading Double Petrified Oak Slabs from 1.21.0.25 as a block to 1.21.0.23 will turn them into unknown blocks. Mine up the unknown block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Petrified Oak Slab as a tile item.
 
 **1.21.0**
-- *Placing Powder Snow next to cactus won't break the cactus*
-- *Placing a 9+ high snow layer on a piece of foliage and then breaking the snow block will cause the extra snow layers to float above the foliage.*
-- *When Deepslate Redstone Ore is lit up, it never turns off*
-- *If a Pillager or Witch attacks a Vindicator, Evoker, or Witches would retaliate against the illager that attacked them*
+- Placing Powder Snow next to cactus won't break the cactus
+- Placing a 9+ high snow layer on a piece of foliage and then breaking the snow block will cause the extra snow layers to float above the foliage.
+- When Deepslate Redstone Ore is lit up, it never turns off
+- If a Pillager or Witch attacks a Vindicator, Evoker, or Witches would retaliate against the illager that attacked them
 
 **Preview 1.21.10.22 - Preview 1.21.10.21**
 - Downgrading these Double slabs: (red sandstone, purpur, prismarine, prismarine brick, dark prismarine, mossy cobblestone, smooth sandstone, red nether brick, endstone brick, smooth red sandstone, polished andesite, diorite, polished diorite, andesite, granite, polished granite, mossy stone brick, smooth quartz, stone, cut sandstone, cut red sandstone, oak) from 1.21.10.22 as a block to 1.21.10.21 will turn them into unknown blocks. Mine up the unknown-block (making sure that they do not stack) and then updating to 1.21.30 will give you the Double Slab version of those slabs as a tile item.
@@ -666,88 +624,87 @@ ________________________________________________________________________________
 - Curse of Binding V & Curse of Vanishing III from 1.2.13.8 appear to be removed because of the name change but the illegal enchantment levels are still there.
 - If you obtained the Bed tiles from 0.12.0, they will convert to normal beds, so stacking bed tiles will result in overstacked beds.
 - Using the Bundle Experiment with Pocket UI, swapping a singular item in a bundle with a stack of the same item can overfill the bundle allowing for 64 stacks of different items in the bundle
-- *Foxes in this version have 10 hearts/20 health points instead of 5 hearts/10 health points*
+- Foxes in this version have 10 hearts/20 health points instead of 5 hearts/10 health points
 - Upgrading tile skulls inside unplaced shulker boxes to this version will cause them to disappear and the shulker box will say in the tooltip nothing and then will say +"number" of extra slots that had skulls in them 
 
 **Preview 1.21.30.24**
-- *Maces could stack to 64 allowing for overstacked maces*
-- *Updating Witches from Previous Versions will give them a different drop-rate than newer witches because of the change of 25% chance of dropping redstone to 100%.*
+- Maces could stack to 64 allowing for overstacked maces
+- Updating Witches from Previous Versions will give them a different drop-rate than newer witches because of the change of 25% chance of dropping redstone to 100%.
 
 **1.21.30 (Bundle Experiment)**
-- *You can overfill bundles up to 4096 items. (You can only do this on touchscreen devices). If you fill a bundle with less than one stack of an item and then by clicking on it and then swapping the items with a full stack of the same items will swap the items and you will now have a stack of the items in the bundle. Using this method having extra items in the bundle before doing this will create overstacked bundles with up to 4096 items.*
-
-**Preview 1.21.40.22**
-- Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
+- You can overfill bundles up to 4096 items. (You can only do this on touchscreen devices). If you fill a bundle with less than one stack of an item and then by clicking on it and then swapping the items with a full stack of the same items will swap the items and you will now have a stack of the items in the bundle. Using this method having extra items in the bundle before doing this will create overstacked bundles with up to 4096 items.
   
 **Preview 1.21.50.20 - 1.20.62 (UBC) (0.12 Downgrading)**
 - Downgrading all Pale Oak doors in block form from 1.21.50.20 to 1.20.62 will cause them to convert to Unknown Blocks and when updating them back in item form they will become unplacable
 
 **Preview 1.21.50.20**
-- *Creaking Hearts can be put in the fuel slot of the furnace*
+- Creaking Hearts can be put in the fuel slot of the furnace
 
 **1.21.50.26 - 1.21.50.24 (Requires Downgrading)**
 - Downgrading an allay that is holding a resin clump from 1.21.50.26 to 1.21.50.24 will cause the resin to disappear and make the allay permanently unkillable even without an item
 
 **1.21.51**
-- *You can place Big Dripleafs on Pale Moss Blocks*
-- *Pushing Shulkers into the exit portal in the end will have them sent to 32K on the y level, giving you floating shulkers, after relogging the shulker will be put at y level: 511.*
-- *In this version, you can obtain Permanently Frozen Ghast Fireballs, the way to do this is by getting a Ghast to shoot at you and then quickly leaving into a nether portal before it hits you, after you enter another dimension the fireball should be in stasis and will not move, then what you have to do is go through a different portal that will take you at least 300 blocks away from the fireball and then walk/fly over there and the fireball should be in stasis*
-- *Baby Drowneds spawn with the same speed as the adult drowneds*
+- You can place Big Dripleafs on Pale Moss Blocks
+- Pushing Shulkers into the exit portal in the end will have them sent to 32K on the y level, giving you floating shulkers, after relogging the shulker will be put at y level: 511.
+- In this version, you can obtain Permanently Frozen Ghast Fireballs, the way to do this is by getting a Ghast to shoot at you and then quickly leaving into a nether portal before it hits you, after you enter another dimension the fireball should be in stasis and will not move, then what you have to do is go through a different portal that will take you at least 300 blocks away from the fireball and then walk/fly over there and the fireball should be in stasis
+- Baby Drowneds spawn with the same speed as the adult drowneds
 
 **1.21.71**
-- *Pillagers, Vindicators, and Evokers, for some strange reason, can pick up a White Banner, and will even trade their weapons for it.*
-- *Placing Sea Pickles against a non-full block will break the block the sea pickles are placed against, meaning you can use this for bedrock removal*
+- Pillagers, Vindicators, and Evokers, for some strange reason, can pick up a White Banner, and will even trade their weapons for it.
+- Placing Sea Pickles against a non-full block will break the block the sea pickles are placed against, meaning you can use this for bedrock removal
+- Inside Woodland Mansions, it is possible to get Efficiency I Golden Apple. The Efficiency I Apples are located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, but the frame is still visible.
 
 
 **Preview 1.21.70.22**
-- *You can place Leaf Litter on non-full blocks (e.g., fence, walls, and glass panes)*
-- *You can also place Dry Grass on Farmland*
+- You can place Leaf Litter on non-full blocks (e.g., fence, walls, and glass panes)
+- You can also place Dry Grass on Farmland
 
 **Preview 1.21.70.25**
-- *Shulker Bullets in this version conflict with Levitation, which lasts 200 seconds instead of 10. Using this idea, you can let the shulker bullet hit a fish and scoop it up, allowing for a fish with 200 seconds of levitation that will be saved. *
+- Shulker Bullets in this version conflict with Levitation, which lasts 200 seconds instead of 10. Using this idea, you can let the shulker bullet hit a fish and scoop it up, allowing for a fish with 200 seconds of levitation that will be saved. 
 
 **1.21.80.25 (Experimental)**
-- *Happy Ghasts in this version have 40 health (20 hearts). This will be changed in 1.21.80.27, where their health will be halved, experiments will turn off, achievements, but if you rename your world in 0.11.0, it will turn achievements back on*
+- Happy Ghasts in this version have 40 health (20 hearts). This will be changed in 1.21.80.27, where their health will be halved, experiments will turn off, achievements, but if you rename your world in 0.11.0, it will turn achievements back on
 
 **Preview 1.21.90.25**
-- *Happy Ghasts in this version could not be saddled, ridden, or tameable when updating to versions past 1.21.90.26*
+- Happy Ghasts in this version could not be saddled, ridden, or tameable when updating to versions past 1.21.90.26
 
 **1.21.90**
-- *Leashing untamed wolves and making them angry at a skeleton or a sheep will cause the leash to stay on, updating to newer versions will cause the leash to become infinite and the dog will be able to exceed 10 blocks away from the fence, the leash will snap if the dog kills the prey or it can't see the mob it wants to attack and becomes "unangrified"*
-- *Foxes in this version will wear Mob Heads and Carved Pumpkins if dropped to them; this is unobservable without a world editor*
+- Allays can hold leads, which will be discontinued in future versions
+- Leashing untamed wolves and making them angry at a skeleton or a sheep will cause the leash to stay on, updating to newer versions will cause the leash to become infinite and the dog will be able to exceed 10 blocks away from the fence, the leash will snap if the dog kills the prey or it can't see the mob it wants to attack and becomes "unangrified"
+- Foxes in this version will wear Mob Heads and Carved Pumpkins if dropped to them; this is unobservable without a world editor
 
 **1.21.101**
-- *Zombifying a Baby Villager will result in a Zombified Baby Villager will illegal tags and effects such as being affected by poison, regeneration hurts them, they are not affected by smite, they can not enter boats or minecarts, they are not targeted by Iron Golems, Snow Golems, Johnny Vindicators, or Zoglins, unless the Zombie attacks them first, and they don't scare Villagers, Wandering Traders, or Armadillos*
-- *Breeding a Warm or Cold Pig, Chicken, or Cow with the superspeed pig from 1.16.220 will cause the baby to be faster than normal*
-- *If the mob that the fox is attacking is removed and the fox lands in snow layers, it will get snuck in the falling position "sniffing position", to keep this, you need to simply relog and make sure the fox never sees any rabbits or chickens, or it will reset*
-- *Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame*
-- *You can create Shulker Logged Blocks by pushing a Shulker into a block via a piston*
-- *Placing Two Tall Plants, including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height limit. These will not update if placed in this version*
-- *Fences, Iron bars, Glass Panes, and Walls can connect to Structure Voids*
-- *You can place Twisting Vines on Leaves and Chrous Flowers/Plants*
-- *Quicky Replacing blocks with cactus inside of water can cause the cactus to be waterlogged*
-- *Using Nether Portals you can create a solid block of water that will not flow. Placing Nether Portals on the side of some sort of enclosed aquarium and breaking the obsidian on the portal will not update the water leaving it floating on its side*
-- *Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal*
-- *Placing Torchflower seeds and bonemealing them once on farmland and then quickly break and replace the farmland with any block and then bonemealing the torchflower to its final stage will remove its pending ticks causing it to be placed on any block*
-- *Spawning a Creaking via its heart and name tagging it so it won't despawn, and then taking it about 400 blocks away from its heart will cause it to be out of range of the heart. Now to keep it from dying you must go back to the Creaking Heart during the day and wait till nighttime and relog, a creaking should spawn from the heart and you can then break the heart without the creaking disappearing*
-- *Striking a Villager in a minecart with a lightning bolt will cause it to convert to a witch that will not attack you, make sure it stays in the minecart and keep it on the rails otherwise it will become hostile and attack you*
-- *Pushing a Witch into an end portal while it is drinking a potion will keep it in it's drinking animation*
-- *Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE*
-- *You can obtain Floating Dragon Breath Fireballs using a setup made by SilentShadow which will be linked in the "Links" folder, it does take a long time to obtain though, it can take an average of 3 hours of waiting using ths setup*
-- *Logging out the immediate second a TnT minecart lands on an activator rail will cause the TNT Minecart to become invincible and not be able to blow up on activator rails*
-- *If u give iron to an iron golem 0.50 secs before it dies it will become immortal as shown: https://youtube.com/shorts/TzS-TIkIW3Q?si=EryTPHhlfc_r2mpd*
-- *If a Drowned with a Trident spawns with the ability to pick up items, then if it sees a Nautilus Shell, it will discard it's Trident and pick up the shell. However, for some strange reason, it won't lose it's ability to throw Tridents.*
-- *Relogging an excessive amount really fast (a lot of times, no exact number) when the wither is at half health or lower will cause it to bug out when you kill it. The wither will be unexploded yet constantly repeating its exploding sequence*
-- *Endermen can place dandelions, poppy, crimson fungus, warped fungus, warped roots, and crimson roots on any block that is usually impossible*
-- *Giving a zombie with the attribute canPickupLoot enabled an elytra and then killing it will give it a chance to drop the elytra with 0 durability which is illegal because usually elytras go into their broken state when they are at 1 durability which means it is impossible to get 0 durability elytras*
-- *Filling a Bundle with 60 items and then putting that bundle into another bundle will cause the bundle to become full, but if you put that bundle into two hoppers facing into each other and then by flipping off the hoppers, the bundle forgets how many items were inside the previous bundle holding the items and is no longer full, this allows you to put another bundle inside it making it an infinite bundle, this can be done until the game crashes.*
-- *Placing a water bucket with a dispenser on top of skeleton, stray, bogged, or pillager's head will cause it to no longer shoot arrows at you, but watch it is still hostile and if it hits you with it's melee it will start shooting you again. This is relog proof.*
-- *Throwing an item on a wooden pressure plate and quickly breaking the pressure plate and replace it with fire will cause the fire to eternally lit even in rain and it will not spread to other wooden blocks around it.*
-- *Putting upward bubble columns underneath an end portal and putting a boat on it will cause the boat to bounce up and down, lighting the end portal will send the boat through and due to this when you enter, the boat will have 0 gravity and will just float even if the blocks below it are broken. This is also possible with nether portals.*
-- *Using pistons to push soul sand and magma blocks with bubble columns on top back and forth while a boat is on top of the bubble columns will cause the boat to shake. Leaving the dimension while this process is active and coming back, you will notice that if you right click the boat, you will not be able to get inside it nor any other entity due to the boat thinking that it is still underwater.*
-- *Pushing a creeper into a nether portal the second before it explodes and then going into the portal with no armor will result the creeper blowing up and immediatly killing you. If you then re enter the nether from a different portal and going to the explosion site of the creeper, the nether portal will be broken but if you have a big enough of portal some nether portals will still be there but the whole portal would not be broken and there would be a creeper hole in the portal frames.*
-- *Taming a wolf the second it becomes angry has a chance to make the wolf turn red, and for some reason, you will be able to dye it any color like a sheep. You must keep a sheep or the mob that it wants to attack around it at all times, or it will reset. You can find an easy setup to get this mob in the Links folder titled "Reddog.mcstructure"*
-- *Breeding two red dogs together has a small chance to give you a normal-looking tamed dog, but it will still attack you, and you can't feed it bones or dye it*
+- Zombifying a Baby Villager will result in a Zombified Baby Villager will illegal tags and effects such as being affected by poison, regeneration hurts them, they are not affected by smite, they can not enter boats or minecarts, they are not targeted by Iron Golems, Snow Golems, Johnny Vindicators, or Zoglins, unless the Zombie attacks them first, and they don't scare Villagers, Wandering Traders, or Armadillos
+- Breeding a Warm or Cold Pig, Chicken, or Cow with the superspeed pig from 1.16.220 will cause the baby to be faster than normal
+- If the mob that the fox is attacking is removed and the fox lands in snow layers, it will get snuck in the falling position "sniffing position", to keep this, you need to simply relog and make sure the fox never sees any rabbits or chickens, or it will reset
+- Right-clicking a map and then quickly placing it into an item frame before it can load will give you a big item frame
+- You can create Shulker Logged Blocks by pushing a Shulker into a block via a piston
+- Placing Two Tall Plants, including Lilacs, Rose Bush, Peonys, Pitcher Plant, Sunflower, Two Tall Grass, Two Tall Fern, and Two Tall Dripleaf at y=319 will cause the top half of the plants to be chopped off due to build height limit. These will not update if placed in this version
+- Fences, Iron bars, Glass Panes, and Walls can connect to Structure Voids
+- You can place Twisting Vines on Leaves and Chrous Flowers/Plants
+- Quicky Replacing blocks with cactus inside of water can cause the cactus to be waterlogged
+- Using Nether Portals you can create a solid block of water that will not flow. Placing Nether Portals on the side of some sort of enclosed aquarium and breaking the obsidian on the portal will not update the water leaving it floating on its side
+- Changing your Language in the Minecraft Settings and then renaming a Name Tag "Name Tag" and switching back to English will make it possible to name Mobs "Name Tag" which is illegal
+- Placing Torchflower seeds and bonemealing them once on farmland and then quickly break and replace the farmland with any block and then bonemealing the torchflower to its final stage will remove its pending ticks causing it to be placed on any block
+- Spawning a Creaking via its heart and name tagging it so it won't despawn, and then taking it about 400 blocks away from its heart will cause it to be out of range of the heart. Now to keep it from dying you must go back to the Creaking Heart during the day and wait till nighttime and relog, a creaking should spawn from the heart and you can then break the heart without the creaking disappearing
+- Striking a Villager in a minecart with a lightning bolt will cause it to convert to a witch that will not attack you, make sure it stays in the minecart and keep it on the rails otherwise it will become hostile and attack you
+- Pushing a Witch into an end portal while it is drinking a potion will keep it in it's drinking animation
+- Using this setup you can obtain floating wind charges that are not moving https://www.youtube.com/shorts/gcm_0NAtwtE
+- You can obtain Floating Dragon Breath Fireballs using a setup made by SilentShadow which will be linked in the "Links" folder, it does take a long time to obtain though, it can take an average of 3 hours of waiting using ths setup
+- Logging out the immediate second a TnT minecart lands on an activator rail will cause the TNT Minecart to become invincible and not be able to blow up on activator rails
+- If u give iron to an iron golem 0.50 secs before it dies it will become immortal as shown: https://youtube.com/shorts/TzS-TIkIW3Q?si=EryTPHhlfc_r2mpd
+- If a Drowned with a Trident spawns with the ability to pick up items, then if it sees a Nautilus Shell, it will discard it's Trident and pick up the shell. However, for some strange reason, it won't lose it's ability to throw Tridents.
+- Relogging an excessive amount really fast (a lot of times, no exact number) when the wither is at half health or lower will cause it to bug out when you kill it. The wither will be unexploded yet constantly repeating its exploding sequence
+- Endermen can place dandelions, poppy, crimson fungus, warped fungus, warped roots, and crimson roots on any block that is usually impossible
+- Giving a zombie with the attribute canPickupLoot enabled an elytra and then killing it will give it a chance to drop the elytra with 0 durability which is illegal because usually elytras go into their broken state when they are at 1 durability which means it is impossible to get 0 durability elytras
+- Filling a Bundle with 60 items and then putting that bundle into another bundle will cause the bundle to become full, but if you put that bundle into two hoppers facing into each other and then by flipping off the hoppers, the bundle forgets how many items were inside the previous bundle holding the items and is no longer full, this allows you to put another bundle inside it making it an infinite bundle, this can be done until the game crashes.
+- Placing a water bucket with a dispenser on top of skeleton, stray, bogged, or pillager's head will cause it to no longer shoot arrows at you, but watch it is still hostile and if it hits you with it's melee it will start shooting you again. This is relog proof.
+- Throwing an item on a wooden pressure plate and quickly breaking the pressure plate and replace it with fire will cause the fire to eternally lit even in rain and it will not spread to other wooden blocks around it.
+- Putting upward bubble columns underneath an end portal and putting a boat on it will cause the boat to bounce up and down, lighting the end portal will send the boat through and due to this when you enter, the boat will have 0 gravity and will just float even if the blocks below it are broken. This is also possible with nether portals.
+- Using pistons to push soul sand and magma blocks with bubble columns on top back and forth while a boat is on top of the bubble columns will cause the boat to shake. Leaving the dimension while this process is active and coming back, you will notice that if you right click the boat, you will not be able to get inside it nor any other entity due to the boat thinking that it is still underwater.
+- Pushing a creeper into a nether portal the second before it explodes and then going into the portal with no armor will result the creeper blowing up and immediatly killing you. If you then re enter the nether from a different portal and going to the explosion site of the creeper, the nether portal will be broken but if you have a big enough of portal some nether portals will still be there but the whole portal would not be broken and there would be a creeper hole in the portal frames.
+- Taming a wolf the second it becomes angry has a chance to make the wolf turn red, and for some reason, you will be able to dye it any color like a sheep. You must keep a sheep or the mob that it wants to attack around it at all times, or it will reset. You can find an easy setup to get this mob in the Links folder titled "Reddog.mcstructure"
+- Breeding two red dogs together has a small chance to give you a normal-looking tamed dog, but it will still attack you, and you can't feed it bones or dye it
 
 **Preview 1.21.110.20**
 - Shelves are currently treated as full blocks and can provide block support on all sides, which allows for invalid block configurations
