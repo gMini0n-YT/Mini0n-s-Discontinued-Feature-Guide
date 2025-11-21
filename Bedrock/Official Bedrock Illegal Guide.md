@@ -15,7 +15,7 @@ ________________________________________________________________________________
 - Frozen oceans generate. Later these frozen oceans will stop generating and be renamed to legacy frozen oceans, making them a discontinued biome. 
 - <details> <summary>Water, lava, fire, or snow could be replaced with Sugarcane, Cactus, and Ladders to create Cactus on grass, Sugarcane on Stone without water, or Floating Invisible Ladders. Due to the replacement of the block bypassing the initial update check, the blocks can be placed. **(0.1.0-0.3.2)** </summary> 0.1.0, 0.1.1j, 0.1.2, 0.1.2j, 0.1.3-b1, 0.1.3-b2, 0.1.3, 0.1.3j, 0.2.0-b2, 0.2.0, 0.2.0j, 0.2.1-b1, 0.2.1-b2, 0.2.1, 0.2.1j, 0.2.1 alpha2, 0.2.2, 0.3.0-b2, 0.3.0-b3, 0.3.0, 0.3.0j, 0.3.2 </details> 
 - The end of lava flows does not create cobblestone when it comes in contact with water, allowing for discontinued block configurations
-- Gravity Blocks like Sand or Gravel will not fall if a block is broken underneath them.
+- <details> <summary>Gravity Blocks like Sand or Gravel will not fall if a block is broken underneath them. (0.1.0 -0.5.0) </summary> 0.1.0, 0.1.1j, 0.1.2, 0.1.2j, 0.1.3-b1, 0.1.3-b2, 0.1.3, 0.1.3j, 0.2.0-b2, 0.2.0, 0.2.0j, 0.2.0-b1, 0.2.0-b2, 0.2.1, 0.2.1j, 0.2.1 alpha2, 0.2.2, 0.3.0-b2, 0.3.0-b3, 0.3.0, 0.3.0, 0.3.0j, 0.3.2, 0.3.2j, 0.3.3, 0.3.3j, 0.3.3.1, 0.4.0, 0.4.0j, 0.4.0.1, 0.5.0-b1, 0.5.0-b2, 0.5.0, 0.5.0j </details>
 
 **0.2.0 alpha (Android)**
 - World names can be up to 1023 characters long. The first 255 characters can be any letter/symbol on the normal keyboard. The final characters can only be characters that are not allowed on android such as /, , :, *, ?, ", <, >, and |.
@@ -31,7 +31,7 @@ ________________________________________________________________________________
 - <details> <summary>Data value 4, 5, and 6 saplings drop from oak, spruce, and birch leaves respectively **(0.3.2)** </summary> 0.3.2 </details>
 
 **0.4.0 alpha (Android)**
-- Smelting Red Mushrooms in a Furnace will give you Red Dye in the Output Slot of a Furnace
+- <details> <summary>Smelting Red Mushrooms in a Furnace will give you Red Dye in the Output Slot of a Furnace (0.4.0 - 0.14.3) </summary> 0.4.0, 0.4.0j, 0.4.0.1, 0.5.0-b1, 0.5.0-b2, 0.5.0, 0.5.0j, 0.6.0, 0.6.1, 0.7.0, 0.7.1, 0.7.2, 0.7.3, 0.7.4, 0.7.5, 0.7.6, 0.8.0_test1, 0.8.0-b2, 0.8.0-b3, 0.8.0-b4, 0.8.0-b5, 0.8.0-b6, 0.8.0-b7, 0.8.0-b8, 0.8.0, 0.8.1, 0.9.0-b1, 0.9.0-b2, 0.9.0-b3, 0.9.0-b4, 0.9.0-b5, 0.9.0-b6, 0.9.0-b7, 0.9.0-b8, 0.9.0-b9, 0.9.0-b10, 0.9.0-b11, 0.9.0-b12, 0.9.0, 0.9.1, 0.9.2, 0.9.3, 0.9.4, 0.9.5-b1, 0.9.5-b2, 0.9.5, 0.10.0-b1, 0.10.0-b2, 0.10.0-b3, 0.10.0-b4, 0.10.0-b5, 0.10.0-b6, 0.10.0-b7, 0.10.0-b8, 0.10.0-b9, 0.10.0, 0.10.1, 0.10.2, 0.10.3, 0.10.4, 0.10.5, 0.11.0-b1, 0.11.0-b2, 0.11.0-b3, 0.11.0-b4, 0.11.0-b5, 0.11.0-b6, 0.11.0-b7, 0.11.0-b8, 0.11.0-b9, 0.11.0-b10, 0.11.0-b11, 0.11.0-b12, 0.11.0-b13, 0.11.0-b14, 0.11.0, 0.11.0.15, 0.11.1-1, 0.11.1-2, 0.11.1.1, 0.12.0, 0.12.1-b1, 0.12.1-b2, 0.12.1-b3, 0.12.1-b4, 0.12.1-b5, 0.12.1-b6, 0.12.1-b7, 0.12.1-b8, 0.12.1-b9, 0.12.1-b10, 0.12.1-b11, 0.12.1-b12, 0.12.1-b13, 0.12.1, 0.12.1.19, 0.12.2, 0.12.2.2, 0.12.3, 0.12.3.1, 0.13.0-b1, 0.13.0-b2, 0.13.0-b3, 0.13.0-b4, 0.13.0-b5, 0.13.0, 0.13.1, 0.13.2-2, 0.13.2-3, 0.13.2, 0.14.0-b1, 0.14.0-b2, 0.14.0-b3, 0.14.0-b4, 0.14.0-b5, 0.14.0-b6, 0.14.0-b7, 0.14.0.1, 0.14.0.9, 0.14.1, 0.14.2, 0.14.2.1, 0.14.2.2, 0.14.3-1, 0.14.3-2, 0.14.3 </details>
 - <details><summary>Placing a Door on Farmland will remove the bottom half of the Door leaving the Top Half of the Door standing (0.4.0) </summary> 0.4.0 </details>
 - Placing a Door a block below the height limit will result in a Bottom Half Door
 - Tilling Dirt underwater will give you Underwater Farmland
@@ -54,7 +54,7 @@ ________________________________________________________________________________
 - A players folder is created in the world folder, which will not be obtainable in future versions. Within this folder, .dat files are created, which are additionally unobtainable.
 
 **0.7.1 alpha (Android)**
-- In this version, all types of buckets can stack to 64 including Empty Buckets, Water Buckets, Lava Buckets, and Milk Buckets. Make sure to put these in a chest before updating to keep them from breaking upon updating.
+- <details> <summary>In this version, all types of buckets can stack to 64 including Empty Buckets, Water Buckets, Lava Buckets, and Milk Buckets. Make sure to put these in a chest before updating to keep them from breaking upon updating. (0.7.1 - 0.7.3) </summary> 0.7.1, 0.7.2, 0.7.3 </details>
 
 **0.8.0_test1 (Android)**
 - Block of Coal in this version and updating will change the block of coal to Nether Bricks allowing for Nether Bricks in the Furnace Fuel Slot by putting Block of Coal in the Furnace Fuel Slot.
@@ -91,7 +91,7 @@ ________________________________________________________________________________
 - <details> <summary>Mining a Furnace while it is smelting with Silk Touch will drop Lit Furnace tile. **(0.12.0-b1 - 1.0.5)** </summary> 0.12.1-b1, 0.12.1-b2, 0.12.1-b3, 0.12.1-b4, 0.12.1-b5, 0.12.1-b6, 0.12.1-b7, 0.12.1-b8, 0.12.1-b9, 0.12.1-b10, 0.12.1-b11, 0.12.1-b12, 0.12.1-b13, 0.12.1, 0.12.1.19, 0.12.2, 0.12.2.2, 0.12.3, 0.12.3.1, 0.13.0-b1, 0.13.0-b2, 0.13.0-b3, 0.13.0-b4, 0.13.0-b5, 0.13.0, 0.13.1, 0.13.2-2, 0.13.2-3, 0.13.2, 0.14.0-b1, 0.14.0-b2, 0.14.0-b3, 0.14.0-b4, 0.14.0-b5, 0.14.0-b6, 0.14.0-b7, 0.14.0.1, 0.14.0.9, 0.14.1, 0.14.2, 0.14.2.1, 0.14.2.2, 0.14.3-1, 0.14.3-2, 0.14.3, 0.14.3.1, 0.15.0-r2, 0.15.0-r4, 0.15.0-b1, 0.15.0-b2, 0.15.0-b3, 0.15.0, 0.15.0.1, 0.15.0.3, 0.15.1-b1, 0.15.1.2, 0.15.2.1, 0.15.3.2, 0.15.4, 0.15.4.1, 0.15.6, 0.15.7.1, 0.15.7.2, 0.15.8, 0.15.8.1, 0.15.9, 0.15.10, 0.16.0-b1, 0.16.0-b2, 0.16.0-b3, 0.16.0-b4, 0.16.0-b5, 0.16.0.5, 0.16.1, 0.16.2.2, 0.17.0.1, 0.17.0.2, 1.0.0.0, 1.0.0.1, 1.0.0.2, 1.0.0.7, 1.0.0.16, 1.0.0.18, 1.0.1, 1.0.2, 1.0.2.1, 1.0.3, 1.0.3.12, 1.0.4, 1.0.4.1, 1.0.4.11, 1.0.5 </details>
 
 **0.12.1 alpha (Android)**
-- Placing a sponge underwater won't absorb the water
+- <details> <summary>Placing a sponge underwater won't absorb the water (0.12.1 - 0.15.10) </summary> 0.12.1, 0.12.1.19, 0.12.2, 0.12.2.2, 0.12.3, 0.12.3.1, 0.13.0-b1, 0.13.0-b2, 0.13.0-b3, 0.13.0-b4, 0.13.0-b5, 0.13.0, 0.13.1, 0.13.2-2, 0.13.2-3, 0.13.2, 0.14.0-b1, 0.14.0-b2, 0.14.0-b3, 0.14.0-b4, 0.14.0-b5, 0.14.0-b6, 0.14.0-b7, 0.14.0.1, 0.14.0.9, 0.14.1, 0.14.2, 0.14.2.1, 0.14.2.2, 0.14.3-1, 0.14.3-2, 0.14.3, 0.14.3.1, 0.15.0-r2, 0.15.0-r4, 0.15.0-b1, 0.15.0-b2, 0.15.0-b3, 0.15.0, 0.15.0.1, 0.15.0.3, 0.15.1-b1, 0.15.1.2, 0.15.2.1, 0.15.3.2, 0.15.4, 0.15.4.1, 0.15.6, 0.15.7.1, 0.15.7.2, 0.15.8, 0.15.8.1, 0.15.9, 0.15.10 </details>
 - <details> <summary>Breaking Wall Signs, Standing Signs, Flower Pots, Skulls, Brewing Stands, and Beds with Silk Touch will make them drop their tile variant (e.g. tile.wall_sign.name, tile.sign.name, tile.flower_pot.name, tile.skull.name, tile.brewing_stand.name, tile.bed.name.) **(0.12.1 alpha build 1 - 0.12.3 alpha)** </summary> 0.12.1-b1, 0.12.1-b2, 0.12.1-b3, 0.12.1-b4, 0.12.1-b5, 0.12.1-b6, 0.12.1-b7, 0.12.1-b8, 0.12.1-b9, 0.12.1-b10, 0.12.1-b11, 0.12.1-b12, 0.12.1-b13, 0.12.1, 0.12.1.19, 0.12.2, 0.12.2.2, 0.12.3 </details>
 - Renaming an item in this version adds anvil uses to the item, which usually only happens to armor and tools, increasing the XP cost every time you rename it
 - Obtaining pufferfish and raw salmon in this version will have a different data value than in newer versions and will not stack with newer pufferfish and raw salmon items
@@ -157,14 +157,13 @@ ________________________________________________________________________________
 - Farmer Villagers now sell 5-7 apples instead of just 5
 - Hoppers can currently be used to place any item inside a jukebox, which will not be allowed in future versions
 - Sheep that are sheared and regrow their wool retain the +minecraft:rideable_sheared and +minecraft:loot_sheared definitions. These are unobtainable sheep variants that have wool yet will not drop wool on death.
-- All support blocks can be placed off of cocoa beans, allowing for many invalid block configurations
 - <details> <summary>Water, flowing water, lava, and flowing lava can be obtained through various ways of Mining Block Transfer. (1.2.0.2 - 1.6.0.6) </summary> 1.2.0.2, 1.2.0.7, 1.2.0.9, 1.2.0.11, 1.2.0.15, 1.2.0.18, 1.2.0.22, 1.2.0.25, 1.2.0.31, 1.2.0.81, 1.2.1.1, 1.2.2.2, 1.2.2.3, 1.2.3.3, 1.2.3.6, 1.2.5.0, 1.2.5.12, 1.2.5.13, 1.2.5.15, 1.2.5.52, 1.2.6.2, 1.2.6.55, 1.2.6.60, 1.2.7.2, 1.2.8, 1.2.9.1, 1.2.10.1, 1.2.10.2, 1.2.11.4, 1.2.12, 1.2.12.1, 1.2.13.5, 1.2.13.6, 1.2.13.8, 1.2.13.10, 1.2.13.11, 1.2.13.12, 1.2.13.54, 1.2.14, 1.2.15.1, 1.2.13.60, 1.2.16.3, 1.2.14.2, 1.2.14.3, 1.2.20.1, 1.2.20.2, 1.4.0.5, 1.4.1-1, 1.4.1-2, 1.4.1, 1.4.2, 1.4.3, 1.4.4, 1.5.0.0, 1.5.0.1, 1.5.0.4, 1.5.0.7, 1.5.0.10, 1.5.0.14, 1.5.1.2, 1.5.2.1, 1.5.3, 1.6.0.1, 1.6.0.5, 1.6.0.6 </details>
 - <details> <summary>Mining a Standing Banner or a wall banner with Silk Touch will drop the tile version of those two blocks they will be titled Banner and tile.wall_banner.name (1.2.0.2 - 1.2.11) </summary> 1.2.0.2, 1.2.0.7, 1.2.0.9, 1.2.0.11, 1.2.0.15, 1.2.0.18, 1.2.0.22, 1.2.0.25, 1.2.0.31, 1.2.0.81, 1.2.1.1, 1.2.2.2, 1.2.2.3, 1.2.3.3, 1.2.3.6, 1.2.5.0, 1.2.5.12, 1.2.5.13, 1.2.5.15, 1.2.5.52, 1.2.6.2, 1.2.6.55, 1.2.6.60, 1.2.7.2, 1.2.8, 1.2.9.1, 1.2.10.1, 1.2.10.2, 1.2.11.4 </details>
 - <details> <summary>Placing down any of the standing banner tiles youa chance to place down a super black banner, if you mine that it will give you a banner that has a damage value betwee 16-255 which is illegal (1.2.0.2 - 1.2.10) </summary> 1.2.0.2, 1.2.0.7, 1.2.0.9, 1.2.0.11, 1.2.0.15, 1.2.0.18, 1.2.0.22, 1.2.0.25, 1.2.0.31, 1.2.0.81, 1.2.1.1, 1.2.2.2, 1.2.2.3, 1.2.3.3, 1.2.3.6, 1.2.5.0, 1.2.5.12, 1.2.5.13, 1.2.5.15, 1.2.5.52, 1.2.6.2, 1.2.6.55, 1.2.6.60, 1.2.7.2, 1.2.8, 1.2.9.1, 1.2.10.1, 1.2.10.2, 1.2.11.4 </details>
 - <details> <summary>Crafting Undyed Shulker Boxes will give you a shulker box with a data value of 16 (1.2.0.2 - 1.7.0) </summary> 1.2.0.2, 1.2.0.7, 1.2.0.9, 1.2.0.11, 1.2.0.15, 1.2.0.18, 1.2.0.22, 1.2.0.25, 1.2.0.31, 1.2.0.81, 1.2.1.1, 1.2.2.2, 1.2.2.3, 1.2.3.3, 1.2.3.6, 1.2.5.0, 1.2.5.12, 1.2.5.13, 1.2.5.15, 1.2.5.52, 1.2.6.2, 1.2.6.55, 1.2.6.60, 1.2.7.2, 1.2.8, 1.2.9.1, 1.2.10.1, 1.2.10.2, 1.2.11.4, 1.2.12, 1.2.12.1, 1.2.13.5, 1.2.13.6, 1.2.13.8, 1.2.13.10, 1.2.13.11, 1.2.13.12, 1.2.13.54, 1.2.14, 1.2.15.1, 1.2.13.60, 1.2.16.3, 1.2.14.2, 1.2.14.3, 1.2.20.1, 1.2.20.2, 1.4.0.5, 1.4.1-1, 1.4.1-2, 1.4.1, 1.4.2, 1.4.3, 1.4.4, 1.5.0.0, 1.5.0.1, 1.5.0.4, 1.5.0.7, 1.5.0.10, 1.5.0.14, 1.5.1.2, 1.5.2.1, 1.5.3, 1.6.0.1, 1.6.0.5, 1.6.0.6, 1.6.0.8, 1.6.0.30, 1.6.0.14, 1.6.0.15, 1.6.1, 1.6.2, 1.7.0.2, 1.7.0.3, 1.7.0.5, 1.7.0.7, 1.7.0.9, 1.7.0.13 </details>
 
 **Beta 1.2.0.11**
-- Placing ice on top of magma blocks in the nether causes the ice to melt and create water sources in the nether 
+- Placing ice on top of magma blocks in the Nether causes the ice to melt and create water sources in the nether 
 
 **Beta 1.2.0.18**
 - All support blocks can be placed off of cocoa beans, allowing for many invalid block configurations
@@ -176,11 +175,11 @@ ________________________________________________________________________________
 - <details> <summary>Mob Spawners can be mined up and obtained as an item (1.2.3.3 - 1.6.1) </summary> 1.2.3.3, 1.2.3.6, 1.2.5.0, 1.2.5.12, 1.2.5.13, 1.2.5.15, 1.2.5.52, 1.2.6.2, 1.2.6.55, 1.2.6.60, 1.2.7.2, 1.2.8, 1.2.9.1, 1.2.10.1, 1.2.10.2, 1.2.11.4, 1.2.12, 1.2.12.1, 1.2.13.5, 1.2.13.6, 1.2.13.8, 1.2.13.10, 1.2.13.11, 1.2.13.12, 1.2.13.54, 1.2.14, 1.2.15.1, 1.2.13.60, 1.2.16.3, 1.2.14.2, 1.2.14.3, 1.2.20.1, 1.2.20.2, 1.4.0.5, 1.4.1-1, 1.4.1-2, 1.4.1, 1.4.2, 1.4.3, 1.4.4, 1.5.0.0, 1.5.0.1, 1.5.0.4, 1.5.0.7, 1.5.0.10, 1.5.0.14, 1.5.1.2, 1.5.2.1, 1.5.3, 1.6.0.1, 1.6.0.5, 1.6.0.6, 1.6.0.8, 1.6.0.30, 1.6.0.14, 1.6.0.15, 1.6.1 </details>
 
 **1.2.6.55 (Android)**
-- Any item from the crafting recipe can be obtained from a duplication glitch. This bug can only be performed using the Mobile UI. To do this you must select one of the red crafting recipe from the recipe book. Then select the item that you would like to duplicate that has a red background to it (make sure you do not have a second item that you would like to duplicate in your inventory) and move it to another spot in the crafting recipe. You should then have access to the item that you moved and be able to use it in other crafting recipes. Using this glitch you can obtain Lingering Decay Potions from the Decay Arrow Recipe.
-- Using this craftin glitch you can obtain negative durability shovels from the boat recipe and negative durability bows from the dispenser recipe. After obtaining these you must combine the negative durability item with a normal low durability item so that when updating the negative durability item does not change to a normal item.
+- Any item from the crafting recipe can be obtained from a duplication glitch. This bug can only be performed using the Mobile UI. To do this you must select one of the red crafting recipe from the recipe book. Then select the item that you would like to duplicate that has a red background to it (make sure you do not have a second item that you would like to duplicate in your inventory) and move it to another spot in the crafting recipe. You should then have access to the item that you moved and be able to use it in other crafting recipes. Using this glitch, you can obtain Lingering Decay Potions from the Decay Arrow Recipe.
+- Using this crafting glitch, you can obtain negative durability shovels from the boat recipe and negative durability bows from the dispenser recipe. After obtaining these you must combine the negative durability item with a normal low durability item so that when updating the negative durability item does not change to a normal item.
 
 **1.2.10**
--*Using the Nested Shulker Box trick from 1.2.0.2 you can get a whole lot more illegals from a glitch called CSC (Compressed Shulker Conversion). Filling a shulker box full of shulker boxes full of shulker boxes full of one random item and then mining it and picking it up (it will be invisible in your inventory so have your first slot of your hot bar empty so that when you pick it up it will go straight to your first slot on the hotbar). Once picked up move your item of choice to the first slot of your hotbar (or wherever you decided to pick up the shulker box to) and when you place the item on your shulker box your inventory will blow up with tile.pistonArmCollisions.name, tile.redstone_wire.name and other random items.*
+-*Using the Nested Shulker Box trick from 1.2.0.2, you can get a whole lot more illegals from a glitch called CSC (Compressed Shulker Conversion). Filling a shulker box full of shulker boxes full of shulker boxes full of one random item and then mining it and picking it up (it will be invisible in your inventory, so have your first slot of your hot bar empty so that when you pick it up it will go straight to your first slot on the hotbar). Once picked up move your item of choice to the first slot of your hotbar (or wherever you decided to pick up the shulker box to) and when you place the item on your shulker box your inventory will blow up with tile.pistonArmCollisions.name, tile.redstone_wire.name and other random items.*
 
 **1.2.11**
 - *Placing Daylight Sensor in the nether leaves them powered*
@@ -232,8 +231,8 @@ ________________________________________________________________________________
 - Using the CSC knowledge you can rename 27 items 16000 of one letter and putting them in one shulker and mining them will give you any one item from CSC depending on the letter. You can obtain any item from the CSC glitch with the IDs of -33 to -63 and 33 to 63. A giving an id of -33 and B giving and id of 33. This is a list of Elements and illegals with the letter/symbol that you can obtain them with in this spreadsheet: https://docs.google.com/spreadsheets/u/0/d/1kHdwFMY0aLSELdt6vEQ3p2LySG4ivMbEJv6oP-MihZI/edit?gid=0&pli=1&authuser=0#gid=0
 
 **1.6.0.1**
-- Phantoms in this version have 5 hearts instead of 10 hearts.
-- If you spawn the Enderdragon in the end, and then every player who is in the End dies and goes back to the Overworld, and then traveling back to the end. The dragon should not be there. Return to the Overworld, and the ender dragon will be there in the Overworld, allowing for the Enderdragon outside the End. Placing a Nether Portal at the world spawn exactly will send the Ender Dragon to the Nether once it is transferred out of the End
+- <details> <summary>Phantoms in this version have 5 hearts instead of 10 hearts. (1.6.0.1) </summary> 1.6.0.1 </details>
+- *If you spawn the Enderdragon in the end, and then every player who is in the End dies and goes back to the Overworld, and then traveling back to the end. The dragon should not be there. Return to the Overworld, and the ender dragon will be there in the Overworld, allowing for the Ender Dragon outside the End. Placing a Nether Portal at the world spawn exactly will send the Ender Dragon to the Nether once it is transferred out of the End*
 - *Mining up the Mushroom Blocks from Huge Mushrooms found in Swamps and Dark Oak Forests can give you different data values of Mushrooom blocks from 1-9 and mining up the Mushroom Stems from Huge Mushrooms will give you a Data Value 10 Mushroom Block*
 
 **1.7.0**
@@ -246,14 +245,14 @@ ________________________________________________________________________________
 
 
 **1.8-1.11+**
-- Updating Baby V1 Zombie Villagers to newer versions will cause the baby zombie villager to not fully convert and have the same body as a adult zombie villager, have faster speed and have a larger head size than normal
+- Updating Baby V1 Zombie Villagers to newer versions will cause the baby zombie villager to not fully convert and have the same body as an adult zombie villager, have faster speed, and have a larger head size than normal
 
 **1.9.0**
 - *Mining up the Mushroom Blocks from Huge Mushrooms found in Swamps and Dark Oak Forests will give you a Mushroom Block with a data value of 0.*
 - Scaffolding can currently be placed on conduits, which will be unobtainable in future versions 
 
 **1.10.0 (Experimental)**
-- Villager V2s spawn in normal villages, but they have the old Villager v1 trades so if you trade with them in this update their trades will lock and they will not convert upon updating to newer versions
+- Villager V2s spawn in normal villages, but they have the old Villager v1 trades, so if you trade with them in this updat,e their trades will lock, and they will not convert upon updating to newer versions
 
 **Beta 1.10.0.3**
 - Pillager captains that spawn currently have black banners in their chestplate slot instead of ominous banners. These will become discontinued in future versions.
