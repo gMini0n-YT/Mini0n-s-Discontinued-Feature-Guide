@@ -174,7 +174,7 @@ ________________________________________________________________________________
 - <details><summary>Endermen can pick up any block in the game allowing for discontinued endermen variants (Beta 1.8 pre1-1 - Beta 1.8.1) </summary> Beta 1.8 Pre1-1, Beta 1.8 Pre1-2, Beta 1.8 Pre2-1, Beta 1.8 Pre2-2, Beta 1.8, Beta 1.8.1 </details>
 - <details><summary>Enderpearls can stack up to 64 in this version allowing for overstacked enderpearls (Beta 1.8 pre1-1 - Beta 1.9 pre1) </summary> Beta 1.8 Pre1-1, Beta 1.8 Pre1-2, Beta 1.8 Pre2-1, Beta 1.8 Pre2-2, Beta 1.8, Beta 1.8.1, Beta 1.9 pre1 </details>
 - Updating a furnace into a lit furnace which will update a piston and then pushing the furnace will displace it's block entity. This allows for furnace block entity in any block in the game that normally has a block entity
-- Placing a mushroom on any block and then bonemealing them would grow a big mushroom and replace the block underneath it with dirt making it possible for unbreakable bock removal
+- <details><summary>Placing a mushroom on any block and then bonemealing them would grow a big mushroom and replace the block underneath it with dirt making it possible for unbreakable block removal (Beta 1.8 Prerelease 1) </summary> Beta 1.8 Prerelease 1-1 </details>
 - Updating a Chest from Beta 1.7.3 will cause it to be a darkness block inside the chest because previously chests were opaque and a full block. Any block changes around the chest will break it.
 
 **Beta 1.9 Prerelease 1**
