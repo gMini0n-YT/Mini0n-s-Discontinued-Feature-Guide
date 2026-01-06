@@ -873,14 +873,11 @@ ________________________________________________________________________________
 - <details><summary>By downgrading a warped fungus on a stick from the previous version, negative durability warped fungus on a stick can be created. This works by taking at least two warped fungi on a stick in the previous version, and getting the durability lower than roughly 70 at least. The lower the durability, the easier to combine. Once these low durability warped fungi on a stick are obtained, they can be downgraded to this version and combined in a crafting table. This will make the warped fungus on a stick receive a lower durability, and can consistently be combined to as low as roughly -2 billion durability. Anything lower than roughly -125 durability will remain negative when updated. (20w14a - 20w13b) </summary> 20w14a, 20w13b </details>
 
 **20w15a**
-- Piglins now avoid soul campfires, however baby piglins can still pick up soul campfires. These baby piglins holding soul campfires will not be obtainable in future versions.
+- <details><summary>Piglins now avoid soul campfires, however baby piglins can still pick up soul campfires. These baby piglins holding soul campfires will not be obtainable in future versions. (20w15a - 20w17a) </summary> 20w15a, 20w16a, 20w17a </details>
 
 **20w16a**
-- Currently specific bastion structures generate with a single barrier block. Barrier blocks are normally not obtainable.
-- Piglins and hoglins that generate in bastions have a speed level much higher than normally obtainable
-
-**20w17a**
-- Piglins that are holding a crossbow will drop their crossbow to pick up golden items. Normally a piglin needs to be holding a weapon, thus allowing for discontinued piglin variants.
+- <details><summary>Currently specific bastion structures generate with a single barrier block. Barrier blocks are normally not obtainable. (20w16a) </summary> 20w16a </details>
+- <details><summary>Piglins and hoglins that generate in bastions have a speed level much higher than normally obtainable (20w16a - 20w17a) </summary> 20w16a, 20w17a </details>
 
 **20w21a**
 - Currently, piglins can ride any mob that is inside a boat. This therefore allows for many variants of normally unobtainable piglin jockeys. Having a piglin ride one of these mobs in the overworld or end and storing them in unloaded chunks until later can allow for zombified piglins riding many mobs in the future.
