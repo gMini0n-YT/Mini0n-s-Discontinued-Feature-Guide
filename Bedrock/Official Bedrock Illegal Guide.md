@@ -70,14 +70,17 @@ ________________________________________________________________________________
 **0.9.0 alpha (Android)**
 <br>
 > [!NOTE] To update an old world to an infinite world in this version will require file editing. This can be done by changing the "generator:0" value in the level.dat file to "generator:1". This will change the world to infinite.
-- Furnaces that are generated in Villages in this version have a data value of 0 and have no visible face
-- Reloading any spawners in this version removes the tile entity from the spawner, creating tile entityless spawners
 - Cactus can be placed adjacent to other Cactus, which is not normally allowed. These Cacti need to be 3 block tall to prevent random ticking breaking them.
 - Breaking blocks underneath snow layers leaves the snow layer floating, which is an invalid block configuration
 - Cacti can grow adjacent to blocks
 
+**0.9.0-b1 alpha (Android)**
+- <details><summary>Furnaces that are generated in Villages in this version have a data value of 0 and have no visible face (0.9.0-b1 alpha - 0.12.0.1) </summary> 0.9.0-b1, 0.9.0-b2, 0.9.0-b3, 0.9.0-b4, 0.9.0-b5, 0.9.0-b6, 0.9.0-b7, 0.9.0-b8, 0.9.0-b9, 0.9.0-b10, 0.9.0-b11, 0.9.0-b12, 0.9.0, 0.9.1, 0.9.2, 0.9.3, 0.9.4, 0.9.5-1, 0.9.5-2, 0.9.5, 0.10.0-b1, 0.10.0-b2, 0.10.0-b3, 0.10.0-b4, 0.10.0-b5, 0.10.0-b6, 0.10.0-b7, 0.10.0-b8, 0.10.0-b9, 0.10.0, 0.10.1, 0.10.2, 0.10.3, 0.10.4, 0.10.5, 0.11.0-b1, 0.11.0-b2, 0.11.0-b3, 0.11.0-b4, 0.11.0-b5, 0.11.0-b6, 0.11.0-b7, 0.11.0-b8, 0.11.0-b9, 0.11.0-b10, 0.11.0-b11, 0.11.0-b12, 0.11.0-b13, 0.11.0-b14, 0.11.0, 0.11.0.15, 0.11.1-1, 0.11.1-2, 0.11.1.1, 0.12.0 </details>
+- <details><summary>Reloading any spawners in this version converts the tile entity from the spawner, creating pig spawners (0.9.0-b1) </summary> 0.9.0-b1 </details>
+
 **0.9.0-b2 alpha (Android)**
 - Spawners currently have a max spawn delay of 200 ticks. In future versions, all spawners will have this value set at 800 ticks, making these discontinued spawners. 
+- Reloading any spawners in this version removes the tile entity from the spawner, creating tile entityless spawners
 
 **0.11.0 alpha (Android)**
 - Reloading the world while a block is falling causes the block to convert to a falling air block, which when lands drops an air item entity. Air item entities are temporarily discontinued, as they do get deleted in future versions but I thought it was worth mentioning
